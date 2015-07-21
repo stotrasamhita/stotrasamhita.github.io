@@ -18,17 +18,19 @@ Contains several Suktas, Mahannyasam,  etc.
 
 PDFs: [A5 print](https://github.com/stotrasamhita/vedamantra-book/raw/master/vedamantrabook-print.pdf) [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/vedamantrabook.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/vedamantrabook-kindle.pdf)
 
+##### Aranyaka Book
+
+Contains ArunaPrashna, Kathaka etc.
+
+PDFs: [A5 print](https://github.com/stotrasamhita/vedamantra-book/raw/master/AraNyakabook-print.pdf) [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/AraNyakabook.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/AraNyakabook-kindle.pdf)
+
+
 #### Namavali Manjari
 
 Contains several Namavalis (1000, 108, 300).
 
 PDFs: [A5 print](https://github.com/stotrasamhita/namavali-manjari/raw/master/nAmA.pdf) 
 
-##### Aranyaka Book
-
-Contains ArunaPrashna, Kathaka etc.
-
-PDFs: [A5 print](https://github.com/stotrasamhita/vedamantra-book/raw/master/AraNyakabook-print.pdf) [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/AraNyakabook.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/AraNyakabook-kindle.pdf)
 
 #### Shrimad Bhagavad Gita
 

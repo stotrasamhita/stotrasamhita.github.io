@@ -1,7 +1,7 @@
 ---
 layout: page
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+title: Welcome!
+tags: [home]
 ---
 
 ōṃ śrī gaṇēśāya namaḥ|
@@ -15,7 +15,7 @@ asmadācāryaparyantāṃ vandē guruparamparām||
 [Stōtrasaṃhitā](http://stotrasamhita.net/) is a wiki of stotrams and namavalis, displayed in many Indian scripts. The great rishis and saints of bhāratadēśam have left us a treasure trove of excellent stotras. There have been many wonderful books publishing these, such as the mantrapuṣpam (from Sri Ramakrisha Mutt) and bṛhatstōtraratnākaram, to name a few.  A vast majority of these stotras are in saṃskṛtam, and one needs to be able to read dēvanāgarī lipi, to be able to recite these stotras. However, with a multitude of languages and scripts in our country, many people are more comfortable with their own mother tongue. [Stōtrasaṃhitā](http://stotrasamhita.net/) seeks to bridge this gap, by rendering these languages in multiple lipis, 
 thanks to [Translipi](http://srican.blogspot.in/2007/02/introducing-trans-lipi.html).
 
-In this GitHub repository, we hope to make available high-quality PDFs for printing as well as devices such as Kindle, along with tools to proofread (long-term goal!). Perhaps, it may well be possible to integrate `stotrasamhita.net` with this `github.io` page.
+In this GitHub repository, we hope to make available high-quality PDFs for printing as well as devices such as Kindle, along with tools to proofread (long-term goal!). Perhaps, it may well be possible to integrate `stotrasamhita.net` with this `github.io` page. This repository is also home to various <a href="/projects/">projects</a>.
 
 ### Major Books
 
@@ -31,17 +31,19 @@ Contains several Suktas, Mahannyasam,  etc.
 
 PDFs: [A5 print](https://github.com/stotrasamhita/vedamantra-book/raw/master/vedamantrabook-print.pdf) [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/vedamantrabook.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/vedamantrabook-kindle.pdf)
 
+##### Aranyaka Book
+
+Contains ArunaPrashna, Kathaka etc.
+
+PDFs: [A5 print](https://github.com/stotrasamhita/vedamantra-book/raw/master/AraNyakabook-print.pdf) [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/AraNyakabook.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/AraNyakabook-kindle.pdf)
+
+
 #### Namavali Manjari
 
 Contains several Namavalis (1000, 108, 300).
 
 PDFs: [A5 print](https://github.com/stotrasamhita/namavali-manjari/raw/master/nAmA.pdf) 
 
-##### Aranyaka Book
-
-Contains ArunaPrashna, Kathaka etc.
-
-PDFs: [A5 print](https://github.com/stotrasamhita/vedamantra-book/raw/master/AraNyakabook-print.pdf) [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/AraNyakabook.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/AraNyakabook-kindle.pdf)
 
 #### Shrimad Bhagavad Gita
 

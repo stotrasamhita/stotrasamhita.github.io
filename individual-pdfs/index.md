@@ -1,12 +1,9 @@
 ---
 layout: page
-title: 
+title: Individual PDFs
 date: 2015-07-21T18:22:55+05:30
 modified:
-excerpt:
-tags: []
-image:
-  feature:
+tags: [PDF, stotra, veda, mantra, sukta, mahannyasa]
 ---
 
 {% include _toc.html %}
