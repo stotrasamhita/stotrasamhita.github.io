@@ -456,7 +456,7 @@ $button-size: 1.5rem;
 		@include grid(12,2);
 		@include prefix(12,0.5);
 		@include suffix(12,0.5);
-		position: absolute;
+		position: fixed; /* changed from absolute, to make it float */
 		top: 5.5em;
 		right: 0;
 		background-color: $white;
