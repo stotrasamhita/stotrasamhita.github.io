@@ -25,7 +25,7 @@ PDF books of Srimad Bhagavad Gita
 
 PDF books of Namavalis
 
-#### Sanskrit <a href="http://github.com/StotraSamhita/sanskrit/"><i class="fa fa-github"></i></a>
+#### Verse-Checker <a href="http://github.com/StotraSamhita/verse-checker/"><i class="fa fa-github"></i></a>
 
 Forked from <a href="http://github.com/shreevatsa/sanskrit/"><i class="fa fa-github"></i>shreevatsa/sanskrit/</a>, the goal of this project is to implement a sort of proofreading assistant, to flag potential errors in encoded Sanskrit files.
 
