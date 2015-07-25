@@ -34,7 +34,7 @@ PDFs: [A5 print](https://github.com/stotrasamhita/namavali-manjari/raw/master/nA
 
 #### Shrimad Bhagavad Gita
 
-Contains all 18 chapters of Shrimad Bhagavad Gita, along with Mahatmyam from Varaha Puranam and Gitartha Sangraha.
+Contains Dhyana Shlokas, all 18 chapters of Shrimad Bhagavad Gita, along with Mahatmyam from Varaha Puranam and Yamunacharya's Gitartha Sangraha.
 
 PDFs: [A5 print](https://github.com/stotrasamhita/gita/raw/master/gitabook-print.pdf) [A5](https://github.com/stotrasamhita/gita/raw/master/gitabook.pdf) [Kindle PDF](https://github.com/stotrasamhita/gita/raw/master/gitabook-kindle.pdf)
 
