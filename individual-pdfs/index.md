@@ -8,6 +8,7 @@ tags: [PDF, stotra, veda, mantra, sukta, mahannyasa]
 
 {% include _toc.html %}
 
+## Stotras
 ### Big Stotras
 * Gakaradi Ganapati Sahasranama Stotram [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/big/GakaradiGanapatiSahasranamaStotram.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/big/GakaradiGanapatiSahasranamaStotram.pdf)
 * Lalita Trishati [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/big/LalitaTrishati.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/big/LalitaTrishati.pdf)
@@ -213,7 +214,16 @@ tags: [PDF, stotra, veda, mantra, sukta, mahannyasa]
 * Ranganatha Gadyam [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/vishnu/RanganathaGadyam.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/vishnu/RanganathaGadyam.pdf)
 * Vishnu Bhujangaprayata Stotram [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/vishnu/VishnuBhujangaprayataStotram.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/vishnu/VishnuBhujangaprayataStotram.pdf)
 
-### Suktas/Mantras
+## Namavalis
+### Shata Namavali
+
+### Trishati Namavali
+
+### Sahasra Namavali
+
+
+
+## Suktas/Mantras
 * Ayushya Suktam [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/AyushyaSuktam.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/AyushyaSuktam.pdf)
 * Bhagya Suktam [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/BhagyaSuktam.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/BhagyaSuktam.pdf)
 * Bhu Suktam [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/BhuSuktam.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/BhuSuktam.pdf)
