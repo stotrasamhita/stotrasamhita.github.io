@@ -42,7 +42,7 @@ PDFs: [A5 print](https://github.com/stotrasamhita/vedamantra-book/raw/master/Ara
 
 Contains several Namavalis (1000, 108, 300).
 
-PDFs: [A5 print](https://github.com/stotrasamhita/namavali-manjari/raw/master/nAmA.pdf) 
+PDFs: [A5 print](https://github.com/stotrasamhita/namavali-manjari/raw/master/nAmA-print.pdf) [A5](https://github.com/stotrasamhita/namavali-manjari/raw/master/nAmA.pdf)  [Kindle PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/nAmA-kindle.pdf)  
 
 
 #### Shrimad Bhagavad Gita
