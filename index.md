@@ -12,14 +12,18 @@ namāmi bhagavatpādaṃ śaṅkaraṃ lōkaśaṅkaram||
 sadāśivasamārambhāṃ śaṅkarācāryamadhyamām|
 asmadācāryaparyantāṃ vandē guruparamparām||
 
+In this GitHub repository, we hope to make available high-quality PDFs for printing as well as devices such as Kindle, along with tools to proofread (long-term goal!). Perhaps, it may well be possible to integrate `stotrasamhita.net` with this `github.io` page. You are also free to fork these repositories and typeset your own PDFs.
+
+**This repository is also home to various <a href="/projects/">projects</a>.**
+
+### Stotrasamhita.net
+
 [Stōtrasaṃhitā](http://stotrasamhita.net/) is a wiki of stotrams and namavalis, displayed in many Indian scripts. The great rishis and saints of bhāratadēśam have left us a treasure trove of excellent stotras. There have been many wonderful books publishing these, such as the mantrapuṣpam (from Sri Ramakrisha Mutt) and bṛhatstōtraratnākaram, to name a few.  A vast majority of these stotras are in saṃskṛtam, and one needs to be able to read dēvanāgarī lipi, to be able to recite these stotras. However, with a multitude of languages and scripts in our country, many people are more comfortable with their own mother tongue. [Stōtrasaṃhitā](http://stotrasamhita.net/) seeks to bridge this gap, by rendering these languages in multiple lipis, 
 thanks to [Translipi](http://srican.blogspot.in/2007/02/introducing-trans-lipi.html).
 
-In this GitHub repository, we hope to make available high-quality PDFs for printing as well as devices such as Kindle, along with tools to proofread (long-term goal!). Perhaps, it may well be possible to integrate `stotrasamhita.net` with this `github.io` page. This repository is also home to various <a href="/projects/">projects</a>.
-
 ### Credits
 
-This site and its contents would not have been possible but for a number of people who selflessly shared their hardwork. See [here](http://stotrasamhita.github.io/about/) and the Preface of [StotraSangraha book](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/shloka-print.pdf) for detailed acknowledgements.
+This site and its contents would not have been possible but for a number of people who selflessly shared their hardwork. See [here](/about/) and the Preface of [StotraSangraha book](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/shloka-print.pdf) for detailed acknowledgements.
 
 ### Major Books
 
