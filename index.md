@@ -12,9 +12,7 @@ namāmi bhagavatpādaṃ śaṅkaraṃ lōkaśaṅkaram||
 sadāśivasamārambhāṃ śaṅkarācāryamadhyamām|
 asmadācāryaparyantāṃ vandē guruparamparām||
 
-In this GitHub repository, we hope to make available high-quality PDFs for printing as well as devices such as Kindle, along with tools to proofread (long-term goal!). Perhaps, it may well be possible to integrate `stotrasamhita.net` with this `github.io` page. You are also free to fork these repositories and typeset your own PDFs.
-
-**This repository is also home to various <a href="/projects/">projects</a>.**
+In this GitHub repository, we hope to make available high-quality PDFs for printing as well as devices such as Kindle, along with tools to proofread (long-term goal!). Perhaps, it may well be possible to integrate `stotrasamhita.net` with this `github.io` page. You are also free to fork these repositories and typeset your own PDFs. **This repository is also home to various** [**projects**](/projects/).
 
 ### Stotrasamhita.net
 
