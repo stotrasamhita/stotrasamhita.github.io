@@ -17,6 +17,10 @@ thanks to [Translipi](http://srican.blogspot.in/2007/02/introducing-trans-lipi.h
 
 In this GitHub repository, we hope to make available high-quality PDFs for printing as well as devices such as Kindle, along with tools to proofread (long-term goal!). Perhaps, it may well be possible to integrate `stotrasamhita.net` with this `github.io` page. This repository is also home to various <a href="/projects/">projects</a>.
 
+### Credits
+
+This site and its contents would not have been possible but for a number of people who selflessly shared their hardwork. See [here](http://stotrasamhita.github.io/about/) and the Preface of [StotraSangraha book](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/shloka-print.pdf) for detailed acknowledgements.
+
 ### Major Books
 
 #### Stotra Sangrahah
