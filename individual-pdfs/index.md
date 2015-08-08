@@ -3,7 +3,7 @@ layout: page
 title: Individual PDFs
 date: 2015-07-21T18:22:55+05:30
 modified:
-tags: [PDF, stotra, veda, mantra, sukta, mahannyasa]
+tags: [PDF, stotra, veda, mantra, sukta, mahanyasa]
 ---
 
 {% include _toc.html %}
@@ -266,7 +266,7 @@ tags: [PDF, stotra, veda, mantra, sukta, mahannyasa]
 * Chamaka Prashnah [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/ChamakaPrashnah.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/ChamakaPrashnah.pdf)
 * Durga Suktam [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/DurgaSuktam.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/DurgaSuktam.pdf)
 * Ganapatyatharvashirsham [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/Ganapatyatharvashirsham.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/Ganapatyatharvashirsham.pdf)
-* Mahannyasah [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/Mahannyasah.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/Mahannyasah.pdf)
+* Maha Nyasah [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/MahaNyasah.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/MahaNyasah.pdf)
 * Medha Suktam [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/MedhaSuktam.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/MedhaSuktam.pdf)
 * Nakshatra Suktam [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/NakshatraSuktam.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/NakshatraSuktam.pdf)
 * Narayana Suktam [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/NarayanaSuktam.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/NarayanaSuktam.pdf)

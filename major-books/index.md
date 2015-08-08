@@ -14,7 +14,7 @@ PDFs: [A5 print](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/sh
 
 #### Veda Mantra Book
 
-Contains several Suktas, Mahannyasam,  etc.
+Contains several Suktas, MahaNyasa etc.
 
 PDFs: [A5 print](https://github.com/stotrasamhita/vedamantra-book/raw/master/vedamantrabook-print.pdf) [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/vedamantrabook.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/vedamantrabook-kindle.pdf)
 
