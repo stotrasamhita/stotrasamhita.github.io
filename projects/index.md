@@ -19,9 +19,9 @@ PDF Books of Veda Mantras/Suktas/Kathaka/Aruna Prashna
 
 #### Gita <a href="http://github.com/StotraSamhita/gita/"><i class="fa fa-github"></i></a>
 
-PDF books of Srimad Adhyatma Ramayanam
+PDF books of Srimad Bhagavad Gita
 
-#### Gita <a href="http://github.com/StotraSamhita/AdhyatmaRamayanam/"><i class="fa fa-github"></i></a>
+#### Adhyatma Ramayanam <a href="http://github.com/StotraSamhita/AdhyatmaRamayanam/"><i class="fa fa-github"></i></a>
 
 PDF books of Srimad Adhyatma Ramayanam, including Uttara Kandam
 
