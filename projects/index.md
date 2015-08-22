@@ -19,7 +19,11 @@ PDF Books of Veda Mantras/Suktas/Kathaka/Aruna Prashna
 
 #### Gita <a href="http://github.com/StotraSamhita/gita/"><i class="fa fa-github"></i></a>
 
-PDF books of Srimad Bhagavad Gita
+PDF books of Srimad Adhyatma Ramayanam
+
+#### Gita <a href="http://github.com/StotraSamhita/AdhyatmaRamayanam/"><i class="fa fa-github"></i></a>
+
+PDF books of Srimad Adhyatma Ramayanam, including Uttara Kandam
 
 #### Namavali Manjari <a href="http://github.com/StotraSamhita/namavali-manjari/"><i class="fa fa-github"></i></a>
 

@@ -38,3 +38,10 @@ Contains Dhyana Shlokas, all 18 chapters of Shrimad Bhagavad Gita, along with Ma
 
 PDFs: [A5 print](https://github.com/stotrasamhita/gita/raw/master/gitabook-print.pdf) [A5](https://github.com/stotrasamhita/gita/raw/master/gitabook.pdf) [Kindle PDF](https://github.com/stotrasamhita/gita/raw/master/gitabook-kindle.pdf)
 
+
+#### Adhyatma Ramayanam
+
+Contains complete Adhyatma Ramayanam, including Uttara Kandam.
+
+PDFs: [A5 print](https://github.com/stotrasamhita/AdhyatmaRamayanam/TeX/raw/master/AdhyatmaRamayanaBook-print.pdf) [A5](https://github.com/stotrasamhita/AdhyatmaRamayanam/TeX/raw/master/AdhyatmaRamayanaBook.pdf) [Kindle PDF](https://github.com/stotrasamhita/AdhyatmaRamayanam/TeX/raw/master/AdhyatmaRamayanaBook-kindle.pdf)
+
