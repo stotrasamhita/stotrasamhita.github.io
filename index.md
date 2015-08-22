@@ -61,4 +61,5 @@ PDFs: [A5 print](https://github.com/stotrasamhita/gita/raw/master/gitabook-print
 
 Contains complete Adhyatma Ramayanam, including Uttara Kandam.
 
-PDFs: [A5 print](https://github.com/stotrasamhita/AdhyatmaRamayanam/TeX/raw/master/AdhyatmaRamayanaBook-print.pdf) [A5](https://github.com/stotrasamhita/AdhyatmaRamayanam/TeX/raw/master/AdhyatmaRamayanaBook.pdf) [Kindle PDF](https://github.com/stotrasamhita/AdhyatmaRamayanam/TeX/raw/master/AdhyatmaRamayanaBook-kindle.pdf)
+PDFs: [A5 print](https://github.com/stotrasamhita/AdhyatmaRamayanam/raw/master/TeX/AdhyatmaRamayanaBook-print.pdf) [A5](https://github.com/stotrasamhita/AdhyatmaRamayanam/raw/master/TeX/AdhyatmaRamayanaBook.pdf) [Kindle PDF](https://github.com/stotrasamhita/AdhyatmaRamayanam/raw/master/TeX/AdhyatmaRamayanaBook-kindle.pdf)
+
