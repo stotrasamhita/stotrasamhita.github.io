@@ -276,3 +276,10 @@ tags: [PDF, stotra, veda, mantra, sukta, mahanyasa]
 * Rudra Prashnah [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/RudraPrashnah.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/RudraPrashnah.pdf)
 * Shri Suktam [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/ShriSuktam.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/ShriSuktam.pdf)
 * Vishnu Suktam [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/VishnuSuktam.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/VishnuSuktam.pdf)
+
+
+## Taittiriya Aranyakam/Kathakam
+* (1) Aruna Prashnah [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-pdf/aruNaprashnaH.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-kindle-pdf/aruNaprashnaH.pdf)
+* (2) Saha Vai [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-pdf/SahaVai.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-kindle-pdf/SahaVai.pdf)
+* Taittiriya Kathakam [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-pdf/Kathaka.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-kindle-pdf/Kathaka.pdf)
+
