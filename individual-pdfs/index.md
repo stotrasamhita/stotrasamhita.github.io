@@ -281,5 +281,11 @@ tags: [PDF, stotra, veda, mantra, sukta, mahanyasa]
 ## Taittiriya Aranyakam/Kathakam
 * (1) Aruna Prashnah [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-pdf/aruNaprashnaH.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-kindle-pdf/aruNaprashnaH.pdf)
 * (2) Saha Vai [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-pdf/SahaVai.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-kindle-pdf/SahaVai.pdf)
+* (3) Chittissruk [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-pdf/Chittissruk.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-kindle-pdf/Chittissruk.pdf)
+* (4) Namo Vache [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-pdf/NamoVache.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-kindle-pdf/NamoVache.pdf)
+* (5) Deva Vai [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-pdf/DevaVai.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-kindle-pdf/DevaVai.pdf)
+* (6) PareyuvaMsam [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-pdf/PareyuvaMsam.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-kindle-pdf/PareyuvaMsam.pdf)
+* Taittiriyopanishat [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-pdf/Taittiriyopanishat.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-kindle-pdf/Taittiriyopanishat.pdf)
+* Mahanarayanopanishat [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-pdf/Mahanarayanopanishat.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-kindle-pdf/Mahanarayanopanishat.pdf)
 * Taittiriya Kathakam [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-pdf/Kathaka.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-kindle-pdf/Kathaka.pdf)
 
