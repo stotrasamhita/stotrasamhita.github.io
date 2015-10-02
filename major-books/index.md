@@ -20,7 +20,7 @@ PDFs: [A5 print](https://github.com/stotrasamhita/vedamantra-book/raw/master/ved
 
 ##### Aranyaka Book
 
-Contains ArunaPrashna, Kathaka etc.
+Contains ArunaPrashna, Saha Vai, Chittissruk, Namo Vache, Devai Vai, PareyuvaMsam, Taittiriyopanishat, Mahanarayanopanishat and Kathakam.
 
 PDFs: [A5 print](https://github.com/stotrasamhita/vedamantra-book/raw/master/AraNyakabook-print.pdf) [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/AraNyakabook.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/AraNyakabook-kindle.pdf)
 
