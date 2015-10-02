@@ -285,7 +285,7 @@ tags: [PDF, stotra, veda, mantra, sukta, mahanyasa]
 * (4) Namo Vache [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-pdf/NamoVache.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-kindle-pdf/NamoVache.pdf)
 * (5) Deva Vai [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-pdf/DevaVai.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-kindle-pdf/DevaVai.pdf)
 * (6) PareyuvaMsam [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-pdf/PareyuvaMsam.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-kindle-pdf/PareyuvaMsam.pdf)
-* Taittiriyopanishat [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-pdf/Taittiriyopanishat.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-kindle-pdf/Taittiriyopanishat.pdf)
-* Mahanarayanopanishat [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-pdf/Mahanarayanopanishat.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-kindle-pdf/Mahanarayanopanishat.pdf)
+* (7–9) Taittiriyopanishat [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-pdf/Taittiriyopanishat.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-kindle-pdf/Taittiriyopanishat.pdf)
+* (10) Mahanarayanopanishat [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-pdf/Mahanarayanopanishat.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-kindle-pdf/Mahanarayanopanishat.pdf)
 * Taittiriya Kathakam [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-pdf/Kathaka.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-kindle-pdf/Kathaka.pdf)
 
