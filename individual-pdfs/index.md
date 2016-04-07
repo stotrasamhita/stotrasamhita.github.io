@@ -246,7 +246,7 @@ tags: [PDF, stotra, veda, mantra, sukta, mahanyasa]
 * Vishnu divyasthaniya 108 [A5 PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-pdf/100/Vishnu_divyasthaniya_108.pdf) [Kindle PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-kindle-pdf/100/Vishnu_divyasthaniya_108.pdf)
 
 
-###Sahasra Namavalis
+### Sahasra Namavalis
 * Gakaradi Ganapati 1000 [A5 PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-pdf/1000/GakaradiGanapati_1000.pdf) [Kindle PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-kindle-pdf/1000/GakaradiGanapati_1000.pdf)
 * Rama 1000 [A5 PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-pdf/1000/Rama_1000.pdf) [Kindle PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-kindle-pdf/1000/Rama_1000.pdf)
 * Shiva 1008 [A5 PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-pdf/1000/Shiva_1008.pdf) [Kindle PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-kindle-pdf/1000/Shiva_1008.pdf)
@@ -254,7 +254,7 @@ tags: [PDF, stotra, veda, mantra, sukta, mahanyasa]
 * Vishnu 1000 [A5 PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-pdf/1000/Vishnu_1000.pdf) [Kindle PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-kindle-pdf/1000/Vishnu_1000.pdf)
 
 
-###Trishati Namavalis
+### Trishati Namavalis
 * Lalita 300 [A5 PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-pdf/300/Lalita_300.pdf) [Kindle PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-kindle-pdf/300/Lalita_300.pdf)
 
 
