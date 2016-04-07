@@ -219,7 +219,7 @@ tags: [PDF, stotra, veda, mantra, sukta, mahanyasa]
 ## Namavalis
 
 
-###Shata Namavalis
+### Shata Namavalis
 * Anjaneya 108 [A5 PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-pdf/100/Anjaneya_108.pdf) [Kindle PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-kindle-pdf/100/Anjaneya_108.pdf)
 * Annapurna 108 [A5 PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-pdf/100/Annapurna_108.pdf) [Kindle PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-kindle-pdf/100/Annapurna_108.pdf)
 * Chandrashekharendra Saraswati 108 [A5 PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-pdf/100/ChandrashekharendraSaraswati_108.pdf) [Kindle PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-kindle-pdf/100/ChandrashekharendraSaraswati_108.pdf)
