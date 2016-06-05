@@ -224,6 +224,7 @@ tags: [PDF, stotra, veda, mantra, sukta, mahanyasa]
 
 
 ### Shata Namavalis
+* Adi Shankaracharya 108 [A5 PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-pdf/100/AdiShankaracharya_108.pdf) [Kindle PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-kindle-pdf/100/AdiShankaracharya_108.pdf)
 * Anjaneya 108 [A5 PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-pdf/100/Anjaneya_108.pdf) [Kindle PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-kindle-pdf/100/Anjaneya_108.pdf)
 * Annapurna 108 [A5 PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-pdf/100/Annapurna_108.pdf) [Kindle PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-kindle-pdf/100/Annapurna_108.pdf)
 * Chandrashekharendra Saraswati 108 [A5 PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-pdf/100/ChandrashekharendraSaraswati_108.pdf) [Kindle PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-kindle-pdf/100/ChandrashekharendraSaraswati_108.pdf)
@@ -246,6 +247,7 @@ tags: [PDF, stotra, veda, mantra, sukta, mahanyasa]
 * Subrahmanya Hastasthita Astrayudha 108 [A5 PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-pdf/100/SubrahmanyaHastasthitaAstrayudha_108.pdf) [Kindle PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-kindle-pdf/100/SubrahmanyaHastasthitaAstrayudha_108.pdf)
 * Surya 108 [A5 PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-pdf/100/Surya_108.pdf) [Kindle PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-kindle-pdf/100/Surya_108.pdf)
 * Valli 108 [A5 PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-pdf/100/Valli_108.pdf) [Kindle PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-kindle-pdf/100/Valli_108.pdf)
+* Venkatesha 108 [A5 PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-pdf/100/Venkatesha_108.pdf) [Kindle PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-kindle-pdf/100/Venkatesha_108.pdf)
 * Venkateshwara 108 [A5 PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-pdf/100/Venkateshwara_108.pdf) [Kindle PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-kindle-pdf/100/Venkateshwara_108.pdf)
 * Vishnu divyasthaniya 108 [A5 PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-pdf/100/Vishnu_divyasthaniya_108.pdf) [Kindle PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-kindle-pdf/100/Vishnu_divyasthaniya_108.pdf)
 
