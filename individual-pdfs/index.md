@@ -259,6 +259,7 @@ tags: [PDF, stotra, veda, mantra, sukta, mahanyasa]
 * Shiva 1008 [A5 PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-pdf/1000/Shiva_1008.pdf) [Kindle PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-kindle-pdf/1000/Shiva_1008.pdf)
 * Vakratunda Mahaganapati 1000 [A5 PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-pdf/1000/VakratundaMahaganapati_1000.pdf) [Kindle PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-kindle-pdf/1000/VakratundaMahaganapati_1000.pdf)
 * Vishnu 1000 [A5 PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-pdf/1000/Vishnu_1000.pdf) [Kindle PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-kindle-pdf/1000/Vishnu_1000.pdf)
+* Saraswati 1008 [A5 PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-pdf/1000/Saraswati_1008.pdf) [Kindle PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-kindle-pdf/1000/Saraswati_1008.pdf)
 
 
 ### Trishati Namavalis
