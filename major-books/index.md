@@ -18,6 +18,13 @@ Contains several Suktas, MahaNyasa etc.
 
 PDFs: [A5 print](https://github.com/stotrasamhita/vedamantra-book/raw/master/vedamantrabook-print.pdf) [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/vedamantrabook.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/vedamantrabook-kindle.pdf)
 
+#### Brahmanam Book
+
+Contains 25 prashnas from three Ashtakams in Krishna Yajurveda Taittiriya Brahmanam, as well as Aranyakas and Kathakam.
+
+PDFs: [A5 print](https://github.com/stotrasamhita/vedamantra-book/raw/master/BrahmanamBook-print.pdf) [A5](https://github.com/stotrasamhita/vedamantra-book/raw/master/BrahmanamBook.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/BrahmanamBook-kindle.pdf)
+
+
 ##### Aranyaka Book
 
 Contains ArunaPrashna, Saha Vai, Chittissruk, Namo Vache, Devai Vai, PareyuvaMsam, Taittiriyopanishat, Mahanarayanopanishat and Kathakam.
