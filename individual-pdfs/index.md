@@ -284,6 +284,7 @@ tags: [PDF, stotra, veda, mantra, sukta, mahanyasa]
 * Vishnu Suktam [A5 PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/VishnuSuktam.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/VishnuSuktam.pdf)
 
 ## Taittiriya Brahmanam
+### Ashtakams
 * All three ashtakams [A5 PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-pdf/TaittiriyaBrahmanam-Ashtakams.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-kindle-pdf/TaittiriyaBrahmanam-Ashtakams.pdf)
 * Ashtakam 1 [A5 PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-pdf/TaittiriyaBrahmanam-Ashtakam-1.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-kindle-pdf/TaittiriyaBrahmanam-Ashtakam-1.pdf)
   * 1-1 [A5 PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-pdf/TaittiriyaBrahmanam-1-1.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-kindle-pdf/TaittiriyaBrahmanam-1-1.pdf)
@@ -315,7 +316,7 @@ tags: [PDF, stotra, veda, mantra, sukta, mahanyasa]
   * 3-9 [A5 PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-pdf/TaittiriyaBrahmanam-3-9.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-kindle-pdf/TaittiriyaBrahmanam-3-9.pdf)
 
 
-## Taittiriya Aranyakam/Kathakam
+### Taittiriya Aranyakam/Kathakam
 * (1) Aruna Prashnah [A5 PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-pdf/aruNaprashnaH.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-kindle-pdf/aruNaprashnaH.pdf)
 * (2) Saha Vai [A5 PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-pdf/SahaVai.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-kindle-pdf/SahaVai.pdf)
 * (3) Chittissruk [A5 PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-pdf/Chittissruk.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-kindle-pdf/Chittissruk.pdf)
@@ -325,9 +326,3 @@ tags: [PDF, stotra, veda, mantra, sukta, mahanyasa]
 * (7–9) Taittiriyopanishat [A5 PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-pdf/Taittiriyopanishat.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-kindle-pdf/Taittiriyopanishat.pdf)
 * (10) Mahanarayanopanishat [A5 PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-pdf/Mahanarayanopanishat.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-kindle-pdf/Mahanarayanopanishat.pdf)
 * Taittiriya Kathakam [A5 PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-pdf/Kathaka.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-kindle-pdf/Kathaka.pdf)
-
-
-
-
-
-
