@@ -277,21 +277,26 @@ tags: [PDF, stotra, veda, mantra, sukta, mahanyasa]
 * Lalita 300 [A5 PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-pdf/300/Lalita_300.pdf) [Kindle PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-kindle-pdf/300/Lalita_300.pdf)
 
 ## Suktas/Mantras
+* Aghamarshana Suktam [A5 PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/AghamarshanaSuktam.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/AghamarshanaSuktam.pdf)
 * Ayushya Suktam [A5 PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/AyushyaSuktam.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/AyushyaSuktam.pdf)
 * Bhagya Suktam [A5 PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/BhagyaSuktam.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/BhagyaSuktam.pdf)
 * Bhu Suktam [A5 PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/BhuSuktam.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/BhuSuktam.pdf)
+* Dasha Shantayah [A5 PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/DashaShantayah.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/DashaShantayah.pdf)
 * Chamaka Prashnah [A5 PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/ChamakaPrashnah.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/ChamakaPrashnah.pdf)
 * Durga Suktam [A5 PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/DurgaSuktam.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/DurgaSuktam.pdf)
 * Ganapatyatharvashirsham [A5 PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/Ganapatyatharvashirsham.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/Ganapatyatharvashirsham.pdf)
 * Maha Nyasah [A5 PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/MahaNyasah.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/MahaNyasah.pdf)
+* Mrtyunjaya Homa Mantrah [A5 PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/MrtyunjayaHomaMantrah.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/MrtyunjayaHomaMantrah.pdf)
 * Medha Suktam [A5 PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/MedhaSuktam.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/MedhaSuktam.pdf)
 * Nakshatra Suktam [A5 PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/NakshatraSuktam.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/NakshatraSuktam.pdf)
 * Narayana Suktam [A5 PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/NarayanaSuktam.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/NarayanaSuktam.pdf)
 * Navagraha Suktam [A5 PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/NavagrahaSuktam.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/NavagrahaSuktam.pdf)
 * Pavamana Suktam [A5 PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/PavamanaSuktam.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/PavamanaSuktam.pdf)
 * Purusha Suktam [A5 PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/PurushaSuktam.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/PurushaSuktam.pdf)
+* Rudra Pada Patha [A5 PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/RudraPadaPatha.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/RudraPadaPatha.pdf)
 * Rudra Prashnah [A5 PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/RudraPrashnah.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/RudraPrashnah.pdf)
 * Shri Suktam [A5 PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/ShriSuktam.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/ShriSuktam.pdf)
+* Vaishvadeva Mantrah [A5 PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/VaishvadevaMantrah.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/VaishvadevaMantrah.pdf)
 * Vishnu Suktam [A5 PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/VishnuSuktam.pdf) [Kindle PDF](https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/VishnuSuktam.pdf)
 
 ## Taittiriya Brahmanam
