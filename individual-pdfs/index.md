@@ -228,6 +228,7 @@ tags: [PDF, stotra, veda, mantra, sukta, mahanyasa]
 
 
 ### Vishnu Stotras
+* Lakshmi Nrisimha Karavalamba Stotram [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/vishnu/LakshmiNrisimhaKaravalambaStotram.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/vishnu/LakshmiNrisimhaKaravalambaStotram.pdf)
 * Ranganatha Gadyam [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/vishnu/RanganathaGadyam.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/vishnu/RanganathaGadyam.pdf)
 * Ranganathashtakam [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/vishnu/Ranganathashtakam.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/vishnu/Ranganathashtakam.pdf)
 * Vishnu Bhujangaprayata Stotram [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/vishnu/VishnuBhujangaprayataStotram.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/vishnu/VishnuBhujangaprayataStotram.pdf)
