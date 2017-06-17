@@ -45,6 +45,7 @@ tags: [PDF, stotra, veda, mantra, sukta, mahanyasa]
 * Apaduddharaka Dwadashamukha Hanuman Stotram [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/hanuman/ApaduddharakaDwadashamukhaHanumanStotram.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/hanuman/ApaduddharakaDwadashamukhaHanumanStotram.pdf)
 * Hanuman Chalisa [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/hanuman/HanumanChalisa.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/hanuman/HanumanChalisa.pdf)
 * Hanumat Pancharatnam [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/hanuman/HanumatPancharatnam.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/hanuman/HanumatPancharatnam.pdf)
+* Sundara Hanuman Maha Mantra Nama Stotram [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/hanuman/SundaraHanumanMahaMantraNamaStotram.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/hanuman/SundaraHanumanMahaMantraNamaStotram.pdf)
 
 
 ### Krishna Stotras
@@ -80,7 +81,7 @@ tags: [PDF, stotra, veda, mantra, sukta, mahanyasa]
 * Budha Panchavimshati Nama Stotram [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/navagraha/BudhaPanchavimshatiNamaStotram.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/navagraha/BudhaPanchavimshatiNamaStotram.pdf)
 * Chandra Ashtavimshati Nama Stotram [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/navagraha/ChandraAshtavimshatiNamaStotram.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/navagraha/ChandraAshtavimshatiNamaStotram.pdf)
 * Chandra Grahana Pidaparihara Shlokam [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/navagraha/ChandraGrahanaPidapariharaShlokam.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/navagraha/ChandraGrahanaPidapariharaShlokam.pdf)
-* SuryaMandalaStotram [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/navagraha/SuryaMandalaStotram.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/navagraha/SuryaMandalaStotram.pdf)
+* Dwadasharya Surya Stuti [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/navagraha/DwadasharyaSuryaStuti.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/navagraha/DwadasharyaSuryaStuti.pdf)
 * Ketu Panchavimshati Nama Stotram [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/navagraha/KetuPanchavimshatiNamaStotram.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/navagraha/KetuPanchavimshatiNamaStotram.pdf)
 * Navagraha Mangalashtakam [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/navagraha/NavagrahaMangalashtakam.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/navagraha/NavagrahaMangalashtakam.pdf)
 * Navagraha Pidahara Stotram [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/navagraha/NavagrahaPidaharaStotram.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/navagraha/NavagrahaPidaharaStotram.pdf)
@@ -90,6 +91,8 @@ tags: [PDF, stotra, veda, mantra, sukta, mahanyasa]
 * Shukra Chaturvimshati Nama Stotram [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/navagraha/ShukraChaturvimshatiNamaStotram.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/navagraha/ShukraChaturvimshatiNamaStotram.pdf)
 * Surya Grahana Pidaparihara Shlokam [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/navagraha/SuryaGrahanaPidapariharaShlokam.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/navagraha/SuryaGrahanaPidapariharaShlokam.pdf)
 * Surya Kavacham [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/navagraha/SuryaKavacham.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/navagraha/SuryaKavacham.pdf)
+* SuryaMandalaStotram [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/navagraha/SuryaMandalaStotram.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/navagraha/SuryaMandalaStotram.pdf)
+* Surya Pratah Smarana Stotram [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/navagraha/SuryaPratahSmaranaStotram.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/navagraha/SuryaPratahSmaranaStotram.pdf)
 
 
 ### Other Stotras
@@ -97,6 +100,7 @@ tags: [PDF, stotra, veda, mantra, sukta, mahanyasa]
 * Kalidoshanivarana Stotram [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/other/KalidoshanivaranaStotram.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/other/KalidoshanivaranaStotram.pdf)
 * Kartaviryarjuna Stotram [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/other/KartaviryarjunaStotram.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/other/KartaviryarjunaStotram.pdf)
 * Yamabhayanivarana Stotram [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/other/YamabhayanivaranaStotram.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/other/YamabhayanivaranaStotram.pdf)
+* Yamashtakam [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/other/Yamashtakam.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/other/Yamashtakam.pdf)
 
 
 ### Purti Stotras
@@ -114,6 +118,7 @@ tags: [PDF, stotra, veda, mantra, sukta, mahanyasa]
 * Rama Dwadasha Nama Stotram [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/rama/RamaDwadashaNamaStotram.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/rama/RamaDwadashaNamaStotram.pdf)
 * Ramaraksha Stotram [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/rama/RamarakshaStotram.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/rama/RamarakshaStotram.pdf)
 * Ramashtakam [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/rama/Ramashtakam.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/rama/Ramashtakam.pdf)
+* Rama Stavaraja Stotram [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/rama/RamaStavarajaStotram.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/rama/RamaStavarajaStotram.pdf)
 * Sita Rama Stotram [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/rama/SitaRamaStotram.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/rama/SitaRamaStotram.pdf)
 
 
@@ -123,17 +128,21 @@ tags: [PDF, stotra, veda, mantra, sukta, mahanyasa]
 * Saraswati Stotram( Brihaspati) [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/saraswati/SaraswatiStotram(Brihaspati).pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/saraswati/SaraswatiStotram(Brihaspati).pdf)
 * Sharada Bhujangaprayata Ashtakam [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/saraswati/SharadaBhujangaprayataAshtakam.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/saraswati/SharadaBhujangaprayataAshtakam.pdf)
 * Sharada Prarthana [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/saraswati/SharadaPrarthana.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/saraswati/SharadaPrarthana.pdf)
+* Vani Stavanam [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/saraswati/VaniStavanam.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/saraswati/VaniStavanam.pdf)
 
 
 ### Shakti Stotras
 * Annapurna Stotram [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/shakti/AnnapurnaStotram.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/shakti/AnnapurnaStotram.pdf)
 * Durga Pancharatnam [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/shakti/DurgaPancharatnam.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/shakti/DurgaPancharatnam.pdf)
+* Durga Stotram [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/shakti/DurgaStotram.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/shakti/DurgaStotram.pdf)
 * Gayatri Stotram [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/shakti/GayatriStotram.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/shakti/GayatriStotram.pdf)
 * Kamakshi Mahatmyam [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/shakti/KamakshiMahatmyam.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/shakti/KamakshiMahatmyam.pdf)
 * Kamakshi Suprabhatam [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/shakti/KamakshiSuprabhatam.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/shakti/KamakshiSuprabhatam.pdf)
 * Lalita Pancharatnam [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/shakti/LalitaPancharatnam.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/shakti/LalitaPancharatnam.pdf)
 * Mahishasuramardini Stotram [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/shakti/MahishasuramardiniStotram.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/shakti/MahishasuramardiniStotram.pdf)
 * Minakshi Pancharatnam [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/shakti/MinakshiPancharatnam.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/shakti/MinakshiPancharatnam.pdf)
+* Muka Saram [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/shakti/MukaSaram.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/shakti/MukaSaram.pdf)
+* Parashurama Krta Durga Stotram [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/shakti/ParashuramaKrtaDurgaStotram.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/shakti/ParashuramaKrtaDurgaStotram.pdf)
 * Shashthi Devi Stotram [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/shakti/ShashthiDeviStotram.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/shakti/ShashthiDeviStotram.pdf)
 * Shitalashtakam [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/shakti/Shitalashtakam.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/shakti/Shitalashtakam.pdf)
 * Shyamala Dandakam [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/shakti/ShyamalaDandakam.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/shakti/ShyamalaDandakam.pdf)
@@ -172,6 +181,7 @@ tags: [PDF, stotra, veda, mantra, sukta, mahanyasa]
 * Sita Ashtottara Shatanama Stotram [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/shatanama/SitaAshtottaraShatanamaStotram.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/shatanama/SitaAshtottaraShatanamaStotram.pdf)
 * Subrahmanya Ashtottara Shatanama Stotram [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/shatanama/SubrahmanyaAshtottaraShatanamaStotram.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/shatanama/SubrahmanyaAshtottaraShatanamaStotram.pdf)
 * Surya Ashtottara Shatanama Stotram [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/shatanama/SuryaAshtottaraShatanamaStotram.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/shatanama/SuryaAshtottaraShatanamaStotram.pdf)
+* Venkatesha Ashtottara Shatanama Stotram [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/shatanama/VenkateshaAshtottaraShatanamaStotram.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/shatanama/VenkateshaAshtottaraShatanamaStotram.pdf)
 * Vishnu Ashtottara Shatadivyasthaniya Nama Stotram [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/shatanama/VishnuAshtottaraShatadivyasthaniyaNamaStotram.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/shatanama/VishnuAshtottaraShatadivyasthaniyaNamaStotram.pdf)
 
 
@@ -200,6 +210,7 @@ tags: [PDF, stotra, veda, mantra, sukta, mahanyasa]
 ### Subrahmanya Stotras
 * Guha Pancharatnam [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/subrahmanya/GuhaPancharatnam.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/subrahmanya/GuhaPancharatnam.pdf)
 * Prajnavivardhana Kartikeya Stotram [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/subrahmanya/PrajnavivardhanaKartikeyaStotram.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/subrahmanya/PrajnavivardhanaKartikeyaStotram.pdf)
+* Skanda Shashthi Kavacham [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/subrahmanya/SkandaShashthiKavacham.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/subrahmanya/SkandaShashthiKavacham.pdf)
 * Subrahmanya Bhujangam [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/subrahmanya/SubrahmanyaBhujangam.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/subrahmanya/SubrahmanyaBhujangam.pdf)
 * Subrahmanya Pancharatnam [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/subrahmanya/SubrahmanyaPancharatnam.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/subrahmanya/SubrahmanyaPancharatnam.pdf)
 * Subrahmanya Shodasha Nama Stotram [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-pdf/subrahmanya/SubrahmanyaShodashaNamaStotram.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/stotras-kindle-pdf/subrahmanya/SubrahmanyaShodashaNamaStotram.pdf)
