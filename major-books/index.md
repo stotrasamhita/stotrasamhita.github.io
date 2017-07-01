@@ -50,5 +50,11 @@ PDFs: [A5 print](https://github.com/stotrasamhita/gita/raw/master/gitabook-print
 
 Contains complete Adhyatma Ramayanam, including Uttara Kandam.
 
-PDFs: [A5 print](https://github.com/stotrasamhita/AdhyatmaRamayanam/raw/master/TeX/AdhyatmaRamayanaBook-print.pdf) [A5](https://github.com/stotrasamhita/AdhyatmaRamayanam/raw/master/TeX/AdhyatmaRamayanaBook.pdf) [Kindle PDF](https://github.com/stotrasamhita/AdhyatmaRamayanam/raw/master/TeX/AdhyatmaRamayanaBook-kindle.pdf)
+PDFs: [A5 print](https://github.com/stotrasamhita/AdhyatmaRamayanam/raw/master/AdhyatmaRamayanaBook-print.pdf) [A5](https://github.com/stotrasamhita/AdhyatmaRamayanam/raw/master/AdhyatmaRamayanaBook.pdf) [Kindle PDF](https://github.com/stotrasamhita/AdhyatmaRamayanam/raw/master/AdhyatmaRamayanaBook-kindle.pdf)
+
+#### Valmiki Ramayanam
+
+Contains complete Valmiki Ramayanam, including Uttara Kandam, based on the [bombay.indology.info](http://bombay.indology.info/ramayana/welcome.html) version.
+
+PDFs: [A5 print](https://github.com/stotrasamhita/ValmikiRamayanam/raw/master/ValmikiRamayanaBook-print.pdf) [A5](https://github.com/stotrasamhita/ValmikiRamayanam/raw/master/ValmikiRamayanaBook.pdf) [Kindle PDF](https://github.com/stotrasamhita/ValmikiRamayanam/raw/master/ValmikiRamayanaBook-kindle.pdf)
 
