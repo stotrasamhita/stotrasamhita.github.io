@@ -2,6 +2,7 @@
 layout: page
 title: Welcome!
 tags: [home]
+comments: true
 ---
 
 ōṃ śrī gaṇēśāya namaḥ|
