@@ -8,7 +8,7 @@ tags: [panchangam, PDF, ics]
 comments: true
 ---
 
-Here are some neatly typeset _panchangams_ for a few cities around the world. These have been calculated using Python code and Swiss ephemeris (`swisseph` package for Python).
+Here are some neatly typeset _panchangams_ for a few cities around the world. These have been calculated using Python code and Swiss ephemeris (`swisseph` package for Python). See the [Panchangam GitHub Repo](https://github.com/karthikraman/panchangam/) for more details.
 
 #### Monthly Calendars (A3 format)
 * [Chennai (13°05'24''N, 80°16'12''E)](https://github.com/karthikraman/panchangam/raw/master/pdf/cal-2017-Chennai-deva.pdf)
