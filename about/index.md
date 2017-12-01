@@ -24,6 +24,7 @@ In this GitHub repository, we hope to make available high-quality PDFs for print
 * [SanskritDocuments.org](http://sanskritdocuments.org/) and all its tireless volunteers, for the most comprehensive resource of Sanskrit stuff, and the source text for some of the stotras in here. Thanks are also due to other excellent resources such as [Prapatti](http://prapatti.com/slokas/slokasbyname.html) by Shri. Sunder Kidambi and Shri. A. S. Rajagopalan.
 * Thanks to Saketh Nath and Arun Ayyar and a number of friends and family for all the proof-reading help (_detailed credits are in the Preface of the [StotraSangraha book](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/shloka-print.pdf)_.)
 * Special thanks to [Ulrich Stiehl](http://sanskritweb.de/) for sharing the source files of the Kathaka texts edited by Subramania Sarma
+* Special thanks also to numerous volunteers who populated YajurVeda texts at [https://sa.wikisource.org/] -- these form the basis of most of the veda texts here.
 * Diverse books and selfless publishers, who have tried to preserve our rich legacy of stotras, puranas etc.
 
 ### Tools
