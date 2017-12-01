@@ -6,7 +6,7 @@ url:
 
 
 # Jekyll configuration
-
+remote_theme: mmistakes/minimal-mistakes
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: rouge
