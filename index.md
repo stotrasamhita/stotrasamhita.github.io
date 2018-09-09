@@ -30,7 +30,7 @@ This site and its contents would not have been possible but for a number of peop
 
 This is a massive book containing (nearly) all the stotras on the StotraSamhita website. It can be printed out in A5 format (with mirror margins, "A5-print") or for reading on 8" tablets (A5). There is also a Kindle version of the PDF, which works perfect on 6" devices such as the Kindle Paperwhite (highly recommended!).
 
-Thanks to Shri. [Raja Venkateswaran](https://github.com/subburaja7) of [Veda Circle, LA](http://veda-circle.org/), we also now have PDFs in multiple scripts (Kannada, Tamil, Telugu, Sanskrit (Chandas font) and IAST)!
+Thanks to [Veda Geetha Foundation, San Diego](https://www.vedageethafoundation.org/) and [Veda Circle, Los Angeles](http://veda-circle.org/), we also now have PDFs in multiple scripts (Kannada, Tamil, Telugu, Sanskrit (Chandas font) and IAST)!
 
 PDFs: [A5 print](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/shloka-print.pdf) [A5](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/shloka.pdf) [Kindle PDF](https://github.com/stotrasamhita/stotra-sangrahah/raw/master/shloka-kindle.pdf)
 
