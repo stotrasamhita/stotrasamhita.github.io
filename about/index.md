@@ -26,7 +26,8 @@ In this GitHub repository, we hope to make available high-quality PDFs for print
 * Special thanks to [Ulrich Stiehl](http://sanskritweb.de/) for sharing the source files of the Kathaka texts edited by Subramania Sarma
 * Special thanks also to numerous volunteers who populated YajurVeda texts at [https://sa.wikisource.org/] -- these form the basis of most of the veda texts here.
 * Diverse books and selfless publishers, who have tried to preserve our rich legacy of stotras, puranas etc.
-* Thanks to Shri. [Raja Venkateswaran](https://github.com/subburaja7) of [Veda Circle, LA](http://veda-circle.org/), we also now have PDFs in multiple scripts (Kannada, Tamil, Telugu, Sanskrit (Chandas font) and IAST)!
+* Thanks to [Veda Geetha Foundation, San Diego](https://www.vedageethafoundation.org/) and [Veda Circle, Los Angeles](http://veda-circle.org/), we also now have PDFs in multiple scripts (Kannada, Tamil, Telugu, Sanskrit (Chandas font) and IAST)!
+
 
 ### Tools
 
