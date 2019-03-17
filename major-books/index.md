@@ -45,6 +45,7 @@ Letter-sized PDFs in multiple languages: [Kannada](https://github.com/stotrasamh
 Contains several Namavalis (1000, 108, 300).
 
 PDFs: [A5 print](https://github.com/stotrasamhita/namavali-manjari/raw/master/nAmA-print.pdf) [A5](https://github.com/stotrasamhita/namavali-manjari/raw/master/nAmA.pdf)  [Kindle PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/nAmA-kindle.pdf)  
+Letter-sized PDFs in multiple languages: [Kannada](https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/Namavali-manjari-Kannada.pdf), [Tamil](https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/Namavali-manjari-Tamil.pdf), [Telugu](https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/Namavali-manjari-Telugu.pdf), [Sanskrit (Chandas font)](https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/Namavali-manjari-Sanskrit.pdf) and [IAST (Roman)](https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/Namavali-manjari-English.pdf)
 
 
 #### Shrimad Bhagavad Gita
@@ -52,6 +53,8 @@ PDFs: [A5 print](https://github.com/stotrasamhita/namavali-manjari/raw/master/nA
 Contains Dhyana Shlokas, all 18 chapters of Shrimad Bhagavad Gita, along with Mahatmyam from Varaha Puranam and Yamunacharya's Gitartha Sangraha.
 
 PDFs: [A5 print](https://github.com/stotrasamhita/gita/raw/master/gitabook-print.pdf) [A5](https://github.com/stotrasamhita/gita/raw/master/gitabook.pdf) [Kindle PDF](https://github.com/stotrasamhita/gita/raw/master/gitabook-kindle.pdf)
+Letter-sized PDFs in multiple languages: [Kannada](https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/BhagavadGita-Kannada.pdf), [Tamil](https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/BhagavadGita-Tamil.pdf), [Telugu](https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/BhagavadGita-Telugu.pdf), [Sanskrit (Chandas font)](https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/BhagavadGita-Sanskrit.pdf) and [IAST (Roman)](https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/BhagavadGita-English.pdf)
+Letter-sized PDFs with split pādās in multiple languages: [Kannada](https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/BhagavadGita-split-Kannada.pdf), [Tamil](https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/BhagavadGita-split-Tamil.pdf), [Telugu](https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/BhagavadGita-split-Telugu.pdf), [Sanskrit (Chandas font)](https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/BhagavadGita-split-Sanskrit.pdf) and [IAST (Roman)](https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/BhagavadGita-split-English.pdf)
 
 
 #### Adhyatma Ramayanam
