@@ -235,8 +235,6 @@ tags: [PDF, stotra, veda, mantra, sukta, mahanyasa]
 
 ## Namavalis
 
-## Namavalis
-
 ### Sahasranamavalis
 * Gakaradi Ganapati 1000 [A5 PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-pdf/1000/GakaradiGanapati_1000.pdf) [Kindle PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-kindle-pdf/1000/GakaradiGanapati_1000.pdf) [Kindle Scribe PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-kindle-scribe-pdf/1000/GakaradiGanapati_1000.pdf)
 * Rama 1000 [A5 PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-pdf/1000/Rama_1000.pdf) [Kindle PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-kindle-pdf/1000/Rama_1000.pdf) [Kindle Scribe PDF](https://github.com/stotrasamhita/namavali-manjari/raw/master/namavalis-kindle-scribe-pdf/1000/Rama_1000.pdf)
