@@ -1,0 +1,92 @@
+/* Verse alignment, per stotra-sangrahah/docs/tex-html-conversion-design.md §5.
+   The box-width-matching trick LaTeX does by hand (pad the narrower of two
+   lines to the wider one's width, then center the pair as a unit) is what
+   `display: inline-block` shrink-to-fit + centered wrapper already gives us
+   for free -- no JS measurement pass needed. */
+
+:root {
+  --shloka-indent: 2.4em;
+}
+
+@media (max-width: 600px) {
+  :root {
+    --shloka-indent: 1.2em;
+  }
+}
+
+.stotra-article {
+  font-family: "Noto Serif Devanagari", "Sanskrit 2003", serif;
+}
+
+.stotra-meta {
+  color: var(--body-font-color, #6b6b6b);
+  font-style: italic;
+  margin-top: -0.5em;
+}
+
+.verse-block-wrapper {
+  text-align: center;
+  margin-top: 0.4em;
+}
+
+.verse-block {
+  display: inline-block;
+  text-align: left;
+}
+
+.verse-block > .line {
+  display: block;
+}
+
+.verse-block > .line.pada-even {
+  padding-left: var(--shloka-indent);
+}
+
+.citation {
+  position: absolute;
+  left: 100%;
+  white-space: nowrap;
+  font-size: smaller;
+  padding-left: 0.5em;
+  opacity: 0.7;
+}
+
+.stotra-heading {
+  text-align: center;
+}
+
+.subheading {
+  text-align: center;
+  font-weight: 700;
+  font-size: 1.15em;
+}
+
+.uvacha {
+  text-align: center;
+  font-weight: 700;
+}
+
+.prose {
+  text-align: justify;
+}
+
+.pushpika {
+  text-align: center;
+  font-style: italic;
+  opacity: 0.85;
+}
+
+.attribution {
+  text-align: right;
+  font-style: italic;
+}
+
+.decoration {
+  text-align: center;
+  margin: 0.5em 0;
+}
+
+.verse-columns {
+  column-gap: 30pt;
+  column-rule: 1pt solid var(--border-color, #e0e0e0);
+}
