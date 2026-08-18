@@ -19,6 +19,7 @@
  "weight": 10
 }
 
+<div class="stotra-article"><h2 class="stotra-heading">आपदुद्धारक-द्वादशमुख-हनुमान्-स्तोत्रम्</h2>
 <p class="prose">ॐ अस्य श्री-आपदुद्धारक-द्वादशमुख-हनुमान् स्तोत्र-महामन्त्रस्य विभीषण ऋषिः। अनुष्टुप् छन्दः।<br>श्री-द्वादशमुख-प्रचण्ड-हनुमान् देवता।<br>मारुतात्मज इति बीजम्। अञ्जनासूनुरिति शक्तिः।<br>वायुपुत्रेति कीलकम्। श्रीहनुमत्प्रसादसिद्धिद्वारा सर्वापन्निवारणार्थे जपे विनियोगः।</p>
 <h3 class="subheading">ध्यानम्</h3>
 <div class="verse-block-wrapper" id="apaduddharaka-dwadashamukha-hanuman-stotram-b0003"><div class="verse-block"><div class="line">उष्ट्रारूढ-सुवर्चलासहचरन् सुग्रीवमित्राञ्जना-</div><div class="line pada-even">सूनो वायुकुमार केसरितनूजाक्षादिदैत्यान्तक।</div><div class="line">सीतशोकहराग्निनन्दन सुमित्रासम्भवप्राणद</div><div class="line pada-even" style="position:relative;">श्रीभीमाग्रज शम्भुपुत्र हनुमान् सूर्यास्य तुभ्यं नमः॥</div></div></div>
@@ -48,4 +49,5 @@
 <div class="verse-block-wrapper" id="apaduddharaka-dwadashamukha-hanuman-stotram-b0027"><div class="verse-block"><div class="line">सर्वथा वै त्रिकालं च पठनीयमिमं स्तवम्।</div><div class="line" style="position:relative;">सर्वान् कामानवाप्नोति नात्र कार्या विचारणा॥२२॥</div></div></div>
 <div class="verse-block-wrapper" id="apaduddharaka-dwadashamukha-hanuman-stotram-b0028"><div class="verse-block"><div class="line">विनतायाः स्वमातुश्च दासीत्वस्य निवृत्तये।</div><div class="line" style="position:relative;">सुधार्णं यातुकामाय महापौरुषशालिने॥२३॥</div></div></div>
 <div class="verse-block-wrapper" id="apaduddharaka-dwadashamukha-hanuman-stotram-b0029"><div class="verse-block"><div class="line">विभीषणकृतं स्तोत्रं तार्क्ष्येण समुदीरितम्।</div><div class="line" style="position:relative;">ये पठन्ति सदा भक्त्या सिद्धयस्तत्करे स्थिताः॥२४॥</div></div></div>
-<p class="pushpika">॥इति श्री-सुदर्शनसंहितायां श्री-विभीषणगरुडसंवादे श्री-विभीषणकृतम् आपदुद्धारक श्री-द्वादशमुख-हनुमान् स्तोत्रं सम्पूर्णम्॥</p>
+<p class="pushpika">॥इति श्री-सुदर्शनसंहितायां श्री-विभीषणगरुडसंवादे श्री-विभीषणकृतम् आपदुद्धारक श्री-द्वादशमुख-हनुमान् स्तोत्रं सम्पूर्णम्॥</p></div>
+<div class="pdf-links"><span class="pdf-links-label">PDF:</span><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-pdf/hanuman/ApaduddharakaDwadashamukhaHanumanStotram.pdf">A5 / print</a><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-kindle-pdf/hanuman/ApaduddharakaDwadashamukhaHanumanStotram.pdf">Kindle</a><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-kindle-scribe-pdf/hanuman/ApaduddharakaDwadashamukhaHanumanStotram.pdf">Kindle Scribe</a></div>

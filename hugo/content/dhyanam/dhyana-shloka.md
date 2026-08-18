@@ -6,6 +6,7 @@
  "weight": 10
 }
 
+<div class="stotra-article"><h2 class="stotra-heading">ध्यान-स्तोत्राणि</h2>
 <h3 class="subheading">गणेश-ध्यानम्</h3>
 <div class="verse-block-wrapper" id="dhyana-shloka-b0002"><div class="verse-block"><div class="line">ओङ्कार-सन्निभमिभाननमिन्दुभालम्</div><div class="line pada-even">मुक्ताग्रबिन्दुममलद्युतिमेकदन्तं।</div><div class="line">लम्बोदरं कलचतुर्भुजमादिदेवम्</div><div class="line pada-even" style="position:relative;">ध्यायेन्महागणपतिं मतिसिद्धिकान्तम्॥</div></div></div>
 <h3 class="subheading">विष्णु-ध्यानम्</h3>
@@ -39,4 +40,5 @@
 <div class="verse-block-wrapper" id="dhyana-shloka-b0031"><div class="verse-block"><div class="line">नीलोत्पलदलाभासः सामवेदो हयाननः।</div><div class="line" style="position:relative;">अक्षमालान्वितो दक्षे वामे कम्बुधरः स्मृतः॥</div></div></div>
 <h3 class="subheading">अथर्ववेद-ध्यानम्</h3>
 <div class="verse-block-wrapper" id="dhyana-shloka-b0033"><div class="verse-block"><div class="line">अथर्वणाभिधो वेदो धवलो मर्कटाननः।</div><div class="line" style="position:relative;">अक्षसूत्रं च खट्वाङ्गं बिभ्राणो यजनप्रियः॥</div></div></div>
-<div class="decoration">❀</div>
+<div class="decoration">❀</div></div>
+<div class="pdf-links"><span class="pdf-links-label">PDF:</span><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-pdf/dhyanam/DhyanaShloka.pdf">A5 / print</a><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-kindle-pdf/dhyanam/DhyanaShloka.pdf">Kindle</a><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-kindle-scribe-pdf/dhyanam/DhyanaShloka.pdf">Kindle Scribe</a></div>

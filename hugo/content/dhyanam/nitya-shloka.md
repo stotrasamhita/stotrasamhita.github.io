@@ -1,11 +1,12 @@
 {
- "title": "चिरञ्जीविस्तोत्रम्",
+ "title": "नित्यश्लोकाः",
  "slug": "nitya-shloka",
  "source_file": "stotras/dhyanam/NityaShloka.tex",
  "verse_count": 19,
  "weight": 70
 }
 
+<div class="stotra-article"><h2 class="stotra-heading">चिरञ्जीविस्तोत्रम्</h2>
 <div class="verse-block-wrapper" id="nitya-shloka-b0001"><div class="verse-block"><div class="line">अश्वत्थामा बलिर्व्यासो हनुमांश्च विभीषणः</div><div class="line pada-even">कृपः परशुरामश्च सप्तैते चिरञ्जीविनः।</div><div class="line">सप्तैतान् संस्मरेन्नित्यं मार्कण्डेयमथाष्टमं</div><div class="line pada-even" style="position:relative;">जीवेद् वर्षशतं प्राज्ञ अपमृत्युविवर्जितः॥</div></div></div>
 <h2 class="stotra-heading">पञ्चकन्यास्मरणम्</h2>
 <div class="verse-block-wrapper" id="nitya-shloka-b0003"><div class="verse-block"><div class="line">अहल्या द्रौपदी सीता तारा मन्दोदरी तथा।</div><div class="line" style="position:relative;">पञ्चकन्याः स्मरेन्नित्यं महापातकनाशनम्॥</div></div></div>
@@ -44,4 +45,5 @@
 <h2 class="stotra-heading">यमधर्मराजस्य १४ नामानि</h2>
 <div class="verse-block-wrapper" id="nitya-shloka-b0037"><div class="verse-block"><div class="line">यमाय धर्मराजाय मृत्यवे चान्तकाय च।</div><div class="line" style="position:relative;">वैवस्वताय कालाय सर्वभूतक्षयाय च॥</div></div></div>
 <div class="verse-block-wrapper" id="nitya-shloka-b0038"><div class="verse-block"><div class="line">औदुम्बराय दध्नाय नीलाय परमेष्ठिने।</div><div class="line" style="position:relative;">वृकोदराय चित्राय चित्रगुप्ताय वै नमः॥</div></div></div>
-<div class="decoration">❀</div>
+<div class="decoration">❀</div></div>
+<div class="pdf-links"><span class="pdf-links-label">PDF:</span><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-pdf/dhyanam/NityaShloka.pdf">A5 / print</a><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-kindle-pdf/dhyanam/NityaShloka.pdf">Kindle</a><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-kindle-scribe-pdf/dhyanam/NityaShloka.pdf">Kindle Scribe</a></div>

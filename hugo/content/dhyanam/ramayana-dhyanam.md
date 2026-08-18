@@ -6,6 +6,7 @@
  "weight": 90
 }
 
+<div class="stotra-article"><h2 class="stotra-heading">श्रीमद्रामायण-ध्यानम्</h2>
 <div class="verse-block-wrapper" id="ramayana-dhyanam-b0001"><div class="verse-block"><div class="line">शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम्।</div><div class="line" style="position:relative;">प्रसन्नवदनं ध्यायेत् सर्वविघ्नोपशान्तये॥</div></div></div>
 <div class="verse-block-wrapper" id="ramayana-dhyanam-b0002"><div class="verse-block"><div class="line">वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे।</div><div class="line" style="position:relative;">यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननम्॥</div></div></div>
 <h3 class="subheading">श्री-गुरु-प्रार्थना</h3>
@@ -50,4 +51,5 @@
 <div class="verse-block-wrapper" id="ramayana-dhyanam-b0046"><div class="verse-block"><div class="line">त्रीन् विक्रमान् प्रक्रमतो विष्णोरमिततेजसः।</div><div class="line" style="position:relative;">यदासीन्मङ्गलं राम तत्ते भवतु मङ्गलम्॥१०॥<span class="citation">२-२५-३५</span></div></div></div>
 <div class="verse-block-wrapper" id="ramayana-dhyanam-b0047"><div class="verse-block"><div class="line">ऋषयः सागरा द्वीपा वेदा लोका दिशश्च ते।</div><div class="line" style="position:relative;">मङ्गलानि महाबाहो दिशन्तु तव सर्वदा॥११॥<span class="citation">२-२५-३६</span></div></div></div>
 <div class="verse-block-wrapper" id="ramayana-dhyanam-b0048"><div class="verse-block"><div class="line">मङ्गलं कोसलेन्द्राय महनीयगुणात्मने।</div><div class="line" style="position:relative;">चक्रवर्तितनूजाय सार्वभौमाय मङ्गलम्॥१२॥</div></div></div>
-<div class="verse-block-wrapper" id="ramayana-dhyanam-b0049"><div class="verse-block"><div class="line">कायेन वाचा मनसेन्द्रियैर्वा</div><div class="line pada-even">बुद्‌ध्याऽऽत्मना वा प्रकृतेः स्वभावात्।</div><div class="line">करोमि यद्यत् सकलं परस्मै</div><div class="line pada-even" style="position:relative;">नारायणायेति समर्पयामि॥</div></div></div>
+<div class="verse-block-wrapper" id="ramayana-dhyanam-b0049"><div class="verse-block"><div class="line">कायेन वाचा मनसेन्द्रियैर्वा</div><div class="line pada-even">बुद्‌ध्याऽऽत्मना वा प्रकृतेः स्वभावात्।</div><div class="line">करोमि यद्यत् सकलं परस्मै</div><div class="line pada-even" style="position:relative;">नारायणायेति समर्पयामि॥</div></div></div></div>
+<div class="pdf-links"><span class="pdf-links-label">PDF:</span><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-pdf/dhyanam/RamayanaDhyanam.pdf">A5 / print</a><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-kindle-pdf/dhyanam/RamayanaDhyanam.pdf">Kindle</a><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-kindle-scribe-pdf/dhyanam/RamayanaDhyanam.pdf">Kindle Scribe</a></div>

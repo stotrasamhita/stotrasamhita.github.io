@@ -6,6 +6,7 @@
  "weight": 60
 }
 
+<div class="stotra-article"><h2 class="stotra-heading">श्रीमहाभारत-ध्यानम्</h2>
 <div class="verse-block-wrapper" id="mahabharata-dhyanam-b0001"><div class="verse-block"><div class="line">शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम्।</div><div class="line" style="position:relative;">प्रसन्नवदनं ध्यायेत् सर्वविघ्नोपशान्तये॥</div></div></div>
 <div class="verse-block-wrapper" id="mahabharata-dhyanam-b0002"><div class="verse-block"><div class="line">वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे।</div><div class="line" style="position:relative;">यं नत्वा कृतकृत्याः स्युस्तं नमामि गजाननम्॥</div></div></div>
 <h3 class="subheading">श्री-गुरु-प्रार्थना</h3>
@@ -68,4 +69,5 @@
 <div class="verse-block-wrapper" id="mahabharata-dhyanam-b0063"><div class="verse-block"><div class="line">कायेन वाचा मनसेन्द्रियैर्वा</div><div class="line pada-even">बुद्‌ध्याऽऽत्मना वा प्रकृतेः स्वभावात्।</div><div class="line">करोमि यद्यत् सकलं परस्मै</div><div class="line pada-even" style="position:relative;">नारायणायेति समर्पयामि॥</div></div></div>
 <div class="verse-block-wrapper" id="mahabharata-dhyanam-b0064"><div class="verse-block"><div class="line">मन्त्रहीनं क्रियाहीनं भक्तिहीनं जनार्दन।</div><div class="line" style="position:relative;">यत्कृतं तु मया देव परिपूर्णं तदस्तु ते॥</div></div></div>
 <div class="verse-block-wrapper" id="mahabharata-dhyanam-b0065"><div class="verse-block"><div class="line">प्रायश्चित्तान्यशेषाणि तपःकर्मात्मकानि वै।</div><div class="line" style="position:relative;">यानि तेषामशेषाणां कृष्णानुस्मरणं परम्॥</div></div></div>
-<div class="decoration">❀ ❀ ❀</div>
+<div class="decoration">❀ ❀ ❀</div></div>
+<div class="pdf-links"><span class="pdf-links-label">PDF:</span><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-pdf/dhyanam/MahabharataDhyanam.pdf">A5 / print</a><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-kindle-pdf/dhyanam/MahabharataDhyanam.pdf">Kindle</a><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-kindle-scribe-pdf/dhyanam/MahabharataDhyanam.pdf">Kindle Scribe</a></div>

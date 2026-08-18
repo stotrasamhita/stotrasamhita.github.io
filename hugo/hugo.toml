@@ -12,6 +12,7 @@ enableGitInfo = true
   BookSection = '*'
   BookSearch = true
   BookComments = false
+  BookLogo = 'logo.png'
 
 [taxonomies]
   deity = 'deities'

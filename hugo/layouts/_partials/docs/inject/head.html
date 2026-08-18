@@ -1,8 +1,7 @@
 {{/* hugo-book's documented, supported customization hook: an override of the
      theme's own (empty) partial at this same path, loaded into every page's
-     <head>. Loads the stotra verse-rendering CSS on every page. The
-     script-switcher's vendored transliteration JS (see the Phase 3 plan)
-     plugs in here too, once built. */}}
+     <head>. Loads the stotra verse-rendering CSS and the script-switcher
+     (vendored Sanscript.js + our own switcher logic) on every page. */}}
 {{ with resources.Get "css/stotras.css" }}
   {{ if hugo.IsProduction }}
     {{ with . | minify | fingerprint }}
@@ -10,5 +9,17 @@
     {{ end }}
   {{ else }}
     <link rel="stylesheet" href="{{ .RelPermalink }}">
+  {{ end }}
+{{ end }}
+
+{{ range (slice "js/sanscript.js" "js/script-switcher.js") }}
+  {{ with resources.Get . }}
+    {{ if hugo.IsProduction }}
+      {{ with . | minify | fingerprint }}
+        <script defer src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}"></script>
+      {{ end }}
+    {{ else }}
+      <script defer src="{{ .RelPermalink }}"></script>
+    {{ end }}
   {{ end }}
 {{ end }}

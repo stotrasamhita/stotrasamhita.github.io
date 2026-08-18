@@ -90,3 +90,33 @@
   column-gap: 30pt;
   column-rule: 1pt solid var(--border-color, #e0e0e0);
 }
+
+.script-switcher {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  justify-content: flex-end;
+  margin-bottom: 1em;
+  font-size: 0.9em;
+}
+
+.script-switcher select {
+  font-family: inherit;
+  font-size: inherit;
+}
+
+.pdf-links {
+  margin-top: 2em;
+  padding-top: 1em;
+  border-top: 1px solid var(--border-color, #e0e0e0);
+  font-size: 0.9em;
+}
+
+.pdf-links-label {
+  font-weight: 700;
+  margin-right: 0.75em;
+}
+
+.pdf-links a {
+  margin-right: 1em;
+}
