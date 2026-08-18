@@ -1,0 +1,19 @@
+baseURL = 'https://stotrasamhita.github.io/stotras/'
+locale = 'en'
+title = 'Stotra Samhita'
+theme = 'hugo-book'
+disablePathToLower = true
+enableGitInfo = true
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  BookSection = '*'
+  BookSearch = true
+  BookComments = false
+
+[taxonomies]
+  deity = 'deities'
+  composer = 'composers'
+  chandas = 'meters'

@@ -6,3 +6,8 @@ _site
 codekit-config.json
 node_modules
 _asset_bundler_cache
+
+# Hugo build artifacts (hugo/):
+hugo/public/
+hugo/resources/
+hugo/.hugo_build.lock
