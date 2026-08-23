@@ -1,8 +1,15 @@
 /* Verse alignment, per stotra-sangrahah/docs/tex-html-conversion-design.md §5.
-   The box-width-matching trick LaTeX does by hand (pad the narrower of two
-   lines to the wider one's width, then center the pair as a unit) is what
-   `display: inline-block` shrink-to-fit + centered wrapper already gives us
-   for free -- no JS measurement pass needed. */
+   LaTeX's shloka macros right-justify each pada by stretching interword glue
+   inside an \hbox to a shared target width -- true justification, not just
+   box-width matching. For verse types whose padas share ONE target width
+   (verse-1/2/3, verse-annotated-2 -- shloka.sty uses a single \@tempdima
+   across all their lines), CSS Grid + text-align-last:justify reproduces
+   that directly: the grid column's max-content track becomes the shared
+   target width, and each line's trailing whitespace stretches to fill it.
+   The 4-line indented types (verse-4-indented/plain, verse-annotated-4) use
+   TWO independent target widths, one for odd padas and one for even --
+   matching that needs a JS measurement pass, so they keep plain
+   inline-block/indentation instead. */
 
 :root {
   --shloka-indent: 2.4em;
@@ -34,8 +41,18 @@
   text-align: left;
 }
 
+.verse-block.verse-justify {
+  display: grid;
+  grid-template-columns: max-content;
+}
+
 .verse-block > .line {
   display: block;
+}
+
+.verse-block.verse-justify > .line {
+  text-align: justify;
+  text-align-last: justify;
 }
 
 .verse-block > .line.pada-even {

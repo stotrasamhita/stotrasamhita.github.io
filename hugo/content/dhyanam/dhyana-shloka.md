@@ -33,12 +33,12 @@
 <h3 class="subheading">दण्डायुधपाणि-ध्यानम्</h3>
 <div class="verse-block-wrapper" id="dhyana-shloka-b0025"><div class="verse-block"><div class="line">कल्पद्रुमं प्रणमतां कमलारुणाभं</div><div class="line pada-even">स्कन्दं भुजद्वयमनामयमेकवक्त्रम्।</div><div class="line">कात्यायनीप्रियसुतं कटिबद्धवामं</div><div class="line pada-even" style="position:relative;">कौपीनदण्डधरदक्षिणहस्तमीडे॥</div></div></div>
 <h3 class="subheading">ऋग्वेद-ध्यानम्</h3>
-<div class="verse-block-wrapper" id="dhyana-shloka-b0027"><div class="verse-block"><div class="line">ऋग्वेदः श्वेतवर्णः स्याद् द्विभुजो रासभाननः।</div><div class="line" style="position:relative;">अक्षमालायुतः सौम्यः प्रीतश्चाध्ययनोद्यतः॥</div></div></div>
+<div class="verse-block-wrapper" id="dhyana-shloka-b0027"><div class="verse-block verse-justify"><div class="line">ऋग्वेदः श्वेतवर्णः स्याद् द्विभुजो रासभाननः।</div><div class="line" style="position:relative;">अक्षमालायुतः सौम्यः प्रीतश्चाध्ययनोद्यतः॥</div></div></div>
 <h3 class="subheading">यजुर्वेद-ध्यानम्</h3>
-<div class="verse-block-wrapper" id="dhyana-shloka-b0029"><div class="verse-block"><div class="line">अजास्यः पीतवर्णः स्याद्यजुर्वेदोऽक्षसूत्रधृक्।</div><div class="line" style="position:relative;">वामे कुलिशपाणिस्तु भूतिदो मङ्गलप्रदः॥</div></div></div>
+<div class="verse-block-wrapper" id="dhyana-shloka-b0029"><div class="verse-block verse-justify"><div class="line">अजास्यः पीतवर्णः स्याद्यजुर्वेदोऽक्षसूत्रधृक्।</div><div class="line" style="position:relative;">वामे कुलिशपाणिस्तु भूतिदो मङ्गलप्रदः॥</div></div></div>
 <h3 class="subheading">सामवेद-ध्यानम्</h3>
-<div class="verse-block-wrapper" id="dhyana-shloka-b0031"><div class="verse-block"><div class="line">नीलोत्पलदलाभासः सामवेदो हयाननः।</div><div class="line" style="position:relative;">अक्षमालान्वितो दक्षे वामे कम्बुधरः स्मृतः॥</div></div></div>
+<div class="verse-block-wrapper" id="dhyana-shloka-b0031"><div class="verse-block verse-justify"><div class="line">नीलोत्पलदलाभासः सामवेदो हयाननः।</div><div class="line" style="position:relative;">अक्षमालान्वितो दक्षे वामे कम्बुधरः स्मृतः॥</div></div></div>
 <h3 class="subheading">अथर्ववेद-ध्यानम्</h3>
-<div class="verse-block-wrapper" id="dhyana-shloka-b0033"><div class="verse-block"><div class="line">अथर्वणाभिधो वेदो धवलो मर्कटाननः।</div><div class="line" style="position:relative;">अक्षसूत्रं च खट्वाङ्गं बिभ्राणो यजनप्रियः॥</div></div></div>
+<div class="verse-block-wrapper" id="dhyana-shloka-b0033"><div class="verse-block verse-justify"><div class="line">अथर्वणाभिधो वेदो धवलो मर्कटाननः।</div><div class="line" style="position:relative;">अक्षसूत्रं च खट्वाङ्गं बिभ्राणो यजनप्रियः॥</div></div></div>
 <div class="decoration">❀</div></div>
 <div class="pdf-links"><span class="pdf-links-label">PDF:</span><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-pdf/dhyanam/DhyanaShloka.pdf">A5 / print</a><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-kindle-pdf/dhyanam/DhyanaShloka.pdf">Kindle</a><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-kindle-scribe-pdf/dhyanam/DhyanaShloka.pdf">Kindle Scribe</a></div>
