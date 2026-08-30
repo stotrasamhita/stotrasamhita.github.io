@@ -1,0 +1,47 @@
+{
+ "title": "गीतामाहात्म्यम्",
+ "slug": "mahatmyam-varaha-puranam",
+ "source_file": "/tmp/gita/mahatmyam-varaha-puranam.tex",
+ "verse_count": 30,
+ "weight": 40
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">गीतामाहात्म्यम्</h2>
+<h3 class="subheading">ध्यान-श्लोकाः</h3>
+<div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0002"><div class="verse-block verse-justify"><div class="line">नमस्तस्मै वराहाय लीलयोद्धरते महीम्।</div><div class="line" style="position:relative;">खुरमध्यगतो यस्य मेरुः खणखणायते॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0003"><div class="verse-block"><div class="line">दंष्ट्राग्रेणोद्धृता गौरुदधिपरिवृता पर्वतैर्निम्नगाभिः</div><div class="line pada-even">साकं मृत्पिण्डवत् प्राग्बृहदुरुवपुषाऽनन्तरूपेण येन।</div><div class="line">सोऽयं कंसासुरारिर्मुरनरकदशास्यान्तकृत्सर्वसंस्थः</div><div class="line pada-even" style="position:relative;">कृष्णो विष्णुः सुरेशो नुदतु मम रिपूनादिदेवो वराहः॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0004"><div class="verse-block"><div class="line">यः संसारार्णवे नौरिव मरणजराव्याधिनक्रोर्मिभीमे</div><div class="line pada-even">भक्तानां भीतिहर्ता मुरनरकदशास्यान्तकृत् कोलरूपी।</div><div class="line">विष्णुः सर्वेश्वरोऽयं यमिह कृतधियो लीलया प्राप्नुवन्ति</div><div class="line pada-even" style="position:relative;">मुक्तात्मानो न पापं प्रभवमनुदिनारातिपक्षः क्षितीशः॥३॥</div></div></div>
+<div class="decoration">❀</div>
+<div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0006"><div class="verse-block verse-justify"><div class="line">नारायणं नमस्कृत्य नरं चैव नरोत्तमम्।</div><div class="line" style="position:relative;">देवीं सरस्वतीं चैव ततो जयमुदीरयेत्॥</div></div></div>
+<p class="uvacha">धरोवाच</p>
+<div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0009"><div class="verse-block verse-justify"><div class="line">भगवन् परमेशान भक्तिरव्यभिचारिणी।</div><div class="line" style="position:relative;">प्रारब्धं भुज्यमानस्य कथं भवति हे प्रभो॥१॥</div></div></div>
+<p class="uvacha">श्री-विष्णुरुवाच</p>
+<div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0011"><div class="verse-block verse-justify"><div class="line">प्रारब्धं भुज्यमानो हि गीताभ्यासरतः सदा।</div><div class="line" style="position:relative;">स मुक्तः स सुखी लोके कर्मणा नोपलिप्यते॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0012"><div class="verse-block verse-justify"><div class="line">महापापादिपापानि गीताध्यानं करोति चेत्।</div><div class="line" style="position:relative;">क्वचित् स्पर्शं न कुर्वन्ति नलिनीदलमम्बुवत्॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0013"><div class="verse-block verse-justify"><div class="line">गीतायाः पुस्तकं यत्र यत्र पाठः प्रवर्तते।</div><div class="line" style="position:relative;">तत्र सर्वाणि तीर्थानि प्रयागादीनि तत्र वै॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0014"><div class="verse-block verse-justify"><div class="line">सर्वे देवाश्च ऋषयो योगिनः पन्नगाश्च ये।</div><div class="line">गोपाला गोपिका वाऽपि नारदोद्धवपार्षदैः।</div><div class="line" style="position:relative;">सहायो जायते शीघ्रं यत्र गीता प्रवर्तते॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0015"><div class="verse-block verse-justify"><div class="line">यत्र गीताविचारश्च पठनं पाठनं श्रुतम्।</div><div class="line" style="position:relative;">तत्राहं निश्चितं पृथ्वि निवसामि सदैव हि॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0016"><div class="verse-block verse-justify"><div class="line">गीताश्रयेऽहं तिष्ठामि गीता मे चोत्तमं गृहम्।</div><div class="line" style="position:relative;">गीताज्ञानमुपाश्रित्य त्रीँल्लोकान् पालयाम्यहम्॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0017"><div class="verse-block verse-justify"><div class="line">गीता मे परमा विद्या ब्रह्मरूपा न संशयः।</div><div class="line" style="position:relative;">अर्धमात्राक्षरा नित्या स्वानिर्वाच्यपदात्मिका॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0018"><div class="verse-block verse-justify"><div class="line">चिदानन्देन कृष्णेन प्रोक्ता स्वमुखतोऽर्जुनम्।</div><div class="line" style="position:relative;">वेदत्रयी परानन्दा तत्त्वार्थज्ञानसंयुता॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0019"><div class="verse-block verse-justify"><div class="line">योऽष्टादशजपो नित्यं नरो निश्चलमानसः।</div><div class="line" style="position:relative;">ज्ञानसिद्धिं स लभते ततो याति परं पदम्॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0020"><div class="verse-block verse-justify"><div class="line">पाठेऽसमर्थः सम्पूर्णे ततोऽर्धं पाठमाचरेत्।</div><div class="line" style="position:relative;">तदा गोदानजं पुण्यं लभते नात्र संशयः॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0021"><div class="verse-block verse-justify"><div class="line">त्रिभागं पठमानस्तु गङ्गास्नानफलं लभेत्।</div><div class="line" style="position:relative;">षडंशं जपमानस्तु सोमयागफलं लभेत्॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0022"><div class="verse-block verse-justify"><div class="line">एकाध्यायं तु यो नित्यं पठते भक्तिसंयुतः।</div><div class="line" style="position:relative;">रुद्रलोकमवाप्नोति गणो भूत्वा वसेच्चिरम्॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0023"><div class="verse-block verse-justify"><div class="line">अध्यायं श्लोकपादं वा नित्यं यः पठते नरः।</div><div class="line" style="position:relative;">स याति नरतां यावन्मन्वन्तरं वसुन्धरे॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0024"><div class="verse-block verse-justify"><div class="line">गीतायाः श्लोकदशकं सप्त पञ्च चतुष्टयम्।</div><div class="line" style="position:relative;">द्वौ त्रीनेकं तदर्धं वा श्लोकानां यः पठेन्नरः॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0025"><div class="verse-block verse-justify"><div class="line">चन्द्रलोकमवाप्नोति वर्षाणामयुतं ध्रुवम्।</div><div class="line" style="position:relative;">गीतापाठसमायुक्तो मृतो मानुषतां व्रजेत्॥१६॥</div></div></div>
+<div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0026"><div class="verse-block verse-justify"><div class="line">गीताभ्यासं पुनः कृत्वा लभते मुक्तिमुत्तमाम्।</div><div class="line" style="position:relative;">गीतेत्युच्चारसंयुक्तो म्रियमाणो गतिं लभेत्॥१७॥</div></div></div>
+<div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0027"><div class="verse-block verse-justify"><div class="line">गीतार्थश्रवणासक्तो महापापयुतोऽपि वा।</div><div class="line" style="position:relative;">वैकुण्ठं समवाप्नोति विष्णुना सह मोदते॥१८॥</div></div></div>
+<div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0028"><div class="verse-block verse-justify"><div class="line">गीतार्थं ध्यायते नित्यं कृत्वा कर्माणि भूरिशः।</div><div class="line" style="position:relative;">जीवन्मुक्तः स विज्ञेयो देहान्ते परमं पदम्॥१९॥</div></div></div>
+<div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0029"><div class="verse-block verse-justify"><div class="line">गीतामाश्रित्य बहवो भूभुजो जनकादयः।</div><div class="line" style="position:relative;">निर्धूतकल्मषा लोके गीतायाताः परं पदम्॥२०॥</div></div></div>
+<div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0030"><div class="verse-block verse-justify"><div class="line">गीतायाः पठनं कृत्वा माहात्म्यं नैव यः पठेत्।</div><div class="line" style="position:relative;">वृथा पाठो भवेत्तस्य श्रम एव ह्युदाहृतः॥२१॥</div></div></div>
+<div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0031"><div class="verse-block verse-justify"><div class="line">एतन्माहात्म्यसंयुक्तं गीताभ्यासं करोति यः।</div><div class="line" style="position:relative;">स तत् फलमवाप्नोति दुर्लभां गतिमाप्नुयात्॥२२॥</div></div></div>
+<p class="uvacha">सूत उवाच</p>
+<div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0033"><div class="verse-block verse-justify"><div class="line">माहात्म्यमेतद्गीताया मया प्रोक्तं सनातनम्।</div><div class="line" style="position:relative;">गीतान्ते च पठेद्यस्तु यदुक्तं तत्फलं लभेत्॥२३॥</div></div></div>
+<p class="pushpika">॥इति श्रीवाराहपुराणे श्रीगीतामाहात्म्यं सम्पूर्णम्॥</p>
+<div class="decoration">❀</div>
+<h3 class="subheading">मङ्गलश्लोकाः</h3>
+<div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0038"><div class="verse-block"><div class="line">स्वस्ति प्रजाभ्यः परिपालयन्तां</div><div class="line pada-even">न्यायेन मार्गेण महीं महीशाः।</div><div class="line">गोब्राह्मणेभ्यः शुभमस्तु नित्यं</div><div class="line pada-even" style="position:relative;">लोकाः समस्ताः सुखिनो भवन्तु॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0039"><div class="verse-block verse-justify"><div class="line">काले वर्षतु पर्जन्यः पृथिवी सस्यशालिनी।</div><div class="line" style="position:relative;">देशोऽयं क्षोभरहितो ब्राह्मणाः सन्तु निर्भयाः॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0040"><div class="verse-block verse-justify"><div class="line">अपुत्राः पुत्रिणः सन्तु पुत्रिणः सन्तु पौत्रिणः।</div><div class="line" style="position:relative;">अधनाः सधनाः सन्तु जीवन्तु शरदां शतम्॥३॥</div></div></div></div>

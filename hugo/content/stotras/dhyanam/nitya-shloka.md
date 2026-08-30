@@ -39,7 +39,7 @@
 <div class="verse-block-wrapper" id="nitya-shloka-b0030"><div class="verse-block verse-justify"><div class="line">तुलसी श्रीमहालक्ष्मीर्विद्याऽविद्या यशस्विनी।</div><div class="line" style="position:relative;">धर्म्या धर्मावनासक्ता पद्मिनी श्रीर्हरिप्रिया॥</div></div></div>
 <div class="verse-block-wrapper" id="nitya-shloka-b0031"><div class="verse-block verse-justify"><div class="line">लक्ष्मीप्रियसखी देवी द्यौर्भूमिरचला चला।</div><div class="line">षोडशैतानि नामानि तुलस्याः कीर्तयेन्नरः।</div><div class="line" style="position:relative;">लभते सुतरां भक्तिम् अन्ते विष्णुपदं लभेत्॥</div></div></div>
 <div class="decoration">❀</div>
-<h2 class="stotra-heading">अर्जुन-नामानि   (विराटपर्वान्तर्गतम्)</h2>
+<h2 class="stotra-heading">अर्जुन-नामानि (विराटपर्वान्तर्गतम्)</h2>
 <div class="verse-block-wrapper" id="nitya-shloka-b0034"><div class="verse-block verse-justify"><div class="line">अर्जुनः फाल्गुनो जिष्णुः किरीटी श्वेतवाहनः।</div><div class="line" style="position:relative;">बीभत्सुर्विजयः कृष्णः सव्यसाची धनञ्जयः॥</div></div></div>
 <div class="decoration">❀</div>
 <h2 class="stotra-heading">यमधर्मराजस्य १४ नामानि</h2>
