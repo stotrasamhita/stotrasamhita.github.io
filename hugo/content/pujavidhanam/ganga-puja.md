@@ -1,5 +1,5 @@
 {
- "title": "Ganga Puja",
+ "title": "श्री-गङ्गापूजा",
  "slug": "ganga-puja",
  "source_file": "pujas/ganga-puja.tex",
  "verse_count": 30,

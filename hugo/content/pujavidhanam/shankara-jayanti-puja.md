@@ -1,5 +1,5 @@
 {
- "title": "Shankara Jayanti Puja",
+ "title": "श्री-शङ्कर-भगवत्पाद-पूजा",
  "slug": "shankara-jayanti-puja",
  "source_file": "pujas/shankara-jayanti-puja.tex",
  "verse_count": 33,

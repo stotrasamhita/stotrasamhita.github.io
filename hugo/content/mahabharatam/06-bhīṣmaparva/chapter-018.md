@@ -1,0 +1,25 @@
+{
+ "title": "अध्यायः १८",
+ "weight": 180
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः १८</h2>
+<div class="verse-block-wrapper" id="06-bhīṣmaparva-b0698"><div class="verse-block verse-justify"><div class="line">सञ्जय उवाच।</div><div class="line" style="position:relative;">॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="06-bhīṣmaparva-b0699"><div class="verse-block verse-justify"><div class="line">ततो मुहूर्तात्तुमुलः शब्दो हृदयकम्पनः।</div><div class="line" style="position:relative;">अश्रूयत महाराज योधानां प्रयुयुत्सताम्॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="06-bhīṣmaparva-b0700"><div class="verse-block verse-justify"><div class="line">शङ्खदुन्दुभिघोषैश्च वारणानां च बृंहितैः।</div><div class="line" style="position:relative;">नोमिघोषै रथानां च दीर्यतीव वसुन्धरा॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="06-bhīṣmaparva-b0701"><div class="verse-block verse-justify"><div class="line">हयानां हेषमाणानां योधानां चैव गर्जताम्।</div><div class="line" style="position:relative;">क्षणेनैव नभो भूमिः शब्देनापूरितं तदा॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="06-bhīṣmaparva-b0702"><div class="verse-block verse-justify"><div class="line">पुत्राणां तव दुर्धर्ष पाण्डवानां तथैव च।</div><div class="line" style="position:relative;">समकम्पन्त सैन्यानि परस्परसमागमे॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="06-bhīṣmaparva-b0703"><div class="verse-block verse-justify"><div class="line">तत्र नागा रथाश्चैव जाम्बूनदविभूषिताः।</div><div class="line" style="position:relative;">भ्राजमाना व्यदृश्यन्त मेघा इव सविद्युतः॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="06-bhīṣmaparva-b0704"><div class="verse-block verse-justify"><div class="line">ध्वजा बहुविधाकारास्तावकानां नराधिप।</div><div class="line" style="position:relative;">काञ्चनाङ्गदिनो रेजुर्ज्वलिता इव पावकाः॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="06-bhīṣmaparva-b0705"><div class="verse-block verse-justify"><div class="line">स्वेषां चैव परेषां च समदृश्यन्त भारत।</div><div class="line" style="position:relative;">महेन्द्रकेतवः शुभ्रा महेन्द्रसदनेष्विव॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="06-bhīṣmaparva-b0706"><div class="verse-block verse-justify"><div class="line">काञ्चनैः कवचैर्वीरा ज्वलनार्कसमप्रभैः।</div><div class="line" style="position:relative;">सन्नद्धाः समदृश्यन्त ज्वलनार्कसमप्रभाः॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="06-bhīṣmaparva-b0707"><div class="verse-block verse-justify"><div class="line">कुरुयोधवरा राजन्विचित्रायुधकार्मुकाः।</div><div class="line" style="position:relative;">उद्यतैरायुथैश्चित्रैस्तलबद्धाः पताकिनः॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="06-bhīṣmaparva-b0708"><div class="verse-block verse-justify"><div class="line">ऋषभाक्षा महेष्वासाश्चमूमुखगता बभुः।</div><div class="line">पृष्ठगोपास्तु भीष्मस्य पुत्रास्तव नराधिप।</div><div class="line" style="position:relative;">दुःशासनो दुर्विषहो दुर्मुखो दुःसहस्तथा॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="06-bhīṣmaparva-b0709"><div class="verse-block verse-justify"><div class="line">विविंशतिश्चित्रसेनो विकर्णश्च महारथः।</div><div class="line" style="position:relative;">सत्यव्रतः पुरुमित्रो जयो भूरिश्रवाः शलः॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="06-bhīṣmaparva-b0710"><div class="verse-block verse-justify"><div class="line">रथा विंशतिसाहस्रास्तथैषामनुयायिनः।</div><div class="line" style="position:relative;">अभीषाहाः शूरसेनाः शिबयोऽथ वसातयः॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="06-bhīṣmaparva-b0711"><div class="verse-block verse-justify"><div class="line">शाल्वा मत्स्यास्तथाम्बष्ठास्त्रैगर्ताः केकयास्तथा।</div><div class="line" style="position:relative;">सौवीराः कैतवाः प्राच्याः प्रतीच्येदीच्यवासिनः॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="06-bhīṣmaparva-b0712"><div class="verse-block verse-justify"><div class="line">द्वादशैते जनपदाः सर्वे शूरास्तनुत्यजः।</div><div class="line" style="position:relative;">महता रथवंशेन ते ररक्षुः पितामहम्॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="06-bhīṣmaparva-b0713"><div class="verse-block verse-justify"><div class="line">अनीकं दशसाहस्रं कुञ्जराणां तरस्विनाम्।</div><div class="line" style="position:relative;">मागधो यत्र नृपतिस्तद्रथानीकमन्वयात्॥१६॥</div></div></div>
+<div class="verse-block-wrapper" id="06-bhīṣmaparva-b0714"><div class="verse-block verse-justify"><div class="line">रथानां चक्ररक्षाश्च पादरक्षाश्च दन्तिनाम्।</div><div class="line" style="position:relative;">अभवन्वाहिनीमध्ये शतानामयुतानि षट्॥१७॥</div></div></div>
+<div class="verse-block-wrapper" id="06-bhīṣmaparva-b0715"><div class="verse-block verse-justify"><div class="line">पादाताश्चाग्रतो गच्छन्धनुश्चर्मासिपाणयः।</div><div class="line" style="position:relative;">अनेकशतसाहस्रा नखरप्रासयोधिनः॥१८॥</div></div></div>
+<div class="verse-block-wrapper" id="06-bhīṣmaparva-b0716"><div class="verse-block verse-justify"><div class="line">अक्षौहिण्यो दशैका च तव पुत्रस्य भारत।</div><div class="line" style="position:relative;">अदृश्यत महाराज गङ्गेव यमुनान्तरा॥१९॥</div></div></div></div>

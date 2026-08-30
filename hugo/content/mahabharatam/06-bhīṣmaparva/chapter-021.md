@@ -1,0 +1,24 @@
+{
+ "title": "अध्यायः २१",
+ "weight": 210
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः २१</h2>
+<div class="verse-block-wrapper" id="06-bhīṣmaparva-b0785"><div class="verse-block verse-justify"><div class="line">सञ्जय उवाच।</div><div class="line" style="position:relative;">॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="06-bhīṣmaparva-b0786"><div class="verse-block verse-justify"><div class="line">बृहतीं धार्तराष्ट्रस्य सेनां दृष्ट्वा समुद्यताम्।</div><div class="line" style="position:relative;">विषादमगमद्राजा कुन्तीपुत्रो युधिष्ठिरः॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="06-bhīṣmaparva-b0787"><div class="verse-block verse-justify"><div class="line">व्यूहं भीष्मेण चाभेद्यं कल्पितं प्रेक्ष्य पाण्डवः।</div><div class="line" style="position:relative;">अभेद्यमिव संप्रेक्ष्य विवर्णोऽर्जुनमब्रवीत्॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="06-bhīṣmaparva-b0788"><div class="verse-block verse-justify"><div class="line">धनञ्जय कथं शक्यमस्माभिर्योद्धुमाहवे।</div><div class="line" style="position:relative;">धार्तराष्ट्रैर्महाबाहो येषां योद्धा पितामहः॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="06-bhīṣmaparva-b0789"><div class="verse-block verse-justify"><div class="line">अक्षोभ्योऽयमभेद्यश्च भीष्मेणामित्रकर्षिणा।</div><div class="line" style="position:relative;">कल्पितः शास्त्रदृष्टेन विधिना भूरिवर्चसा॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="06-bhīṣmaparva-b0790"><div class="verse-block verse-justify"><div class="line">ते वयं संशय्नं प्राप्ताः ससैन्याः शत्रुकर्षण।</div><div class="line" style="position:relative;">कथमस्मान्महाव्यूहादुत्थानं नो भविष्यति॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="06-bhīṣmaparva-b0791"><div class="verse-block verse-justify"><div class="line">अथार्जुनोऽब्रवीत्पार्थं युधिष्ठिरममित्रहा।</div><div class="line" style="position:relative;">विषण्णमिव संप्रेक्ष्य तव राजन्ननीकिनीम्॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="06-bhīṣmaparva-b0792"><div class="verse-block verse-justify"><div class="line">प्रज्ञयाभ्यधिकाञ्शूरान्गुणयुक्तान्बहूनपि।</div><div class="line" style="position:relative;">जयन्त्यल्पतरा येन तन्निबोध विशांपते॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="06-bhīṣmaparva-b0793"><div class="verse-block verse-justify"><div class="line">तत्र ते कारणं राजन्प्रवक्ष्याम्यनसूयवे।</div><div class="line" style="position:relative;">नारदस्तमृषिर्वेद भीष्मद्रोणौ च पाण्डव॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="06-bhīṣmaparva-b0794"><div class="verse-block verse-justify"><div class="line">एनमेवार्थमाश्रित्य युद्धे देवासुरेऽब्रवीत्।</div><div class="line" style="position:relative;">पितामहः किल पुरा महेन्द्रादीन्दिवौकसः॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="06-bhīṣmaparva-b0795"><div class="verse-block verse-justify"><div class="line">न तथा बलवीर्याभ्यां जयन्ति विजिगीषवः।</div><div class="line" style="position:relative;">यथा सत्यानृशंस्याभ्यां धर्मेणैवोद्यमेन च॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="06-bhīṣmaparva-b0796"><div class="verse-block verse-justify"><div class="line">त्वक्त्वाऽधर्मं तथा सर्वे धर्मं चोत्तममास्थिताः।</div><div class="line" style="position:relative;">युध्यध्वमतहंकारा यतो धर्मस्ततो जयः॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="06-bhīṣmaparva-b0797"><div class="verse-block verse-justify"><div class="line">एवं राजन्विजानीहि ध्रुवोऽस्माकं रणे जयः।</div><div class="line" style="position:relative;">यथा तु नारदः प्राह यतः कृष्णस्ततो जयः॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="06-bhīṣmaparva-b0798"><div class="verse-block verse-justify"><div class="line">गुणभूतो जयः कृष्णे पृष्ठतोऽभ्येति माधवम्।</div><div class="line" style="position:relative;">तद्यथा विजयश्चास्य सन्नतिश्चापरो गुणः॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="06-bhīṣmaparva-b0799"><div class="verse-block verse-justify"><div class="line">अनन्ततेजा गोविन्दः शत्रुपूगेषु निर्व्यथः।</div><div class="line" style="position:relative;">पुरुषः सनातनमयो यतः कृष्णस्ततो जयः॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="06-bhīṣmaparva-b0800"><div class="verse-block verse-justify"><div class="line">पुरा ह्येष हरिर्भूत्वा विकुण्ठोऽकुण्ठसायकः।</div><div class="line" style="position:relative;">सुरासुरानवस्फूर्जन्नब्रवीत्के जयन्त्विति॥१६॥</div></div></div>
+<div class="verse-block-wrapper" id="06-bhīṣmaparva-b0801"><div class="verse-block verse-justify"><div class="line">अनु कृष्णं जयेमेति यैरुक्तं तत्र तैर्जितम्।</div><div class="line" style="position:relative;">तत्प्रसादाद्धि त्रैलोक्यं प्राप्तं शक्रादिभिः सुरैः॥१७॥</div></div></div>
+<div class="verse-block-wrapper" id="06-bhīṣmaparva-b0802"><div class="verse-block verse-justify"><div class="line">तस्य ते न व्यथां कांचिदिह पश्यामि भारत।</div><div class="line" style="position:relative;">यस्य ते यजमाशास्ते विश्वभुक् त्रिदिवेश्वरः॥१८॥</div></div></div></div>

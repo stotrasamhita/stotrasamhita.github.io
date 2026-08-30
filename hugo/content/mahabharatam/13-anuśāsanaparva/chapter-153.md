@@ -1,0 +1,23 @@
+{
+ "title": "अध्यायः १५३",
+ "weight": 1530
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः १५३</h2>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b6275"><div class="verse-block verse-justify"><div class="line">केषां देवा महाभागाः सन्नमन्ते महात्मनाम्।</div><div class="line">लोकेऽस्मिंस्तनृषीन्सर्वञ्श्रोतुमिच्छामि सत्तम ॥भीष्म उवाच।</div><div class="line" style="position:relative;">॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b6276"><div class="verse-block verse-justify"><div class="line">इतिहासमिमं विप्राः कीर्तयन्ति पुराविदः।</div><div class="line" style="position:relative;">अस्मिन्नर्थे महाप्राज्ञास्तं निबोध युधिष्ठिर॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b6277"><div class="verse-block verse-justify"><div class="line">वृत्रं हत्वाऽप्युपावृत्तं त्रिदशानां पुरस्कृतम्।</div><div class="line" style="position:relative;">महेन्द्रमनुसम्प्राप्तं स्तूयमानं महर्षिभिः॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b6278"><div class="verse-block verse-justify"><div class="line">श्रिया परमया युक्तं रथस्थं हरिवाहनम्।</div><div class="line" style="position:relative;">मातलिः प्राञ्जलिर्भूत्वा देवमिन्द्रमुघाच ह॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b6279"><div class="verse-block verse-justify"><div class="line">नमस्कृतानां सर्वेषां भगवंस्त्वं पुरस्कृतः।</div><div class="line" style="position:relative;">येषां लोके नमस्कुर्यात्तान्ब्रवीतु भवान्मम॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b6280"><div class="verse-block verse-justify"><div class="line">तस्य तद्वचनं श्रुत्वा देवराजः शचीपतिः।</div><div class="line" style="position:relative;">यन्तारं परिपृच्छन्तं तमिन्द्रः प्रत्युवाच सः॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b6281"><div class="verse-block verse-justify"><div class="line">धर्मं चार्थं च कामं च येषां चिन्तयतां मतिः।</div><div class="line" style="position:relative;">नाधर्मे वर्तते नित्यं तान्नमस्यामि मातले॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b6282"><div class="verse-block verse-justify"><div class="line">ये रूपगुणसम्पन्नाः प्रमदाहृदयंगमाः।</div><div class="line" style="position:relative;">निवृत्ताः कामभोगेषु तान्नमस्यामि मातले॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b6283"><div class="verse-block verse-justify"><div class="line">स्वेषु भोगेषु सन्तुष्टाः सुवाचो वचनक्षमाः।</div><div class="line" style="position:relative;">अमानकामाश्चार्घार्हास्तान्नमस्यामि मातले॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b6284"><div class="verse-block verse-justify"><div class="line">धनं विद्यास्तथैश्वर्यं येषां न चलयेन्मतिम्।</div><div class="line" style="position:relative;">चलितां ये निगृह्णन्ति तान्नित्यं पूजयाम्यहम्॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b6285"><div class="verse-block verse-justify"><div class="line">इष्टैर्दारैरुपेतानां शुचीनामग्निहोत्रिणाम्।</div><div class="line" style="position:relative;">चतुष्पादकुटुम्बानां मातिले प्रणमाम्यहम्॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b6286"><div class="verse-block verse-justify"><div class="line">महतस्तपसा प्राप्तौ धनस्य विपुलस्य च।</div><div class="line" style="position:relative;">कत्यागस्तस्य न वै कार्यो योऽऽत्मानं नावबुध्यते॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b6287"><div class="verse-block verse-justify"><div class="line">येषामर्थस्तथा कामो धर्ममूलविवर्धितः।</div><div class="line" style="position:relative;">धर्मार्थौ तस्य नियतौ तान्नमस्यामि मातले॥१३॥</div></div></div>
+<p class="prose">धर्ममूलार्थकामानां ब्राह्मणानां गवामपि ॥पतिव्रतानां नारीणां प्रणामं प्रकरोम्यहम्</p>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b6289"><div class="verse-block verse-justify"><div class="line">ये भुक्त्वा मानुषान्भोगान्पूर्वे वयसि मातले।</div><div class="line" style="position:relative;">तपसा स्वर्गमायान्ति शश्वत्तान्पूजयाम्यहम्॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b6290"><div class="verse-block verse-justify"><div class="line">असंभोगान्नचासक्तान्धर्मनित्याञ्जितेन्द्रियान्।</div><div class="line" style="position:relative;">संन्यस्तानचलप्रख्यान्मनसा पूजयामि तान्॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b6291"><div class="verse-block verse-justify"><div class="line">ज्ञानप्रसन्नविद्यानां निरूढं धर्ममीप्सितम्।</div><div class="line" style="position:relative;">परैः कीर्तितशौचानां मातले तान्नमाम्यहम्'॥१६॥</div></div></div></div>

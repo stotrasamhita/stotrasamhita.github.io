@@ -1,0 +1,24 @@
+{
+ "title": "अध्यायः ६४",
+ "weight": 640
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः ६४</h2>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b1981"><div class="verse-block verse-justify"><div class="line">ततस्ते प्रययुर्हृष्टाः प्रहृष्टनरवाहनाः।</div><div class="line" style="position:relative;">रथघोषेण महता पूरयन्तो वसुन्धराम्॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b1982"><div class="verse-block verse-justify"><div class="line">संस्तूयमानाः स्तुतिभिः सूतमागधबन्दिभिः।</div><div class="line" style="position:relative;">स्वेन सैन्येन संवीता यथाऽऽदित्याः स्वरश्मिभिः॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b1983"><div class="verse-block verse-justify"><div class="line">पाण्डुरेणातपत्रेण ध्रियमाणेन मूर्धनि।</div><div class="line" style="position:relative;">बभौ युधिष्टिरस्तत्र पौर्णमास्यामिवोडुराट्॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b1984"><div class="verse-block verse-justify"><div class="line">जयाशिषः प्रहृष्टानां नराणां पथि पाण्डवः।</div><div class="line" style="position:relative;">प्रत्यगृह्णाद्यथान्यायं यथावत्पुरुषर्षभः॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b1985"><div class="verse-block verse-justify"><div class="line">तथैव सैनिका राजन्राजानमनुयान्ति ये।</div><div class="line" style="position:relative;">तेषां हलहलाशब्दो दिवं स्तब्ध्वा व्यतिष्ठत॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b1986"><div class="verse-block verse-justify"><div class="line">सरांसि सरितश्चैव वनान्युपवनानि च।</div><div class="line" style="position:relative;">अत्यक्रामन्महाराजो गिरिं चाप्यन्वपद्यत॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b1987"><div class="verse-block verse-justify"><div class="line">स्मिन्देशे च राजेन्द्र यत्र तद्द्रव्यमुत्तमम्।</div><div class="line">चक्रे निवेशनं राजा पाण्डवः सहसैनिकैः।</div><div class="line" style="position:relative;">शिवे देशे समे चैव तदा भरतसत्तम॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b1988"><div class="verse-block verse-justify"><div class="line">अग्रतो ब्राह्मणान्कृत्वा तपोविद्यादमान्वितान्।</div><div class="line" style="position:relative;">पुरोहितं च कौरव्य वेदवेदाङ्गपारगम्॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b1989"><div class="verse-block verse-justify"><div class="line">आग्निवेश्यं च राजानो ब्राह्मणाः सपुरोधसः।</div><div class="line" style="position:relative;">कृत्वा शान्तिं यथान्यायं सर्वशः पर्यवारयन्॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b1990"><div class="verse-block verse-justify"><div class="line">कृत्वा तु मध्ये राजानममात्यांश्च यथाविधि।</div><div class="line" style="position:relative;">षट्पदं नवसङ्ख्यानं निवेशं चक्रिरे जनाः॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b1991"><div class="verse-block verse-justify"><div class="line">मत्तानां वारणेन्द्राणां निवेशं च यथाविधि।</div><div class="line" style="position:relative;">कारयित्वा स राजेन्द्रो ब्राह्मणानिदमब्रवीत्॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b1992"><div class="verse-block verse-justify"><div class="line">अस्मिन्कार्ये द्विजश्रेष्ठा नक्षत्रे दिवसे शुभे।</div><div class="line" style="position:relative;">यथा भवन्तो मन्यन्ते कर्तुमर्हन्ति तत्तथा॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b1993"><div class="verse-block verse-justify"><div class="line">न नः कालात्ययो वै स्यादिहैव परिलम्बताम्।</div><div class="line" style="position:relative;">इति निश्चित्य विप्रेन्द्राः क्रियतां यदनन्तरम्॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b1994"><div class="verse-block verse-justify"><div class="line">श्रुत्वैतद्व********* ब्राह्मणाः सपुरोधसः।</div><div class="line" style="position:relative;">इदमूचुर्वचो हृष्टा धर्मराजप्रियेप्सवः॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b1995"><div class="verse-block verse-justify"><div class="line">अद्यैव नक्षत्रिमहश्च पुण्यंयतामहे श्रेष्ठतमक्रियासु।</div><div class="line" style="position:relative;">तपोभिरद्येह वसाम राज-न्नुपोष्यतां चापि भवद्भिरद्य॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b1996"><div class="verse-block verse-justify"><div class="line">श्रुत्वा तु तेषां द्विजसत्तमानांकृतोपवासा रजनीं नरेन्द्राः।</div><div class="line" style="position:relative;">॥१६॥</div></div></div>
+<p class="prose">ऊषुः प्रतीताः कुशसंस्तरेषुयथाऽध्वरे प्रज्वलिता हुताशाः</p>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b1998"><div class="verse-block verse-justify"><div class="line">ततो निशा सा व्यगमन्महात्मनांसंशृण्वतां विप्रसमीरिता गिरः।</div><div class="line" style="position:relative;">ततः प्रभाते विमले द्विजर्षभावचोऽब्रुवन्धर्मसुतं नराधिपम्॥१७॥</div></div></div></div>

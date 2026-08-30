@@ -1,0 +1,23 @@
+{
+ "title": "अध्यायः ९४",
+ "weight": 940
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः ९४</h2>
+<div class="verse-block-wrapper" id="02-sabhāparva-b3988"><div class="verse-block verse-justify"><div class="line">या नः श्रुता मनुष्येषु स्त्रियो रूपेण संमताः।</div><div class="line" style="position:relative;">तासामेतादृशं कर्म न कस्याश्चन शुश्रुम॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b3989"><div class="verse-block verse-justify"><div class="line">क्रोधाविष्टेषु पार्थेषु धार्तराष्ट्रेषु चाप्यति।</div><div class="line" style="position:relative;">द्रौपदी पाण्डुपुत्राणां कृष्णा शान्तिरिहाभवत्॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b3990"><div class="verse-block verse-justify"><div class="line">अप्लवेऽम्भसि मग्नानामप्रतिष्ठे निमज्जताम्।</div><div class="line" style="position:relative;">पाञ्चाली पाण्डुपुत्राणां नौरेषां पारगाऽभवत् ॥वैशम्पायन उवाच॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b3991"><div class="verse-block verse-justify"><div class="line">तद्वै श्रुत्वा भीमसेनः कुरुमध्येऽत्यमर्षणः।</div><div class="line" style="position:relative;">स्त्री गतिः पाण्डुपुत्राणामित्युवाच सुदुर्मनाः ॥भीम उवाच॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b3992"><div class="verse-block verse-justify"><div class="line">त्रीणि ज्योतींषि पुरुष इति वै देवलोऽब्रवीत्।</div><div class="line" style="position:relative;">अपत्यं कर्म विद्या च यतः सृष्टाः प्रजास्ततः॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b3993"><div class="verse-block verse-justify"><div class="line">अमेध्ये वै गतप्रामे शून्ये ज्ञातिभिरुज्झिते।</div><div class="line" style="position:relative;">देहे त्रितयमेवैतत्पुरुषस्योपयुज्यते॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b3994"><div class="verse-block verse-justify"><div class="line">तन्नो ज्योतिरभिहतं दाराणामभिमर्शनात्।</div><div class="line" style="position:relative;">धनञ्जय कथं स्वित्स्यादपत्यमभिमृष्टजम् ॥अर्जुन उवाच॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b3995"><div class="verse-block verse-justify"><div class="line">न चैवोक्ता न चानुक्ता हीनतः परुषा गिरः।</div><div class="line" style="position:relative;">भारत प्रतिजल्पन्ति सदा तूत्तमपूरुषाः॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b3996"><div class="verse-block verse-justify"><div class="line">स्मरन्ति सुकृतान्येव न वैराणि कृतान्यपि।</div><div class="line" style="position:relative;">सन्तः प्रतिविजानन्तो लब्धसम्भावनाः स्वयम् ॥भीम उवाच॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b3997"><div class="verse-block verse-justify"><div class="line">इहैवैतानहं सर्वान्हन्मि शत्रून्समागतान्।</div><div class="line" style="position:relative;">अथ निष्क्रम्य राजेन्द्र समूलान्हन्मि भारत॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b3998"><div class="verse-block verse-justify"><div class="line">किं नो विवदितेनेह किमुक्तेन च भारत।</div><div class="line" style="position:relative;">अद्यैवैतान्निहन्मीह प्रशाधि पृथिवीमिमाम्॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b3999"><div class="verse-block verse-justify"><div class="line">इत्युक्त्वा भीमसेनस्तु कनिष्ठैर्भ्रातृभिः सह।</div><div class="line" style="position:relative;">मृगमध्ये यथा सिंहो मुहुर्मुहुरुदैक्षत॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b4000"><div class="verse-block verse-justify"><div class="line">सान्त्व्यमानो वीक्षमाणः पार्थेनाक्लिष्टकर्मणा।</div><div class="line" style="position:relative;">खिद्यत्येव महाबाहुरन्तर्दाहेन वीर्यवान्॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b4001"><div class="verse-block verse-justify"><div class="line">क्रुद्धस्य तस्य स्रोतोभ्यः कर्णादिभ्यो नराधिप।</div><div class="line" style="position:relative;">सधूमः सस्फुलिङ्गार्चिः पावकः समजायत॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b4002"><div class="verse-block verse-justify"><div class="line">भ्रुकुटीकृतदुष्प्रेक्ष्यमभवत्तस्य तन्मुखम्।</div><div class="line" style="position:relative;">युगान्तकाले सम्प्राप्ते कृतान्तस्येव रूपिणः॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b4003"><div class="verse-block verse-justify"><div class="line">युधिष्ठिरस्तमावार्य बाहुना बाहुशालिनम्।</div><div class="line" style="position:relative;">मैवमित्यब्रवीच्चैनं जोषमास्वेति भारत॥१६॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b4004"><div class="verse-block verse-justify"><div class="line">निवार्य च महाबाहुं कोपसंरक्तलोचनम्।</div><div class="line" style="position:relative;">पितरं समुपातिष्ठद्धृतराष्ट्रं कृताञ्जलिः॥१७॥</div></div></div></div>

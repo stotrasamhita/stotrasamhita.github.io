@@ -1,5 +1,5 @@
 {
- "title": "Panchanga Puja",
+ "title": "पञ्चाङ्ग-पूजा",
  "slug": "panchanga-puja",
  "source_file": "pujas/panchanga-puja.tex",
  "verse_count": 54,

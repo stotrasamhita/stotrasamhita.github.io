@@ -1,5 +1,5 @@
 {
- "title": "Brindavana Puja",
+ "title": "बृन्दावनपूजा (श्री-तुलसी--विष्णु-पूजा)",
  "slug": "brindavana-puja",
  "source_file": "pujas/brindavana-puja.tex",
  "verse_count": 58,

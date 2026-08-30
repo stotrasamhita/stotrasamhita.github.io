@@ -1,5 +1,5 @@
 {
- "title": "Skanda Shashthi Puja",
+ "title": "श्री-स्कन्द-षष्ठी-पूजा",
  "slug": "skanda-shashthi-puja",
  "source_file": "pujas/skanda-shashthi-puja.tex",
  "verse_count": 39,

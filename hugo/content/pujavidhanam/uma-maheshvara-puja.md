@@ -1,5 +1,5 @@
 {
- "title": "Uma Maheshvara Puja",
+ "title": "श्री-उमा-महेश्वर-पूजा",
  "slug": "uma-maheshvara-puja",
  "source_file": "pujas/uma-maheshvara-puja.tex",
  "verse_count": 66,

@@ -1,0 +1,20 @@
+{
+ "title": "अध्यायः ११७",
+ "weight": 1170
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः ११७</h2>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b4579"><div class="verse-block verse-justify"><div class="line">कीदृशानां तु शूद्राणां नानुगृह्णासि चार्चनम्।</div><div class="line">उद्वेगस्तव कस्माद्धि तन्मे ब्रूहि सुरेश्वर ॥भगवानुवाच।</div><div class="line" style="position:relative;">॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b4580"><div class="verse-block verse-justify"><div class="line">अव्रतेनाप्यभक्तेन स्पृष्टां शूद्रेण चार्चनाम्।</div><div class="line" style="position:relative;">तां वर्जयामि राजेन्द्र श्वपाकविहितामिव॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b4581"><div class="verse-block verse-justify"><div class="line">नन्वहं शङ्करश्चापि गावो विप्रास्तथैव च।</div><div class="line" style="position:relative;">अश्वत्थोऽमररूपं हि त्रयमेतद्युधिष्ठिर॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b4582"><div class="verse-block verse-justify"><div class="line">एतत्त्रयं हि मद्भक्तो नावमन्येत कर्हिचित्।</div><div class="line" style="position:relative;">अवमानितमेतत्तु दहत्यासप्तमं कुलम्॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b4583"><div class="verse-block verse-justify"><div class="line">अश्वत्थो ब्राह्मणा गावो मन्मयास्तारयन्ति हि।</div><div class="line">तस्मादेतत्प्रयत्नेन त्रयं पूजय पाण्डव ॥युधिष्ठिर उवाच।</div><div class="line" style="position:relative;">॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b4584"><div class="verse-block verse-justify"><div class="line">ब्राह्मणेनैव देहेन कथं शूद्रत्वमाप्नुयात्।</div><div class="line">ब्रह्म वा नश्यति कथं वक्तुं देव त्वमर्हसि ॥भगवानुवाच।</div><div class="line" style="position:relative;">॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b4585"><div class="verse-block verse-justify"><div class="line">कूपस्नानं तु यो विप्रः कुर्याद्द्वादशवार्षिकम्।</div><div class="line" style="position:relative;">स तेनैव शरीरेण शूद्रत्वं यात्यसंशयम्॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b4586"><div class="verse-block verse-justify"><div class="line">यस्तु राजाश्रयेणैव जीवेद्द्वादशवार्षिकम्।</div><div class="line" style="position:relative;">स शूद्रत्वं व्रजेद्विप्रो वेदानां पारगोपि सन्॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b4587"><div class="verse-block verse-justify"><div class="line">पत्तने नगरे वाऽपि यो द्वादशसमा वसेत्।</div><div class="line" style="position:relative;">स शूद्रत्वं व्रजेद्विप्रो नात्र कार्या विचारणा॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b4588"><div class="verse-block verse-justify"><div class="line">उत्पादयति यः पुत्रं शूद्रायां काममोहितः।</div><div class="line" style="position:relative;">तस्य कायगतं ब्रह्म सद्य एव विनश्यति॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b4589"><div class="verse-block verse-justify"><div class="line">यः सोमलतिकां विप्रः केवलं भक्षयेद्वृथा।</div><div class="line" style="position:relative;">तस्य कायगतं ब्रह्म सद्य एव विनश्यति॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b4590"><div class="verse-block verse-justify"><div class="line">मैथुनं कुरुते यस्तु जिह्वायां ब्राह्मणो नृप।</div><div class="line" style="position:relative;">तस्य कायगतं ब्रह्म सद्य एव विनश्यति॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b4591"><div class="verse-block verse-justify"><div class="line">विप्रत्वं दुर्लभं प्राप्य दुर्मर्गैरेवमादिभिः।</div><div class="line" style="position:relative;">विनाशयन्ति ये तत्तु ताञ्शोचामि युधिष्ठिर॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b4592"><div class="verse-block verse-justify"><div class="line">तस्मात्सर्वप्रत्नेन मत्प्रियो यो युधिष्ठिर।</div><div class="line" style="position:relative;">जातिभ्रंशकरं कर्म न कुर्यादीदृशं द्विजः॥१४॥</div></div></div></div>

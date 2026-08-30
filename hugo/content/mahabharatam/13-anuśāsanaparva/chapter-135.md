@@ -1,0 +1,21 @@
+{
+ "title": "अध्यायः १३५",
+ "weight": 1350
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः १३५</h2>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5606"><div class="verse-block verse-justify"><div class="line">किंस्विद्दत्तं पितृभ्यो वै भवत्यक्षयमीश्वरः।</div><div class="line">किंस्विद्वहुफलं प्रोक्तं किमानन्त्याय कल्पते ॥भीष्म उवाच।</div><div class="line" style="position:relative;">॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5607"><div class="verse-block verse-justify"><div class="line">हवींषि श्राद्धकल्पे तु यानि श्राद्धविदो विदुः।</div><div class="line" style="position:relative;">तानि मे शृणु काम्यानि फलं चैषां युधिष्ठिर॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5608"><div class="verse-block verse-justify"><div class="line">तिलैर्व्रीहियवैर्माषैरद्भिर्मूलफलैस्तथा।</div><div class="line" style="position:relative;">दत्तेन मासं प्रीयन्ते श्राद्धेन पितरो नृप॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5609"><div class="verse-block verse-justify"><div class="line">वर्धमानतिलं श्राद्धमक्षयं मनुरब्रवीत्।</div><div class="line" style="position:relative;">सर्वेष्वेव तु भोज्येषु तिलाः प्राधान्यतः स्मृताः॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5610"><div class="verse-block verse-justify"><div class="line">द्वौ मासौ तु भवेत्तुप्तिर्मत्स्यैः तितृगणस्य ह।</div><div class="line" style="position:relative;">त्रीन्मासानाविकेनाहुश्चतुर्मासं शशेन ह॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5611"><div class="verse-block verse-justify"><div class="line">आजेन मासान्प्रीयन्ते पञ्चैव पितरो नृप।</div><div class="line" style="position:relative;">वाराहेण तु षण्मासान्सप्त वै शाकुलेन तु॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5612"><div class="verse-block verse-justify"><div class="line">मासानष्टौ पार्षतेन रौरवेण नव प्रभो।</div><div class="line" style="position:relative;">गवयस्य तु मांसेन तृप्तिः स्याद्दशमासिकी॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5613"><div class="verse-block verse-justify"><div class="line">मांसेनेकादश प्रीतिः पितॄणां माहिषेण तु।</div><div class="line" style="position:relative;">गव्येन दत्ते श्राद्धे तु संवत्सरमिहोच्यते॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5614"><div class="verse-block verse-justify"><div class="line">यथा गव्यं तथा युक्तं पायसं सर्पिषा सह।</div><div class="line" style="position:relative;">वाध्रीणसस्य मांसेन तृप्तिर्द्वादशवार्षिकी॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5615"><div class="verse-block verse-justify"><div class="line">आन्त्याय भवेद्दतं खङ्गमांसं पितृक्षते।</div><div class="line" style="position:relative;">कालशाकं च लौहं चाप्यानन्त्यं छाग उच्यते॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5616"><div class="verse-block verse-justify"><div class="line">गाथाश्चाप्यत्र गायन्ति पितृगीता युधिष्ठिर।</div><div class="line" style="position:relative;">सनत्कुमारो भगवान्पुरा मध्यभ्यभाषत॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5617"><div class="verse-block verse-justify"><div class="line">अपि नः स्वकुले जायाद्यो नो दद्यात्त्रयोदशीम्।</div><div class="line" style="position:relative;">मघासु सर्पिःसंयुक्तं पायसं दक्षिणायने॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5618"><div class="verse-block verse-justify"><div class="line">आजेन वाऽपि लौहेन मघास्वेव यतव्रतः।</div><div class="line" style="position:relative;">हस्तिच्छायासु विधिवत्कर्णव्यजनवीजितम्॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5619"><div class="verse-block verse-justify"><div class="line">एष्टव्या बहवः पुत्रा यद्येकोपि गयां व्रजेत्।</div><div class="line" style="position:relative;">यत्रासौ प्रथितो लोकेष्वक्ष्यकरणो वटः॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5620"><div class="verse-block verse-justify"><div class="line">आपो मूलं फलं मांसमन्नं वाऽपि पितृक्षये।</div><div class="line" style="position:relative;">यत्किञ्चिन्मधुसंमिश्रं तदानन्त्याय कल्पते॥१५॥</div></div></div></div>

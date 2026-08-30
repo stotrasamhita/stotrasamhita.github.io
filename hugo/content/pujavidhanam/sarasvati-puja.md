@@ -1,5 +1,5 @@
 {
- "title": "Sarasvati Puja",
+ "title": "श्री-सरस्वती-पूजा",
  "slug": "sarasvati-puja",
  "source_file": "pujas/sarasvati-puja.tex",
  "verse_count": 40,

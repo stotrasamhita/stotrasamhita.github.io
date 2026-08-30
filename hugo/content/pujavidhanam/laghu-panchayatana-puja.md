@@ -1,5 +1,5 @@
 {
- "title": "Laghu Panchayatana Puja",
+ "title": "लघु-पञ्चायतन-पूजा",
  "slug": "laghu-panchayatana-puja",
  "source_file": "pujas/laghu-panchayatana-puja.tex",
  "verse_count": 18,

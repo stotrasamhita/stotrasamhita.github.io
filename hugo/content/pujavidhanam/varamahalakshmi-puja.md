@@ -1,5 +1,5 @@
 {
- "title": "Varamahalakshmi Puja",
+ "title": "श्री-वरमहालक्ष्मी-पूजा",
  "slug": "varamahalakshmi-puja",
  "source_file": "pujas/varamahalakshmi-puja.tex",
  "verse_count": 40,

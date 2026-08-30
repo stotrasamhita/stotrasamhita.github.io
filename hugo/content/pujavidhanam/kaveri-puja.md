@@ -1,5 +1,5 @@
 {
- "title": "Kaveri Puja",
+ "title": "श्री-कावेरी-पूजा",
  "slug": "kaveri-puja",
  "source_file": "pujas/kaveri-puja.tex",
  "verse_count": 52,

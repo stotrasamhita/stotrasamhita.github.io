@@ -1,5 +1,5 @@
 {
- "title": "Lakshmi Kubera Puja",
+ "title": "श्री-लक्ष्मी--कुबेर-पूजा",
  "slug": "lakshmi-kubera-puja",
  "source_file": "pujas/lakshmi-kubera-puja.tex",
  "verse_count": 28,

@@ -1,0 +1,24 @@
+{
+ "title": "अध्यायः २५९",
+ "weight": 2590
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः २५९</h2>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b10401"><div class="verse-block verse-justify"><div class="line">जनमेजय उवाच।</div><div class="line" style="position:relative;">॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b10402"><div class="verse-block verse-justify"><div class="line">दुर्योधनं मोक्षयित्वा पाण्डुपुत्रा महाबलाः।</div><div class="line">किमकार्षुर्वने तस्मिंस्तन्ममाख्यातुमर्हसि ॥वैशंपायन उवाच।</div><div class="line" style="position:relative;">॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b10403"><div class="verse-block verse-justify"><div class="line">ततः शयानं कौन्तेयं रात्रौ द्वैतवन मृगाः।</div><div class="line" style="position:relative;">स्वप्नान्ते दर्शयामासुर्बाष्पकण्ठा युधिष्ठिरम्॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b10404"><div class="verse-block verse-justify"><div class="line">तानब्रवीत्स राजेन्द्रो वेपमानान्कृताञ्जलीन्।</div><div class="line" style="position:relative;">ब्रूत यद्वक्तुकामाः स्थ के भवन्तः किमिष्यते॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b10405"><div class="verse-block verse-justify"><div class="line">एवमुक्ताः पाण्डवेन कौन्तेयेन यशस्विना।</div><div class="line" style="position:relative;">प्रत्यब्रुवन्मृगास्तत्रहतशेषा युधिष्ठिरम्॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b10406"><div class="verse-block verse-justify"><div class="line">वयं मृगा द्वैतवने हतशिष्टास्तु भारत।</div><div class="line" style="position:relative;">नोत्सीदेम महाराज क्रियतां वासपर्ययः॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b10407"><div class="verse-block verse-justify"><div class="line">भवन्तो भ्रातरः शूराः सर्व एवास्त्रकोविदाः।</div><div class="line" style="position:relative;">कुलान्यल्पावशिष्टानि कृतवन्तो वनौकसाम्॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b10408"><div class="verse-block verse-justify"><div class="line">बीजभूता वयं केचिदवशिष्टा महामते।</div><div class="line" style="position:relative;">विवर्धेमहि राजेन्द्र प्रसादात्ते युधिष्ठिर॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b10409"><div class="verse-block verse-justify"><div class="line">तान्वेपमानान्वित्रस्तान्बीजमात्रावशेषितान्।</div><div class="line" style="position:relative;">मृगान्दृष्ट्वा सुदुःखार्तो धर्मराजो युधिष्ठिरः॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b10410"><div class="verse-block verse-justify"><div class="line">तांस्तथेत्यब्रवीद्राजा सर्वभूतहिते रतः।</div><div class="line" style="position:relative;">यथा भवन्तो ब्रुवते करिष्यामि च तत्तथा॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b10411"><div class="verse-block verse-justify"><div class="line">इत्येवं प्रतिबुद्धः स रात्र्यन्ते राजसत्तमः।</div><div class="line" style="position:relative;">अब्रवीत्सहितान्भ्रातॄन्दयापन्नो मृगान्प्रति॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b10412"><div class="verse-block verse-justify"><div class="line">उक्तो रात्रौ मृगैरस्मि स्वप्नान्ते हतशेषितैः।</div><div class="line" style="position:relative;">तनुभूताः स्म भद्रं ते दया नः क्रियतामिति॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b10413"><div class="verse-block verse-justify"><div class="line">ते सत्यमाहुः कर्तव्या दयाऽस्माभिर्वनौकसाम्।</div><div class="line" style="position:relative;">साष्टमासं हि नो वर्षं यदेनानुपयुंक्ष्महे॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b10414"><div class="verse-block verse-justify"><div class="line">पुनर्वहुमृगं रम्यं काम्यकं काननोत्तमम्।</div><div class="line">तत्रेमां वसतिं शिष्टां विहरन्तो रमेमहि ॥वैशंपायन उवाच।</div><div class="line" style="position:relative;">॥१४॥</div></div></div>
+<p class="prose">ततस्ते पाण्डवाः शीघ्रं प्रययुर्धर्मकोविदाः</p>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b10416"><div class="verse-block verse-justify"><div class="line">ब्राह्मणैः सहिता राजन्ये च तत्रसहोषिताः।</div><div class="line" style="position:relative;">इन्द्रसेनादिभिश्चैव प्रेष्यैरनुगतास्तदा॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b10417"><div class="verse-block verse-justify"><div class="line">ते यात्वा सुसुखैर्मार्गैः स्वन्नैः शुचिजलान्वितैः।</div><div class="line" style="position:relative;">ददृशुः काम्यकं पुण्यमाश्रमं तापसान्वितम्॥१६॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b10418"><div class="verse-block verse-justify"><div class="line">विविशुस्ते स्म कौरव्या वृता विप्रर्षभैस्तदा।</div><div class="line" style="position:relative;">तद्वनं भरतश्रेष्ठाः स्वर्गं सुकृतिनो यथा॥१७॥</div></div></div></div>

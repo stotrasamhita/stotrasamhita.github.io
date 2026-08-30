@@ -1,0 +1,23 @@
+{
+ "title": "अध्यायः २७",
+ "weight": 270
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः २७</h2>
+<div class="verse-block-wrapper" id="01-ādiparva-b1383"><div class="verse-block verse-justify"><div class="line">सौतिरुवाच।</div><div class="line" style="position:relative;">॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1384"><div class="verse-block verse-justify"><div class="line">संप्रहृष्टास्ततो नागा जलधाराप्लुतास्तदा।</div><div class="line" style="position:relative;">सुपर्णेनोह्यमानास्ते जग्मुस्तं द्वीपमाशु वै॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1385"><div class="verse-block verse-justify"><div class="line">तं द्वीपं मकरावासं विहितं विश्वकर्मणा।</div><div class="line" style="position:relative;">तत्र ते लवणं घोरं ददृशुः पूर्वमागताः॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1386"><div class="verse-block verse-justify"><div class="line">सुपर्णसहिताः सर्पाः काननं च मनोरमम्।</div><div class="line" style="position:relative;">सागराम्बुपरिक्षिप्तं पक्षिसङ्घनिजादितम्॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1387"><div class="verse-block verse-justify"><div class="line">विचित्रफलपुष्पाभिर्वनराजिभिरावृतम्।</div><div class="line" style="position:relative;">भवनैरावृतं रम्यैस्तथा पद्माकरैरपि॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1388"><div class="verse-block verse-justify"><div class="line">प्रसन्नसलिलैश्चापि ह्वदैर्दिव्यैर्विभूषितम्।</div><div class="line" style="position:relative;">दिव्यगन्धवहैः पुण्यैर्मारुतैरुपवीजितम्॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1389"><div class="verse-block verse-justify"><div class="line">उत्पतद्भिरिवाकाशं वृक्षैर्मलयजैरपि।</div><div class="line" style="position:relative;">शोभितं पुष्पवर्षाणि मुञ्चद्भिर्मारुतोद्धतैः॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1390"><div class="verse-block verse-justify"><div class="line">वायुविक्षिप्तकुसुमैस्तथाऽन्यैरपि पादपैः।</div><div class="line" style="position:relative;">किरद्भिरिव तत्रस्थान्नागान्पुष्पाम्बुवृष्टिभिः॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1391"><div class="verse-block verse-justify"><div class="line">मनःसंहर्षजं दिव्यं गन्धर्वाप्सरसां प्रियम्।</div><div class="line" style="position:relative;">मत्तभ्रमस्संघुष्टं मनोज्ञाकृतिदर्शनम्॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1392"><div class="verse-block verse-justify"><div class="line">रमणीयं शिवं पुण्यं सर्वैर्जनमनोहरैः।</div><div class="line" style="position:relative;">नानापक्षिरुतं रम्यं कद्रूपुत्रप्रहर्षणम्॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1393"><div class="verse-block verse-justify"><div class="line">तत्ते वनं समासाद्य विजह्रुः पन्नगास्तदा।</div><div class="line" style="position:relative;">अब्रुवंश्च महावीर्यं सुपर्णं पतगेश्वरम्॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1394"><div class="verse-block verse-justify"><div class="line">वहास्मानपरं द्वीपं सुरम्यं विमलोदकम्।</div><div class="line">त्वं हि देशान्बहून्रम्यान्व्रजन्पश्यसि खेचर ॥सौतिरुवाच।</div><div class="line" style="position:relative;">॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1395"><div class="verse-block verse-justify"><div class="line">स विचिन्त्याब्रवीत्पक्षी मातरं विनतो तदा।</div><div class="line">किं कारणं मया मातः कर्तव्यं सर्पभाषितम् ॥विनतोवाच।</div><div class="line" style="position:relative;">॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1396"><div class="verse-block verse-justify"><div class="line">दासीभूतास्मि दुर्योगात्सपत्न्याः पतगोत्तम।</div><div class="line">पणं वितथमास्थाय सर्पैरुपधिना कृतम् ॥सौतिरुवाच।</div><div class="line" style="position:relative;">॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1397"><div class="verse-block verse-justify"><div class="line">तस्मिंस्तु कथिते मात्रा कारणे गगनेतरः।</div><div class="line" style="position:relative;">उवाच वचनं सर्पांस्तेन दुःखेन दुःखितः॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1398"><div class="verse-block verse-justify"><div class="line">किमाहृत्य विदित्वा वा किं वा कृत्वेह पौरुषम्।</div><div class="line">दास्याद्वो विप्रमुच्येयं तथ्यं वदत लेलिहाः ॥सौतिरुवाच।</div><div class="line" style="position:relative;">॥१६॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1399"><div class="verse-block verse-justify"><div class="line">श्रुत्वा समब्रुवन्सर्पा आहरामृतमोजसा।</div><div class="line" style="position:relative;">ततो दास्याद्विप्रमोक्षो भविता तव खेचर॥१७॥</div></div></div></div>

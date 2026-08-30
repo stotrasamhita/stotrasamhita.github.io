@@ -1,5 +1,5 @@
 {
- "title": "Surya Puja",
+ "title": "श्री-सूर्य-पूजा",
  "slug": "surya-puja",
  "source_file": "pujas/surya-puja.tex",
  "verse_count": 44,

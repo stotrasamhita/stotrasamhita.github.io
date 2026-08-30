@@ -1,5 +1,5 @@
 {
- "title": "Chitragupta Puja",
+ "title": "श्री-चित्रगुप्त-पूजा",
  "slug": "chitragupta-puja",
  "source_file": "pujas/chitragupta-puja.tex",
  "verse_count": 29,

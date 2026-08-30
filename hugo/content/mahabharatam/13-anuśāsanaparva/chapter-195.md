@@ -1,0 +1,23 @@
+{
+ "title": "अध्यायः १९५",
+ "weight": 1950
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः १९५</h2>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b8062"><div class="verse-block verse-justify"><div class="line">ततः पद्मप्रतीकाशः पद्मोद्भूतः पितामहः।</div><div class="line" style="position:relative;">उवाच वचनं देवान्वासवं च शचीपतिम्॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b8063"><div class="verse-block verse-justify"><div class="line">अयं महाबलो नागो रसातलचरो बली।</div><div class="line" style="position:relative;">तेजस्वी रेणुको नाम महासत्वपराक्रमः॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b8064"><div class="verse-block verse-justify"><div class="line">अतितेजस्विनः सर्वे महावीर्या महागजाः।</div><div class="line" style="position:relative;">धारयन्ति महीं कृत्स्नां सशैलवनकाननाम्॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b8065"><div class="verse-block verse-justify"><div class="line">भवद्भिः समनुज्ञातो रेणुकस्तान्महागजान्।</div><div class="line" style="position:relative;">धर्मगुह्यानि सर्वाणि गत्वा पृच्छतु तत्र वै॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b8066"><div class="verse-block verse-justify"><div class="line">पितामहवचःक श्रुत्वा ते देवा रेणुकं तदा।</div><div class="line">प्रेषयामासुरव्यग्रा यत्र ते धरणीधराः ॥रेणुक उवाच।</div><div class="line" style="position:relative;">॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b8067"><div class="verse-block"><div class="line">अनुज्ञातोऽस्मि देवैश्च पितृभिस्चक महाबलाः</div><div class="line pada-even">धर्मगुह्यानि युष्माकं श्रोतुमिच्छामि तत्त्वतः।</div><div class="line">कथयध्वं महाभागा यद्वस्तत्त्वं मनीषितम् ॥दिग्गजा ऊचुः</div><div class="line pada-even" style="position:relative;">॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b8068"><div class="verse-block verse-justify"><div class="line">कार्तिके मासि चाश्लेषा बहुलस्याष्टमी शिवा।</div><div class="line">तेन नक्षत्रयोगेन यो ददाति गुडौदनम्।</div><div class="line" style="position:relative;">इमं मन्त्रं जपच्छ्राद्धे यताहारो ह्यकोपनः॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b8069"><div class="verse-block verse-justify"><div class="line">बलदेवप्रभृतयो ये नागा बलवत्तराः।</div><div class="line" style="position:relative;">अनन्ता ह्यक्षया नित्यं भोगिनः सुमहाबलाः॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b8070"><div class="verse-block verse-justify"><div class="line">तेषां कुलोद्भवा ये च महाभूता भुजङ्गमाः।</div><div class="line" style="position:relative;">ते मे बलिं प्रयच्छन्तु बलतेजोभिवृद्धये॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b8071"><div class="verse-block verse-justify"><div class="line">यदा नारायणः श्रीमानुज्जहार वसुन्धराम्।</div><div class="line" style="position:relative;">तद्बलं तस्य देवस्य धरामुद्धरतस्तथा॥१०॥</div></div></div>
+<p class="prose">एवमुक्त्वा बलिं तत्र वल्मीके तु निवेदयेत्</p>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b8073"><div class="verse-block verse-justify"><div class="line">गजेन्द्रकुसुमाकीर्णं नीलवस्त्रानुलेपनम्।</div><div class="line" style="position:relative;">निर्वपेत्तं तु वल्मीके अस्तं याते दिवाकरे॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b8074"><div class="verse-block verse-justify"><div class="line">एवं तुष्टास्ततः सर्वे अधस्ताद्भारपीडिताः।</div><div class="line" style="position:relative;">श्रमं तं नावबुध्यामो धारयन्तो वसुन्धराम्॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b8075"><div class="verse-block verse-justify"><div class="line">एवं मन्यामहे सर्वे भारार्ता निरपेक्षिणः।</div><div class="line" style="position:relative;">ब्राह्मणः क्षत्रियो वैश्यः शूद्रो वा यद्युपोषितः॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b8076"><div class="verse-block verse-justify"><div class="line">एवं संवत्सरं कृत्वा दानं बहुफलं लभेत्।</div><div class="line" style="position:relative;">वल्मीके बलिमादाय तन्नो बहुफलं मतम्॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b8077"><div class="verse-block verse-justify"><div class="line">ये च नागा महावीर्यास्त्रिषु लोकेषु कृत्स्नशः।</div><div class="line" style="position:relative;">कृतातिथ्या भवेयुस्ते शतं वर्षाणि तत्त्वतः॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b8078"><div class="verse-block verse-justify"><div class="line">दिग्गजानां च तच्छ्रुत्वा देवताः पितरस्तथा।</div><div class="line" style="position:relative;">ऋषयश्च महाभागाः पूजयन्ति स्म रेणुकम् ॥]॥१६॥</div></div></div></div>

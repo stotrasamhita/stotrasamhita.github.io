@@ -1,0 +1,23 @@
+{
+ "title": "अध्यायः ५३",
+ "weight": 530
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः ५३</h2>
+<div class="verse-block-wrapper" id="05-udyogaparva-b2228"><div class="verse-block verse-justify"><div class="line">धृतराष्ट्र उवाच।</div><div class="line" style="position:relative;">॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b2229"><div class="verse-block verse-justify"><div class="line">यथैव पाण्डवाः सर्वे पराक्रान्ता जिगीषवः।</div><div class="line" style="position:relative;">तथौभिसरास्तेषां त्यक्तात्मानो जये धृताः॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b2230"><div class="verse-block verse-justify"><div class="line">......हि पराक्रान्तानाचक्षीथाः परान्मम।</div><div class="line" style="position:relative;">पाञ्चालान्केकयान्मत्स्यान्मागधान्वत्सभूमिपान्॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b2231"><div class="verse-block verse-justify"><div class="line">यश्च सेन्द्रानिमाँल्लोकानिच्छन्कुर्याद्वशे बली।</div><div class="line" style="position:relative;">स स्रष्टा जगतः कृष्णः पाण्डवानां जये धृतः॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b2232"><div class="verse-block verse-justify"><div class="line">समस्तामर्जुनाद्विद्यां सात्यकिः क्षिप्रमाप्तवान्।</div><div class="line" style="position:relative;">शैनेयः समरे स्थाता बीजवत्प्रवपञ्शरान्॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b2233"><div class="verse-block verse-justify"><div class="line">धृष्टद्युम्नश्च पाञ्चाल्यः क्रूरकर्मा महारथः।</div><div class="line" style="position:relative;">मामकेषु रणं कर्ता बलेषु परमास्त्रवित्॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b2234"><div class="verse-block verse-justify"><div class="line">युधिष्ठिरस्य च क्रोधादर्जुनस्य च विक्रमात्।</div><div class="line" style="position:relative;">मयाभ्यां भीमसेनाच्च भयं मे तात जायते॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b2235"><div class="verse-block verse-justify"><div class="line">अमानुषं मनुष्येन्द्रैर्जालं विततमन्तरा।</div><div class="line" style="position:relative;">न मे सैन्यास्तरिष्यन्ति ततः क्रोशामि सञ्जय॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b2236"><div class="verse-block verse-justify"><div class="line">दर्शनीयो मनस्वी च लक्ष्मीवान्ब्रह्मवर्चसी।</div><div class="line" style="position:relative;">मेधावी सुकृतप्रज्ञो धर्मात्मा पाण्डुनन्दनः॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b2237"><div class="verse-block verse-justify"><div class="line">मित्रामात्यैः सुसंपन्नः संपन्नो युद्धयोजकैः।</div><div class="line" style="position:relative;">भ्रातृभिः श्वशुरैर्वीरैरुपपन्नो महारथैः॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b2238"><div class="verse-block verse-justify"><div class="line">धृत्या च पुरुषव्याघ्रो नैभृत्येन च पाण्डवः।</div><div class="line" style="position:relative;">अनुशंसो वदान्यश्च हीमान्सत्यपराक्रमः॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b2239"><div class="verse-block verse-justify"><div class="line">बहुश्रुतः कृतात्मा च वृद्धसेवी जितेन्द्रियः।</div><div class="line" style="position:relative;">तं सर्वगुणसंपन्नं समिद्धमिव पावकम्॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b2240"><div class="verse-block verse-justify"><div class="line">तपन्तमभि को मन्दः पतिष्यति पतङ्गवत्।</div><div class="line" style="position:relative;">पाण्डवाग्निमनावार्यं मुमूर्षुर्नष्टचेतनः॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b2241"><div class="verse-block verse-justify"><div class="line">तनुरुच्चः शिखी राजा मिथ्योपचरितो मया।</div><div class="line" style="position:relative;">मन्दानां मम पुत्राणां युद्धेनान्तं करिष्यति॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b2242"><div class="verse-block verse-justify"><div class="line">तैरयुद्धं साधु मन्ये कुरवस्तन्निबोधत।</div><div class="line" style="position:relative;">युद्धे विनाशः कृत्स्नस्य कुलस्य भविता ध्रुवम्॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b2243"><div class="verse-block verse-justify"><div class="line">एषा मे परमा बुद्धिर्यया शाम्यति मे मनः।</div><div class="line" style="position:relative;">यदि त्वयुद्धमिष्टं वो वयं शान्त्यै यतामहे॥१६॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b2244"><div class="verse-block verse-justify"><div class="line">न तु नः क्लिश्यमानानामुपेक्षेत युधिष्ठिरः।</div><div class="line" style="position:relative;">जुगुप्सति ह्यधर्मेण मामेवोद्दिश्य कारणम्॥१७॥</div></div></div></div>

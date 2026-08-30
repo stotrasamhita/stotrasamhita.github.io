@@ -1,5 +1,5 @@
 {
- "title": "Janmashtami Puja",
+ "title": "श्री-कृष्णजन्माष्टमी-पूजा",
  "slug": "janmashtami-puja",
  "source_file": "pujas/janmashtami-puja.tex",
  "verse_count": 76,

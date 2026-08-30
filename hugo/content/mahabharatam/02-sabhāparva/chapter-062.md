@@ -1,0 +1,24 @@
+{
+ "title": "अध्यायः ६२",
+ "weight": 620
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः ६२</h2>
+<div class="verse-block-wrapper" id="02-sabhāparva-b2581"><div class="verse-block verse-justify"><div class="line">एवमुक्त्वा ततो भीष्णो विरराम महाबलः।</div><div class="line" style="position:relative;">व्याजहारोत्तरं तत्र सहदेवोऽर्थवद्वचः॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b2582"><div class="verse-block verse-justify"><div class="line">केशवं केशिहन्तारमप्रमेयपराक्रमम्।</div><div class="line" style="position:relative;">पूज्यमानं मया यो वः कृष्णं न सहते नृपाः॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b2583"><div class="verse-block verse-justify"><div class="line">सर्वेषां बलिनां मूर्ध्नि मयेदं निहितं पदम्।</div><div class="line" style="position:relative;">एवमुक्ते मया सम्यगुत्तरं प्रब्रवीतु सः॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b2584"><div class="verse-block verse-justify"><div class="line">स एव हि मया वध्यो भविष्यति न संशयः।</div><div class="line" style="position:relative;">मतिमन्तश्च ये केचिदाचार्यं पितरं गुरुम्॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b2585"><div class="verse-block verse-justify"><div class="line">अर्च्यमर्चितमर्घार्हमनुजानन्तु ते नृपाः।</div><div class="line" style="position:relative;">ततो न व्याजहारैषां कश्चिद्बुद्धिमतां सताम्॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b2586"><div class="verse-block verse-justify"><div class="line">मानिनां बलिनां राज्ञां मध्ये वै दर्शिते पदे।</div><div class="line" style="position:relative;">ततोऽपतत्पुष्पवृष्टिः सहदेवस्य मूर्धनि॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b2587"><div class="verse-block verse-justify"><div class="line">अदृश्यरूपा वाचश्चाप्यब्रुवन्साधुसाध्विति।</div><div class="line" style="position:relative;">अविध्यदजिनं कृष्णं भविष्यद्भूतजल्पनः॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b2588"><div class="verse-block verse-justify"><div class="line">सर्वसंशयनिर्मोक्ता नारदः सर्वलोकवित्।</div><div class="line" style="position:relative;">उवाचाखिलभूतानां मध्ये स्पष्टतरं वचः॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b2589"><div class="verse-block verse-justify"><div class="line">कृष्णं कमलपत्राक्षं नार्चयिष्यन्ति ये नराः।</div><div class="line">जीवन्मृतास्तु ते ज्ञेया न सभाष्याः कदाचना ॥वैशम्पायन उवाच।</div><div class="line" style="position:relative;">॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b2590"><div class="verse-block verse-justify"><div class="line">पूजयित्वा च पूजार्हान्ब्रह्मक्षत्रविशेषवित्।</div><div class="line" style="position:relative;">सहदेवो नृणां देवः समापयत कर्म तत्॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b2591"><div class="verse-block verse-justify"><div class="line">तस्मिन्नभ्यर्चिते कृष्णे सुनीथः शत्रुकर्षणः।</div><div class="line" style="position:relative;">अतिताम्रेक्षणः कोपादुवाच मनुजाधिपान्॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b2592"><div class="verse-block verse-justify"><div class="line">स्थितः सेनापतिर्योऽहं मन्वध्वं किं तु साम्प्रतम्।</div><div class="line" style="position:relative;">युधि तिष्ठाम सन्नह्य समेतान्वृष्णिपाण्डवान्॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b2593"><div class="verse-block verse-justify"><div class="line">इति सर्वान्समुत्साद्य राज्ञस्तांशअचेदिपुङ्गवः।</div><div class="line" style="position:relative;">यज्ञोपघाताय ततः सोऽमन्त्रतय राजभिः॥१३॥</div></div></div>
+<p class="prose">तत्राहूतागताः सर्वे सुनीथप्रमुखा गणाः.समदृश्यन्त सङ्क्रुद्धा विवर्णवदनास्तथा</p>
+<div class="verse-block-wrapper" id="02-sabhāparva-b2595"><div class="verse-block verse-justify"><div class="line">युधिष्ठिराभिषेकं च वासुदेवस्य चार्हणम्।</div><div class="line" style="position:relative;">न स्याद्यथा तथा कार्यमेवं सर्वे तदाऽब्रुवन्॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b2596"><div class="verse-block verse-justify"><div class="line">निष्कर्षान्निश्चयात्सर्वे राजानः क्रोधमूर्छिताः।</div><div class="line" style="position:relative;">अब्रुवंस्तत्र राजानो निर्वेदादात्मनिश्चयात्॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b2597"><div class="verse-block verse-justify"><div class="line">सुहृद्भिर्वार्यमाणानां तेषां हि वपुराबभौ।</div><div class="line" style="position:relative;">आमिषादपकृष्टानां सिहानामिव गर्जताम्॥१६॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b2598"><div class="verse-block verse-justify"><div class="line">तं बलौघमपर्यन्तं राजसागारमक्षयम्।</div><div class="line" style="position:relative;">कुर्वाणं समयं कृष्णो युद्धाय बुबुधे तदा॥१७॥</div></div></div></div>

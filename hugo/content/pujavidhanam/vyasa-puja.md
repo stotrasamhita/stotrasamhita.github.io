@@ -1,5 +1,5 @@
 {
- "title": "Vyasa Puja",
+ "title": "श्री-व्यास-पूर्णिमा-पूजा",
  "slug": "vyasa-puja",
  "source_file": "pujas/vyasa-puja.tex",
  "verse_count": 10,

@@ -1,0 +1,26 @@
+{
+ "title": "अध्यायः १००",
+ "weight": 1000
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः १००</h2>
+<div class="verse-block-wrapper" id="05-udyogaparva-b3771"><div class="verse-block verse-justify"><div class="line">नारद उवाच।</div><div class="line" style="position:relative;">॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b3772"><div class="verse-block verse-justify"><div class="line">हिरण्यपुरमित्येतत्ख्यातं पुरवरं महत्।</div><div class="line" style="position:relative;">दैत्यानां दानवानां च मायाशतविचारिणाम्॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b3773"><div class="verse-block verse-justify"><div class="line">अनल्पेन प्रयत्नेन निर्मितं विश्वकर्मणा।</div><div class="line" style="position:relative;">मयेन मनसा सृष्टं पातालतलमाश्रितम्॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b3774"><div class="verse-block verse-justify"><div class="line">अत्र मायासहस्राणि वविकुर्वाणा महौजसः।</div><div class="line" style="position:relative;">दानवा निवसन्ति स्म शूरा दत्तवराः पुरा॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b3775"><div class="verse-block verse-justify"><div class="line">नैते शक्रेण नान्येन यमेन वरुणेन वा।</div><div class="line" style="position:relative;">शक्यन्ते वशमानेतुं तथैव धनदेन च॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b3776"><div class="verse-block verse-justify"><div class="line">असुराः कालखञ्जाश्च तथा वुष्णुपदोद्भवाः।</div><div class="line" style="position:relative;">नैर्ऋता यातुधानाश्च ब्रह्मपादोद्भवाश्च ये॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b3777"><div class="verse-block verse-justify"><div class="line">दंष्ट्रिणो भीमवेगाश्च वातवेगपराक्रमाः।</div><div class="line" style="position:relative;">मायावीर्योपसंपन्ना निवसन्त्यत्र मातले॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b3778"><div class="verse-block verse-justify"><div class="line">निवातकवचा नाम दानवा युद्धदुर्मदाः।</div><div class="line" style="position:relative;">जानासि च यथा शक्रो नैताञ्शक्रोति बाधितुं॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b3779"><div class="verse-block verse-justify"><div class="line">बहुशो मातले त्वं च तव पुत्रश्च गोमुखः।</div><div class="line" style="position:relative;">निर्भग्नो देवराजश्च सहपुत्रः शचीपतिः॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b3780"><div class="verse-block verse-justify"><div class="line">पश्य वेश्मानि रौक्माणि मातले राजतानि च।</div><div class="line" style="position:relative;">कर्मणा विधियुक्तेन युक्तान्युपगतानि च॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b3781"><div class="verse-block verse-justify"><div class="line">वैदूर्यमणिचित्राणि प्रवालरुचिराणि च।</div><div class="line" style="position:relative;">अर्कस्फटिकशुभ्राणि वज्रसारोञ्ज्वलानि च॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b3782"><div class="verse-block verse-justify"><div class="line">पार्थिवानीव चाभास्ति पद्मरागमयानि च।</div><div class="line" style="position:relative;">शैलानीव च दृश्यन्ते दारवाणीव चाप्युत॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b3783"><div class="verse-block verse-justify"><div class="line">सूर्यरूपाणि चाभान्ति दीप्ताग्निसदृशानि च।</div><div class="line" style="position:relative;">मणिजालविचित्राणि प्रांशूनि निबिडानि च॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b3784"><div class="verse-block verse-justify"><div class="line">नैतानि शक्यं निर्देष्टु रूपतो द्रव्यतस्तथा।</div><div class="line" style="position:relative;">गुणतश्चैव सिद्धानि प्रमाणगुणवन्ति च॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b3785"><div class="verse-block verse-justify"><div class="line">आक्रीडान्पश्य दैत्यानां तथैव शयनान्युत।</div><div class="line" style="position:relative;">रत्नवन्ति महार्हाणि भाजनान्यासनानि च॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b3786"><div class="verse-block verse-justify"><div class="line">जलदाभांस्तथा शैलांस्तोयप्रस्रवणानि च।</div><div class="line" style="position:relative;">कामपुष्पफलांश्चापि पादपान्कापचारिणः॥१६॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b3787"><div class="verse-block verse-justify"><div class="line">मातले कश्चिदत्रापि रुचिरस्ते वरो भवेत्।</div><div class="line" style="position:relative;">अथवाऽन्यां दिशं भूमेर्गच्छाव यदि मन्यसे॥१७॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b3788"><div class="verse-block verse-justify"><div class="line">मातलिस्त्वब्रवीदेनं भाषमाणं तथाविधम्।</div><div class="line" style="position:relative;">देवर्षे नैव मे कार्यं विप्रियं त्रिदिवौकसाम्॥१८॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b3789"><div class="verse-block verse-justify"><div class="line">नित्यानुषक्तवैरा हि भ्रातरो देवदानवाः।</div><div class="line" style="position:relative;">परपक्षेण संबन्धं रोचयिष्याम्यहं कथम्॥१९॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b3790"><div class="verse-block verse-justify"><div class="line">अन्यत्र साधु गच्छाव द्रष्टुं नार्हामि दानवान्।</div><div class="line" style="position:relative;">जानामि तव चात्मानं हिंसात्मकमनं तथा॥२०॥</div></div></div></div>

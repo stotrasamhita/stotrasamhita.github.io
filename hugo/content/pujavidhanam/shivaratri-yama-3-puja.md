@@ -1,5 +1,5 @@
 {
- "title": "Shivaratri Yama 3 Puja",
+ "title": "प्रधान-पूजा — साम्ब-परमेश्वर-पूजा (तृतीय-यामः)",
  "slug": "shivaratri-yama-3-puja",
  "source_file": "pujas/shivaratri-yama-3-puja.tex",
  "verse_count": 12,

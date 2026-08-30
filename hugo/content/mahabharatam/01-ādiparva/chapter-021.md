@@ -1,0 +1,25 @@
+{
+ "title": "अध्यायः २१",
+ "weight": 210
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः २१</h2>
+<div class="verse-block-wrapper" id="01-ādiparva-b1269"><div class="verse-block verse-justify"><div class="line">सौतिरुवाच।</div><div class="line" style="position:relative;">॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1270"><div class="verse-block verse-justify"><div class="line">ततो रजन्यां व्युष्टायां प्रभातेऽभ्युदिते रवौ।</div><div class="line" style="position:relative;">कद्रूश्च विनता चैव भगिन्यौ ते तपोधन॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1271"><div class="verse-block verse-justify"><div class="line">अमर्षिते सुसंरब्धे दास्ये कृतपणे तदा।</div><div class="line">`स्मगरस्य परं पारं वेलावनविभूषितम्।</div><div class="line" style="position:relative;">'जग्मतुस्तुरगं द्रष्टुमुच्चैःश्रवसमन्तिकात्॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1272"><div class="verse-block verse-justify"><div class="line">ददृशातेऽथ ते तत्र समुद्रं निधिमम्भसाम्।</div><div class="line" style="position:relative;">महान्तमुदकागाधं क्षोभ्यमाणं महास्वनम्॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1273"><div class="verse-block verse-justify"><div class="line">तिमिंगिलझषाकीर्णं मकरैरावृतं तथा।</div><div class="line" style="position:relative;">सत्वैश्च बहुसाहस्रैर्नानारूपैः समावृतम्॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1274"><div class="verse-block verse-justify"><div class="line">भीषणैर्विकृतैरन्यैर्घोरैर्जलचरैस्तथा।</div><div class="line" style="position:relative;">उग्रैर्नित्यमनाधृष्यं कूर्मग्राहसमाकुलम्॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1275"><div class="verse-block verse-justify"><div class="line">आकरं सर्वरत्नानामालयं वरुणस्य च।</div><div class="line" style="position:relative;">नागानामालयं रम्यमुत्तमं सरितां पतिम्॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1276"><div class="verse-block verse-justify"><div class="line">पातालज्वलनावासमसुराणां च बान्धवम्।</div><div class="line" style="position:relative;">भयंकरं च सत्त्वानां पयसां निधिमर्णवम्॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1277"><div class="verse-block verse-justify"><div class="line">शुभं दिव्यममर्त्यानाममृतस्याकरं परम्।</div><div class="line" style="position:relative;">अप्रमेयमचिन्त्यं च सुपुण्यजलमद्भुतम्॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1278"><div class="verse-block verse-justify"><div class="line">घोरं जलचरारावरौद्रं भैरवनिःस्वनम्।</div><div class="line" style="position:relative;">गम्भीरावर्तकलिलं सर्वभूतभयंकरम्॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1279"><div class="verse-block verse-justify"><div class="line">वेलादोलानिलचलं क्षोभोद्वेगसमुच्छ्रितम्।</div><div class="line" style="position:relative;">वीचीहस्तैः प्रचलितैर्नृत्यन्तमिव सर्वतः॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1280"><div class="verse-block verse-justify"><div class="line">चन्द्रवृद्धिक्षयवशादुद्वृत्तोर्मिसमाकुलम्।</div><div class="line" style="position:relative;">पाञ्चजन्यस्य जननं रत्नाकरमनुत्तमम्॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1281"><div class="verse-block verse-justify"><div class="line">गां विन्दता भगवता गोविन्देनामितौजसा।</div><div class="line" style="position:relative;">वराहरूपिणा चान्तर्विक्षोभितजलाविलम्॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1282"><div class="verse-block verse-justify"><div class="line">ब्रह्मर्षिणा व्रतवता वर्षाणां शतमत्रिणा।</div><div class="line" style="position:relative;">अनासादितगाधं च पातालतलमव्ययम्॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1283"><div class="verse-block verse-justify"><div class="line">अध्यात्मयोगनिद्रां च पद्मनाभस्य सेवतः।</div><div class="line" style="position:relative;">युगादिकालशयनं विष्णोरमिततेजसः॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1284"><div class="verse-block verse-justify"><div class="line">वज्रपातनसंत्रस्तमैनाकस्याभयप्रदम्।</div><div class="line" style="position:relative;">डिम्बाहवार्दितानां च असुराणां परायणम्॥१६॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1285"><div class="verse-block verse-justify"><div class="line">बडवामुखदीप्ताग्नेस्तोयहव्यप्रदं शिवम्।</div><div class="line" style="position:relative;">अगाधपारं विस्तीर्णमप्रमेयं सरित्पतिम्॥१७॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1286"><div class="verse-block verse-justify"><div class="line">महानदीभिर्बह्वीभिः स्पर्धयेव सहस्रशः।</div><div class="line">अभिसार्यमाणमनिशं ददृशाते महार्णवम्।</div><div class="line" style="position:relative;">आपूर्यमाणमत्यर्थं नृत्यमानमिवोर्मिभिः॥१८॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1287"><div class="verse-block verse-justify"><div class="line">गम्भीरं तिमिमकरोग्रसंकुलं तंगर्जन्तं जलचररावरौद्रनादैः।</div><div class="line" style="position:relative;">विस्तीर्णं ददृशतुरम्बरप्रकाशंतेऽगाधं निधिमुरुमम्भसामनन्तम्॥१९॥</div></div></div></div>

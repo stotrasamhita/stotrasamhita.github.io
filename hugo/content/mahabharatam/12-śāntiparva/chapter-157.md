@@ -1,0 +1,21 @@
+{
+ "title": "अध्यायः १५७",
+ "weight": 1570
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः १५७</h2>
+<div class="verse-block-wrapper" id="12-śāntiparva-b6530"><div class="verse-block verse-justify"><div class="line">युधिष्ठिर उवाच।</div><div class="line" style="position:relative;">॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b6531"><div class="verse-block verse-justify"><div class="line">अनर्थानामधिष्ठानमुक्तो लोभः पितामह।</div><div class="line">अज्ञानमपि कौरव्य श्रोतुमिच्छामि तत्त्वतः ॥भीष्म उवाच।</div><div class="line" style="position:relative;">॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b6532"><div class="verse-block verse-justify"><div class="line">करोति पापं योऽज्ञानान्नात्मनो वेत्ति च क्षमम्।</div><div class="line" style="position:relative;">द्विषते साधुवृत्तांश्च स लोकस्यैति वाच्यताम्॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b6533"><div class="verse-block verse-justify"><div class="line">अज्ञानान्निरयं याति तथा ज्ञानेन दुर्गतिम्।</div><div class="line">अज्ञानात्क्लेशमाप्नोति तथाऽऽपत्सु निमज्जति ॥युधिष्ठिर उवाच।</div><div class="line" style="position:relative;">॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b6534"><div class="verse-block verse-justify"><div class="line">प्रजानामप्रवृत्तिं च ज्ञानवृद्धिक्षयोदयान्।</div><div class="line" style="position:relative;">मूलं स्थानं गतिं कालं कारणं हेतुमेव च॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b6535"><div class="verse-block verse-justify"><div class="line">श्रोतुमिच्छामि तत्त्वेन यथावदिह पार्थिव।</div><div class="line">अज्ञानप्रसवं हीदं यद्दुःखमुपलभ्यते ॥भीष्म उवाच।</div><div class="line" style="position:relative;">॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b6536"><div class="verse-block verse-justify"><div class="line">रागो द्वेषस्तथा मोहो हर्षः शोकोऽभिमानिता।</div><div class="line" style="position:relative;">कामः क्रोधश्च दर्पश्च तन्द्री चालस्यमेव च॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b6537"><div class="verse-block verse-justify"><div class="line">इच्छा द्वेषस्तथा तापः परवृद्ध्युपतापिता।</div><div class="line" style="position:relative;">अज्ञानमेन्निर्दिष्टं पापानां चैव याः क्रियाः॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b6538"><div class="verse-block verse-justify"><div class="line">एतस्य वा प्रवृत्तेश्च वृद्ध्यादीन्यांश्च पृच्छसि।</div><div class="line" style="position:relative;">विस्तरेण महाराज शृणु तच्च विशेषतः॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b6539"><div class="verse-block verse-justify"><div class="line">उभावेतौ समफलौ समदोषौ च भारत।</div><div class="line" style="position:relative;">अज्ञानं चातिलोभश्चाप्येवं जानीहि पार्थिव॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b6540"><div class="verse-block verse-justify"><div class="line">लोभप्रभवमज्ञानं वृद्धं भूयः प्रवर्धते।</div><div class="line" style="position:relative;">स्थाने स्थानं क्षयेत्क्षीणमुपैति विविधां गतिम्॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b6541"><div class="verse-block verse-justify"><div class="line">मूलं लोभस्य मोहो वै कालात्मगतिरेव च।</div><div class="line" style="position:relative;">[छिन्ने भिन्ने तथा लोभे कारणं काल एव च ॥]॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b6542"><div class="verse-block verse-justify"><div class="line">तस्याज्ञानाद्धि लोभो हि कामात्मा गतिरेव च।</div><div class="line" style="position:relative;">सर्वे दोषास्तथा लोभात्तस्माल्लोभं विवर्जयेत्॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b6543"><div class="verse-block verse-justify"><div class="line">जनको युवनाश्वश्च पृषदश्वः प्रसेनजित्।</div><div class="line">लोभक्षयाद्दिवं प्राप्तास्तथैवान्ये नराधिपाः।</div><div class="line" style="position:relative;">`छिन्ने छिन्ने तथा लोभे दिवं प्राप्ता जनाधिपाः ॥'॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b6544"><div class="verse-block verse-justify"><div class="line">प्रत्यक्षं तु कुरुश्रेष्ठ त्यज लोभमिहात्मना।</div><div class="line" style="position:relative;">त्यक्त्वा लोभं सुखी लोके प्रेत्य चेह च मोदते॥१५॥</div></div></div></div>

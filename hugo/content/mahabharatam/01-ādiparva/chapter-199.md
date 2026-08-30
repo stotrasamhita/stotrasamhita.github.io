@@ -1,0 +1,23 @@
+{
+ "title": "अध्यायः १९९",
+ "weight": 1990
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः १९९</h2>
+<div class="verse-block-wrapper" id="01-ādiparva-b8985"><div class="verse-block verse-justify"><div class="line">अर्जुन उवाच।</div><div class="line" style="position:relative;">॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b8986"><div class="verse-block verse-justify"><div class="line">अस्माकमनुरूपो वै यः स्याद्गन्धर्व वेदवित्।</div><div class="line">पुरोहितस्तमाचक्ष्व सर्वं हि विदितं तव ॥गन्धर्व उवाच।</div><div class="line" style="position:relative;">॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b8987"><div class="verse-block verse-justify"><div class="line">यवीयान्देवलस्यैष वने भ्राता तपस्यति।</div><div class="line">धौम्य उत्कोचके तीर्थे तं वृणुध्वं यीच्छथ ॥वैशंपायन उवाच।</div><div class="line" style="position:relative;">॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b8988"><div class="verse-block verse-justify"><div class="line">ततोऽर्जुनोऽस्त्रमाग्नेयं प्रददौ तद्यथाविधि।</div><div class="line" style="position:relative;">गन्धर्वाय `स च प्रीतो वचनं चेदमब्रवीत्॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b8989"><div class="verse-block verse-justify"><div class="line">मयि सन्ति हयश्रेष्ठास्तव दास्यामि वै सखे।</div><div class="line" style="position:relative;">उपकारकृतं मित्रं प्रतिकारेण योजये॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b8990"><div class="verse-block verse-justify"><div class="line">गृह्णीष्व चाक्षुषीं विद्यामिमां भरतसत्तम।</div><div class="line" style="position:relative;">एवमुक्तोऽर्जुनः' प्रीतो वचनं चेदमब्रवीत्॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b8991"><div class="verse-block verse-justify"><div class="line">त्वय्येव तावत्तिष्ठन्तु हया गन्धर्वसत्तम।</div><div class="line" style="position:relative;">कार्यकाले ग्रहीष्यामः स्वस्ति तेऽस्त्विति चाब्रवीत्॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b8992"><div class="verse-block verse-justify"><div class="line">तेऽन्योन्यमभिसंपूज्य गन्धर्वः पाण्डवाश्च ह।</div><div class="line" style="position:relative;">रम्याद्भागीरथीतीराद्यथाकामं प्रतस्थिरे॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b8993"><div class="verse-block verse-justify"><div class="line">तत उत्कोचकं तीर्थं गत्वा धौम्याश्रमं तु ते।</div><div class="line" style="position:relative;">तं वव्रुः पाण्डवा धौम्यं पौरोहित्याय भारत॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b8994"><div class="verse-block verse-justify"><div class="line">तान्धौम्यः प्रतिजग्राह सर्ववेदविदां वरः।</div><div class="line" style="position:relative;">वन्येन फलमूलेन पौरोहित्येन चैव ह॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b8995"><div class="verse-block verse-justify"><div class="line">ते समाशंसिरे लब्धां श्रियं राज्यं च पाण्डवाः।</div><div class="line" style="position:relative;">ब्राह्मणं तं पुरस्कृत्य पाञ्चालीं च स्वयंवरे॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b8996"><div class="verse-block verse-justify"><div class="line">पुरोहितेन तेनाथ गुरुणा संगतास्तदा।</div><div class="line" style="position:relative;">नाथवन्तमिवात्मानं मेनिरे भरतर्षभाः॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b8997"><div class="verse-block verse-justify"><div class="line">स हि वेदार्थतत्त्वज्ञस्तेषां गुरुरुदारधीः।</div><div class="line" style="position:relative;">वेदविच्चैव वाग्मी च धौम्यः श्रीमान्द्विजोत्तमः॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b8998"><div class="verse-block verse-justify"><div class="line">तेजसा चैव बुद्ध्या च रूपेण यशसा श्रिया।</div><div class="line" style="position:relative;">मन्त्रैश्च विविधैर्धौम्यस्तुल्य आसीद्बृहस्पतेः॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b8999"><div class="verse-block verse-justify"><div class="line">स चापि विप्रस्तान्मेने स्वभावाभ्यधिकान्भुवि।</div><div class="line" style="position:relative;">तेन धर्मविदा पार्था योज्या सर्वविदा वृताः॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b9000"><div class="verse-block verse-justify"><div class="line">मेनिरे सहिता वीराः प्राप्तं राज्यं च पाण्डवाः।</div><div class="line" style="position:relative;">बुद्धिवीर्यबलोत्साहैर्युक्ता देवा इवापरे॥१६॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b9001"><div class="verse-block verse-justify"><div class="line">कृतस्वस्त्ययनास्तेन ततस्ते मनुजाधिपाः।</div><div class="line" style="position:relative;">मेनिरे सहिता गन्तुं पाञ्चाल्यास्तं स्वयंवरम्॥१७॥</div></div></div></div>

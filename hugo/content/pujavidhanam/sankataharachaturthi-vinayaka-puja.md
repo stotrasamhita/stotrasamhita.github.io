@@ -1,5 +1,5 @@
 {
- "title": "Sankataharachaturthi Vinayaka Puja",
+ "title": "श्री-सङ्कष्टचतुर्थीव्रत-सिद्धिविनायक-पूजा",
  "slug": "sankataharachaturthi-vinayaka-puja",
  "source_file": "pujas/sankataharachaturthi-vinayaka-puja.tex",
  "verse_count": 78,

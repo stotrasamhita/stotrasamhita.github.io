@@ -1,0 +1,25 @@
+{
+ "title": "अध्यायः १२६",
+ "weight": 1260
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः १२६</h2>
+<div class="verse-block-wrapper" id="05-udyogaparva-b4470"><div class="verse-block verse-justify"><div class="line">वैशंपायन उवाच।</div><div class="line" style="position:relative;">॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b4471"><div class="verse-block verse-justify"><div class="line">धृतराष्ट्रवचः श्रुत्वा भीष्मद्रोणौ समव्यथौ।</div><div class="line" style="position:relative;">दुर्योधनमिदं वाक्यमूचतुः शासनातिगम्॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b4472"><div class="verse-block verse-justify"><div class="line">यावत्कृष्णावसन्नद्धौ यावत्तिष्ठति गाण्डिवम्।</div><div class="line" style="position:relative;">यावद्धौम्यो न मेधाग्नौ जुहोतीह द्विषद्बलम्॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b4473"><div class="verse-block verse-justify"><div class="line">यावन्न प्रेक्षते क्रूद्धः सेनां तव युधिष्ठिरः।</div><div class="line" style="position:relative;">ह्रीनिषेवो महेष्वासस्तावच्छाम्यतु वैशसम्॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b4474"><div class="verse-block verse-justify"><div class="line">यावन्न दृश्यते पार्थः स्वेऽप्यनीके व्यवस्थितः।</div><div class="line" style="position:relative;">भीमसेनो महेष्वासस्तावच्छाम्यतु वैशसम्॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b4475"><div class="verse-block verse-justify"><div class="line">यावन्न चरते मार्गान्पृतनामभिधर्षयन्।</div><div class="line" style="position:relative;">भीमसेनो गदापाणिस्तावत्संशाम्य पाण्डवैः॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b4476"><div class="verse-block verse-justify"><div class="line">यावन्न शातयत्याजौ शिरांसि गजयोधिनाम्।</div><div class="line">गदया वीरघातिन्या फलानीव वनस्पतेः।</div><div class="line" style="position:relative;">कालेन परिपक्वानि तावच्छाम्यतु वैशसम्॥७॥</div></div></div>
+<p class="prose">नकुलः सहदेवश्च धृष्टद्युम्नश्च पार्षतः ॥विराटश्च शिखण्डी च शैशुपालिश्च दंशिताः</p>
+<div class="verse-block-wrapper" id="05-udyogaparva-b4478"><div class="verse-block verse-justify"><div class="line">यावन्न प्रविशन्त्येते नक्रा इव महार्णवम्।</div><div class="line" style="position:relative;">कृतास्त्राः क्षिप्रमस्यन्तस्तावच्छाम्यतु वैशसम्॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b4479"><div class="verse-block verse-justify"><div class="line">यावन्न सुकुमारेषु शरीरेषु महीक्षिताम्।</div><div class="line" style="position:relative;">गार्ध्रपत्राः पतन्त्युग्रास्तावच्छाम्यतु वैशसम्॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b4480"><div class="verse-block verse-justify"><div class="line">चन्दनागुरुदिग्धेषु हारनिष्कधरेषु च।</div><div class="line" style="position:relative;">नोरस्सु यावद्योधानां महेष्वासैर्महेषवः॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b4481"><div class="verse-block verse-justify"><div class="line">कृतस्त्रैः क्षिप्रमस्यद्भिर्दूरपातिभिरायसाः।</div><div class="line" style="position:relative;">अभिलक्ष्यैर्निपात्यन्ते तावच्छाम्यतु वैशसम्॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b4482"><div class="verse-block verse-justify"><div class="line">अभिवादयमानं त्वां शिरसा राजकुञ्जरः।</div><div class="line" style="position:relative;">पाणिभ्यां प्रतिगृह्णातु धर्मराजो युधिष्ठिरः॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b4483"><div class="verse-block verse-justify"><div class="line">ध्वजाङ्कुशपताकाङ्कं दक्षिणं ते सुदक्षिणः।</div><div class="line" style="position:relative;">स्कन्धे निक्षिपतां बहुं शान्तये भरतर्षभ॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b4484"><div class="verse-block verse-justify"><div class="line">रत्नौषधिसमेतेन रत्नाङ्गुलितलेन च।</div><div class="line" style="position:relative;">उपविष्टस्य पृष्ठं ते पाणिना परिमार्जतु॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b4485"><div class="verse-block verse-justify"><div class="line">शालस्कन्धो महाबहुस्त्वां स्वजानो वृकोदरः।</div><div class="line" style="position:relative;">5-126-15bसाम्नाऽभिवदतां चापि शान्तये भरतर्षभ॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b4486"><div class="verse-block verse-justify"><div class="line">अर्जुनेन यमाभ्यां च त्रिभिस्तैरभिवादितः।</div><div class="line" style="position:relative;">मूर्ध्नि तान्समुपाघ्राय प्रेम्णाऽभिवद पार्थिव॥१६॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b4487"><div class="verse-block verse-justify"><div class="line">दृष्ट्वा त्वां पाण्डवैर्वीरैर्भ्रातृभिः सह संगतम्।</div><div class="line" style="position:relative;">यावदानन्दजाश्रूणि प्रन्मुञ्चन्तु नराधिपाः॥१७॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b4488"><div class="verse-block verse-justify"><div class="line">घुष्यतां राजधानीषु सर्वसंपन्महीक्षिताम्।</div><div class="line" style="position:relative;">पृथिवी भ्रातृभावेन भुज्यतां विज्वरो भव॥१८॥</div></div></div></div>

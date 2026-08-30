@@ -1,0 +1,25 @@
+{
+ "title": "अध्यायः २१",
+ "weight": 210
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः २१</h2>
+<div class="verse-block-wrapper" id="11-strīparva-b0644"><div class="verse-block verse-justify"><div class="line">गान्धार्युवाच।</div><div class="line" style="position:relative;">॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="11-strīparva-b0645"><div class="verse-block verse-justify"><div class="line">आवन्त्यं भीमसेनेन भक्षयन्ति निपातितम्।</div><div class="line" style="position:relative;">गृध्रगोमायवः शूरं दूरबन्धुमबन्धुवत्॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="11-strīparva-b0646"><div class="verse-block verse-justify"><div class="line">तं पश्य कदनं कृत्वा शूरणां मधुसूदन।</div><div class="line" style="position:relative;">शयानं वीरशयने रुधिरेण समुक्षितम्॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="11-strīparva-b0647"><div class="verse-block verse-justify"><div class="line">तं सृगालाश्च कङ्काश्च क्रव्यादाश्च पृथग्विधाः।</div><div class="line" style="position:relative;">तेनतेन विकर्षन्ति पश्य कालस्य पर्ययम्॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="11-strīparva-b0648"><div class="verse-block verse-justify"><div class="line">शयानं वीरशयने शूरमाक्रन्दकारिणम्।</div><div class="line" style="position:relative;">आवन्त्यमभितो नार्यो रुदत्यः पर्युपासते॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="11-strīparva-b0649"><div class="verse-block verse-justify"><div class="line">प्रातिपेयं महेष्वासं हत भीमेन बाह्लिकम्।</div><div class="line" style="position:relative;">प्रसुप्तमिव शार्दूलं पश्य कृष्णमनस्विनम्॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="11-strīparva-b0650"><div class="verse-block verse-justify"><div class="line">अतीव मुखवर्णोऽस्य निहतस्यापि शोभते।</div><div class="line" style="position:relative;">सोमस्यवाभिपूर्णस्य पौर्णमास्यां समुद्यतः॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="11-strīparva-b0651"><div class="verse-block verse-justify"><div class="line">पुत्रशोकाभितप्तेन प्रतिज्ञां चाभिरक्षता।</div><div class="line" style="position:relative;">पाकशासनिना सङ्ख्ये वार्धक्षत्रिर्निपातितः॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="11-strīparva-b0652"><div class="verse-block verse-justify"><div class="line">एकादशचमूर्भित्त्वा रक्ष्यमाणं महात्मभिः।</div><div class="line" style="position:relative;">सत्यं चिकीर्षता पश्य हतमेनं जयद्रथम्॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="11-strīparva-b0653"><div class="verse-block verse-justify"><div class="line">सिन्धुसौवीरभर्तारं दर्पपूर्णं मनस्विनम्।</div><div class="line" style="position:relative;">भक्षयन्ति शिवा गृध्रा जनार्दन जयद्रथम्॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="11-strīparva-b0654"><div class="verse-block verse-justify"><div class="line">संरक्ष्यमाणं भार्याभिरनुरक्ताभिरच्युत।</div><div class="line" style="position:relative;">भीषयन्त्यो विकर्षन्ति गहनं निम्नमन्तिकात्॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="11-strīparva-b0655"><div class="verse-block verse-justify"><div class="line">तमेताः पर्युपासन्ते वीक्षमाणा महाभुजम्।</div><div class="line" style="position:relative;">सिन्धुसौवीरकाम्भोजगान्धारयवनस्त्रियः॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="11-strīparva-b0656"><div class="verse-block verse-justify"><div class="line">यदा कृष्णामुपादाय प्राद्रवत्केकयैः सह।</div><div class="line" style="position:relative;">तदैव वध्यः पाण्डूनां जनार्दन जयद्रथः॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="11-strīparva-b0657"><div class="verse-block verse-justify"><div class="line">दुःशलां मानयद्भिस्तु तदा मुक्तो जयद्रथः।</div><div class="line" style="position:relative;">कथमद्य न तां कृष्ण मानयन्ति स्म ते पुनः॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="11-strīparva-b0658"><div class="verse-block verse-justify"><div class="line">सैन्धवं मे सुता बाला प्रस्खलन्तीव दुःखिता।</div><div class="line" style="position:relative;">प्रमापयन्ती चात्मानमाक्रोशन्तीव पाण्डवान्॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="11-strīparva-b0659"><div class="verse-block verse-justify"><div class="line">किन्नु दुःखतरं कृष्ण परं मम भविष्यति।</div><div class="line" style="position:relative;">यत्सुता विधवा बाला स्नुषाश्च निहतेश्वराः॥१६॥</div></div></div>
+<div class="verse-block-wrapper" id="11-strīparva-b0660"><div class="verse-block verse-justify"><div class="line">हाहा धिग्धुःशलां पश्य वीतशोकभयामिव।</div><div class="line" style="position:relative;">भर्तुः शिर अपश्यन्तीं धावमानामितस्ततः॥१७॥</div></div></div>
+<div class="verse-block-wrapper" id="11-strīparva-b0661"><div class="verse-block verse-justify"><div class="line">वारयामास यः सर्वान्पाण्डवान्पुत्रगृद्धिनः।</div><div class="line" style="position:relative;">स हत्वा विपुलाः सेनाः स्वयं मृत्युवशं गतः॥१८॥</div></div></div>
+<div class="verse-block-wrapper" id="11-strīparva-b0662"><div class="verse-block verse-justify"><div class="line">तं मत्तमिव मातङ्गं वीरं परमदुर्जयम्।</div><div class="line" style="position:relative;">परिवार्य रुदन्त्येताः स्त्रियश्चन्द्रोपमाननाः॥१९॥</div></div></div></div>

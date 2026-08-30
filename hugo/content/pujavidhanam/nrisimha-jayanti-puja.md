@@ -1,5 +1,5 @@
 {
- "title": "Nrisimha Jayanti Puja",
+ "title": "श्री-लक्ष्मी-नृसिंह-जयन्ती-पूजा",
  "slug": "nrisimha-jayanti-puja",
  "source_file": "pujas/nrisimha-jayanti-puja.tex",
  "verse_count": 28,

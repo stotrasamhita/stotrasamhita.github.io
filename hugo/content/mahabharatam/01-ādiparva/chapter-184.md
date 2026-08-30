@@ -1,0 +1,23 @@
+{
+ "title": "अध्यायः १८४",
+ "weight": 1840
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः १८४</h2>
+<div class="verse-block-wrapper" id="01-ādiparva-b8400"><div class="verse-block verse-justify"><div class="line">वैशंपायन उवाच।</div><div class="line" style="position:relative;">॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b8401"><div class="verse-block verse-justify"><div class="line">वसत्सु तेषु प्रच्छन्नं पाण्डवेषु महात्मसु।</div><div class="line" style="position:relative;">आजगामाथ तान्द्रष्टुं व्यासः सत्यवतीसुतः॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b8402"><div class="verse-block verse-justify"><div class="line">तमागतमभिप्रेक्ष्य प्रत्युद्गम्य परन्तपाः।</div><div class="line" style="position:relative;">प्रणिपत्याभिवाद्यैनं तस्थुः प्राञ्जलयस्तदा॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b8403"><div class="verse-block verse-justify"><div class="line">समनुज्ञाप्य तान्सर्वानासीनान्मुनिरब्रवीत्।</div><div class="line" style="position:relative;">प्रच्छन्नं पूजितः पार्थैः प्रीतिपूर्वमिदं वचः॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b8404"><div class="verse-block verse-justify"><div class="line">अपि धर्मेण वर्तध्वं शास्त्रेण च परन्तपाः।</div><div class="line" style="position:relative;">अपि विप्रेषु पूजा वः पूजार्हेषु न हीयते॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b8405"><div class="verse-block verse-justify"><div class="line">अथ धर्मार्थवद्वाक्यमुक्त्वा स भगवानृषिः।</div><div class="line" style="position:relative;">विचित्राश्च कथास्तास्ताः पुनरेवेदमब्रवीत्॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b8406"><div class="verse-block verse-justify"><div class="line">आसीत्तपोवने काचिदृषेः कन्या महात्मनः।</div><div class="line" style="position:relative;">विलग्नमध्या सुश्रोणी सुभ्रूः सर्वगुणान्विता॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b8407"><div class="verse-block verse-justify"><div class="line">कर्मभिः स्वकृतैः सा तु दुर्भगा समपद्यत।</div><div class="line" style="position:relative;">नाध्यगच्छत्पतिं सा तु कन्या रूपवती सती॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b8408"><div class="verse-block verse-justify"><div class="line">तपस्तप्तुमथारेभे पत्यर्थमसुखा ततः।</div><div class="line" style="position:relative;">तोषयामास तपसा सा किलोग्रेण शङ्करम्॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b8409"><div class="verse-block verse-justify"><div class="line">तस्याः स भगवांस्तुष्टस्तामुवाच यशस्विनीम्।</div><div class="line" style="position:relative;">वरं वरय भद्रं ते वरदोऽस्मीति शङ्करः॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b8410"><div class="verse-block verse-justify"><div class="line">अथेश्वरमुवाचेदमात्मनः सा वचो हितम्।</div><div class="line" style="position:relative;">पतिं सर्वगुणोपेतमिच्छामीति पुनःपुनः॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b8411"><div class="verse-block verse-justify"><div class="line">तामथ प्रत्युवाचेदमीशानो वदतां वरः।</div><div class="line" style="position:relative;">पञ्च ते पतयो भद्रे भविष्यन्तीति भारताः॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b8412"><div class="verse-block verse-justify"><div class="line">एवमुक्ता ततः कन्या देवं वरदमब्रवीत्।</div><div class="line" style="position:relative;">एकमिच्छाम्यहं देव त्वत्प्रसादात्पतिं प्रभो॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b8413"><div class="verse-block verse-justify"><div class="line">पुनरेवाब्रवीद्देव इदं वचनमुत्तमम्।</div><div class="line" style="position:relative;">पञ्चकृत्वस्त्वया ह्युक्तः पतिं देहीत्यहं पुनः॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b8414"><div class="verse-block verse-justify"><div class="line">देहमन्यं गतायास्ते यथोक्तं तद्भविष्यति।</div><div class="line">व्यास उवाच।</div><div class="line" style="position:relative;">द्रुपदस्य कुले जज्ञे सा कन्या देवरूपिणी॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b8415"><div class="verse-block verse-justify"><div class="line">निर्दिष्टा भवतां पत्नी कृष्णा पार्षत्यनिन्दिता।</div><div class="line">पाञ्चालनगरे तस्मान्निवसध्वं महाबलाः।</div><div class="line" style="position:relative;">सुखिनस्तामनुप्राप्य भविष्यथ न संशयः॥१६॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b8416"><div class="verse-block verse-justify"><div class="line">एवमुक्त्वा महाभागः पाण्डवान्स पितामहः।</div><div class="line" style="position:relative;">पार्थानामन्त्र्य कुन्तीं च प्रातिष्ठत महातपाः॥१७॥</div></div></div></div>

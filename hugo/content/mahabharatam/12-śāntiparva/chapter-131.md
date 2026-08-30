@@ -1,0 +1,21 @@
+{
+ "title": "अध्यायः १३१",
+ "weight": 1310
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः १३१</h2>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5353"><div class="verse-block verse-justify"><div class="line">युधिष्ठिर उवाच।</div><div class="line" style="position:relative;">॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5354"><div class="verse-block verse-justify"><div class="line">क्षीणस्य दीर्घसूत्रस्य सानुक्रोशस्य बन्धुषु।</div><div class="line" style="position:relative;">परिशङ्कितमुख्यस्य दुष्टमन्त्रस्य भारत॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5355"><div class="verse-block verse-justify"><div class="line">विरक्तराज्यपौरस्य निर्द्रव्यनिचयस्य च।</div><div class="line" style="position:relative;">असंभावितमित्रस्य भिन्नामात्यस्य सर्वतः॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5356"><div class="verse-block verse-justify"><div class="line">परचक्राभियातस्य दुर्बलस्य बलीयसा।</div><div class="line">आपन्नचेतसो ब्रूहि किं कार्यमवशिष्यते ॥भीष्म उवाच।</div><div class="line" style="position:relative;">॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5357"><div class="verse-block verse-justify"><div class="line">बाह्यश्चेद्विजिगीषुः स्याद्धर्मार्थकुशलः शुचिः।</div><div class="line" style="position:relative;">जवेन सन्धिं कुर्वीत पूर्वं पूर्वं विमोक्षयेत्॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5358"><div class="verse-block verse-justify"><div class="line">[योऽधर्मविजिगीषुः स्याद्बलवान्पापनिश्चयः।</div><div class="line" style="position:relative;">]आत्मनः सन्निरोधेन सन्धिं तेनापि रोचयेत्॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5359"><div class="verse-block verse-justify"><div class="line">अपास्य राजधानीं वा तरेदन्येन वाऽऽपदम्।</div><div class="line" style="position:relative;">तद्भावभावो द्रव्याणि जीवन्पुनरुपार्जयेत्॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5360"><div class="verse-block verse-justify"><div class="line">यास्तु कोशबलत्यागाच्छक्यास्तरितुमापदः।</div><div class="line" style="position:relative;">कस्तत्राधिकमात्मानं संत्यजेदर्थधर्मवित्॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5361"><div class="verse-block verse-justify"><div class="line">अपराधाज्जुगुप्सेत का सपत्नधने दया।</div><div class="line">न त्वेवात्मा प्रदातव्यः शक्ये सति कथंचन ॥युधिष्ठिर उवाच।</div><div class="line" style="position:relative;">॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5362"><div class="verse-block verse-justify"><div class="line">आभ्यन्तरे च कुपिते बाह्ये चोपनिपीडिते।</div><div class="line">क्षीणे कोशे श्रुते मन्त्रे किं कार्यमवशिष्यते ॥भीष्म उवाच।</div><div class="line" style="position:relative;">॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5363"><div class="verse-block verse-justify"><div class="line">क्षिप्रं वा सन्धिकामः स्यात्क्षिप्रं वा तीक्ष्णविक्रम।</div><div class="line" style="position:relative;">यदाऽपनयनं क्षिप्रमेतद्वै सांपरायिकम्॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5364"><div class="verse-block verse-justify"><div class="line">अनुरक्तेन पुष्टेन हृष्टेन जगतीपतिः।</div><div class="line" style="position:relative;">अल्पेनापि स्वसैन्येन भूमिं जयति भूमिपः॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5365"><div class="verse-block verse-justify"><div class="line">हतो वा दिवमारोहेद्धत्वा च सुखमावहेत्।</div><div class="line" style="position:relative;">युद्धे हि संत्यजन्प्राणाञ्शक्रस्यैति सलोकताम्॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5366"><div class="verse-block verse-justify"><div class="line">सर्वलोकागसं कृत्वा मृदुत्वं गन्तुमेव च।</div><div class="line" style="position:relative;">विश्वासाद्विनयं कुर्यात्संजह्याद्वाऽप्युपानहौ॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5367"><div class="verse-block verse-justify"><div class="line">अपचिक्रमिषुः क्षिप्रं सेनां स्वां परिसान्त्वयन्।</div><div class="line" style="position:relative;">विलङ्घयित्वा सत्रेण ततः स्वयमुपक्रमेत्॥१५॥</div></div></div></div>

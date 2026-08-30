@@ -1,0 +1,26 @@
+{
+ "title": "अध्यायः १३१",
+ "weight": 1310
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः १३१</h2>
+<div class="verse-block-wrapper" id="01-ādiparva-b5874"><div class="verse-block verse-justify"><div class="line">जनमेजय उवाच।</div><div class="line" style="position:relative;">॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b5875"><div class="verse-block verse-justify"><div class="line">ज्येष्ठाऽनुज्येष्ठतां तेषां नामानि च पृथक्पृथक्।</div><div class="line">धृतराष्ट्रस्य पुत्राणामानुपूर्व्यात्प्रकीर्तय ॥वैशंपायन उवाच।</div><div class="line" style="position:relative;">॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b5876"><div class="verse-block verse-justify"><div class="line">दुर्योधनो युयुत्सुश्च राजन्दुःशासनस्तथा।</div><div class="line" style="position:relative;">दुःसहो दुःशलश्चैव जलसन्धः समः सहः॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b5877"><div class="verse-block verse-justify"><div class="line">विन्दानुविन्दौ दुर्धर्षः सुबाहुर्दुष्प्रधर्षणः।</div><div class="line" style="position:relative;">दुर्मर्षणो दुर्मुखश्च दुष्कर्णः कर्ण एव च॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b5878"><div class="verse-block verse-justify"><div class="line">विविंशतिर्विकर्णश्च शलः सत्वः सुलोचनः।</div><div class="line" style="position:relative;">चित्रोपचित्रौ चित्राक्षश्चारुचित्रः शरासनः॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b5879"><div class="verse-block verse-justify"><div class="line">दुर्मदो दुर्विगाहश्च विवित्सुर्विकटाननः।</div><div class="line" style="position:relative;">ऊर्णनाभः सुनाभश्च तथा नन्दोपनन्दकौ॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b5880"><div class="verse-block verse-justify"><div class="line">चित्रबाणश्चित्रवर्मा सुवर्मा दुर्विमोचनः।</div><div class="line" style="position:relative;">अयोबाहुर्महाबाहुश्चित्राङ्गश्चित्रकुण्डलः॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b5881"><div class="verse-block verse-justify"><div class="line">भीमवेगो भीमबलो बलाकी बलवर्धनः।</div><div class="line" style="position:relative;">उग्रायुधः सुषेणश्च कुण्डधारो महोदरः॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b5882"><div class="verse-block verse-justify"><div class="line">चित्रायुधो निषङ्गी च पाशी वृन्दारकस्तथा।</div><div class="line" style="position:relative;">दृढवर्मा दृढक्षत्रः सोमकीर्तिरनूदरः॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b5883"><div class="verse-block verse-justify"><div class="line">दृढसन्धो जरासन्धः सत्यसन्धः सदः सुवाक्।</div><div class="line" style="position:relative;">उग्रश्रवा उग्रसेनः सेनानीर्दुष्पराजयः॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b5884"><div class="verse-block verse-justify"><div class="line">अपराजितः कुण्डशायी विशालाक्षो दुराधरः।</div><div class="line" style="position:relative;">दृढहस्तः सुहस्तश्च वातवेगसुवर्चसौ॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b5885"><div class="verse-block verse-justify"><div class="line">आदित्यकेतुर्बह्वाशी नागदत्तोऽग्रयाय्यपि।</div><div class="line" style="position:relative;">कवची क्रथनः कुण्डी कुण्डधारो धनुर्धरः॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b5886"><div class="verse-block verse-justify"><div class="line">उग्रभीमरथौ वीरौ वीरबाहुरलोलुपः।</div><div class="line" style="position:relative;">अभयो रौद्रकर्मा च तथा दृढरथाश्रयः॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b5887"><div class="verse-block verse-justify"><div class="line">अनाधृष्यः कुण्डभेदी विरावी चित्रकुण्डलः।</div><div class="line" style="position:relative;">प्रमथश्च प्रमाथी च दीर्घरोमश्च वीर्यवान्॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b5888"><div class="verse-block verse-justify"><div class="line">दीर्घबाहुर्महाबाहुर्व्यूढोराः कनकध्वजः।</div><div class="line" style="position:relative;">कुण्डाशी विराजाश्चैव दुःशला च शताधिका॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b5889"><div class="verse-block verse-justify"><div class="line">इति पुत्रशतं राजन्कन्या चैव शताधिका।</div><div class="line" style="position:relative;">नामधेयानुपूर्व्येण विद्धि जन्मक्रमं नृप॥१६॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b5890"><div class="verse-block verse-justify"><div class="line">सर्वे त्वतिरथाः शूराः सर्वे युद्धविशारदाः।</div><div class="line" style="position:relative;">सर्वे वेदविदश्चैव सर्वे सर्वास्त्रकोविदाः॥१७॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b5891"><div class="verse-block verse-justify"><div class="line">सर्वेषामनुरूपाश्च कृता दारा महीपते।</div><div class="line" style="position:relative;">धृतराष्ट्रेण समये परीक्ष्य विविवन्नृप॥१८॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b5892"><div class="verse-block verse-justify"><div class="line">दुःशलां चापि समये धृतराष्ट्रो नराधिपः।</div><div class="line" style="position:relative;">जयद्रथाय प्रददौ विधिना भरतर्षभ॥१९॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b5893"><div class="verse-block verse-justify"><div class="line">`इति पुत्रशतं राजन्युयुत्सुश्च शताधिकः।</div><div class="line" style="position:relative;">कन्यका दुःशला चैव यथावत्कीर्तितं मया'॥२०॥</div></div></div></div>

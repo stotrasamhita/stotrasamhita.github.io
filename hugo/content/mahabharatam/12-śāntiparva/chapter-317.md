@@ -1,0 +1,24 @@
+{
+ "title": "अध्यायः ३१७",
+ "weight": 3170
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः ३१७</h2>
+<div class="verse-block-wrapper" id="12-śāntiparva-b13337"><div class="verse-block verse-justify"><div class="line">याज्ञवल्क्य उवाच।</div><div class="line" style="position:relative;">॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b13338"><div class="verse-block verse-justify"><div class="line">तत्त्वानां सर्गसङ्ख्या च कालसङ्ख्या तथैव च।</div><div class="line" style="position:relative;">मया प्रोक्ताऽनुपूर्वेण संहारमपि मे शृणु॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b13339"><div class="verse-block verse-justify"><div class="line">यता संहरते जन्तून्ससर्ज च पुनः पुनः।</div><div class="line">अनादिनिधनो ब्रह्मा नित्यश्चाक्षर एव च।</div><div class="line" style="position:relative;">॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b13340"><div class="verse-block verse-justify"><div class="line">अहःक्षयमथो बुद्ध्वा निशि स्वप्नमनास्तथा।</div><div class="line" style="position:relative;">चोदयामास भगवानव्यक्तोऽहंकृतं नरम्॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b13341"><div class="verse-block verse-justify"><div class="line">ततः शतसहस्रांशुरव्यक्तेनाभिचोदितः।</div><div class="line" style="position:relative;">कृत्वा द्वादशधाऽऽत्मानमादित्यो ज्वलदग्निवत्॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b13342"><div class="verse-block verse-justify"><div class="line">चतुर्विधं प्रजाजातं निर्दहत्याशु तेजसा।</div><div class="line" style="position:relative;">जराय्वण्डस्वेदजातमुद्भिज्जं स नराधिप॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b13343"><div class="verse-block verse-justify"><div class="line">एतदुन्मेषमात्रेण विनष्टं स्थाणुजङ्गमम्।</div><div class="line" style="position:relative;">कूर्मपृष्ठसमा भूमिर्भवत्यथ समन्ततः॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b13344"><div class="verse-block verse-justify"><div class="line">जगद्दग्ध्वाऽमितबलः केवलां जगर्ती ततः।</div><div class="line" style="position:relative;">अम्भसा बलिना क्षिप्रमापूरयति सर्वशः॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b13345"><div class="verse-block verse-justify"><div class="line">ततः कालाग्निमासाद्य तदम्भो याति संक्षयम्।</div><div class="line" style="position:relative;">विनष्टेऽम्भसि राजेन्द्र जाज्वलत्यनलो महान्॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b13346"><div class="verse-block verse-justify"><div class="line">तमप्रमेयातिबलं ज्वलमानं विभावसुम्।</div><div class="line" style="position:relative;">ऊष्माणं सर्वभूतानां सप्ताचिंपमथाञ्जसा॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b13347"><div class="verse-block verse-justify"><div class="line">भक्षयामास भगवान्वायुरष्टात्मको बली।</div><div class="line" style="position:relative;">विचरन्नमितप्राणस्तिर्यगूर्ध्वमधस्तथा॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b13348"><div class="verse-block verse-justify"><div class="line">तमप्रतिबलं भीममाकाशं ग्रसते पुनः।</div><div class="line" style="position:relative;">आकाशमप्यभिनदन्मनो ग्रसति चारिकम्॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b13349"><div class="verse-block verse-justify"><div class="line">मनो ग्रसति सर्वात्मा सोहंकारः प्रजापतिः।</div><div class="line" style="position:relative;">अहंकारो महानात्मा भूतभव्यभविष्यवित्॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b13350"><div class="verse-block verse-justify"><div class="line">तमप्यनुपमात्मानं विश्वं शंभुः प्रजापतिः।</div><div class="line" style="position:relative;">अणिमा लघिमा प्राप्तिरीशानो ज्योतिरव्ययः॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b13351"><div class="verse-block verse-justify"><div class="line">सर्वतः पाणिपादं तत्सर्वतोक्षिशिरोमुखम्।</div><div class="line" style="position:relative;">सर्वतः श्रुतिमल्लोके सर्वमावृत्य तिष्ठति॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b13352"><div class="verse-block verse-justify"><div class="line">हृदयं सर्वभूतानां पर्वणाऽङ्गुष्ठमात्रकः।</div><div class="line" style="position:relative;">अणुग्रसत्यनन्तो हि महात्मा विश्वमीश्वरः॥१६॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b13353"><div class="verse-block verse-justify"><div class="line">ततः समभवत्सर्वमक्षयाव्ययमव्रणम्।</div><div class="line" style="position:relative;">भूतभव्यभविष्याणां स्रष्टारमनघं तथा॥१७॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b13354"><div class="verse-block verse-justify"><div class="line">एषोप्ययस्ते राजेन्द्र यथावत्समुदाहृतः।</div><div class="line" style="position:relative;">अध्यात्ममधिभूतं च श्रूयतां चाधिदैवतम्॥१८॥</div></div></div></div>

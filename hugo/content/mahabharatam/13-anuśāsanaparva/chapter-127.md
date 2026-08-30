@@ -1,0 +1,23 @@
+{
+ "title": "अध्यायः १२७",
+ "weight": 1270
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः १२७</h2>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5204"><div class="verse-block verse-justify"><div class="line">केन वर्णविभागेन विज्ञेया कपिला भवेत्।</div><div class="line">कति वा लक्षणान्यस्या दृष्टानि मुनिभिः पुरा ॥श्रीव्यास उवाच।</div><div class="line" style="position:relative;">॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5205"><div class="verse-block verse-justify"><div class="line">शृणु तात यथा गोषु विज्ञेया कपिला भवेत्।</div><div class="line">नेत्रयोः शृङ्गयोश्चैव खुरेषु वृषणेषु च।</div><div class="line" style="position:relative;">कर्णतो घ्राणतश्चापि षड्विधाः कपिलाः स्मृताः॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5206"><div class="verse-block verse-justify"><div class="line">एतेषां लक्षणानां तु यद्येकमपि दृश्यते।</div><div class="line" style="position:relative;">कपिलां तां विजानीयादेवमाहुर्मनीषिणः॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5207"><div class="verse-block verse-justify"><div class="line">आग्नेयी नेत्रकपिला खुरैर्माहेश्वरी भवेत्।</div><div class="line" style="position:relative;">ग्रीवायां वैष्णवी ज्ञेया पूष्णो घ्राणादजायत॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5208"><div class="verse-block verse-justify"><div class="line">कर्णतस्तु वसन्तेन स्वयोनिमभिजायते।</div><div class="line" style="position:relative;">गायत्र्याश्च वृषणयोरुत्पत्तिः षड्गुणा स्मृता॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5209"><div class="verse-block verse-justify"><div class="line">एवं गावश्च विप्राश्च गायत्री सत्यमेव च।</div><div class="line" style="position:relative;">वसन्तश्च सुवर्णश्च एकतः समजायत॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5210"><div class="verse-block verse-justify"><div class="line">नेत्रयोः कपिलां यस्तु वाहयेत दुहेत वा।</div><div class="line" style="position:relative;">स पापकर्मा नरकं प्रतिष्ठां प्रतिपद्यते॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5211"><div class="verse-block verse-justify"><div class="line">नरकाद्विप्रमुक्तस्तु तिर्यग्योनिं निषेवते।</div><div class="line" style="position:relative;">यदा लभेत मानुष्यं जात्यन्धो जायते नरः॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5212"><div class="verse-block verse-justify"><div class="line">शृङ्गयोः कपिलां यस्तु वाहयेत दुहेत वा।</div><div class="line" style="position:relative;">तिर्यग्योनिं स लभते जायमानः पुनः पुनः॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5213"><div class="verse-block verse-justify"><div class="line">खुरेषु कपिलां यस्तु वाहयेत दुहेत वा।</div><div class="line" style="position:relative;">तमस्यपारे मज्जेत धनहीनो नराधमः॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5214"><div class="verse-block verse-justify"><div class="line">कपिलां वालधानेषु वाहयेत दुहेत वा।</div><div class="line" style="position:relative;">निराश्रयः सदा चैव जायते यदि चेत्कृमिः॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5215"><div class="verse-block verse-justify"><div class="line">कर्णेन कपिलां यस्तु जानन्नप्युपजीवति।</div><div class="line">सहस्रशः शुचिर्भुत्वा मानुष्यं प्राप्नुयादथ।</div><div class="line" style="position:relative;">चण्डालः पापयोनिश्च जायते स नराधमः॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5216"><div class="verse-block verse-justify"><div class="line">घ्राणेन कपिलां यस्तु प्रमादादुपजीवति।</div><div class="line" style="position:relative;">सोऽपि वर्षसहस्राणि तिर्यग्योनौ प्रजायते॥१३॥</div></div></div>
+<p class="prose">व्याधिग्रस्तो जडो रोगी भवेन्मानुष्यमागतः</p>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5218"><div class="verse-block verse-justify"><div class="line">मधुसर्पिस्सुगन्धास्तु कपिलाः शास्त्रतः स्मृताः।</div><div class="line" style="position:relative;">एताः समुपजीवेत सोऽपि तिर्यक्षु जायते॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5219"><div class="verse-block verse-justify"><div class="line">स्थावरत्वमनुप्राप्तो यदि मानुष्यतां लभेत्।</div><div class="line" style="position:relative;">अल्पायुः स भवेज्जातो हीनवर्णकुलोद्भवः॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5220"><div class="verse-block verse-justify"><div class="line">ये तु पापा ह्यसूयन्ते कपिलां वाहयन्ति च।</div><div class="line" style="position:relative;">निरयेषु प्रतिष्ठन्ते यावदाभूतसम्प्लवम्॥१६॥</div></div></div></div>

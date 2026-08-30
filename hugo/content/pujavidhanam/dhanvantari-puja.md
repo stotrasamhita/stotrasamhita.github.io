@@ -1,5 +1,5 @@
 {
- "title": "Dhanvantari Puja",
+ "title": "श्री-धन्वन्तरि-पूजा",
  "slug": "dhanvantari-puja",
  "source_file": "pujas/dhanvantari-puja.tex",
  "verse_count": 32,

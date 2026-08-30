@@ -1,0 +1,22 @@
+{
+ "title": "अध्यायः २३",
+ "weight": 230
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः २३</h2>
+<div class="verse-block-wrapper" id="16-āśramavāsikaparva-b0594"><div class="verse-block verse-justify"><div class="line">वनं गते कौरवेन्द्रे दुःखशोकसमन्विताः।</div><div class="line" style="position:relative;">बभूवुः पाण्डवा राजन्मातृशोकेनि चान्विताः॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="16-āśramavāsikaparva-b0595"><div class="verse-block verse-justify"><div class="line">तथा पौरजनः सर्वः शोचन्नास्ते जनाधिपम्।</div><div class="line" style="position:relative;">कुर्वाणाश्च कथास्तत्र ब्राह्मणा नृपतिं प्रति॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="16-āśramavāsikaparva-b0596"><div class="verse-block verse-justify"><div class="line">कथं न राजा वृद्धः स वने वसति निर्जने।</div><div class="line" style="position:relative;">गान्धारी च महाभागा सा च कुन्ती पृथा कथम्॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="16-āśramavāsikaparva-b0597"><div class="verse-block verse-justify"><div class="line">सुखार्हः स हि राजर्षिरसुखी तद्वनं महत्।</div><div class="line" style="position:relative;">किमवस्थः समासाद्य प्रज्ञाचक्षुर्महामनाः॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="16-āśramavāsikaparva-b0598"><div class="verse-block verse-justify"><div class="line">सुदुष्करं कृतवती कुन्ती पुत्रानपास्य सा।</div><div class="line" style="position:relative;">राज्यश्रियं परित्यज्य वनं सा समरोचयत्॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="16-āśramavāsikaparva-b0599"><div class="verse-block verse-justify"><div class="line">विदुरः किमवस्थश्च भ्रातृशुश्रूषुरात्मवान्।</div><div class="line" style="position:relative;">स च गावल्गणिर्धीमान्भर्तृपिण्डानुपालकः॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="16-āśramavāsikaparva-b0600"><div class="verse-block verse-justify"><div class="line">आकुमारं च पौरास्ते चिन्ताशोकसमाहताः।</div><div class="line" style="position:relative;">तत्रतत्र कथाश्चक्रुः समासाद्य परस्परम्॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="16-āśramavāsikaparva-b0601"><div class="verse-block verse-justify"><div class="line">पाण्डवाश्चैव ते सर्वे भृशं शोकपरायणाः।</div><div class="line" style="position:relative;">शोचन्तो मातरं वृद्धामूषुर्नातिचिरं पुरे॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="16-āśramavāsikaparva-b0602"><div class="verse-block verse-justify"><div class="line">तथैव वृद्धं पितरं हतपुत्रं जनेश्वरम्।</div><div class="line" style="position:relative;">गान्धारीं च महाभागां विदुरं च महामतिम्॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="16-āśramavāsikaparva-b0603"><div class="verse-block verse-justify"><div class="line">नैषां बभूव सम्प्रीतिस्तान्विचिन्तयतां तदा।</div><div class="line" style="position:relative;">न राज्ये न च नारीषु न वेदाध्ययनेषु च॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="16-āśramavāsikaparva-b0604"><div class="verse-block verse-justify"><div class="line">परं निर्वेदमगमंश्चिन्तयन्ता नराधिपम्।</div><div class="line" style="position:relative;">तं च ज्ञातिवधं घोरं संस्मरन्तः पुनःपुनः॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="16-āśramavāsikaparva-b0605"><div class="verse-block verse-justify"><div class="line">अभिमन्योश्च बालस्य विनाशं रणमूर्धनि।</div><div class="line" style="position:relative;">कर्णस्य च महाबाहोः सङ्ग्रामेष्वपलायिनः॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="16-āśramavāsikaparva-b0606"><div class="verse-block verse-justify"><div class="line">तथैव द्रौपदेयानामन्येषां सुहृदामपि।</div><div class="line" style="position:relative;">वधं संस्मृत्य ते वीरा नातिप्रमनसोऽभवन्॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="16-āśramavāsikaparva-b0607"><div class="verse-block verse-justify"><div class="line">हतप्रवीरां पृथिवीं हृतरत्नां च भारत।</div><div class="line" style="position:relative;">सदैव चिन्तयन्तस्ते न शमं चोपलेभिरे॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="16-āśramavāsikaparva-b0608"><div class="verse-block verse-justify"><div class="line">द्रौपदी हतपुत्रा च सुभद्रा चैव भामिनी।</div><div class="line" style="position:relative;">नातिप्रीतियुते देव्यौ तदास्तामप्रहृष्टवत्॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="16-āśramavāsikaparva-b0609"><div class="verse-block verse-justify"><div class="line">वैराट्यास्तनयं दृष्ट्वा पितरं ते परिक्षितम्।</div><div class="line" style="position:relative;">धारयन्ति स्म ते प्राणांस्तव पूर्वपितामहाः॥१६॥</div></div></div></div>

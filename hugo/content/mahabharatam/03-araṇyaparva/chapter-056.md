@@ -1,0 +1,27 @@
+{
+ "title": "अध्यायः ५६",
+ "weight": 560
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः ५६</h2>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b2426"><div class="verse-block verse-justify"><div class="line">बृहदश्व उवाच।</div><div class="line" style="position:relative;">॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b2427"><div class="verse-block verse-justify"><div class="line">एवं स समयं कृत्वा द्वापरेण कलिः सह।</div><div class="line" style="position:relative;">आजगाम ततस्तत्र यत्रराजा स नैषधः॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b2428"><div class="verse-block verse-justify"><div class="line">स नित्यमन्तरप्रेक्षी निषधेष्ववसच्चिरम्।</div><div class="line" style="position:relative;">अथास्य द्वादशे वर्षे ददर्श कलिरन्तरम्॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b2429"><div class="verse-block verse-justify"><div class="line">कृत्वा मूत्रमुपस्पृश्य संध्यामन्वास्त नैषधः।</div><div class="line" style="position:relative;">अकृत्वा पादयोः शौचं तत्रैनं कलिराविशत्॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b2430"><div class="verse-block verse-justify"><div class="line">स समाविश्य च नलं समीपं पुष्करस्य च।</div><div class="line" style="position:relative;">गत्वा पुष्करमाहेदमेहि दीव्य नलेन वै॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b2431"><div class="verse-block verse-justify"><div class="line">अक्षद्यूते नलं जेता भवान्हि सहितो मया।</div><div class="line" style="position:relative;">निषधान्प्रतिपद्यस्व जित्वा राज्यं नलं नृपम्॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b2432"><div class="verse-block verse-justify"><div class="line">एवमुक्तस्तु कलिना पुष्करो नलमभ्ययात्।</div><div class="line" style="position:relative;">कलिश्चैव वृषो भूत्वा तं वै पुष्करमन्वयात्॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b2433"><div class="verse-block verse-justify"><div class="line">आसाद्य तु नलं वीरं पुष्करः परवीरहा।</div><div class="line" style="position:relative;">दीव्यावेत्यब्रवीद्धाता वृषेणेति मुहुर्मुहुः॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b2434"><div class="verse-block verse-justify"><div class="line">न चक्षमे ततो राजा समाह्वानं महामनाः।</div><div class="line" style="position:relative;">वैदर्भ्याः प्रेक्षमाणायाः प्राप्तकालममन्यत॥९॥</div></div></div>
+<p class="prose">`ततः स राज्ञा सहसा देवितुं संप्रचक्रमे</p>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b2436"><div class="verse-block verse-justify"><div class="line">भ्रात्रा देवाभिभूतेन दैवाविष्टो जनाधिपः।</div><div class="line">'हिरण्यस्य सुवर्णस्य यानयुग्यस् वाससाम्।</div><div class="line" style="position:relative;">आविष्टः कलिना द्यूते जीयते स्म नलस्तदा॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b2437"><div class="verse-block verse-justify"><div class="line">तमक्षमदसंमत्तं सुहृदां न तु कश्चन।</div><div class="line" style="position:relative;">निवारणेऽभवच्छक्तो दीव्यमानमरिंदमम्॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b2438"><div class="verse-block verse-justify"><div class="line">ततः पौरजनाः सर्वे मन्त्रिभिः सह भारत।</div><div class="line" style="position:relative;">राजानं द्रष्टुमागच्छन्निवारयितुमातुरम्॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b2439"><div class="verse-block verse-justify"><div class="line">ततः सूत उपागम्य दमयन्त्यै न्यवेदयत्।</div><div class="line" style="position:relative;">एष पौरजनो देवि द्वारि तिष्ठति कार्यवान्॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b2440"><div class="verse-block verse-justify"><div class="line">निवेद्यतां नैषधाय सर्वाः प्रकृतयः स्थिताः।</div><div class="line" style="position:relative;">अमृष्यमाणा व्यसनं राज्ञो धर्मार्थदर्शिनः॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b2441"><div class="verse-block verse-justify"><div class="line">ततः सा बाष्पकलया वाचा दुखेन कर्शिता।</div><div class="line" style="position:relative;">उवाच नैषधं भैमी शोकोपहतचेतना॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b2442"><div class="verse-block verse-justify"><div class="line">राजन्पौरजनो द्वारि त्वां दिदृक्षुरवस्थितः।</div><div class="line" style="position:relative;">`वृद्धैर्ब्राह्मणमुख्यैश्च वणिग्भिश्च समन्वितः॥१६॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b2443"><div class="verse-block verse-justify"><div class="line">आगतं सहितं राजंस्त्वत्प्रसादावलम्बनम्।</div><div class="line" style="position:relative;">'तं द्रष्टुमर्हसीत्येवं पुनः पुनरभाषत॥१७॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b2444"><div class="verse-block verse-justify"><div class="line">तां तथा रुचिरापाङ्गीं विलपन्तीं तथाविधाम्।</div><div class="line" style="position:relative;">आविष्टः कलिना राजा नाभ्यभाषत किंचन॥१८॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b2445"><div class="verse-block verse-justify"><div class="line">ततस्ते मन्त्रिणः सर्वे ते चैव पुरवासिनः।</div><div class="line" style="position:relative;">नायमस्तीति दुःखार्ता व्रीडिता जग्मुरालयान्॥१९॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b2446"><div class="verse-block verse-justify"><div class="line">तथा तदभवद्द्यूतं पुष्करस्य नलस्य च।</div><div class="line" style="position:relative;">युधिष्ठिर बहून्मासान्पुण्यश्लोकस्त्वजीयत॥२०॥</div></div></div></div>

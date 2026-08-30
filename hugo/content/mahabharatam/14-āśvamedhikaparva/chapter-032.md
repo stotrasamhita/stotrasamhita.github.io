@@ -1,0 +1,19 @@
+{
+ "title": "अध्यायः ३२",
+ "weight": 320
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः ३२</h2>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0934"><div class="verse-block verse-justify"><div class="line">त्रयो वै रिपवो लोके नवधा गुणतः स्मृताः।</div><div class="line" style="position:relative;">हर्षः स्तंभोतिमानश्च त्रयस्ते सात्विका गुणाः॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0935"><div class="verse-block verse-justify"><div class="line">शोकः क्रोधाभिसंरम्भो राजसास्ते गुणाः स्मृताः।</div><div class="line" style="position:relative;">स्वप्नस्तन्द्रा च मोहश्च त्रयस्ते तामसा गुणाः॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0936"><div class="verse-block verse-justify"><div class="line">एतान्निकृत्य धृतिमान्बाणसङ्घैरतन्द्रितः।</div><div class="line" style="position:relative;">जेतुं परानुत्सहते प्रशान्तात्मा जितेन्द्रियः॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0937"><div class="verse-block verse-justify"><div class="line">अत्र गाथाः कीर्तयन्ति पुराकल्पविदो जनाः।</div><div class="line" style="position:relative;">अम्बरीषेण या गीता राज्ञा राज्यं प्रशासता॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0938"><div class="verse-block verse-justify"><div class="line">समुदीर्णेषु दोषेषु बाध्यमानेषु साधुषु।</div><div class="line" style="position:relative;">जग्राह तरसा राज्यमम्बरीष इति श्रुतिः॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0939"><div class="verse-block verse-justify"><div class="line">स निगृह्यात्मनो दोषान्साधून्समभिपूज्य च।</div><div class="line" style="position:relative;">जगाम महतीं सिद्धिं गाथाश्चेमा जगाद ह॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0940"><div class="verse-block verse-justify"><div class="line">भूयिष्ठं विजिता दोषा निहताः सर्वशत्रवः।</div><div class="line" style="position:relative;">एको दोषो वरिष्ठश्च वध्यः स न हतो मया॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0941"><div class="verse-block verse-justify"><div class="line">यत्प्रयुक्तो जन्तुरयं वैतृष्ण्यं नाधिगच्छति।</div><div class="line" style="position:relative;">तृष्णार्त इव निम्नानि धावमानो न बुध्यते॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0942"><div class="verse-block verse-justify"><div class="line">अकार्यमपि येनेह प्रयुक्तः सेवते नरः।</div><div class="line" style="position:relative;">तं लोभमसिभिस्तीक्ष्णैर्निकृत्य सुखमेधते॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0943"><div class="verse-block verse-justify"><div class="line">लोभाद्धि जायते तृष्णा ततश्चिन्ता प्रवर्तते।</div><div class="line">स लिप्समानो लभते भूयिष्ठं राजसान्गुणान्।</div><div class="line" style="position:relative;">तदवाप्तौ तु लभते भूयिष्ठं तामसान्गुणान्॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0944"><div class="verse-block verse-justify"><div class="line">स तैर्गुणैः संहतदेहबन्धनः।</div><div class="line">पुनःपनर्जायति कर्म चेहते।</div><div class="line" style="position:relative;">जन्मक्षये भिन्नविकीर्मदेहोमृत्युं पुनर्गच्छति जन्मनैव॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0945"><div class="verse-block verse-justify"><div class="line">तस्मादेतं सम्यगवेक्ष्य लोभंनिगृह्य धृत्याऽऽत्मनि राज्यमिच्छेत्।</div><div class="line" style="position:relative;">एतद्राज्यं नान्यदस्तीह राज्य-मात्मैव राजा विदितो यथावत्॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0946"><div class="verse-block verse-justify"><div class="line">इति राज्ञाऽम्बरीषेण गाथा गीता यशस्विना।</div><div class="line" style="position:relative;">आधिराज्य पुरस्कृत्य लोभमेकं निकृन्तता॥१३॥</div></div></div></div>

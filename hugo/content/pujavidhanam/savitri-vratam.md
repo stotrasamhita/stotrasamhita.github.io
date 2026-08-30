@@ -1,5 +1,5 @@
 {
- "title": "Savitri Vratam",
+ "title": "श्री-सावित्री-व्रतम् — कामाक्षी-पूजा",
  "slug": "savitri-vratam",
  "source_file": "pujas/savitri-vratam.tex",
  "verse_count": 30,

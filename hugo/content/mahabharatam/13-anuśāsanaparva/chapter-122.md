@@ -1,0 +1,20 @@
+{
+ "title": "अध्यायः १२२",
+ "weight": 1220
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः १२२</h2>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5096"><div class="verse-block verse-justify"><div class="line">यास्तु गोमातरस्तस्य कामचारिण्य आगताः।</div><div class="line" style="position:relative;">समीपं हि सुमित्रस्य कृतज्ञाः समुपस्थिताः॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5097"><div class="verse-block verse-justify"><div class="line">अभिप्रशस्य चैवाहुस्तमृषिं पुण्यदर्शनाः।</div><div class="line" style="position:relative;">गोलोकादागता वेद वृषगोमातरो वयम्॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5098"><div class="verse-block verse-justify"><div class="line">सुप्रीताः स्म वरं गृह्ण यमिच्छसि महामुने।</div><div class="line">यद्भि गोषु परां बुद्धिं कृतवानसि नित्यदा ॥सुमित्र उवाच।</div><div class="line" style="position:relative;">॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5099"><div class="verse-block verse-justify"><div class="line">प्रीतोस्म्यनुगृहीतोस्मि यन्मां गोमातरः शुभाः।</div><div class="line" style="position:relative;">सुप्रीतमनसः सर्वास्तिष्ठन्ते च वरप्रदाः॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5100"><div class="verse-block verse-justify"><div class="line">भवेद्गोष्वेव मे भक्तिर्यथैवाद्य तथा सदा।</div><div class="line">गोघ्नाश्चैवावसीदन्तु नरा ब्रह्मद्विषश्च ये ॥गोमातर ऊचुः।</div><div class="line" style="position:relative;">॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5101"><div class="verse-block verse-justify"><div class="line">एवमेतदृषिश्रेष्ठ हितं वदसि नः प्रियम्।</div><div class="line">एहि गच्छ सहाऽस्माभिर्गोलोकमृषिसत्तम ॥सुमित्र उवाच।</div><div class="line" style="position:relative;">॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5102"><div class="verse-block verse-justify"><div class="line">यूयमिष्टां गतिं यान्तु न ह्यहं गन्तुमुत्सहे।</div><div class="line">इमा गावः समुत्सृज्य तपस्विन्यो मम प्रियाः ॥भीष्म उवाच।</div><div class="line" style="position:relative;">॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5103"><div class="verse-block verse-justify"><div class="line">तास्तु तस्य वचः श्रुत्वा कपिलानां सुदारुणम्।</div><div class="line" style="position:relative;">नित्युस्तमृषिमुत्क्षिप्य भार्गवं नभ उद्वहन्॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5104"><div class="verse-block verse-justify"><div class="line">कलेवरं तु तत्रैव तस्य संन्यस्य मातरः।</div><div class="line" style="position:relative;">निष्कृष्य करणं योगादानयन्भार्गवस्य वै॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5105"><div class="verse-block verse-justify"><div class="line">सर्वं चास्य तदाचख्युः कपिलानां विचेष्टितम्।</div><div class="line" style="position:relative;">यदर्थं हरणं गोभिर्गोलोकं लोकमातरः॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5106"><div class="verse-block verse-justify"><div class="line">ततस्तु कपिलास्तत्र तस्य दृष्ट्वा कलेवरम्।</div><div class="line" style="position:relative;">तथाप्रतिज्ञं शृङ्गैश्च खुरैश्चाप्यवचूर्णयन्॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5107"><div class="verse-block verse-justify"><div class="line">ततः संछिद्य बहुधा भार्गवं नृपसत्तम।</div><div class="line" style="position:relative;">युयुर्यत्रेतरा गावस्तच्च सर्वं न्यवेदयन्॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5108"><div class="verse-block verse-justify"><div class="line">अथ गोमातृभिः शप्तास्ता गावः पृथिवीचराः।</div><div class="line" style="position:relative;">अमेध्यवदनाः क्षिप्रं भवध्वं ब्रह्मघातकाः॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b5109"><div class="verse-block verse-justify"><div class="line">एवं कृतज्ञा गावो हि यता गोमातरो नृप।</div><div class="line" style="position:relative;">ऋषिश्च प्राप्तवाँल्लोकं गावश्च परिमोक्षिताः ॥'॥१४॥</div></div></div></div>

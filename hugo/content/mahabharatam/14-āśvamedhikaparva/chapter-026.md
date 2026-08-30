@@ -1,0 +1,23 @@
+{
+ "title": "अध्यायः २६",
+ "weight": 260
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः २६</h2>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0786"><div class="verse-block verse-justify"><div class="line">अत्राप्युदाहरन्तीममितिहासं पुरातनम्।</div><div class="line" style="position:relative;">चातुर्होत्रविधानस्य विदानमिह यादृशम्॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0787"><div class="verse-block verse-justify"><div class="line">तस्य सर्वस्य विधिवद्विधानमुपदेक्ष्यते।</div><div class="line" style="position:relative;">शृणु मे गदतो भद्रे रहस्यमिदमुद्भुतम्॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0788"><div class="verse-block verse-justify"><div class="line">करणं कर्म कर्ता च मोक्ष इत्येव भामिनि।</div><div class="line" style="position:relative;">चत्वार एते होतारो यैरिदं जगदावृतम्॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0789"><div class="verse-block verse-justify"><div class="line">होतॄणां साधनं चैव शृणु सर्वमशेषतः।</div><div class="line">घ्राणं जिह्वा च चक्षुश्च त्वक्च श्रोत्रं च पञ्चमम्।</div><div class="line" style="position:relative;">मनो बुद्धिश्च सप्तैते ज्ञेयाः कारणहेतवः॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0790"><div class="verse-block verse-justify"><div class="line">गन्धो रसश्च रूपं च शब्दः स्पर्शश्च पञ्चमः।</div><div class="line" style="position:relative;">मन्तव्यमवबोद्धव्यं सप्तैते कर्महेतवः॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0791"><div class="verse-block verse-justify"><div class="line">घ्राता भक्षयिता द्रष्टा स्प्रष्टा श्रोता च पञ्चमः।</div><div class="line" style="position:relative;">मन्ता बोद्धा च सप्तैते विज्ञेयाः कर्तृहेतवः॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0792"><div class="verse-block verse-justify"><div class="line">स्वगुणान्भक्षयन्त्येते गुणवन्तः शुभाशुभान्।</div><div class="line" style="position:relative;">असन्तो निर्गुणाश्चैते सप्तैते मोक्षहेतवः॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0793"><div class="verse-block verse-justify"><div class="line">विदुषां बुध्यमानानां स्वंस्वं स्थानं यथाविधि।</div><div class="line" style="position:relative;">गुणास्ते देवता भूत्वा सततं भुञ्जते हविः॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0794"><div class="verse-block verse-justify"><div class="line">`अदन्हवींषि चान्नानि ममत्वेन विहन्यते।</div><div class="line" style="position:relative;">'आत्मार्थे पाचयन्नन्नं ममत्वेनोपहन्यते॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0795"><div class="verse-block verse-justify"><div class="line">अभक्ष्यभक्षणं चैव मद्यपानं च हन्ति तम्।</div><div class="line" style="position:relative;">स चान्नं हन्ति तं चान्नं स हत्वा हन्यते पुनः॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0796"><div class="verse-block verse-justify"><div class="line">हन्ता ह्यन्नमिदं विद्वान्पुनर्जनयतीश्वरः।</div><div class="line" style="position:relative;">न चान्नाज्जायते तस्मिन्सूक्ष्मो नाम व्यतिक्रमः॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0797"><div class="verse-block verse-justify"><div class="line">मनसा मन्यते यच्च यच्च वाचा निगद्यते।</div><div class="line" style="position:relative;">श्रोत्रेण श्रूयते यच्च चक्षुषा यच्च दृश्यते॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0798"><div class="verse-block verse-justify"><div class="line">स्पर्शेन स्पृश्यते यच्च घ्राणेन घ्रायते च यत्।</div><div class="line" style="position:relative;">मनस्येतानि संयम्य हवींष्येतानि सर्वशः॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0799"><div class="verse-block verse-justify"><div class="line">गुणवत्पावको मह्यं दीप्यतेऽन्तःशरीरगः।</div><div class="line">योगयज्ञः प्रवृत्तो मे ज्ञानं ब्रह्ममयो हविः।</div><div class="line" style="position:relative;">प्राणस्तोत्रोऽपानशस्त्रः सर्वत्यागसुदक्षिणः॥१४॥</div></div></div>
+<p class="prose">कर्ताऽनुमन्ता ब्रह्मात्मा होताऽध्वर्युः कृतस्तुतिःऋतं प्रशास्ता तच्छस्त्रमपवर्गोऽस्य दक्षिणा</p>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0801"><div class="verse-block verse-justify"><div class="line">ऋचश्चाप्यत्र शंसन्ति नारायणविदो जनाः।</div><div class="line" style="position:relative;">नारायणाय देवाययदविन्दन्पशून्पुरा॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0802"><div class="verse-block verse-justify"><div class="line">तत्र सामानि गायन्ति तत्र चाहुर्निदर्शनम्।</div><div class="line" style="position:relative;">देवं नारायणं भीरु सर्वात्मानं निबोध तम्॥१६॥</div></div></div></div>

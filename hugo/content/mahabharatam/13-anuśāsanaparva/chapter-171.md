@@ -1,0 +1,23 @@
+{
+ "title": "अध्यायः १७१",
+ "weight": 1710
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः १७१</h2>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b7259"><div class="verse-block verse-justify"><div class="line">सर्वेषामुपवासानां यच्छ्रेयः सुमहत्फलम्।</div><div class="line">यच्चाप्यसंशयं लोके तन्मे त्वं वक्तुमर्हसि ॥भीष्म उवाच।</div><div class="line" style="position:relative;">॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b7260"><div class="verse-block verse-justify"><div class="line">शृणु राजन्यथा गीतं स्वयमेव स्वयंभुवा।</div><div class="line" style="position:relative;">यत्कृत्वा निर्वृतो भूयात्पुरुषो नात्र संशयः॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b7261"><div class="verse-block verse-justify"><div class="line">द्वादश्यां मार्गशीर्षे तु अहोरात्रेण केशवम्।</div><div class="line" style="position:relative;">अर्च्याश्वमेधं प्राप्नोति दुष्कृतं चास्य नश्यति॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b7262"><div class="verse-block verse-justify"><div class="line">तथैव पौषमासे तु पूज्यो नारायणेति च।</div><div class="line" style="position:relative;">वाजपेयमवाप्नोति सिद्धिं च परमां व्रजेत्॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b7263"><div class="verse-block verse-justify"><div class="line">अहोरात्रेण द्वादश्यां माघमासे तु माघवम्।</div><div class="line" style="position:relative;">राजसूयमवाप्नोति कुलं चैव समुद्धरेत्॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b7264"><div class="verse-block verse-justify"><div class="line">तथैव फाल्गुने मासि गोविन्देति च पूजयन्।</div><div class="line" style="position:relative;">अतिरात्रमवाप्नोति सोमलोकं च गच्छति॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b7265"><div class="verse-block verse-justify"><div class="line">अहोरात्रेण द्वादश्यां चैत्रे विष्णुरिति स्मरन्।</div><div class="line" style="position:relative;">पौण्डरीकमवाप्नोति देवलोकं च गच्छति॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b7266"><div class="verse-block verse-justify"><div class="line">वैशाखमासे द्वादश्यां पूजयन्मधुसूदनम्।</div><div class="line" style="position:relative;">अग्निष्टोममवाप्नोति सोमलोकं च गच्छति॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b7267"><div class="verse-block verse-justify"><div class="line">अहोरात्रेण द्वादश्यां ज्येष्ठे मासि त्रिविक्रमम्।</div><div class="line" style="position:relative;">गवां मेधमवाप्नोति अप्सरोभिश्च मोदते॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b7268"><div class="verse-block verse-justify"><div class="line">आषाढे मासि द्वादश्यां वामनेति च पूजयन्।</div><div class="line" style="position:relative;">नरमेधमवाप्नोति पुण्यं च लभते महत्॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b7269"><div class="verse-block verse-justify"><div class="line">अहोरात्रेण द्वादश्यां श्रावणे मासि श्रीधरम्।</div><div class="line" style="position:relative;">पञ्चयज्ञानवाप्नोति विमानस्थश्च मोदते॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b7270"><div class="verse-block verse-justify"><div class="line">तथा भाद्रपदे मासि हृषीकेशेति पूजयन्।</div><div class="line" style="position:relative;">सौत्रामणिमवाप्नोति पूतात्मा भवते च हि॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b7271"><div class="verse-block verse-justify"><div class="line">द्वादश्यामाश्विने मासि पद्मनाभेति चार्चयन्।</div><div class="line" style="position:relative;">गोसहस्रफलं पुण्यं प्राप्नुयान्नात्र संशयः॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b7272"><div class="verse-block verse-justify"><div class="line">द्वादश्यां कार्तिके मासि पूज्यो दामोदरेति च।</div><div class="line" style="position:relative;">गवां यज्ञमवाप्नोति पुमान्स्त्री वा न संशयः॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b7273"><div class="verse-block verse-justify"><div class="line">अर्चयेत्पुण्डरीकाक्षमेवं संवत्सरं तु यः।</div><div class="line" style="position:relative;">जातिस्मरत्वं प्राप्नोति विन्द्याद्बहु सुवर्णकम्॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b7274"><div class="verse-block verse-justify"><div class="line">अहन्यहनि तद्भावमुपेन्द्रं योऽधिगच्छति।</div><div class="line" style="position:relative;">समाप्ते भोजयेद्विप्रानथवा दापयेद्धृतम्॥१६॥</div></div></div>
+<p class="prose">अतः परं नोपवासो भवतीति विनिश्चयः ॥उवाच भगवान्विष्णुः स्वयमेव पुरातनम् ॥]</p></div>

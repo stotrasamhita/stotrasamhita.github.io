@@ -1,0 +1,23 @@
+{
+ "title": "अध्यायः ३६९",
+ "weight": 3690
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः ३६९</h2>
+<div class="verse-block-wrapper" id="12-śāntiparva-b15753"><div class="verse-block verse-justify"><div class="line">भीष्म उवाच।</div><div class="line" style="position:relative;">॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b15754"><div class="verse-block verse-justify"><div class="line">अथ काले बहुतिथे पूर्णे प्राप्तो भुजङ्गमः।</div><div class="line" style="position:relative;">दत्ताभ्यनुज्ञः स्वं वेश्म कृतकर्मा विवस्वता॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b15755"><div class="verse-block verse-justify"><div class="line">तं भार्याऽप्युपचक्राम पादशौचादिभिर्गुणैः।</div><div class="line" style="position:relative;">उपपन्नां च तां साध्वीं पन्नगः पर्यपृच्छत॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b15756"><div class="verse-block verse-justify"><div class="line">अथ त्वमसि कल्याणि देवतातिथिपूजने।</div><div class="line" style="position:relative;">पूर्वमुक्तेन विधिना युक्ता कर्मसु वर्तसे॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b15757"><div class="verse-block verse-justify"><div class="line">न खल्वस्यकृतार्थेन स्त्रीबुद्ध्या मार्दवीकृता।</div><div class="line">मद्वियोगेन सुश्रोणि विमुक्ता धर्मसेतुना ॥नागभार्योवाच।</div><div class="line" style="position:relative;">॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b15758"><div class="verse-block verse-justify"><div class="line">शिष्याणां गुरुशुश्रूषा विप्राणां वेदधारणम्।</div><div class="line" style="position:relative;">भृत्यानां स्वामिवचनं राज्ञो लोकानुपालनम्॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b15759"><div class="verse-block verse-justify"><div class="line">सर्वभूतपरित्राणं क्षत्रधर्म इहोच्यते।</div><div class="line" style="position:relative;">वैश्यानां यज्ञसंवृत्तिरातिथेयसमन्विता॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b15760"><div class="verse-block verse-justify"><div class="line">विप्रक्षत्रियवैश्यानां शुश्रूषा शूद्रकर्म तत्।</div><div class="line" style="position:relative;">गृहस्थधर्मो नागेन्द्र सर्वभूतहितैषिता॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b15761"><div class="verse-block verse-justify"><div class="line">नियताहारता नित्यं व्रतचर्या यथाक्रमम्।</div><div class="line" style="position:relative;">धर्मो हि धर्मसंबन्धादिन्द्रियाणां विशेषतः॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b15762"><div class="verse-block verse-justify"><div class="line">अहं कस्य कुतो वाऽपि कः को मे ह भवेदिति।</div><div class="line" style="position:relative;">प्रयोजनमतिर्नित्यमेवं मोक्षाश्रमे वसेत्॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b15763"><div class="verse-block verse-justify"><div class="line">पतिव्रतात्वं भार्यायाः परमो धर्म उच्यते।</div><div class="line" style="position:relative;">तवोपदेशान्नागेन्द्र तच्च तत्त्वेन वेद्मि वै॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b15764"><div class="verse-block verse-justify"><div class="line">साऽहं धर्मं विजानन्ती धर्ननित्ये त्वयि स्थिते।</div><div class="line" style="position:relative;">सत्पथं कथमृत्सृज्य यास्यामि विपथं पथः॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b15765"><div class="verse-block verse-justify"><div class="line">देवतानां महाभाग धर्मचर्या न हीयते।</div><div class="line" style="position:relative;">अतिथीनां च सत्कारे नित्ययुक्ताऽस्म्यतन्द्रिता॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b15766"><div class="verse-block verse-justify"><div class="line">सप्ताष्टदिवसास्त्वद्य विप्रस्येहागतस्य वै।</div><div class="line" style="position:relative;">तच्च कार्यं न मे ख्याति दर्शनं तव काङ्क्षति॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b15767"><div class="verse-block verse-justify"><div class="line">गोमत्यास्त्वेष पुलिने त्वद्दर्शनसमुत्सुकः।</div><div class="line" style="position:relative;">आसीनो वर्तयन्ब्रह्म ब्राह्मणः संशितव्रतः॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b15768"><div class="verse-block verse-justify"><div class="line">अहं त्वनेन नागेन्द्र सत्यपूर्वं समाहिता।</div><div class="line" style="position:relative;">प्रस्थाप्यो मत्सकाशं स संप्राप्तो भुजगोत्तमः॥१६॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b15769"><div class="verse-block verse-justify"><div class="line">एतच्छ्रुत्वा महाप्राज्ञ तत्र गन्तुं त्वमर्हसि।</div><div class="line" style="position:relative;">दातुमर्हसि वा तस्य दर्शनं दर्शनश्रवः॥१७॥</div></div></div></div>

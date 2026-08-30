@@ -1,0 +1,22 @@
+{
+ "title": "अध्यायः १६",
+ "weight": 160
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः १६</h2>
+<div class="verse-block-wrapper" id="02-sabhāparva-b0743"><div class="verse-block verse-justify"><div class="line">सम्राड्गुणमभीप्सन्वै युष्मान्स्वार्थपरायणः।</div><div class="line" style="position:relative;">कथं प्रहिणुयां कृष्ण सोऽहं केवलसाहसात्॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b0744"><div class="verse-block verse-justify"><div class="line">भीमार्जुनावुभौ नेत्रे मनो मन्ये जनार्दनम्।</div><div class="line" style="position:relative;">मनश्चक्षुर्विहीनस्य कीदृशं जीवितं भवेत्॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b0745"><div class="verse-block verse-justify"><div class="line">जरासन्धबलं प्राप्य दुष्पारं भीमविक्रमम्।</div><div class="line" style="position:relative;">यमोपि न विजेताऽऽजौ तत्र वः किं विचेष्टितम्॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b0746"><div class="verse-block verse-justify"><div class="line">अस्मिंस्त्वर्थान्तरे युक्तमनर्थः प्रतिपद्यते।</div><div class="line" style="position:relative;">तस्मान्न प्रतिपत्तिस्तु कार्या युक्ता मता मम॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b0747"><div class="verse-block verse-justify"><div class="line">यथाऽहं विमृशाम्येकस्तत्तावच्छ्रूयतां मम।</div><div class="line">संन्यासं रोचये साधु कार्यस्यास्य जनार्दन।</div><div class="line" style="position:relative;">प्रतिहन्ति मनो मेऽद्य राजसूयो दूराहरः ॥वैशम्पायन उवाच॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b0748"><div class="verse-block verse-justify"><div class="line">पार्थः प्राप्य धनुः श्रेष्ठमक्षय्यौ च महेषुधी।</div><div class="line">रथं ध्वजं हयांश्चैव युधिष्ठिरमभाषत ॥अर्जुन उवाच।</div><div class="line" style="position:relative;">॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b0749"><div class="verse-block verse-justify"><div class="line">धनुः शस्त्रं शरा वीर्यं पक्षो भूमिर्यशो बलम्।</div><div class="line">प्राप्तमेतन्मय राजन्दुष्प्रापं यदभीप्सितम्।</div><div class="line" style="position:relative;">॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b0750"><div class="verse-block verse-justify"><div class="line">कुले जन्म प्रशंसन्ति वैद्याः साधु सुनिष्ठिताः।</div><div class="line">बलेन सदृशं नास्ति वीर्यं तु मम रोचते।</div><div class="line" style="position:relative;">॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b0751"><div class="verse-block verse-justify"><div class="line">कृतवीर्यकुले जातो निर्वीर्यः किं करिष्यति।</div><div class="line" style="position:relative;">निर्वीर्ये तु कुले जातो वीर्यवांस्तु विशिष्यते॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b0752"><div class="verse-block verse-justify"><div class="line">क्षत्रियः सर्वशो राजन्यस्य वृत्तिर्द्विषज्जये।</div><div class="line" style="position:relative;">सर्वैगुणैर्विहीनोऽपि वीर्यवान्हि तरेन्द्रिपून्॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b0753"><div class="verse-block verse-justify"><div class="line">सर्वैरपि गुणैर्युक्तो निर्वीर्यः किं करिष्यति।</div><div class="line" style="position:relative;">जयस्य हेतुः सिद्धिर्हि कर्म दैवं च संश्रितम्॥११॥</div></div></div>
+<p class="prose">संयुक्तो हि बलैः कश्चित्प्रमादान्नोपयुज्यते<br>तेन द्वारेण शत्रुभ्यः क्षीयते सबलो रिपुः</p>
+<div class="verse-block-wrapper" id="02-sabhāparva-b0755"><div class="verse-block verse-justify"><div class="line">दैन्यं यथा बलवति तथा मोहो बलान्विते।</div><div class="line" style="position:relative;">तावुभौ नाशकौ हेतू राज्ञा त्याज्यौ जयार्थिना॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b0756"><div class="verse-block verse-justify"><div class="line">जरासन्धिविनाशं च राज्ञां च परिरक्षणम्।</div><div class="line" style="position:relative;">यदि कुर्याम् यज्ञार्थं किं ततः परमं भवेत्॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b0757"><div class="verse-block verse-justify"><div class="line">अनारम्भे हि नियतो भवेदगुणनिश्चयः।</div><div class="line" style="position:relative;">गुणान्निः संशयाद्राजन्नैर्गुण्यं मन्यसे कथम्॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="02-sabhāparva-b0758"><div class="verse-block verse-justify"><div class="line">काषायं सुलभं पश्चान्मुनीनां शममिच्छताम्।</div><div class="line" style="position:relative;">साम्राज्यं तु भवेच्छक्यं वयं योत्स्यामहे परान्॥१५॥</div></div></div></div>

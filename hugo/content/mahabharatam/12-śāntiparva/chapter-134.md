@@ -1,0 +1,24 @@
+{
+ "title": "अध्यायः १३४",
+ "weight": 1340
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः १३४</h2>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5415"><div class="verse-block verse-justify"><div class="line">भीष्म उवाच।</div><div class="line" style="position:relative;">॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5416"><div class="verse-block verse-justify"><div class="line">`अत्राप्युदाहरन्तीममितिहासं पुरातनम्।</div><div class="line">'अत्र कामन्दवचनं कीर्तयन्ति पुराविदः।</div><div class="line" style="position:relative;">प्रत्यक्षावेव धर्मार्थौ क्षत्रियस्य विजानतः॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5417"><div class="verse-block verse-justify"><div class="line">तौ तु न व्यवधातव्यौ परोक्षा धर्मयातना।</div><div class="line" style="position:relative;">अधर्मो धर्म इत्येतद्यथा वृक्षफलं तथा॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5418"><div class="verse-block verse-justify"><div class="line">धर्माधर्मफले जातु ददर्शेह न कश्चन।</div><div class="line" style="position:relative;">वुभूषेद्बलमेवैतत्सर्वं बलवतो वशे॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5419"><div class="verse-block verse-justify"><div class="line">श्रियं बलममात्यांश्च बलवानिह विन्दति।</div><div class="line" style="position:relative;">यो ह्यनाढ्यः स पतितस्तदुच्छिष्टं यदल्पकम्॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5420"><div class="verse-block verse-justify"><div class="line">बह्वपथ्ये बलवति न किंचित्क्रियते भयात्।</div><div class="line" style="position:relative;">उभौ सत्याधिकारौ तौ त्रायेते महतो भयात्॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5421"><div class="verse-block verse-justify"><div class="line">अति धर्माद्बलं मन्ये बलाद्धर्मः प्रवर्तते।</div><div class="line" style="position:relative;">बले प्रतिष्ठितो धर्मो धरण्यामिव जंगमः॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5422"><div class="verse-block verse-justify"><div class="line">धूमो वायोरिव वशे बलं धर्मोऽनुवर्तते।</div><div class="line" style="position:relative;">अनीश्वरो बलं धर्मो द्रुमं वल्लीव संश्रिता॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5423"><div class="verse-block verse-justify"><div class="line">वशे बलवतां धर्मः सुखं भोगवतामिव।</div><div class="line" style="position:relative;">नास्त्यसाध्यं बलवतां सर्वं बलवता जितम्॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5424"><div class="verse-block verse-justify"><div class="line">दुराचारः क्षीणबलः परिमाणं न गच्छति।</div><div class="line" style="position:relative;">अथ तस्मादुद्विजते सर्वो लोको वृकादिव॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5425"><div class="verse-block verse-justify"><div class="line">अपध्वस्तो ह्यवमतो दुःखं जीवति जीवितम्।</div><div class="line" style="position:relative;">जीवितं यदधिक्षिप्तं यथैव मरणं तथा॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5426"><div class="verse-block verse-justify"><div class="line">यदेवमाहुः पापेन चारित्रेण विवक्षितम्।</div><div class="line" style="position:relative;">सुभृशं तप्यते तेन वाक््शल्येन परिक्षतः॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5427"><div class="verse-block verse-justify"><div class="line">अत्रैतदाहुराचार्याः पापस्य परिमोक्षणे।</div><div class="line" style="position:relative;">त्रयीं विद्यामुपासीत तथोपासीत वै द्विजान्॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5428"><div class="verse-block verse-justify"><div class="line">प्रसादयेन्मधुरया वाचा चाप्यथ कर्मणा।</div><div class="line" style="position:relative;">महामनाश्चैव भवेद्विवहेच्च महाकुले॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5429"><div class="verse-block verse-justify"><div class="line">इत्यस्तीति वदेदेव परेषां कीर्तयेद्गुणान्।</div><div class="line" style="position:relative;">जपेदुदकशीलः स्यात्पेशलो नातिजल्पकः॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5430"><div class="verse-block verse-justify"><div class="line">ब्रह्म क्षत्रं संप्रविशेद्बहु कृत्वा सुदुष्करम्।</div><div class="line" style="position:relative;">उच्यमानो हि लोकेन बहु तत्तदचिन्तयन्॥१६॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5431"><div class="verse-block verse-justify"><div class="line">उपप्राप्यैवमाचारं क्षिप्रं बहुमतो भवेत्।</div><div class="line" style="position:relative;">सुखं च वित्तं भुञ्जीत वृत्तेनैकेन गोपयेत्॥१७॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5432"><div class="verse-block verse-justify"><div class="line">`अपि तेभ्यो मृगान्हत्वा नयेच्च सततं वने।</div><div class="line">यस्मिन्न प्रतिगृह्णन्ति दस्युभोजनशङ्कया।</div><div class="line" style="position:relative;">'लोके च लभते पूजां परत्रेह महत्फलम्॥१८॥</div></div></div></div>

@@ -1,5 +1,5 @@
 {
- "title": "Siddhivinayaka Puja",
+ "title": "श्री-सिद्धिविनायक-पूजा",
  "slug": "siddhivinayaka-puja",
  "source_file": "pujas/siddhivinayaka-puja.tex",
  "verse_count": 74,

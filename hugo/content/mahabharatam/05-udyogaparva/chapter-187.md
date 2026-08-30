@@ -1,0 +1,26 @@
+{
+ "title": "अध्यायः १८७",
+ "weight": 1870
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः १८७</h2>
+<div class="verse-block-wrapper" id="05-udyogaparva-b6824"><div class="verse-block verse-justify"><div class="line">भीष्म उवाच।</div><div class="line" style="position:relative;">॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b6825"><div class="verse-block verse-justify"><div class="line">ततस्ते तापसाः सर्वे तपसे धृतनिश्चयाम्।</div><div class="line" style="position:relative;">दृष्ट्वा न्यवर्तयंस्तात किं कार्यमिति चाब्रुवन्॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b6826"><div class="verse-block verse-justify"><div class="line">तानुवाच ततः कन्या तपोवृद्धानृषींस्तदा।</div><div class="line" style="position:relative;">निराकृतास्मि भीष्मेण भ्रंशिता पतिधर्मतः॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b6827"><div class="verse-block verse-justify"><div class="line">वधार्थं तस्य दीक्षा मे न लोकार्थं तपोधनाः।</div><div class="line" style="position:relative;">निहत्य भीष्मं गच्छेयं शान्तिमित्येव निश्चयः॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b6828"><div class="verse-block verse-justify"><div class="line">यत्कृते दुःखवसतिमिमां प्राप्तऽस्मि शाश्वतीम्।</div><div class="line" style="position:relative;">पतिलोकाद्विहीना च नैव स्त्री न पुमानिह॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b6829"><div class="verse-block verse-justify"><div class="line">नाहत्वा युधि गाङ्गेयं निवर्तिष्ये तपोधनाः।</div><div class="line" style="position:relative;">एष मे हृदि संकल्पो यदिदं कथितं मया॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b6830"><div class="verse-block verse-justify"><div class="line">स्त्रीभावे परिनिर्विण्णा पुंस्त्वार्थे कृतनिश्चया।</div><div class="line" style="position:relative;">भीष्मे प्रतिचिकीर्षामि नास्मि वार्येति वै पुनः॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b6831"><div class="verse-block verse-justify"><div class="line">तां देवो दर्शयामास शूलपाणिरुमापतिः।</div><div class="line" style="position:relative;">मध्ये तेषां महार्षीणां स्वेन रूपेण तापसीम्॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b6832"><div class="verse-block verse-justify"><div class="line">छन्द्यमाना वरेणाथ सा वव्रे मत्पराजयम्।</div><div class="line" style="position:relative;">हनिष्यसीति तां देवः प्रत्युवाच मनस्विनीम्॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b6833"><div class="verse-block verse-justify"><div class="line">ततः सा पुनरेवाथ कन्या रुद्रमुवाच ह।</div><div class="line" style="position:relative;">उपपद्येत्कथं देव स्त्रिया युधि जयो मम॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b6834"><div class="verse-block verse-justify"><div class="line">स्त्रीभावेन च मे गाढं मनः शान्तमुमापते।</div><div class="line" style="position:relative;">प्रतिश्रुतश्च भूतेश त्वया भीष्मपराजयः॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b6835"><div class="verse-block verse-justify"><div class="line">यथा स सत्यो भवति तथा कुरु वृषध्वज।</div><div class="line" style="position:relative;">यथा हन्यां समागम्य भीष्मं शान्तनवं युधि॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b6836"><div class="verse-block verse-justify"><div class="line">तामुवाच महादेवः कन्यां किल वृषध्वजः।</div><div class="line" style="position:relative;">न मे वागमृतं प्राह सत्यं भद्रे भविष्यसि॥१३॥</div></div></div>
+<p class="prose">हनिष्यसि रणे भीष्मं पुरुषत्वं च लप्स्यति ॥स्मरिष्यसि च तत्सर्वं देहमन्यं गता सती</p>
+<div class="verse-block-wrapper" id="05-udyogaparva-b6838"><div class="verse-block verse-justify"><div class="line">द्रुपदस्य कुले जाता भविष्यसि महारथः।</div><div class="line" style="position:relative;">शीघ्रास्त्रश्चित्रयोधी च भविष्यसि सुसंमतः॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b6839"><div class="verse-block verse-justify"><div class="line">यथोक्तमेव कल्याणि सर्वमेतद्भविष्यति।</div><div class="line" style="position:relative;">भविष्यसि पुमान्पश्चात्कस्माच्चित्कालपर्ययात्॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b6840"><div class="verse-block verse-justify"><div class="line">एवमुक्त्वा महादेवः कपर्दी वृषभध्वजः।</div><div class="line" style="position:relative;">पश्यतामेव विप्राणां तत्रैवान्तरधीयत॥१६॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b6841"><div class="verse-block verse-justify"><div class="line">ततः सा पश्यतां तेषां महर्षीणामनिन्दिता।</div><div class="line" style="position:relative;">समाहृत्य वनात्तस्मात्काष्ठानि वरवर्णिनी॥१७॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b6842"><div class="verse-block verse-justify"><div class="line">चितां कृत्वा सुमहतीं प्रदाय च हुताशनम्।</div><div class="line" style="position:relative;">प्रदीप्तेऽग्नौ महाराज रोषदीप्तेन चेतसा॥१८॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b6843"><div class="verse-block verse-justify"><div class="line">उक्त्वा भीष्मवधायेति प्रविवेश हुताशनम्।</div><div class="line" style="position:relative;">ज्येष्ठा काशिसुता राजन्यमुनामभितो नदीम्॥१९॥</div></div></div></div>

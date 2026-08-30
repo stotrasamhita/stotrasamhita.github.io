@@ -1,0 +1,25 @@
+{
+ "title": "अध्यायः १५२",
+ "weight": 1520
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः १५२</h2>
+<div class="verse-block-wrapper" id="05-udyogaparva-b5481"><div class="verse-block verse-justify"><div class="line">वैशंपायन उवाच।</div><div class="line" style="position:relative;">॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b5482"><div class="verse-block verse-justify"><div class="line">ततो देशे समे स्निग्धे प्रभूतयवसेन्धने।</div><div class="line" style="position:relative;">निवेशयामास तदा सेनां राजा युधिष्ठिरः॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b5483"><div class="verse-block verse-justify"><div class="line">परिहृत्य श्मशानानि देवतायतनानि च।</div><div class="line" style="position:relative;">आश्रमांश्च महर्षीणां तीर्थान्यायतनानि च॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b5484"><div class="verse-block verse-justify"><div class="line">मधुरानूषरे देशे शुचौ पुण्ये महामतिः।</div><div class="line" style="position:relative;">निवेशं कारयामास कुन्तीपुत्रो युधिष्ठिरः॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b5485"><div class="verse-block verse-justify"><div class="line">ततश्च पुनरुत्थाय सुखी विश्रान्तवाहनः।</div><div class="line" style="position:relative;">प्रययौ पृथिवीपालैर्वृतः शतसहस्रशः॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b5486"><div class="verse-block verse-justify"><div class="line">विद्राव्य शतशो गुल्मान्धार्तराष्ट्रस्य सैनिकान्।</div><div class="line" style="position:relative;">पर्यक्रामत्समन्ताच्च पार्थेन सह केशवः॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b5487"><div class="verse-block verse-justify"><div class="line">शिबिरं मापयामास धृष्टद्युम्नश्च पार्षतः।</div><div class="line" style="position:relative;">सात्यकिश्च रथोदारो युयुधानश्च वीर्यवान्॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b5488"><div class="verse-block verse-justify"><div class="line">आसाद्य सरितं पुण्यां कुरुक्षेत्रे हिरण्वतीम्।</div><div class="line" style="position:relative;">सूपतीर्थां शुचिजलां शर्करापङ्कवर्जिताम्॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b5489"><div class="verse-block verse-justify"><div class="line">खानयामास परिखां केशवस्त्रत्र भारत।</div><div class="line" style="position:relative;">गुप्त्यर्थमपि चादिश्य बलं तत्र न्यवेशयत्॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b5490"><div class="verse-block verse-justify"><div class="line">विधिर्यः शिबिरस्यासीत्पाण्डवानां महात्मनाम्।</div><div class="line" style="position:relative;">तद्विधानि नरेन्द्राणां कारयामास केशवः॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b5491"><div class="verse-block verse-justify"><div class="line">प्रभूततरकाष्ठानि दुराधर्षतराणि च।</div><div class="line" style="position:relative;">भक्ष्यभोज्यान्नपानानि शतशोऽथ सहस्रशः॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b5492"><div class="verse-block verse-justify"><div class="line">शिबिराणि महार्हाणि राज्ञां तत्र पृथक्पृथक्।</div><div class="line" style="position:relative;">विमानानीव राजेन्द्र निविष्टानि महीतले॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b5493"><div class="verse-block verse-justify"><div class="line">तत्रासञ्शिल्पिनः प्राज्ञाः शतशो दत्तवेतनाः।</div><div class="line" style="position:relative;">सर्वापकरणैर्युक्ता वैद्याः शास्त्रविशारदाः॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b5494"><div class="verse-block verse-justify"><div class="line">ज्याधनुर्वर्मशस्त्राणां तथैव मधुसर्पिषोः।</div><div class="line" style="position:relative;">ससर्जरकसपांसूनां राशयः पर्वतोपमाः॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b5495"><div class="verse-block verse-justify"><div class="line">बहूदकं सुयवसं तुषाङ्गारसमन्वितम्।</div><div class="line" style="position:relative;">शिबिरे शिबिरे राजा सञ्चकार युधिष्ठिरः॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b5496"><div class="verse-block verse-justify"><div class="line">महायन्त्राणि नाराचास्तोमराणि परश्वधाः।</div><div class="line" style="position:relative;">धनूंषि कवचादीनि ऋष्टयस्तूणसंयुताः॥१६॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b5497"><div class="verse-block verse-justify"><div class="line">गजाः कण्टकसन्नाहा लोहवर्मोत्तरच्छदाः।</div><div class="line" style="position:relative;">दृश्यन्ते तत्र गिर्याभाः सहस्रशतयोधिनः॥१७॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b5498"><div class="verse-block verse-justify"><div class="line">निविष्टान्पाण्डवांस्तत्र ज्ञात्वा मित्राणि भारत।</div><div class="line" style="position:relative;">अभिसस्रुर्यथादेशं सबलाः सहवाहनाः॥१८॥</div></div></div>
+<div class="verse-block-wrapper" id="05-udyogaparva-b5499"><div class="verse-block verse-justify"><div class="line">चरितब्रह्मचर्यास्ते सोमपा भूरिदक्षिणाः।</div><div class="line" style="position:relative;">जयाय पाण्डुपुत्राणां समाजग्मुर्महीक्षितः॥१९॥</div></div></div></div>

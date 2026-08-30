@@ -1,0 +1,26 @@
+{
+ "title": "अध्यायः ३५",
+ "weight": 350
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः ३५</h2>
+<div class="verse-block-wrapper" id="01-ādiparva-b1658"><div class="verse-block verse-justify"><div class="line">शौनक उवाच।</div><div class="line" style="position:relative;">॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1659"><div class="verse-block verse-justify"><div class="line">भुजङ्गमानां शापस्य मात्रा चैव सुतेन च।</div><div class="line" style="position:relative;">विनतायास्त्वया प्रोक्तं कारणं सूतनन्दन॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1660"><div class="verse-block verse-justify"><div class="line">वरप्रदानं भर्त्रा च कद्रूविनतयोस्तथा।</div><div class="line" style="position:relative;">नामनी चैव ते प्रोक्ते पक्षिणोर्वैनतेययोः॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1661"><div class="verse-block verse-justify"><div class="line">पन्नगानां तु नामानि न कीतर्यसि सूतज।</div><div class="line">प्राधान्येनापि नामानि श्रोतुमिच्छामहे वयम् ॥सौतिरुवाच।</div><div class="line" style="position:relative;">॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1662"><div class="verse-block verse-justify"><div class="line">बहुत्वान्नामधेयानि पन्नगानां तपोधन।</div><div class="line" style="position:relative;">न कीर्तयिष्ये सर्वेषां प्राधान्येन तु मे शृणु॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1663"><div class="verse-block verse-justify"><div class="line">शेषः प्रथमतो जातो वासुकिस्तदनन्तरम्।</div><div class="line" style="position:relative;">ऐरावतस्तक्षकश्च कर्कोटकधनञ्जयौ॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1664"><div class="verse-block verse-justify"><div class="line">कालियो मणिनागश्च नागश्चापूरणस्तथा।</div><div class="line" style="position:relative;">नागस्तथा पिञ्जरक एलापत्रोऽथ वामनः॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1665"><div class="verse-block verse-justify"><div class="line">नीलानीलौ तथा नागौ कल्माषशबलौ तथा।</div><div class="line" style="position:relative;">आर्यकश्चोग्रकश्चैव नागः कलशपोतकः॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1666"><div class="verse-block verse-justify"><div class="line">सुमनाख्यो दधिमुखस्तथा विमलपिण्डकः।</div><div class="line" style="position:relative;">आप्तः कोटरकश्चैव शङ्खो वालिशिखस्तथा॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1667"><div class="verse-block verse-justify"><div class="line">निष्टानको हेमगुहो नहुषः पिङ्गलस्तथा।</div><div class="line" style="position:relative;">बाह्यकर्णो हस्तिपदस्तथा मुद्गरपिण्डकः॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1668"><div class="verse-block verse-justify"><div class="line">कम्बलाश्वतरौ चापि नागः कालीयकस्तथा।</div><div class="line" style="position:relative;">वृत्तसंवर्तकौ नागौ द्वौ च पद्माविति श्रुतौ॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1669"><div class="verse-block verse-justify"><div class="line">नागः शङ्खमुखश्चैव तथा कूष्माण्डकोऽपरः।</div><div class="line" style="position:relative;">क्षेमकश्च तथा नागो नागः पिण्डारकस्तथा॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1670"><div class="verse-block verse-justify"><div class="line">करवीरः पुष्पदंष्ट्रो बिल्वको बिल्वपाण्डुरः।</div><div class="line" style="position:relative;">मूषकादः शङ्खशिराः पूर्णभद्रो हरिद्रकः॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1671"><div class="verse-block verse-justify"><div class="line">अपराजितो ज्योतिकश्च पन्नगः श्रीवहस्तथा।</div><div class="line" style="position:relative;">कौरव्यो धृतराष्ट्रश्च शङ्खपिण्डश्च वीर्यवान्॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1672"><div class="verse-block verse-justify"><div class="line">विरजाश्च सुबाहुश्च शालिपिण्डश्च वीर्यवान्।</div><div class="line" style="position:relative;">हस्तिपिण्डः पिठरकः सुमुखः कौणपाशनः॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1673"><div class="verse-block verse-justify"><div class="line">कुठऱः कुञ्जरश्चैव तथा नागः प्रभाकरः।</div><div class="line" style="position:relative;">कुमुदः कुमुदाक्षश्च तित्तिरिर्हलिकस्तथा॥१६॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1674"><div class="verse-block verse-justify"><div class="line">कर्दमश्च महानागो नागश्च बहुमूलकः।</div><div class="line" style="position:relative;">कर्कराकर्करौ नागौ कुण्डोदरमहोदरौ॥१७॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1675"><div class="verse-block verse-justify"><div class="line">एते प्राधान्यतो नागाः कीर्तिता द्विजसत्तम।</div><div class="line" style="position:relative;">बहुत्वान्नामधेयानामितरे नानुकीर्तिताः॥१८॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1676"><div class="verse-block verse-justify"><div class="line">एतेषां प्रसवो यश्च प्रसवस्य च संततिः।</div><div class="line" style="position:relative;">असङ्ख्येयेति मत्त्वा तान्न ब्रवीमि तपोधन॥१९॥</div></div></div>
+<div class="verse-block-wrapper" id="01-ādiparva-b1677"><div class="verse-block verse-justify"><div class="line">बहूनीह सहस्राणि प्रयुतान्यर्बुदानि च।</div><div class="line" style="position:relative;">अशक्यान्येव सङ्ख्यातुं पन्नगानां तपोधन॥२०॥</div></div></div></div>

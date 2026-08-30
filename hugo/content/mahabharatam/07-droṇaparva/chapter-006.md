@@ -1,0 +1,21 @@
+{
+ "title": "अध्यायः ६",
+ "weight": 60
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः ६</h2>
+<div class="verse-block-wrapper" id="07-droṇaparva-b0168"><div class="verse-block verse-justify"><div class="line">सञ्जय उवाच।</div><div class="line" style="position:relative;">॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="07-droṇaparva-b0169"><div class="verse-block verse-justify"><div class="line">कर्णस्य वचनं श्रुत्वा राजा दुर्योधनस्तदा।</div><div class="line">सेनामध्यगतं द्रोणमिदं वचनमब्रवीत् ॥दुर्योधन उवाच।</div><div class="line" style="position:relative;">॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="07-droṇaparva-b0170"><div class="verse-block verse-justify"><div class="line">वर्णश्रैष्ठ्यात्कुलोत्पत्त्या श्रुतेन वयसा धिया।</div><div class="line" style="position:relative;">वीर्याद्दाक्ष्यादधृष्यत्वादर्थज्ञानान्नयाज्जयात्॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="07-droṇaparva-b0171"><div class="verse-block verse-justify"><div class="line">तपसा च कृतज्ञत्वाद्वृद्धः सर्वगुणैरपि।</div><div class="line" style="position:relative;">युक्तो भवत्सश्रो गोप्ता राज्ञामन्यो न विद्यते॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="07-droṇaparva-b0172"><div class="verse-block verse-justify"><div class="line">स भवान्पातु नः सर्वान्देवानिव शतक्रतुः।</div><div class="line" style="position:relative;">भवन्नेत्राः पराञ्जेतुमिच्छामो द्विजसत्तम॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="07-droṇaparva-b0173"><div class="verse-block verse-justify"><div class="line">रुद्राणामिव कापालिर्वसूनामिव पावकः।</div><div class="line" style="position:relative;">कुबेर इव यक्षाणां मरुतामिव वासवः॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="07-droṇaparva-b0174"><div class="verse-block verse-justify"><div class="line">वसिष्ठ इव विप्राणां तेजसामिव भास्करः।</div><div class="line" style="position:relative;">पितॄणामिव धर्मेन्द्रो यादसामिव चाम्बुराट्॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="07-droṇaparva-b0175"><div class="verse-block verse-justify"><div class="line">नक्षत्राणामिव शशी दितिजानामिवोशनाः।</div><div class="line" style="position:relative;">`सर्वेषामिव लोकानां विश्वस्य च यथा क्षयः'॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="07-droṇaparva-b0176"><div class="verse-block verse-justify"><div class="line">विश्वोत्पत्तिस्थितिलये श्रेष्ठो नारायणः प्रभुः।</div><div class="line" style="position:relative;">एवं सेनाप्रणेतॄणां मम सेनापतिर्भव॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="07-droṇaparva-b0177"><div class="verse-block verse-justify"><div class="line">अक्षौहिण्यो दशैका च वशगाः सन्तु तेऽनघ।</div><div class="line" style="position:relative;">ताभिः शत्रून्प्रतिव्यूह्य जहीन्द्रो दानवानिव॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="07-droṇaparva-b0178"><div class="verse-block verse-justify"><div class="line">प्रयातु नो भवानग्रे देवानामिव पावकिः।</div><div class="line" style="position:relative;">अनुयास्यामहे त्वाऽऽजौ सौरभेया इवर्षभम्॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="07-droṇaparva-b0179"><div class="verse-block verse-justify"><div class="line">उग्रधन्वा महेष्वासो दिव्यं विष्फारयन्धनुः।</div><div class="line" style="position:relative;">दृष्ट्वा भवन्तं सङ्ग्रामे नार्जुनः प्रहरिष्यति॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="07-droṇaparva-b0180"><div class="verse-block verse-justify"><div class="line">ध्रुवं युधिष्ठिरं सङ्ख्ये सानुबन्धं सबान्धवम्।</div><div class="line">जेष्यामि पुरुषव्याघ्र भवान्सेनापतिर्यदि ॥सञ्जय उवाच।</div><div class="line" style="position:relative;">॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="07-droṇaparva-b0181"><div class="verse-block verse-justify"><div class="line">एवमुक्ते ततो द्रोणं जयेत्यूचुर्नराधिपाः।</div><div class="line" style="position:relative;">सिंहनादेन महता हर्षयन्तस्तवात्मजम्॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="07-droṇaparva-b0182"><div class="verse-block verse-justify"><div class="line">सैनिकाश्च मुदा युक्ता वर्धयन्ति द्विजोत्तमम्।</div><div class="line">दुर्योधनं पुरस्कृत्य प्रार्थयन्तो महद्यशः।</div><div class="line" style="position:relative;">दुर्योधनं ततो राजन्द्रोणो वचनमब्रवीत्॥१५॥</div></div></div></div>

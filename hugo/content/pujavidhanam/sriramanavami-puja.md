@@ -1,5 +1,5 @@
 {
- "title": "Sriramanavami Puja",
+ "title": "श्री-रामनवमी-पूजा",
  "slug": "sriramanavami-puja",
  "source_file": "pujas/sriramanavami-puja.tex",
  "verse_count": 50,

@@ -1,0 +1,37 @@
+{
+ "title": "चतुर्दशोऽध्यायः---गुणत्रयविभागयोगः",
+ "weight": 140
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">चतुर्दशोऽध्यायः---गुणत्रयविभागयोगः</h2>
+<p class="uvacha">श्रीभगवानुवाच</p>
+<div class="verse-block-wrapper" id="gita-b0601"><div class="verse-block verse-justify"><div class="line">परं भूयः प्रवक्ष्यामि ज्ञानानां ज्ञानमुत्तमम्।</div><div class="line" style="position:relative;">यज्ज्ञात्वा मुनयः सर्वे परां सिद्धिमितो गताः॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="gita-b0602"><div class="verse-block verse-justify"><div class="line">इदं ज्ञानमुपाश्रित्य मम साधर्म्यमागताः।</div><div class="line" style="position:relative;">सर्गेऽपि नोपजायन्ते प्रलये न व्यथन्ति च॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="gita-b0603"><div class="verse-block verse-justify"><div class="line">मम योनिर्महद् ब्रह्म तस्मिन् गर्भं दधाम्यहम्।</div><div class="line" style="position:relative;">सम्भवः सर्वभूतानां ततो भवति भारत॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="gita-b0604"><div class="verse-block verse-justify"><div class="line">सर्वयोनिषु कौन्तेय मूर्तयः सम्भवन्ति याः।</div><div class="line" style="position:relative;">तासां ब्रह्म महद् योनिरहं बीजप्रदः पिता॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="gita-b0605"><div class="verse-block verse-justify"><div class="line">सत्त्वं रजस्तम इति गुणाः प्रकृतिसम्भवाः।</div><div class="line" style="position:relative;">निबध्नन्ति महाबाहो देहे देहिनमव्ययम्॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="gita-b0606"><div class="verse-block verse-justify"><div class="line">तत्र सत्त्वं निर्मलत्वात् प्रकाशकमनामयम्।</div><div class="line" style="position:relative;">सुखसङ्गेन बध्नाति ज्ञानसङ्गेन चानघ॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="gita-b0607"><div class="verse-block verse-justify"><div class="line">रजो रागात्मकं विद्धि तृष्णासङ्गसमुद्भवम्।</div><div class="line" style="position:relative;">तन्निबध्नाति कौन्तेय कर्मसङ्गेन देहिनम्॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="gita-b0608"><div class="verse-block verse-justify"><div class="line">तमस्त्वज्ञानजं विद्धि मोहनं सर्वदेहिनाम्।</div><div class="line" style="position:relative;">प्रमादालस्यनिद्राभिस्तन्निबध्नाति भारत॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="gita-b0609"><div class="verse-block verse-justify"><div class="line">सत्त्वं सुखे सञ्जयति रजः कर्मणि भारत।</div><div class="line" style="position:relative;">ज्ञानमावृत्य तु तमः प्रमादे सञ्जयत्युत॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="gita-b0610"><div class="verse-block verse-justify"><div class="line">रजस्तमश्चाभिभूय सत्त्वं भवति भारत।</div><div class="line" style="position:relative;">रजः सत्त्वं तमश्चैव तमः सत्त्वं रजस्तथा॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="gita-b0611"><div class="verse-block verse-justify"><div class="line">सर्वद्वारेषु देहेऽस्मिन् प्रकाश उपजायते।</div><div class="line" style="position:relative;">ज्ञानं यदा तदा विद्याद् विवृद्धं सत्त्वमित्युत॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="gita-b0612"><div class="verse-block verse-justify"><div class="line">लोभः प्रवृत्तिरारम्भः कर्मणामशमः स्पृहा।</div><div class="line" style="position:relative;">रजस्येतानि जायन्ते विवृद्धे भरतर्षभ॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="gita-b0613"><div class="verse-block verse-justify"><div class="line">अप्रकाशोऽप्रवृत्तिश्च प्रमादो मोह एव च।</div><div class="line" style="position:relative;">तमस्येतानि जायन्ते विवृद्धे कुरुनन्दन॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="gita-b0614"><div class="verse-block verse-justify"><div class="line">यदा सत्त्वे प्रवृद्धे तु प्रलयं याति देहभृत्।</div><div class="line" style="position:relative;">तदोत्तमविदां लोकानमलान् प्रतिपद्यते॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="gita-b0615"><div class="verse-block verse-justify"><div class="line">रजसि प्रलयं गत्वा कर्मसङ्गिषु जायते।</div><div class="line" style="position:relative;">तथा प्रलीनस्तमसि मूढयोनिषु जायते॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="gita-b0616"><div class="verse-block verse-justify"><div class="line">कर्मणः सुकृतस्याऽऽहुः सात्त्विकं निर्मलं फलम्।</div><div class="line" style="position:relative;">रजसस्तु फलं दुःखमज्ञानं तमसः फलम्॥१६॥</div></div></div>
+<div class="verse-block-wrapper" id="gita-b0617"><div class="verse-block verse-justify"><div class="line">सत्त्वात् सञ्जायते ज्ञानं रजसो लोभ एव च।</div><div class="line" style="position:relative;">प्रमादमोहौ तमसो भवतोऽज्ञानमेव च॥१७॥</div></div></div>
+<div class="verse-block-wrapper" id="gita-b0618"><div class="verse-block verse-justify"><div class="line">ऊर्ध्वं गच्छन्ति सत्त्वस्था मध्ये तिष्ठन्ति राजसाः।</div><div class="line" style="position:relative;">जघन्यगुणवृत्तिस्था अधो गच्छन्ति तामसाः॥१८॥</div></div></div>
+<div class="verse-block-wrapper" id="gita-b0619"><div class="verse-block verse-justify"><div class="line">नान्यं गुणेभ्यः कर्तारं यदा द्रष्टाऽनुपश्यति।</div><div class="line" style="position:relative;">गुणेभ्यश्च परं वेत्ति मद्भावं सोऽधिगच्छति॥१९॥</div></div></div>
+<div class="verse-block-wrapper" id="gita-b0620"><div class="verse-block verse-justify"><div class="line">गुणानेतानतीत्य त्रीन् देही देहसमुद्भवान्।</div><div class="line" style="position:relative;">जन्ममृत्युजरादुःखैर्विमुक्तोऽमृतमश्नुते॥२०॥</div></div></div>
+<p class="uvacha">अर्जुन उवाच</p>
+<div class="verse-block-wrapper" id="gita-b0622"><div class="verse-block verse-justify"><div class="line">कैर्लिङ्गैस्त्रीन् गुणानेतानतीतो भवति प्रभो।</div><div class="line" style="position:relative;">किमाचारः कथं चैतांस्त्रीन् गुणानतिवर्तते॥२१॥</div></div></div>
+<p class="uvacha">श्रीभगवानुवाच</p>
+<div class="verse-block-wrapper" id="gita-b0624"><div class="verse-block verse-justify"><div class="line">प्रकाशं च प्रवृत्तिं च मोहमेव च पाण्डव।</div><div class="line" style="position:relative;">न द्वेष्टि सम्प्रवृत्तानि न निवृत्तानि काङ्क्षति॥२२॥</div></div></div>
+<div class="verse-block-wrapper" id="gita-b0625"><div class="verse-block verse-justify"><div class="line">उदासीनवदासीनो गुणैर्यो न विचाल्यते।</div><div class="line" style="position:relative;">गुणा वर्तन्त इत्येव योऽवतिष्ठति नेङ्गते॥२३॥</div></div></div>
+<div class="verse-block-wrapper" id="gita-b0626"><div class="verse-block verse-justify"><div class="line">समदुःखसुखः स्वस्थः समलोष्टाश्मकाञ्चनः।</div><div class="line" style="position:relative;">तुल्यप्रियाप्रियो धीरस्तुल्यनिन्दात्मसंस्तुतिः॥२४॥</div></div></div>
+<div class="verse-block-wrapper" id="gita-b0627"><div class="verse-block verse-justify"><div class="line">मानापमानयोस्तुल्यस्तुल्यो मित्रारिपक्षयोः।</div><div class="line" style="position:relative;">सर्वारम्भपरित्यागी गुणातीतः स उच्यते॥२५॥</div></div></div>
+<div class="verse-block-wrapper" id="gita-b0628"><div class="verse-block verse-justify"><div class="line">मां च योऽव्यभिचारेण भक्तियोगेन सेवते।</div><div class="line" style="position:relative;">स गुणान् समतीत्यैतान् ब्रह्मभूयाय कल्पते॥२६॥</div></div></div>
+<div class="verse-block-wrapper" id="gita-b0629"><div class="verse-block verse-justify"><div class="line">ब्रह्मणो हि प्रतिष्ठाऽहममृतस्याव्ययस्य च।</div><div class="line" style="position:relative;">शाश्वतस्य च धर्मस्य सुखस्यैकान्तिकस्य च॥२७॥</div></div></div>
+<p class="prose">॥ॐ तत् सदिति श्रीमद्भगवद्गीतासूपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे गुणत्रयविभागयोगो नाम चतुर्दशोऽध्यायः॥</p></div>

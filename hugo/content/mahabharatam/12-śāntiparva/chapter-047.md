@@ -1,0 +1,23 @@
+{
+ "title": "अध्यायः ४७",
+ "weight": 470
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः ४७</h2>
+<div class="verse-block-wrapper" id="12-śāntiparva-b1910"><div class="verse-block verse-justify"><div class="line">वैशंपायन उवाच।</div><div class="line" style="position:relative;">॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b1911"><div class="verse-block verse-justify"><div class="line">ततः स च हृषीकेशः स च राजा युधिष्ठिरः।</div><div class="line" style="position:relative;">कृपादयश्च ते सर्वे चत्वारः पाण्डवाश्च ते॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b1912"><div class="verse-block verse-justify"><div class="line">रथैस्तैर्नगरप्रख्यैः पताकाध्वजशोभितैः।</div><div class="line" style="position:relative;">ययुराशु कुरुक्षेत्रं वाजिभिः शीघ्रगामिभिः॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b1913"><div class="verse-block verse-justify"><div class="line">तेऽवतीर्य कुरुक्षेत्रे केशमढज्जास्थिसंकुले।</div><div class="line" style="position:relative;">देहन्यासः कृंतो यत्र क्षत्रियैस्तैर्महारथैः॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b1914"><div class="verse-block verse-justify"><div class="line">गजाश्वदेहास्थिचयैः पर्वतैरिव संचितम्।</div><div class="line" style="position:relative;">नरशीर्षकपालैश्च हंसैरिव च सर्वशः॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b1915"><div class="verse-block verse-justify"><div class="line">चितासहस्रैर्निचितं वर्मशस्त्रसमाकुलम्।</div><div class="line" style="position:relative;">आपानभूमिं कालस्य तदा भुक्तोज्झितामिव॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b1916"><div class="verse-block verse-justify"><div class="line">भूतसङ्घानुचरितं रक्षोगणनिषेवितम्।</div><div class="line" style="position:relative;">पश्यन्तस्ते कुरुक्षेत्रं ययुराशु महारथाः॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b1917"><div class="verse-block verse-justify"><div class="line">गच्छन्नेव महाबाहुः सर्वं यादवनन्दनः।</div><div class="line" style="position:relative;">युधिष्ठिराय प्रोवाच जामदग्न्यस्य विक्रमम्॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b1918"><div class="verse-block verse-justify"><div class="line">अमी रामह्रदाः पञ्च दृश्यन्ते पार्थ दूरतः।</div><div class="line" style="position:relative;">येषु संतर्पयामास पितॄन्क्षत्रियशोणितैः॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b1919"><div class="verse-block verse-justify"><div class="line">त्रिःसप्तकृत्वो वसुधां कृत्वा निःक्षत्रियां प्रभुः।</div><div class="line">इहेदानीं ततो रामः कर्मणो विरराम ह ॥युधिष्ठिर उवाच।</div><div class="line" style="position:relative;">॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b1920"><div class="verse-block verse-justify"><div class="line">त्रिःसप्तकृत्वः पृथिवी कृता निःक्षत्रिया पुरा।</div><div class="line" style="position:relative;">रामेणेति यदात्थ त्वमत्र मे संशयो महान्॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b1921"><div class="verse-block verse-justify"><div class="line">क्षत्रबीजं यथा दग्धं रामेण यदुपुङ्गव।</div><div class="line" style="position:relative;">कथं भूयः समुत्यत्तिः क्षत्रस्यामितविक्रम॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b1922"><div class="verse-block verse-justify"><div class="line">महात्मना भगवता रामेण यदुपुङ्गव।</div><div class="line" style="position:relative;">कथमुत्सादित्तं क्षत्रं कथमृद्धिगतं पुनः॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b1923"><div class="verse-block verse-justify"><div class="line">महता रथयुद्धेन कोटिशः क्षत्रिया हताः।</div><div class="line" style="position:relative;">तथाऽभूच्च मही कीर्णा क्षत्रियैर्वदतां वर॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b1924"><div class="verse-block verse-justify"><div class="line">किमर्थं भार्गवेणेदं क्षत्रमुत्सादितं पुरा।</div><div class="line" style="position:relative;">रामेण यदुशार्दूल कुरुक्षेत्रे महात्मना॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b1925"><div class="verse-block verse-justify"><div class="line">एतन्मे छिन्धि वार्ष्णेय संशयं तार्क्ष्यकेतन।</div><div class="line">आगमो हि परः कृष्ण त्वत्तो नो वासवानुज ॥वैशंपायन उवाच।</div><div class="line" style="position:relative;">॥१६॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b1926"><div class="verse-block verse-justify"><div class="line">ततो व्रजन्नेव गदाग्रजः प्रभुःशशंस तस्मै निखिलेन तत्त्वतः।</div><div class="line" style="position:relative;">युधिष्ठिरायाप्रतिमौजसे तदायथाऽभवत्क्षत्रियसंकुला मही॥१७॥</div></div></div></div>

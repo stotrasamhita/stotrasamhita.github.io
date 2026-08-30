@@ -1,0 +1,18 @@
+{
+ "title": "अध्यायः ३५",
+ "weight": 350
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः ३५</h2>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0984"><div class="verse-block verse-justify"><div class="line">नेदमल्पात्मना शक्यं वेदितुं वाऽकृतात्मना।</div><div class="line" style="position:relative;">बहु चाल्पं च संक्षिप्तं विस्तृतं च मतं मम॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0985"><div class="verse-block verse-justify"><div class="line">उपायं तं मम ब्रूहि येनैषा लभ्यते मतिः।</div><div class="line">तन्मन्ये कारणं कर्म यत एषा प्रवर्तते ॥ब्राह्मण उवाच।</div><div class="line" style="position:relative;">॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0986"><div class="verse-block verse-justify"><div class="line">अरणीं ब्राह्मणीं विद्धि गुरुरस्योत्तरारणिः।</div><div class="line">तपःश्रुतेभिमथिनी ज्ञानाग्निर्जायते ततः ॥ब्राह्मणयुवाच।</div><div class="line" style="position:relative;">॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0987"><div class="verse-block verse-justify"><div class="line">यदिदं ब्रह्मणो लिङ्गं क्षेत्रज्ञ इति संज्ञितम्।</div><div class="line">ग्रहीतुं येन यच्छक्यं लक्षणं तस्य तद्वद ॥ब्राह्मण उवाच।</div><div class="line" style="position:relative;">॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0988"><div class="verse-block verse-justify"><div class="line">अलिङ्गो निर्गुणश्चैव कारणं नास्य विग्रहे।</div><div class="line" style="position:relative;">उपायमेव वक्ष्यामि येन गृह्येत भावना॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0989"><div class="verse-block verse-justify"><div class="line">सम्यगप्युपदिष्टस्य ह्यमृतस्येव तृप्यसे।</div><div class="line">कर्मबुद्धिरबुद्धित्वाज्ज्ञानलिङ्गान्निपातितः।</div><div class="line" style="position:relative;">॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0990"><div class="verse-block verse-justify"><div class="line">इदं कार्यमिदं नेति न मोक्षेषूपदिश्यते।</div><div class="line" style="position:relative;">पश्यतः शृण्वतो बुद्धिरात्मनैवोपजायते॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0991"><div class="verse-block verse-justify"><div class="line">यावन्त इह शक्येरंस्तावतोंऽसान्प्रकल्पयेत्।</div><div class="line" style="position:relative;">अव्यक्तान्व्यक्तरूपांश्च शतशोऽथ सहस्रशः॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0992"><div class="verse-block verse-justify"><div class="line">सर्वानुमानयुक्तांश्च सर्वान्प्रत्यक्षहेतुकान्।</div><div class="line">यतः परं न विद्येत ततोऽभ्यासे भविष्यति ॥श्रीभगवानुवाच।</div><div class="line" style="position:relative;">॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0993"><div class="verse-block verse-justify"><div class="line">ततस्तु तस्या ब्राह्मण्या मतिः क्षेत्रज्ञसंशये।</div><div class="line">क्षेत्रज्ञानेन परतः क्षेत्रज्ञोऽन्यः प्रवर्तते ॥अर्जुन उवाच।</div><div class="line" style="position:relative;">॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0994"><div class="verse-block verse-justify"><div class="line">क्व नु सा ब्राह्मणि कृष्ण क्व चासौ ब्राह्मणर्षभः।</div><div class="line">याभ्यां सिद्धिरियं प्राप्ता तावुभौ वद मेऽच्युत ॥श्रीभगवानुवाच।</div><div class="line" style="position:relative;">॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b0995"><div class="verse-block verse-justify"><div class="line">मनो मे ब्राह्मणं विद्धि बुद्धिं मे विद्धि ब्राह्मणीम्।</div><div class="line" style="position:relative;">क्षेत्रज्ञ इति यश्चोक्तः सोऽहमेव धनंजय॥१२॥</div></div></div></div>

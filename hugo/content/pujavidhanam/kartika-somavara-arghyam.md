@@ -1,5 +1,5 @@
 {
- "title": "Kartika Somavara Arghyam",
+ "title": "कार्त्तिकसोमवारार्घ्यम्",
  "slug": "kartika-somavara-arghyam",
  "source_file": "pujas/kartika-somavara-arghyam.tex",
  "verse_count": 8,

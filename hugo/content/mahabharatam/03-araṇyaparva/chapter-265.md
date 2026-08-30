@@ -1,0 +1,24 @@
+{
+ "title": "अध्यायः २६५",
+ "weight": 2650
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः २६५</h2>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b10633"><div class="verse-block verse-justify"><div class="line">वैशंपायन उवाच।</div><div class="line" style="position:relative;">॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b10634"><div class="verse-block verse-justify"><div class="line">तस्मिन्बहुमृगेऽरण्ये अटमाना महारथाः।</div><div class="line" style="position:relative;">काम्यके भरतश्रेष्ठा विजह्वुस्ते यथामराः॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b10635"><div class="verse-block verse-justify"><div class="line">प्रेक्षमाणा बहुविधान्वनोद्देशान्समन्ततः।</div><div class="line" style="position:relative;">यथर्तुकालरम्याश्चवनराजीः सुषुष्पिताः॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b10636"><div class="verse-block verse-justify"><div class="line">पाण्डवा मृगयाशीलाश्चरन्तस्तन्महद्वनम्।</div><div class="line" style="position:relative;">विजह्नरिन्द्रप्रिमाः कंचित्कालमरिंदमाः॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b10637"><div class="verse-block verse-justify"><div class="line">ततस्ते यौगपद्येन ययुः सर्वे चतुर्दिशम्।</div><div class="line" style="position:relative;">मृगयां पुरुषव्याघ्रा ब्राह्मणार्थे परतपाः॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b10638"><div class="verse-block verse-justify"><div class="line">द्रौपदीमाश्रमे न्यस् तृणबिन्दोरनुज्ञया।</div><div class="line" style="position:relative;">महर्षेर्दीप्ततपसो घौम्यस्य च पुरोधसः॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b10639"><div class="verse-block verse-justify"><div class="line">तस्तु राजा सिंधूनां वार्धक्षत्रिर्महायशाः।</div><div class="line" style="position:relative;">विवाहकामः साल्वेयान्प्रयातः सोऽभवत्तदा॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b10640"><div class="verse-block verse-justify"><div class="line">महता परिबर्हेण राजयोग्येन संवृतः।</div><div class="line" style="position:relative;">राजभिर्बहुभिः सार्धमुपायात्काम्यकं च सः॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b10641"><div class="verse-block verse-justify"><div class="line">तत्रापश्यत्प्रियां भार्यां पाण्डवानां यशस्विनीम्।</div><div class="line" style="position:relative;">तिष्ठन्तीमाश्रमद्वारि द्रौपदीं निर्जने वने॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b10642"><div class="verse-block verse-justify"><div class="line">विभ्राजमानां वपुषा बिभ्रतीं रूपमुत्तमम्।</div><div class="line" style="position:relative;">भ्राजयन्तीं वनोद्देशं नीलाभ्रमिव विद्युतम्॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b10643"><div class="verse-block verse-justify"><div class="line">अप्सरा देवकन्या वा माया वा देवनिर्मिता।</div><div class="line" style="position:relative;">इतिकृत्वाञ्जलिं सर्वे ददृशृस्तामनिन्दिताम्॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b10644"><div class="verse-block verse-justify"><div class="line">तः स राजा सिन्धूनां वार्धक्षत्रिर्जयद्रथः।</div><div class="line" style="position:relative;">विस्मितस्त्वनवद्याङ्गीं दृष्ट्वा तां दुष्टमानसः॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b10645"><div class="verse-block verse-justify"><div class="line">स कोटिकाश्यं राजानमब्रवीत्काममोहितः।</div><div class="line" style="position:relative;">कस्य त्वेषाऽनवद्याङ्गी यदिवाऽपिन मानुषी॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b10646"><div class="verse-block verse-justify"><div class="line">विवाहार्थो न मे कश्चिदिमां दृष्ट्वाऽतिमुन्दरीम्।</div><div class="line" style="position:relative;">एतामेवाहमादाय गमिष्यामि स्वमालयम्॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b10647"><div class="verse-block verse-justify"><div class="line">गच्छ जानीहि सौम्येमां कस्य वाऽत्र कुतोपि वा।</div><div class="line" style="position:relative;">किमर्थमागता सुभ्रूरिदं कष्टकितं वनम्॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b10648"><div class="verse-block verse-justify"><div class="line">अपि नाम वरारोहा मामेषा लोकसुन्दरी।</div><div class="line" style="position:relative;">भजेदद्यायतापाङ्गी सुदती तनुमध्यमा॥१६॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b10649"><div class="verse-block verse-justify"><div class="line">अप्यहं कृतकामः स्यामिमां प्राप्य वरस््रियम्।</div><div class="line" style="position:relative;">गच्छजानीहि कोन्वस्या नाथ इत्येव कोटिक॥१७॥</div></div></div>
+<div class="verse-block-wrapper" id="03-araṇyaparva-b10650"><div class="verse-block verse-justify"><div class="line">स कोटिकाश्यस्तच्छ्रुत्वा रथात्प्रस्कन्द्य कुण्डली।</div><div class="line" style="position:relative;">उपेत्यपप्रच्छ तदा क्रोष्टा व्याघ्रवधूमिव॥१८॥</div></div></div></div>

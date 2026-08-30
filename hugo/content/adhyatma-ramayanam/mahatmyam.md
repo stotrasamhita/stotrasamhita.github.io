@@ -1,9 +1,9 @@
 {
- "title": "गीता-माहात्म्यम्",
+ "title": "अध्यात्मरामायणमाहात्म्यम्",
  "slug": "mahatmyam",
  "source_file": "/home/user/stotrasamhita/adhyatmaramayanam/TeX/Mahatmyam.tex",
  "verse_count": 64,
- "weight": 50
+ "weight": 10
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">अध्यात्मरामायणमाहात्म्यम्</h2>

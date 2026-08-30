@@ -1,0 +1,21 @@
+{
+ "title": "अध्यायः ३९",
+ "weight": 390
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः ३९</h2>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b1105"><div class="verse-block verse-justify"><div class="line">अतः परं प्रवक्ष्यामि तृतीयं गुणमुत्तमम्।</div><div class="line" style="position:relative;">सर्वभूतहितं लोके सतां धर्ममनिन्दितम्॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b1106"><div class="verse-block verse-justify"><div class="line">आनन्दः प्रीतिरुद्रेकः प्राकाश्यं सुखमेव च।</div><div class="line" style="position:relative;">अकार्पण्यमसंरम्भः संतोषः श्रद्दधानता॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b1107"><div class="verse-block verse-justify"><div class="line">क्षमा धृतिरहिंसा च समता सत्यमार्जवम्।</div><div class="line" style="position:relative;">अक्रोधश्चानसूया च शौचं दाक्ष्यं पराक्रमः॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b1108"><div class="verse-block verse-justify"><div class="line">मुधाज्ञानं मुधावृत्तं मुधासेवा मुदाश्रमः।</div><div class="line" style="position:relative;">एवं यो युक्तधर्मः स्यात्सोमुत्रात्यन्तमश्नुते॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b1109"><div class="verse-block verse-justify"><div class="line">निर्ममो निरहङ्कारो निराशीः सर्वतः समः।</div><div class="line" style="position:relative;">अकामहत इत्येव सतां धर्मः सनातनः॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b1110"><div class="verse-block verse-justify"><div class="line">विश्रंभो ह्रीस्तितिक्षा च त्यागः शौचमतन्द्रिता।</div><div class="line" style="position:relative;">आनृशंस्यमसंमोहो दया भूतेष्वपैशुनम्॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b1111"><div class="verse-block verse-justify"><div class="line">हर्षस्तुष्टिर्विस्मयश्च विनयः साधुवृत्तिता।</div><div class="line" style="position:relative;">शान्तिकर्मविशुद्धिश्च भावशुद्धिर्विमोचनम्॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b1112"><div class="verse-block verse-justify"><div class="line">उपेक्षा ब्रह्मचर्यं च परित्यागश्च सर्वशः।</div><div class="line" style="position:relative;">निर्ममत्वमनाशीष्ट्वमपरिक्षतधर्मता॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b1113"><div class="verse-block verse-justify"><div class="line">मुधादानं मुधायज्ञो मुधाधीतं मुधाव्रतम्।</div><div class="line" style="position:relative;">मुधाप्रतिग्रहश्चैव मधाध्रमो मुधातपः॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b1114"><div class="verse-block verse-justify"><div class="line">एवंवृत्तास्तु ये केचिल्लोकेऽस्मिन्सत्वसंश्रयाः।</div><div class="line" style="position:relative;">ब्राह्मणा ब्रह्मयोनिस्थास्ते धीराः साधुदर्शिनः॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b1115"><div class="verse-block verse-justify"><div class="line">हित्वा सर्वाणि पापानि निःशोका ह्यजरामराः।</div><div class="line" style="position:relative;">दिव्यं प्राप्य तु ते धीराः कुर्वते वै ततस्तनूः॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b1116"><div class="verse-block verse-justify"><div class="line">ईशित्वं च वशित्वं च लघुत्वं चाणुता तथा।</div><div class="line" style="position:relative;">विकुर्वते महात्मानो देवास्त्रिदिवगा इव॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b1117"><div class="verse-block verse-justify"><div class="line">ऊर्ध्वस्रोतस इत्येते देवा वैकारिकाः स्मृताः।</div><div class="line" style="position:relative;">विकुर्वन्तः प्रकृत्या वै दिवं प्राप्तास्ततस्ततः॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b1118"><div class="verse-block verse-justify"><div class="line">यद्यदिच्छन्ति तत्सर्वं भजन्ते विभजन्ति च।</div><div class="line">इत्येतत्सात्विकं वृत्तं कथितं वो द्विजर्षभाः।</div><div class="line" style="position:relative;">एतद्विज्ञाय लभते विधिवद्यद्यदिच्छति॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="14-āśvamedhikaparva-b1119"><div class="verse-block verse-justify"><div class="line">प्रकीर्तिताः सत्त्वगुणा विशेषतोयथावदुक्तं गुणवृत्तमेव च।</div><div class="line" style="position:relative;">नरस्तु यो वेद गुणानिमान्सदागुणान्स भुङ्क्ते न गुणैः स युज्यते॥१५॥</div></div></div></div>

@@ -1,0 +1,21 @@
+{
+ "title": "अध्यायः २१",
+ "weight": 210
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः २१</h2>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b0665"><div class="verse-block verse-justify"><div class="line">विनता पुत्रशोकार्ता शापाद्भीता च भारत।</div><div class="line" style="position:relative;">प्रतीक्षते स्म तं कालं यः पुत्रोक्तस्तदाऽभवत्॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b0666"><div class="verse-block verse-justify"><div class="line">ततोऽप्यतीते पञ्चशते वर्षाणां कालसंयुगे।</div><div class="line" style="position:relative;">गरुडोऽथ महावीर्यो जज्ञे भुजगभुग्बली॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b0667"><div class="verse-block verse-justify"><div class="line">बन्धुरास्यः शिखी पत्रकोशः कूर्मनखो महान्।</div><div class="line" style="position:relative;">रक्ताक्षः संहतग्रीवो ह्रस्वपादो महाशिराः॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b0668"><div class="verse-block verse-justify"><div class="line">यस्त्वण्डात्स विनिर्भिन्नो निष्क्रान्तो भरतर्षभ।</div><div class="line" style="position:relative;">विनतापूर्वजः पुत्रः सोऽरुणो दृश्यते दिवि॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b0669"><div class="verse-block verse-justify"><div class="line">पूर्वां दिशामभिप्रेत्य सूर्यस्योदयनं प्रति।</div><div class="line" style="position:relative;">अरुणोऽरुणसंकाशो नाम्ना चैवारुणः स्मृतः॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b0670"><div class="verse-block verse-justify"><div class="line">जातमात्रस्तु विहगो गरुडः पन्नगाशनः।</div><div class="line" style="position:relative;">विहाय मातरं क्षिप्रमगमत्सर्वतो दिशः॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b0671"><div class="verse-block verse-justify"><div class="line">स तदा ववृधेऽतीव सर्वकामैः कदाऽर्चितः।</div><div class="line" style="position:relative;">पितामहविसृष्टेन भोजनेन विशांपते॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b0672"><div class="verse-block verse-justify"><div class="line">तस्मिंश्च विहगे तत्र यथाकामं विवर्धति।</div><div class="line" style="position:relative;">कद्रूश्च विनता चैवागच्छतां सागरं प्रति॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b0673"><div class="verse-block verse-justify"><div class="line">ददृशाते तु ते यान्तमुच्चैश्श्रवसमन्तिकात्।</div><div class="line" style="position:relative;">स्नात्वोपवृत्तं त्वरितं पीतवन्तं च वाजिनम्॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b0674"><div class="verse-block verse-justify"><div class="line">ततः कद्रूर्हसन्त्येव विनतामिदमब्रवीत्।</div><div class="line">हयस्य वर्णः को न्वत्र ब्रूहि यस्ते मतः शुभे ॥विनतोवाच।</div><div class="line" style="position:relative;">॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b0675"><div class="verse-block verse-justify"><div class="line">एकवर्णो हयो राज्ञि सर्वश्वेतो मतो मम।</div><div class="line">वर्णं वा कीदृशं तस्य मन्यते त्वं मनस्विनि ॥कद्रूरुवाच।</div><div class="line" style="position:relative;">॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b0676"><div class="verse-block verse-justify"><div class="line">सर्वश्वेतो मतस्तुभ्यं य एष हयसत्तमः।</div><div class="line">ब्रूहि कल्याणि दीव्यावो वर्णान्यत्वेन भामिनि ॥विनतोवाच।</div><div class="line" style="position:relative;">॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b0677"><div class="verse-block verse-justify"><div class="line">यद्यार्ये दीव्यसि त्वं मे कः पणो नो भविष्यति।</div><div class="line">सा तज्ज्ञात्वा पणेयं वै ज्ञात्वा तु विपणे त्वया ॥कद्रूरुवाच।</div><div class="line" style="position:relative;">॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b0678"><div class="verse-block verse-justify"><div class="line">जिता दासी भवेर्मे त्वमहं चाप्यसितेक्षणे।</div><div class="line" style="position:relative;">नैकवर्णैकवर्णत्वे विनते रोचते च ते॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="13-anuśāsanaparva-b0679"><div class="verse-block verse-justify"><div class="line">रोचते मे पणे राज्ञि दासीत्वेन न संशयः।</div><div class="line" style="position:relative;">सत्यमातिष्ठ भद्रं ते सत्ये स्थास्यामि चाप्यहम्'॥१५॥</div></div></div></div>

@@ -1,5 +1,5 @@
 {
- "title": "Go Puja",
+ "title": "गो-पूजा",
  "slug": "go-puja",
  "source_file": "pujas/go-puja.tex",
  "verse_count": 50,

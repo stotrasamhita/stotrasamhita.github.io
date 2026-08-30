@@ -1,5 +1,5 @@
 {
- "title": "Shivaratri Puja",
+ "title": "शिवरात्रि-पूजा — याम-चतुष्टय-पूजा",
  "slug": "shivaratri-puja",
  "source_file": "pujas/shivaratri-puja.tex",
  "verse_count": 4,

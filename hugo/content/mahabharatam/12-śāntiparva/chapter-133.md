@@ -1,0 +1,27 @@
+{
+ "title": "अध्यायः १३३",
+ "weight": 1330
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अध्यायः १३३</h2>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5393"><div class="verse-block verse-justify"><div class="line">भीष्म उवाच।</div><div class="line" style="position:relative;">॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5394"><div class="verse-block verse-justify"><div class="line">स्वराष्ट्रात्परराष्ट्राच्च कोशं संजनयेन्नृपः।</div><div class="line" style="position:relative;">कोशाद्धि धर्मः कौन्तेय राज्यमूलं प्रवर्तते॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5395"><div class="verse-block verse-justify"><div class="line">तस्मात्संजनयेत्कोशं सत्कृत्य परिपालयेत्।</div><div class="line" style="position:relative;">परिपाल्यानुगृह्णीयादेव धर्मः सनातनः॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5396"><div class="verse-block verse-justify"><div class="line">स कोशः शुद्धभावेन न नृशंसेन जायते।</div><div class="line" style="position:relative;">मध्यमं पदमास्थाय कोशसंग्रहणं चरेत्॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5397"><div class="verse-block verse-justify"><div class="line">अबलस्य कुतः कोशो ह्यकोशस्य कुतो बलम्।</div><div class="line" style="position:relative;">अबलस्य कुतो राज्यमराज्ये श्रीर्भवेत्कुतः॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5398"><div class="verse-block verse-justify"><div class="line">उच्चैर्वृत्तेः श्रियो हानिर्यथैव मरणं तथा।</div><div class="line" style="position:relative;">तस्मात्कोशं बलं मित्रमथ राजा विवर्धयेत्॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5399"><div class="verse-block verse-justify"><div class="line">हीनकोशं हि राजानमवमन्यन्ति शत्रवः।</div><div class="line" style="position:relative;">न चास्याल्पे तुष्यन्ति कर्मणाऽप्युत्सहन्ति च॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5400"><div class="verse-block verse-justify"><div class="line">श्रियो हि कारणाद्राजा सत्क्रियां लभते पराम्।</div><div class="line" style="position:relative;">साऽस्य गूहति पापानि वासो गुह्यमिव स्त्रियाः॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5401"><div class="verse-block verse-justify"><div class="line">ऋद्धिमस्यानुतप्यन्ते पुरा विप्रकृता नराः।</div><div class="line">सालावृका इवाजस्नं जिघांसूनेव विन्दति।</div><div class="line" style="position:relative;">ईदृशस्य कुतो राज्यं सुखं भरतसत्तम॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5402"><div class="verse-block verse-justify"><div class="line">उद्यच्छेदेव न ग्लायेदुद्यमो ह्येव पौरुषम्।</div><div class="line" style="position:relative;">अप्यपर्वणि भज्येत न नमेतेह कस्यचित्॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5403"><div class="verse-block verse-justify"><div class="line">अप्यरण्यं समाश्रित्य चरेन्मृगगणैः सह।</div><div class="line" style="position:relative;">न त्वेवोद्रिक्तमर्यादैर्दस्युभिः सहितश्चरेत्॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5404"><div class="verse-block verse-justify"><div class="line">दस्यूनां सुलभा सेना रौद्रकर्मसु भारत।</div><div class="line" style="position:relative;">एकान्ततो ह्यमर्यादात्सर्वोऽप्युद्विजते जनः॥१२॥</div></div></div>
+<p class="prose">दस्यवोऽप्यभिशङ्कन्ते निरनुक्रोशकारिणः</p>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5406"><div class="verse-block verse-justify"><div class="line">स्थापयेदेव मर्यादां जनचित्तप्रसादिनीम्।</div><div class="line" style="position:relative;">अल्पाप्यर्थेषु मर्यादा लोके भवति पूजिता॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5407"><div class="verse-block verse-justify"><div class="line">नायं लोकोऽस्ति न पर इति व्यवसितो जनः।</div><div class="line" style="position:relative;">नालं गन्तुमिहाश्वासं नास्तिक्यभयशङ्कितैः॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5408"><div class="verse-block verse-justify"><div class="line">यथा सद्भिः परादानमहिंसा दस्युभिस्तथा।</div><div class="line" style="position:relative;">अनुरज्यन्ति भूतानि समर्यादेषु दस्युषु॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5409"><div class="verse-block verse-justify"><div class="line">अयुध्यमानस्यादानं दारामर्शः कृतघ्नता।</div><div class="line" style="position:relative;">ब्रह्मवित्तस्य चादानं निःशेषकरणं तथा॥१६॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5410"><div class="verse-block verse-justify"><div class="line">स्त्रिया मोषः पथिस्थानं साधुष्वेव विगर्हितम्।</div><div class="line" style="position:relative;">सदोष एव भवति दस्युरेतानि वर्जयेत्॥१७॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5411"><div class="verse-block verse-justify"><div class="line">अभिसंदधते ये च विनाशायास्य भारत।</div><div class="line" style="position:relative;">सशेषमेवोपलभ्य कुर्वन्तीति विनिश्चयः॥१८॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5412"><div class="verse-block verse-justify"><div class="line">तस्मात्सशेषं कर्तव्यं स्वाधीनमपि दस्युभिः।</div><div class="line" style="position:relative;">न बलस्थोऽहमस्मीति नृशंसानि समाचरेत्॥१९॥</div></div></div>
+<div class="verse-block-wrapper" id="12-śāntiparva-b5413"><div class="verse-block verse-justify"><div class="line">सशेषकारिणस्तत्र शेषं पश्यन्ति सर्वशः।</div><div class="line" style="position:relative;">निःशेषकारिणो नित्यं निःशेषकरणाद्भयम्॥२०॥</div></div></div></div>
