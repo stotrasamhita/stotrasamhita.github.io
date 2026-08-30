@@ -42,20 +42,24 @@ jobs:
           hugo-version: '0.165.0'
           extended: true
 
-      - name: Build Hugo (/stotras/ section)
+      # Hugo's baseURL is the bare site root; its content sections (stotras/,
+      # namavalis/, ...) each map to their own top-level path, alongside
+      # Jekyll's root content, with no per-section relocation needed here.
+      - name: Build Hugo (stotras/, namavalis/, ... sections)
         working-directory: hugo
         run: hugo --minify --destination ../_site_hugo
 
       # Jekyll's output becomes the artifact root (index.md, individual-pdfs/,
-      # etc. keep their existing URLs unchanged); Hugo's output is relocated
-      # under stotras/, matching the /stotras/ path baked into hugo/hugo.toml's
-      # baseURL.
+      # etc. keep their existing URLs unchanged) and is copied in first;
+      # Hugo's output is then merged in without overwriting (-n) so Hugo's own
+      # generated home page/sitemap/RSS at the root never clobber Jekyll's --
+      # only Hugo's namespaced section paths (stotras/, namavalis/, css/,
+      # js/, ...) actually land, since those don't exist in Jekyll's output.
       - name: Merge Jekyll + Hugo output
         run: |
           mkdir -p _site_merged
           cp -r _site_jekyll/. _site_merged/
-          mkdir -p _site_merged/stotras
-          cp -r _site_hugo/. _site_merged/stotras/
+          cp -rn _site_hugo/. _site_merged/
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

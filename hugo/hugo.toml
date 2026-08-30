@@ -1,4 +1,4 @@
-baseURL = 'https://stotrasamhita.github.io/stotras/'
+baseURL = 'https://stotrasamhita.github.io/'
 locale = 'en'
 title = 'Stotra Samhita'
 theme = 'hugo-book'

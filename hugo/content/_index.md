@@ -6,8 +6,7 @@ weight: 1
 
 # Stotra Samhita
 
-A collection of Sanskrit stotras, built nightly from the
-[stotra-sangrahah](https://github.com/stotrasamhita/stotra-sangrahah) TeX corpus.
-
-This is a pilot section covering two categories (Hanuman, Dhyanam) while the
-full-corpus build and script-switcher are finished.
+This page is not served on its own -- stotrasamhita.github.io's real homepage
+is the Jekyll site at the repo root. This Hugo instance publishes its content
+sections (Stotras, Namavalis, ...) alongside it; see `/stotras/` and
+`/namavalis/`.
