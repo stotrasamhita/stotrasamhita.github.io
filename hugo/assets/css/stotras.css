@@ -108,6 +108,17 @@
   column-rule: 1pt solid var(--border-color, #e0e0e0);
 }
 
+.stotra-table {
+  margin: 1em auto;
+  border-collapse: collapse;
+}
+
+.stotra-table td {
+  padding: 0.25em 1em;
+  border-bottom: 1px solid var(--border-color, #e0e0e0);
+  text-align: left;
+}
+
 .script-switcher {
   display: flex;
   align-items: center;
