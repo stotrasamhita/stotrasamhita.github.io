@@ -1,0 +1,26 @@
+{
+ "title": "षट्चत्वारिंशोऽध्यायः॥४६॥",
+ "weight": 460
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">षट्चत्वारिंशोऽध्यायः॥४६॥</h2>
+<p class="uvacha">वैशम्पायन उवाच</p>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b2520"><div class="verse-block verse-justify"><div class="line">भारद्वाजस्ततो द्रोणः सर्वशस्त्रभृतां वरः।</div><div class="line" style="position:relative;">राजानं चाऽऽह सम्प्रेक्ष्य दुर्योधनमरिन्दमः॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b2521"><div class="verse-block verse-justify"><div class="line">यथा रथस्य निर्घोषो यथा शङ्ख उदीर्यते।</div><div class="line" style="position:relative;">कम्पते च यथा भूमिर्नैषोऽन्यः सव्यसाचिनः॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b2522"><div class="verse-block verse-justify"><div class="line">औत्पातिकमिदं राजन् निमित्तं भवतीह नः।</div><div class="line" style="position:relative;">न हि पश्यामि विजयं सैन्येऽस्माकं परन्तप॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b2523"><div class="verse-block verse-justify"><div class="line">शस्त्राणि न प्रकाशन्ते न प्रहृष्यन्ति वाहनाः।</div><div class="line" style="position:relative;">अग्नयश्च न भासन्ते सुसमिद्धा न शोभनाः॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b2524"><div class="verse-block verse-justify"><div class="line">प्रत्यादित्यं च नः सर्वे मृगा घोरा नदन्ति च।</div><div class="line" style="position:relative;">शकुनाश्चापसव्याश्च वेदयन्ति महाभयम्॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b2525"><div class="verse-block verse-justify"><div class="line">गोमायुरेष सैन्यानां रुदन्मध्येन धावति।</div><div class="line" style="position:relative;">चाषा नदन्ति चाऽऽकाशे वेदयन्तो महद् भयम्॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b2526"><div class="verse-block verse-justify"><div class="line" style="position:relative;">भवतां चैव रोमाणि प्रहृष्टानीव लक्षये॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b2527"><div class="verse-block verse-justify"><div class="line">अनुष्णाङ्गाश्च संस्विन्ना जृम्भन्ते चाप्यभीक्ष्णशः।</div><div class="line">विष्कम्भन्ति च मातङ्गा मुञ्चन्त्यश्रूणि वाजिनः।</div><div class="line" style="position:relative;">सदा मूत्रं पुरीषं च उत्सृजन्ति पुनः पुनः॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b2528"><div class="verse-block verse-justify"><div class="line">लोहितार्द्रा च पृथिवी दिशः सर्वाः प्रधूमिताः।</div><div class="line" style="position:relative;">न च सूर्यः प्रतपति महद्वेदयते भयम्॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b2529"><div class="verse-block verse-justify"><div class="line">हस्तिनश्चापि वित्रस्ता योधाश्चापि वितत्रसुः।</div><div class="line" style="position:relative;">पराभूता च वः सेना न कश्चिद् योद्धुमिच्छति॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b2530"><div class="verse-block verse-justify"><div class="line">विषण्णमुखभूयिष्ठाः सर्वे योधा विचेतसः।</div><div class="line" style="position:relative;">दिशं ते दक्षिणां सर्वे विप्रेक्षन्ते पुनः पुनः॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b2531"><div class="verse-block verse-justify"><div class="line">मृगाश्च पक्षिणश्चैव सव्यमेव पतन्ति नः।</div><div class="line">वादित्रोद्घुष्टघोषाश्च न च गाढं स्वनन्ति च।</div><div class="line" style="position:relative;">ध्वजाग्रेषु निलीयन्ते वायसास्तन्न शोभनम्॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b2532"><div class="verse-block verse-justify"><div class="line">यथा मेघस्य निनदो गम्भीरस्तूर्णमायतः।</div><div class="line" style="position:relative;">श्रूयते रथनिर्घोषो नायमन्यो धनञ्जयात्॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b2533"><div class="verse-block verse-justify"><div class="line">अश्वानां स्वनतां शब्दो वहतां पाकशासनिम्।</div><div class="line" style="position:relative;">वानरस्य रथे दिव्यो निस्वनः श्रूयते महान्॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b2534"><div class="verse-block verse-justify"><div class="line">शङ्खशब्देन पार्थस्य कर्णौ मे बधिरीकृतौ।</div><div class="line" style="position:relative;">सर्वसैन्यं च वित्रस्तं नायमन्यो धनञ्जयात्॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b2535"><div class="verse-block verse-justify"><div class="line">राजानमग्रतः कृत्वा दुर्योधनमरिन्दमम्।</div><div class="line">गाः प्रस्थाप्य च तिष्ठामो व्यूढानीकाः प्रहारिणः।</div><div class="line" style="position:relative;">प्रविभज्य त्रिधा सेनां समुच्छ्रित्य ध्वजानपि॥१६॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b2536"><div class="verse-block verse-justify"><div class="line">शितैर्बाणैः प्रताप्येमां चमूमेष धनञ्जयः।</div><div class="line" style="position:relative;">मूर्ध्नि सर्वनरेन्द्राणां वामपादं करिष्यति॥१७॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b2537"><div class="verse-block verse-justify"><div class="line">न ह्येष शक्यो बीभत्सुर्जेतुं देवासुरैरपि।</div><div class="line" style="position:relative;">दिक्षु गुल्मा निवेश्यन्तां यत्ता योत्स्यामहेऽर्जुन॥१८॥</div></div></div>
+<p class="pushpika">॥इति श्रीमन्महाभारते विराटपर्वणि गोग्रहणपर्वणि षट्चत्वारिंशोऽध्यायः॥४६॥</p></div>

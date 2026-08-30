@@ -1,0 +1,30 @@
+{
+ "title": "सप्तदशोऽध्यायः॥१७॥",
+ "weight": 170
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">सप्तदशोऽध्यायः॥१७॥</h2>
+<p class="uvacha">वैशम्पायन उवाच</p>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b0842"><div class="verse-block verse-justify"><div class="line">एवमुक्ताऽनवद्याङ्गी कीचकेन दुरात्मना।</div><div class="line" style="position:relative;">द्रौपदी तमुवाचेदं सैरन्ध्रीवेषधारिणी॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b0843"><div class="verse-block verse-justify"><div class="line">अप्रार्थनीयामिह मां सूतपुत्राभिमन्यसे।</div><div class="line" style="position:relative;">निहीनवर्णां सैरेन्ध्रीं बीभत्सां केशकारिणीम्॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b0844"><div class="verse-block verse-justify"><div class="line">परदाराऽस्मि भद्रं ते न युक्तं तव साम्प्रतम्।</div><div class="line" style="position:relative;">दयिताः प्राणिनां दारा धर्मं समनुचिन्तय॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b0845"><div class="verse-block verse-justify"><div class="line">परदारे न ते बुद्धिर्जातु कार्या कथञ्चन।</div><div class="line" style="position:relative;">विवर्जनं ह्यकार्याणामेतत् सुपुरुषव्रतम्॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b0846"><div class="verse-block verse-justify"><div class="line">मिथ्याभिगृध्नो हि नरः पापात्मा मोहमास्थितः।</div><div class="line" style="position:relative;">अयशः प्राप्नुयाद् घोरं महद् वा प्राप्नुयाद् भयम्॥५॥</div></div></div>
+<p class="uvacha">वैशम्पायन उवाच</p>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b0848"><div class="verse-block verse-justify"><div class="line">एवमुक्तस्तु सैरन्ध्र्या कीचकः काममोहितः।</div><div class="line" style="position:relative;">जानन्नपि सुदुर्बुद्धिः परदाराभिमर्शने॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b0849"><div class="verse-block verse-justify"><div class="line">दोषान् बहून् प्राणहरान् सर्वलोकविगर्हितान्।</div><div class="line" style="position:relative;">प्रोवाचेदं सुदुर्बुद्धिर्द्रौपदीमजितेन्द्रियः॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b0850"><div class="verse-block verse-justify"><div class="line">नार्हस्येवं वरारोहे प्रत्याख्यातुं वरानने।</div><div class="line" style="position:relative;">मां मन्मथसमाविष्टं त्वत्कृते चारुहासिनि॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b0851"><div class="verse-block verse-justify"><div class="line">प्रत्याख्याय च मां भीरु वशगं प्रियवादिनम्।</div><div class="line" style="position:relative;">नूनं त्वमसितापाङ्गि पश्चात्तापं करिष्यसि॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b0852"><div class="verse-block verse-justify"><div class="line">अहं हि सुभ्रु राज्यस्य कृत्स्नस्यास्य सुमध्यमे।</div><div class="line" style="position:relative;">प्रभुर्वासयिता चैव वीर्ये चाप्रतिमः क्षितौ॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b0853"><div class="verse-block verse-justify"><div class="line">पृथिव्यां मत्समो नास्ति कश्चिदन्यः पुमानिह।</div><div class="line" style="position:relative;">रूपयौवनसौभाग्यैर्भोगैश्चानुत्तमैः शुभैः॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b0854"><div class="verse-block verse-justify"><div class="line">सर्वकामसमृद्धेषु भोगेष्वनुपमेष्विह।</div><div class="line" style="position:relative;">भोक्तव्येषु च कल्याणि कस्माद् दास्ये रता ह्यसि॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b0855"><div class="verse-block verse-justify"><div class="line">मया दत्तमिदं राज्यं स्वामिन्यसि शुभानने।</div><div class="line" style="position:relative;">भजस्व मां वरारोहे भुङ्क्ष्व भोगाननुत्तमान्॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b0856"><div class="verse-block verse-justify"><div class="line">एवमुक्ता तु सा साध्वी कीचकेनाशुभं वचः।</div><div class="line" style="position:relative;">कीचकं प्रत्युवाचेदं गर्हयन्त्यस्य तद्वचः॥१४॥</div></div></div>
+<p class="uvacha">सैरन्ध्र्युवाच</p>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b0858"><div class="verse-block verse-justify"><div class="line">मा सूतपुत्र मुह्यस्व माऽद्य त्यक्ष्यस्व जीवितम्।</div><div class="line" style="position:relative;">जानीहि पञ्चभिर्घोरैर्नित्यं मामभिरक्षिताम्॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b0859"><div class="verse-block verse-justify"><div class="line">न चाप्यहं त्वया लभ्या गन्धर्वाः पतयो मम।</div><div class="line" style="position:relative;">ते त्वां निहन्युः कुपिताः साध्वलं मा व्यनीनशः॥१६॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b0860"><div class="verse-block verse-justify"><div class="line">अशक्यरूपं पुरुषैरध्वानं गन्तुमिच्छसि।</div><div class="line">यथा निश्चेतनो बालः कूलस्थः कूलमुत्तरम्।</div><div class="line" style="position:relative;">तर्तुमिच्छति मन्दात्मा तथा त्वं कर्तुमिच्छसि॥१७॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b0861"><div class="verse-block"><div class="line">अन्तर्महीं वा यदि वोर्ध्वमुत्पतेः</div><div class="line pada-even">समुद्रपारं यदि वा प्रधावसि।</div><div class="line">तथाऽपि तेषां न विमोक्षमर्हसि</div><div class="line pada-even" style="position:relative;">प्रमाथिनो देवसुता हि खेचराः॥१८॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b0862"><div class="verse-block"><div class="line">त्वं कालरात्रीमिव कश्चिदातुरः</div><div class="line pada-even">किं मां दृढं प्रार्थयसेऽद्य कीचक।</div><div class="line">किं मातुरङ्के शयितो यथा शिशुश्-</div><div class="line pada-even" style="position:relative;">चन्द्रं जिघृक्षुरिव मन्यसे हि माम्॥१९॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b0863"><div class="verse-block"><div class="line">तेषां प्रियां प्रार्थयतो न ते भुवि</div><div class="line pada-even">गत्वा दिवं वा शरणं भविष्यति।</div><div class="line">न वर्तते कीचक ते दृशा शुभं</div><div class="line pada-even" style="position:relative;">या तेन सञ्जीवनमर्थयेत सा॥२०॥</div></div></div>
+<p class="pushpika">॥इति श्रीमन्महाभारते विराटपर्वणि कीचकवधपर्वणि सप्तदशोऽध्यायः॥१७॥</p></div>

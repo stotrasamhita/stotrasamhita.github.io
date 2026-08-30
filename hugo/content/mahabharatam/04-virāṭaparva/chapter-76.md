@@ -1,0 +1,32 @@
+{
+ "title": "षट्सप्ततितमोऽध्यायः॥७६॥",
+ "weight": 760
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">षट्सप्ततितमोऽध्यायः॥७६॥</h2>
+<p class="uvacha">वैशम्पायन उवाच</p>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b3894"><div class="verse-block verse-justify"><div class="line">विराटस्य वचः श्रुत्वा पार्थिवस्य महात्मनः।</div><div class="line" style="position:relative;">उत्तरः प्रत्युवाचेदमभिपन्नो युधिष्ठिरे॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b3895"><div class="verse-block verse-justify"><div class="line">प्रसादनं प्राप्तकालं पाण्डवस्याभिरोचये।</div><div class="line" style="position:relative;">तेजस्वी बलवाञ्छूरो राजराजेश्वरः प्रभुः॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b3896"><div class="verse-block verse-justify"><div class="line">उत्तरां च स्वसारं मे पार्थस्यामित्रकर्शन।</div><div class="line" style="position:relative;">प्रणिपत्य प्रयच्छामस्ततः शिष्टा भवामहे॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b3897"><div class="verse-block verse-justify"><div class="line">वयं च सर्वे सामात्याः कुन्तीपुत्रं युधिष्ठिरम्।</div><div class="line" style="position:relative;">प्रसाद्याभ्युपतिष्ठामो राजन् किं करवामहे॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b3898"><div class="verse-block verse-justify"><div class="line">राजंस्त्वमसि सङ्ग्रामे गृहीतस्तेन मोक्षितः।</div><div class="line" style="position:relative;">एतेषां बाहुवीर्येण गावश्च विजितास्त्वया॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b3899"><div class="verse-block verse-justify"><div class="line">कुरवो निर्जिता यस्मात्सङ्ग्रामेऽमिततेजसः।</div><div class="line" style="position:relative;">एष तत् सर्वमकरोत् कुन्तीपुत्रो युधिष्ठिरः॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b3900"><div class="verse-block verse-justify"><div class="line">अर्च्याः पूज्याश्च मान्याश्च प्रत्युत्थेयाश्च पाण्डवाः।</div><div class="line" style="position:relative;">अर्वार्हाश्चाभिवाद्याश्च प्राप्तकालं च मे मतम्॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b3901"><div class="verse-block verse-justify"><div class="line">पूज्यतां पूजनीयाश्च महाभागाश्च पाण्डवाः।</div><div class="line" style="position:relative;">न ह्येते कुपिता शेषं कुर्युराशीविषोपमाः॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b3902"><div class="verse-block verse-justify"><div class="line">तस्माच्छीघ्रं प्रपद्येम कुन्तीपुत्रं युधिष्ठिरम्।</div><div class="line" style="position:relative;">प्रसादयाम्यहं तत्र सह पार्थैर्महात्मभिः॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b3903"><div class="verse-block verse-justify"><div class="line">उत्तरामग्रतः कृत्वा शिरःस्नातां कृताञ्जलिः।</div><div class="line">जानाम्यहमिदं सर्वमेषां तु बलपौरुषम्।</div><div class="line" style="position:relative;">कुले च जन्म महति फल्गुनस्य च विक्रमम्॥१०॥</div></div></div>
+<p class="uvacha">वैशम्पायन उवाच</p>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b3905"><div class="verse-block verse-justify"><div class="line">उत्तरात्पाण्डवाञ्छ्रुत्वा विराटो रिपुसूदनः।</div><div class="line" style="position:relative;">उत्तरं चापि सम्प्रेक्ष्य प्राप्तकालमचिन्तयत्॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b3906"><div class="verse-block verse-justify"><div class="line">ततो विराटः सामात्यः सहपुत्रः सबान्धवः।</div><div class="line">उत्तरामग्रतः कृत्वा शिरःस्नातां कृताञ्जलिः।</div><div class="line" style="position:relative;">भूमौ निपतितस्तूर्णं पाण्डवस्य समीपतः॥१२॥</div></div></div>
+<p class="uvacha">विराट उवाच</p>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b3908"><div class="verse-block verse-justify"><div class="line">प्रसीदतु महाराजो धर्मपुत्रो युधिष्ठिरः।</div><div class="line" style="position:relative;">प्रच्छन्नरूपवेषत्वान् नाग्निर्दृष्टस्तृणैर्वृतः॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b3909"><div class="verse-block verse-justify"><div class="line" style="position:relative;">शिरसाऽभिप्रपन्नोऽस्मि सपुत्रपरिचारकः॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b3910"><div class="verse-block verse-justify"><div class="line">यदस्माभिरजानद्भिरधिक्षिप्तो महीपतिः।</div><div class="line">अवमत्य कृतं सर्वमज्ञानात् प्राकृते यथा।</div><div class="line" style="position:relative;">क्षन्तुमर्हसि तत् सर्वं धर्मज्ञो धर्मवत्सल॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b3911"><div class="verse-block verse-justify"><div class="line">यदिदं मामकं राष्ट्रं पुरं राज्यं च पार्थिव।</div><div class="line">सदण्डकोशं विसृजे तव वश्योऽस्मि पार्थिव।</div><div class="line" style="position:relative;">वयं च सर्वे सामात्या भवन्तं शरणं गताः॥१६॥</div></div></div>
+<p class="uvacha">वैशम्पायन उवाच</p>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b3913"><div class="verse-block"><div class="line">तं धर्मराजः पतितं महीतले</div><div class="line pada-even">सबन्धुवर्गं प्रसमीक्ष्य पार्थिवम्।</div><div class="line">उवाच वाक्यं परलोकदर्शनः</div><div class="line pada-even" style="position:relative;">प्रनष्टमन्युर्गतशोकमत्सरः॥१७॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b3914"><div class="verse-block"><div class="line">न ते भयं पार्थिव विद्यते मयि</div><div class="line pada-even">प्रतीतरूपोऽस्म्यनुचिन्त्य मानसम्।</div><div class="line">एतत् त्वया सम्यगिहोपपादितं</div><div class="line pada-even">द्विजैरमात्यैः सदृशैश्च पाण्डितैः।</div><div class="line">इमां च कन्यां समलङ्कृतां भृशं</div><div class="line pada-even" style="position:relative;">समीक्ष्य तुष्टोऽस्मि नरेन्द्रसत्तम॥१८॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b3915"><div class="verse-block verse-justify"><div class="line">क्षान्तमेतन्महाबाहो यन्मां वदसि पार्थिव।</div><div class="line" style="position:relative;">न चैव किञ्चित्पश्यामि विकृतं ते नराधिप॥१९॥</div></div></div>
+<p class="uvacha">वैशम्पायन उवाच</p>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b3917"><div class="verse-block"><div class="line">ततो विराटः परमाभितुष्टः</div><div class="line pada-even">समेत्य राज्ञा समयं चकार।</div><div class="line">राज्यं च सर्वं विससर्ज तस्मै</div><div class="line pada-even" style="position:relative;">सदण्डकोशं सपुरं महात्मा॥२०॥</div></div></div>
+<p class="pushpika">॥इति श्रीमन्महाभारते विराटपर्वणि वैवाहिकपर्वणि षट्सप्ततितमोऽध्यायः॥७६॥</p></div>
