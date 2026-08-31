@@ -43,7 +43,13 @@
 
 .verse-block.verse-justify {
   display: grid;
+  /* display:grid makes this a block-level box spanning the full width of
+     .stotra-article, unlike the plain inline-block .verse-block above --
+     so .verse-block-wrapper's text-align:center has no effect on it.
+     justify-content:center re-centers the max-content column (the actual
+     verse width) within that full-width box instead. */
   grid-template-columns: max-content;
+  justify-content: center;
 }
 
 .verse-block > .line {

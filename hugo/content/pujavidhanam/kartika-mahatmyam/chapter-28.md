@@ -1,0 +1,47 @@
+{
+ "title": "अथ अष्टाविंशोऽध्यायः",
+ "weight": 280
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">अथ अष्टाविंशोऽध्यायः</h2>
+<p class="uvacha">धर्मदत्त उवाच</p>
+<div class="verse-block-wrapper" id="kartika-mahatmyam-b1653"><div class="verse-block verse-justify"><div class="line">जयश्च विजयश्चैव विष्णोर्द्वास्थौ श्रुतौ मया।</div><div class="line" style="position:relative;">किं नु ताभ्यां पुरा चीर्णं तस्मात् तद्रूपधारिणौ॥१॥</div></div></div>
+<p class="uvacha">गणावूचतुः</p>
+<div class="verse-block-wrapper" id="kartika-mahatmyam-b1655"><div class="verse-block verse-justify"><div class="line">तृणबिन्दोस्तु कन्यायां देवहूत्यां पुरा द्विज।</div><div class="line" style="position:relative;">कर्दमस्य तु दृष्ट्यैव पुत्रौ द्वौ सम्बभूवतुः॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="kartika-mahatmyam-b1656"><div class="verse-block verse-justify"><div class="line">ज्येष्ठो जयः कनिष्ठोऽभूद्विजयश्चैव नामतः।</div><div class="line" style="position:relative;">तस्यामेवाऽभवत्पश्चात्कपिलो योगधर्मवित्॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="kartika-mahatmyam-b1657"><div class="verse-block verse-justify"><div class="line">जयश्च विजयश्चैव विष्णुभक्तिरतौ सदा।</div><div class="line" style="position:relative;">तौ तन्निष्ठेन्द्रियग्रामौ धर्मशीलौ बभूवतुः॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="kartika-mahatmyam-b1658"><div class="verse-block verse-justify"><div class="line">नित्यमष्टाक्षरीजाप्यौ विष्णुव्रतकरावुभौ।</div><div class="line" style="position:relative;">साक्षात्कारं ददौ विष्णुस्तयोर्नित्यार्चने सदा॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="kartika-mahatmyam-b1659"><div class="verse-block verse-justify"><div class="line">मरुत्तेन कदाचित्तावाहूतौ यज्ञकर्मणि।</div><div class="line" style="position:relative;">जग्मतुर्यज्ञकुशलौ देवर्षिगणपूजितौ॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="kartika-mahatmyam-b1660"><div class="verse-block verse-justify"><div class="line">जयस्तत्राभवद्ब्रह्मायाजको विजयोऽभवत्।</div><div class="line" style="position:relative;">ततो यज्ञविधिं कृत्स्नं परिपूर्णं च चक्रतुः॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="kartika-mahatmyam-b1661"><div class="verse-block verse-justify"><div class="line">मरुत्तोऽवभृथस्नातस्ताभ्यां वित्तं ददौ बहु।</div><div class="line" style="position:relative;">तत्समादाय तौ वित्तं जग्मतुः स्वाश्रमं प्रति॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="kartika-mahatmyam-b1662"><div class="verse-block verse-justify"><div class="line">यजनाय पृथग्विष्णोस्तुष्ट्यर्थं तौ ततो मुनी।</div><div class="line" style="position:relative;">तद्धनं विभजन्तौ तु पस्पर्धाते परस्परम्॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="kartika-mahatmyam-b1663"><div class="verse-block verse-justify"><div class="line">जयोऽब्रवीत्समो भागः क्रियतामिति तत्र सः।</div><div class="line" style="position:relative;">विजयश्चाब्रवीन्नैतद्यल्लब्धं येन तस्य तत्॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="kartika-mahatmyam-b1664"><div class="verse-block verse-justify"><div class="line">ततोऽशपज्जयः क्रोधाद्विजयं लुब्धमानसम्।</div><div class="line" style="position:relative;">गृहीत्वा न ददास्येतत्तस्माद्ग्राहो भवेति तम्॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="kartika-mahatmyam-b1665"><div class="verse-block verse-justify"><div class="line">विजयस्तस्य तं शापं श्रुत्वा सोऽप्यशपच्च तम्।</div><div class="line" style="position:relative;">मदभ्रान्तोऽशपस्त्वं मां तस्मान्मातङ्गतां व्रज॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="kartika-mahatmyam-b1666"><div class="verse-block verse-justify"><div class="line">तत्तदाचख्यतुर्विष्णुं दृष्ट्वा नित्यार्चने विभुम्।</div><div class="line" style="position:relative;">शापयोश्च निवृत्तिं तौ ययाचाते रमापतिम्॥१३॥</div></div></div>
+<p class="uvacha">जयविजयावूचतुः</p>
+<div class="verse-block-wrapper" id="kartika-mahatmyam-b1668"><div class="verse-block verse-justify"><div class="line">भक्तावावां कथं देव ग्राहमातङ्गयोनिगौ।</div><div class="line" style="position:relative;">भविष्यावः कृपासिन्धो तच्छापो विनिवर्त्यताम्॥१४॥</div></div></div>
+<p class="uvacha">श्रीभगवानुवाच</p>
+<div class="verse-block-wrapper" id="kartika-mahatmyam-b1670"><div class="verse-block verse-justify"><div class="line">मद्भक्तयोर्वचोऽसत्यं न कदाचिद्भविष्यति।</div><div class="line" style="position:relative;">मयाऽपि नान्यथा कर्तुं शक्यते तत्कदाचन॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="kartika-mahatmyam-b1671"><div class="verse-block verse-justify"><div class="line">प्रह्लादवचसा स्तम्भेऽप्याविर्भूतो ह्यहं पुरा।</div><div class="line" style="position:relative;">तथाऽम्बरीषवाक्येन जातो गर्भे स्वयं किल॥१६॥</div></div></div>
+<div class="verse-block-wrapper" id="kartika-mahatmyam-b1672"><div class="verse-block verse-justify"><div class="line">तस्माद्युवामिमौ शापावनुभूय स्वयङ्कृतौ।</div><div class="line" style="position:relative;">लभेथां मत्पदं नित्यमित्युक्त्वाऽन्तर्दधे हरिः॥१७॥</div></div></div>
+<p class="uvacha">गणावूचतुः</p>
+<div class="verse-block-wrapper" id="kartika-mahatmyam-b1674"><div class="verse-block verse-justify"><div class="line">ततस्तौ ग्राहमातङ्गावभूतां गण्डकीतटे।</div><div class="line" style="position:relative;">जातिस्मरौ तु तद्योन्यामपि विष्णुव्रते स्थितौ॥१८॥</div></div></div>
+<div class="verse-block-wrapper" id="kartika-mahatmyam-b1675"><div class="verse-block verse-justify"><div class="line">कदाचित्स गजः स्नातुं कार्तिके गण्डकीं गतः।</div><div class="line" style="position:relative;">तावज्जग्राह तं ग्राहः संस्मरञ्च्छापकारणम्॥१९॥</div></div></div>
+<div class="verse-block-wrapper" id="kartika-mahatmyam-b1676"><div class="verse-block verse-justify"><div class="line">ग्राहग्रस्तो ह्यसौ नागः सस्मार श्रीपतिं तदा।</div><div class="line" style="position:relative;">तावदाविरभूद्विष्णुश्चक्रशङ्खगदाधरः॥२०॥</div></div></div>
+<div class="verse-block-wrapper" id="kartika-mahatmyam-b1677"><div class="verse-block verse-justify"><div class="line">ततस्तौ ग्राहमातङ्गौ चक्रं क्षिप्त्वा समुद्धृतौ।</div><div class="line" style="position:relative;">दत्त्वैव निजसारूप्यं वैकुण्ठमनयद्विभुः॥२१॥</div></div></div>
+<div class="verse-block-wrapper" id="kartika-mahatmyam-b1678"><div class="verse-block verse-justify"><div class="line">ततःप्रभृति तत्स्थानं हरिक्षेत्रमितिस्मृतम्।</div><div class="line" style="position:relative;">चक्रसङ्घर्षणाद्यस्मिन्ग्रावाणोऽपि हि लाञ्छिताः॥२२॥</div></div></div>
+<div class="verse-block-wrapper" id="kartika-mahatmyam-b1679"><div class="verse-block verse-justify"><div class="line">तावुभौ विश्रुतौ लोके जयश्च विजयस्तथा।</div><div class="line" style="position:relative;">नित्यं विष्णुप्रियौ द्वाःस्थौ पृष्टौ यौ हि त्वया द्विज॥२३॥</div></div></div>
+<div class="verse-block-wrapper" id="kartika-mahatmyam-b1680"><div class="verse-block verse-justify"><div class="line">अतस्त्वमपि धर्मज्ञ नित्यं विष्णुव्रते स्थितः।</div><div class="line" style="position:relative;">त्यक्तमात्सर्यदम्भोऽपि भवस्व समदर्शनः॥२४॥</div></div></div>
+<div class="verse-block-wrapper" id="kartika-mahatmyam-b1681"><div class="verse-block verse-justify"><div class="line">तुलामकरमेषेषु प्रातःस्नायी सदा भव।</div><div class="line" style="position:relative;">एकादशीव्रते तिष्ठ तुलसीवनपालकः॥२५॥</div></div></div>
+<div class="verse-block-wrapper" id="kartika-mahatmyam-b1682"><div class="verse-block verse-justify"><div class="line">ब्राह्मणानथ गाश्चापि वैष्णवांश्च सदा भज।</div><div class="line" style="position:relative;">मसूरिकामारनालं वृन्ताकान्यपि खाद मा॥२६॥</div></div></div>
+<div class="verse-block-wrapper" id="kartika-mahatmyam-b1683"><div class="verse-block verse-justify"><div class="line">एवं त्वमपि देहान्ते तद्विष्णोः परमं पदम्।</div><div class="line" style="position:relative;">प्राप्नोषि धर्मदत्त त्वं तद्भक्त्यैव यथा वयम्॥२७॥</div></div></div>
+<div class="verse-block-wrapper" id="kartika-mahatmyam-b1684"><div class="verse-block verse-justify"><div class="line">तावज्जन्म व्रतादस्माद्विष्णुसन्तुष्टिकारकात्।</div><div class="line" style="position:relative;">न यज्ञा न च दानानि न तीर्थान्यधिकानि वै॥२८॥</div></div></div>
+<div class="verse-block-wrapper" id="kartika-mahatmyam-b1685"><div class="verse-block"><div class="line">धन्योऽसि विप्राग्र्य यतस्त्वयैतद्</div><div class="line pada-even">व्रतं कृतं तुष्टिकरं जगद्गुरोः।</div><div class="line">यदर्धभागाप्तफला मुरारेः</div><div class="line pada-even" style="position:relative;">प्रणीयतेऽस्माभिरियं सलोकताम्॥२९॥</div></div></div>
+<p class="uvacha">नारद उवाच</p>
+<div class="verse-block-wrapper" id="kartika-mahatmyam-b1687"><div class="verse-block verse-justify"><div class="line">इत्थं तौ धर्मदत्तं तमुपदिश्य विमानगौ।</div><div class="line" style="position:relative;">तया कलहया सार्धं वैकुण्ठभवनं गतौ॥३०॥</div></div></div>
+<div class="verse-block-wrapper" id="kartika-mahatmyam-b1688"><div class="verse-block verse-justify"><div class="line">धर्मदत्तो ह्यसौ जातप्रत्ययस्तद्व्रते स्थितः।</div><div class="line" style="position:relative;">देहान्ते तद्विभोः स्थानं भार्याभ्यां संयुतोऽभ्ययात्॥३१॥</div></div></div>
+<div class="verse-block-wrapper" id="kartika-mahatmyam-b1689"><div class="verse-block verse-justify"><div class="line">इतिहासमिमं पुराभवं।</div><div class="line" style="position:relative;">शृणुते श्रावयते च यः पुमान्॥३२॥</div></div></div>
+<p class="prose">हरिसन्निधिकारणीं मतिं<br>लभतेऽसौ कृपया जगद्गुरोः</p>
+<p class="prose">आदितः श्लोकाः — १४११<br>॥इति श्रीस्कान्दे महापुराण एकाशीतिसाहस्र्यां संहितायां<br>द्वितीये वैष्णवखण्डे कार्तिकमासमाहात्म्ये<br>धर्मदत्तमोक्षप्राप्तिकथनं<br>नामाष्टाविंशोऽध्यायः॥२८॥</p>
+<div class="decoration">❀</div></div>
