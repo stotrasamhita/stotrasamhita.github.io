@@ -38,7 +38,7 @@
 
 .verse-block {
   display: inline-block;
-  text-align: left;
+  text-align: center;
 }
 
 .verse-block.verse-justify {

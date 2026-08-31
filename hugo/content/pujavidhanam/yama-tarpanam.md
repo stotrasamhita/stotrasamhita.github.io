@@ -3,7 +3,7 @@
  "slug": "yama-tarpanam",
  "source_file": "pujas/yama-tarpanam.tex",
  "verse_count": 9,
- "weight": 370
+ "weight": 320
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">कृष्णाङ्गारक-चतुर्दशी-यम-तर्पणम्</h2>
@@ -26,4 +26,3 @@
 <p class="prose">Thereafter, offer Namaskāra—<br>नमस्कारः—</p>
 <div class="verse-block-wrapper" id="yama-tarpanam-b0018"><div class="verse-block verse-justify"><div class="line">नीलपर्वतसङ्काशो रुद्रकोपसमुद्भवः।</div><div class="line" style="position:relative;">कालो दण्डधरो देवो वैवस्वत नमोऽस्तु ते॥</div></div></div>
 <div class="decoration">❀ ❀ ❀</div></div>
-<div class="pdf-links"><span class="pdf-links-label">PDF:</span><a href="https://raw.githubusercontent.com/stotrasamhita/puja-vidhanam/master/pujas-kindle-pdf/pujas/yama-tarpanam.pdf">Kindle</a><a href="https://raw.githubusercontent.com/stotrasamhita/puja-vidhanam/master/pujas-kindle-scribe-pdf/pujas/yama-tarpanam.pdf">Kindle Scribe</a></div>

@@ -3,7 +3,7 @@
  "slug": "sankramana-snanam",
  "source_file": "pujas/sankramana-snanam.tex",
  "verse_count": 8,
- "weight": 180
+ "weight": 250
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">सङ्क्रमण-पुण्यकाल-स्नान-सङ्कल्पः</h2>
@@ -21,4 +21,3 @@
 <div class="verse-block-wrapper" id="sankramana-snanam-b0012"><div class="verse-block verse-justify"><div class="line">अतिक्रूर महाकाय कल्पान्तदहनोपम।</div><div class="line" style="position:relative;">भैरवाय नमस्तुभ्यम् अनुज्ञां दातुम् अर्हसि॥</div></div></div>
 <p class="prose">(प्रोक्षण-मन्त्राः/स्नान-मन्त्राः)<br>स्नात्वा वस्त्रं धृत्वा कुलाचारवत् पुण्ड्रधारणं च कृत्वा आचम्य।</p>
 <div class="decoration">❀ ❀ ❀</div></div>
-<div class="pdf-links"><span class="pdf-links-label">PDF:</span><a href="https://raw.githubusercontent.com/stotrasamhita/puja-vidhanam/master/pujas-kindle-pdf/pujas/sankramana-snanam.pdf">Kindle</a><a href="https://raw.githubusercontent.com/stotrasamhita/puja-vidhanam/master/pujas-kindle-scribe-pdf/pujas/sankramana-snanam.pdf">Kindle Scribe</a></div>

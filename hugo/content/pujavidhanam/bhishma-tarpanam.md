@@ -3,7 +3,7 @@
  "slug": "bhishma-tarpanam",
  "source_file": "pujas/bhishma-tarpanam.tex",
  "verse_count": 10,
- "weight": 10
+ "weight": 330
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">भीष्म-तर्पणम्</h2>
@@ -28,4 +28,3 @@
 <p class="prose">अनेन मया कृतेन भीष्माष्टमी-पुण्यकाले भीष्मतर्पणेन परमात्मा सुप्रीतः सुप्रसन्नो वरदो भवतु॥<br>ॐ तत्सद्ब्रह्मार्पणमस्तु॥</p>
 <div class="decoration">❀</div>
 <div class="decoration">❀ ❀ ❀</div></div>
-<div class="pdf-links"><span class="pdf-links-label">PDF:</span><a href="https://raw.githubusercontent.com/stotrasamhita/puja-vidhanam/master/pujas-kindle-pdf/pujas/bhishma-tarpanam.pdf">Kindle</a><a href="https://raw.githubusercontent.com/stotrasamhita/puja-vidhanam/master/pujas-kindle-scribe-pdf/pujas/bhishma-tarpanam.pdf">Kindle Scribe</a></div>

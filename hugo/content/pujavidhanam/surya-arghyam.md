@@ -3,7 +3,7 @@
  "slug": "surya-arghyam",
  "source_file": "pujas/surya-arghyam.tex",
  "verse_count": 2,
- "weight": 310
+ "weight": 20
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">सूर्य-अर्घ्य-प्रदानम्</h2>
@@ -15,4 +15,3 @@
 <div class="verse-block-wrapper" id="surya-arghyam-b0006"><div class="verse-block verse-justify"><div class="line">नमो विवस्वते ब्रह्मन् भास्वते विष्णुतेजसे।</div><div class="line" style="position:relative;">जगत्सवित्रे शुचये सवित्रे फलदायिने॥</div></div></div>
 <p class="prose">(एवं त्रिः)<br>O Supreme Being who shines with many rays! Your brilliance pervades everywhere! You are the one who created this world. You are pure. You are the witness to all the happenings of this world. You are the one who gives the fruits of actions to beings! To You my prostrations!</p>
 <div class="decoration">❀ ❀ ❀</div></div>
-<div class="pdf-links"><span class="pdf-links-label">PDF:</span><a href="https://raw.githubusercontent.com/stotrasamhita/puja-vidhanam/master/pujas-kindle-pdf/pujas/surya-arghyam.pdf">Kindle</a><a href="https://raw.githubusercontent.com/stotrasamhita/puja-vidhanam/master/pujas-kindle-scribe-pdf/pujas/surya-arghyam.pdf">Kindle Scribe</a></div>
