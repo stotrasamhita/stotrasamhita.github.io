@@ -1,0 +1,20 @@
+{
+ "title": "गुरुवातपुरीशपञ्चरत्नम्",
+ "slug": "vatapuranatha-ashtakam",
+ "source_file": "stotras/krishna/VatapuranathaAshtakam.tex",
+ "verse_count": 9,
+ "weight": 220
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">गुरुवातपुरीशपञ्चरत्नम्</h2>
+<div class="verse-block-wrapper" id="vatapuranatha-ashtakam-b0001"><div class="verse-block"><div class="line">कुन्दसुमवृन्दसममन्दहसितास्यं</div><div class="line pada-even">नन्दकुलनन्दभरतुन्दलनकन्दम्।</div><div class="line">पूतनिजगीतलवधूतदुरितं तं</div><div class="line pada-even" style="position:relative;">वातपुरनाथमिममातनु हृदब्जे॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="vatapuranatha-ashtakam-b0002"><div class="verse-block"><div class="line">नीलतरजालधरभालहरिरम्यं</div><div class="line pada-even">लोलतरशीलयुतबालजनलीलम्।</div><div class="line">जालनतिशीलमपि पालयितुकामं</div><div class="line pada-even" style="position:relative;">वातपुरनाथमिममातनु हृदब्जे॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="vatapuranatha-ashtakam-b0003"><div class="verse-block"><div class="line">कंसरणहिंसमिह संसरणजात-</div><div class="line pada-even">क्लान्तिभरशान्तिकरकान्तिझरवीतम्।</div><div class="line">वातमुखधातुजनिपातभयघातं</div><div class="line pada-even" style="position:relative;">वातपुरनाथमिममातनु हृदब्जे॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="vatapuranatha-ashtakam-b0004"><div class="verse-block"><div class="line">जातुधुरिपातुकमिहातुरजनं द्राक्</div><div class="line pada-even">शोकभरमूकमपि तोकमिव पान्तम्।</div><div class="line">भृङ्गरुचिसङ्गरकृदङ्गलतिकं तं</div><div class="line pada-even" style="position:relative;">वातपुरनाथमिममातनु हृदब्जे॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="vatapuranatha-ashtakam-b0005"><div class="verse-block"><div class="line">पापभवतापभरकोपशमनार्था-</div><div class="line pada-even">श्वासकरभासमृदुहासरुचिरास्यम्।</div><div class="line">रोगचयभोगभयवेगहरमेकं</div><div class="line pada-even" style="position:relative;">वातपुरनाथमिममातनु हृदब्जे॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="vatapuranatha-ashtakam-b0006"><div class="verse-block"><div class="line">घोषकुलदोषहरवेषमुपयान्तं</div><div class="line pada-even">पूषशतदूषकविभूषणगणाढ्यम्।</div><div class="line">भुक्तिमपिमुक्तिमतिभक्तिषु ददानं</div><div class="line pada-even" style="position:relative;">वातपुरनाथमिममातनु हृदब्जे॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="vatapuranatha-ashtakam-b0007"><div class="verse-block"><div class="line">पापकदुरापमतितापहरशोभ-</div><div class="line pada-even">स्वापघनमामतदुमापतिसमेतम्।</div><div class="line">दूनतरदीनसुखदानकृतदीक्षं</div><div class="line pada-even" style="position:relative;">वातपुरनाथमिममातनु हृदब्जे॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="vatapuranatha-ashtakam-b0008"><div class="verse-block"><div class="line">पादपतदादरणमोदपरिपूर्णं</div><div class="line pada-even">जीवमुखदेवजनसेवनफलाङ्घ्रिम्।</div><div class="line">रूक्षभवमोक्षकृतदीक्षनिजवीक्षं</div><div class="line pada-even" style="position:relative;">वातपुरनाथमिममातनु हृदब्जे॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="vatapuranatha-ashtakam-b0009"><div class="verse-block"><div class="line">भृत्यगणपत्युदितनुत्युचितमोदं</div><div class="line pada-even">स्पष्टमिदमष्टकमदुष्टकरणार्हम्।</div><div class="line">आदधतमादरदमादिलयशून्यं</div><div class="line pada-even" style="position:relative;">वातपुरनाथमिममातनु हृदब्जे॥</div></div></div>
+<p class="pushpika">॥इति महामहोपाध्याय-ब्रह्मश्री-पैङ्गानाडु-गणपतीशास्त्रिभिः विरचितं श्रीवातपुरनाथाष्टकम् सम्पूर्णम्॥</p></div>
+<div class="pdf-links"><span class="pdf-links-label">PDF:</span><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-pdf/krishna/VatapuranathaAshtakam.pdf">A5 / print</a><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-kindle-pdf/krishna/VatapuranathaAshtakam.pdf">Kindle</a><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-kindle-scribe-pdf/krishna/VatapuranathaAshtakam.pdf">Kindle Scribe</a></div>

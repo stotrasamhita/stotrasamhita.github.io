@@ -1,0 +1,20 @@
+{
+ "title": "सुतीक्ष्णकृतं रामस्तोत्रम्",
+ "slug": "sutikshnakrta-rama-stotram",
+ "source_file": "stotras/adhyatma-ramayana-stotras/SutikshnakrtaRamaStotram.tex",
+ "verse_count": 8,
+ "weight": 330
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">सुतीक्ष्णकृतं रामस्तोत्रम्</h2>
+<p class="uvacha">सुतीक्ष्ण उवाच</p>
+<div class="verse-block-wrapper" id="sutikshnakrta-rama-stotram-b0003"><div class="verse-block"><div class="line">त्वन्मन्त्रजाप्यहमनन्तगुणाप्रमेय</div><div class="line pada-even">सीतापते शिवविरिञ्चिसमाश्रिताङ्घ्रे।</div><div class="line">संसारसिन्धुतरणामलपोतपाद</div><div class="line pada-even" style="position:relative;">रामाभिराम सततं तव दासदासः॥२७॥</div></div></div>
+<div class="verse-block-wrapper" id="sutikshnakrta-rama-stotram-b0004"><div class="verse-block"><div class="line">मामद्य सर्वजगतामविगोचरस्त्वं</div><div class="line pada-even">त्वन्मायया सुतकलत्रगृहान्धकूपे।</div><div class="line">मग्नं निरीक्ष्य मलपुद्गलपिण्डमोह-</div><div class="line pada-even" style="position:relative;">पाशानुबद्धहृदयं स्वयमागतोऽसि॥२८॥</div></div></div>
+<div class="verse-block-wrapper" id="sutikshnakrta-rama-stotram-b0005"><div class="verse-block"><div class="line">त्वं सर्वभूतहृदयेषु कृतालयोऽपि</div><div class="line pada-even">त्वन्मन्त्रजाप्यविमुखेषु तनोषि मायाम्।</div><div class="line">त्वन्मन्त्रसाधनपरेष्वपयाति माया</div><div class="line pada-even" style="position:relative;">सेवानुरूपफलदोऽसि यथा महीपः॥२९॥</div></div></div>
+<div class="verse-block-wrapper" id="sutikshnakrta-rama-stotram-b0006"><div class="verse-block"><div class="line">विश्वस्य सृष्टिलयसंस्थितिहेतुरेकः</div><div class="line pada-even">त्वं मायया त्रिगुणया विधिरीशविष्णू।</div><div class="line">भासीश मोहितधियां विविधाकृतिस्त्वं</div><div class="line pada-even" style="position:relative;">यद्वद्रविः सलिलपात्रगतो ह्यनेकः॥३०॥</div></div></div>
+<div class="verse-block-wrapper" id="sutikshnakrta-rama-stotram-b0007"><div class="verse-block"><div class="line">प्रत्यक्षतोऽद्य भवतश्चरणारविन्दं</div><div class="line pada-even">पश्यामि राम तमसः परतः स्थितस्य।</div><div class="line">दृग्रूपतस्त्वमसतामविगोचरोऽपि</div><div class="line pada-even" style="position:relative;">त्वन्मन्त्रपूतहृदयेषु सदा प्रसन्नः॥३१॥</div></div></div>
+<div class="verse-block-wrapper" id="sutikshnakrta-rama-stotram-b0008"><div class="verse-block"><div class="line">पश्यामि राम तव रूपमरूपिणोऽपि</div><div class="line pada-even">मायाविडम्बनकृतं सुमनुष्यवेषम्।</div><div class="line">कन्दर्पकोटिसुभगं कमनीयचाप-</div><div class="line pada-even" style="position:relative;">बाणं दयार्द्रहृदयं स्मितचारुवक्त्रम्॥३२॥</div></div></div>
+<div class="verse-block-wrapper" id="sutikshnakrta-rama-stotram-b0009"><div class="verse-block"><div class="line">सीतासमेतमजिनाम्बरमप्रधृष्यं</div><div class="line pada-even">सौमित्रिणा नियतसेवितपादपद्मम्।</div><div class="line">नीलोत्पलद्युतिमनन्तगुणं प्रशान्तं</div><div class="line pada-even" style="position:relative;">मद्भागधेयमनिशं प्रणमामि रामम्॥३३॥</div></div></div>
+<div class="verse-block-wrapper" id="sutikshnakrta-rama-stotram-b0010"><div class="verse-block"><div class="line">जानन्तु राम तव रूपमशेषदेश-</div><div class="line pada-even">कालाद्युपाधिरहितं घनचित्प्रकाशम्।</div><div class="line">प्रत्यक्षतोऽद्य मम गोचरमेतदेव</div><div class="line pada-even" style="position:relative;">रूपं विभातु हृदये न परं विकाङ्क्षे॥३४॥</div></div></div>
+<p class="prose">॥इति श्रीमदध्यात्मरामायणे उमामहेश्वरसंवादे अरण्यकाण्डे<br>प्रथमे सर्गे सुतीक्ष्णकृतं श्री-रामस्तोत्रं सम्पूर्णम्॥</p></div>
+<div class="pdf-links"><span class="pdf-links-label">PDF:</span><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-pdf/adhyatma-ramayana-stotras/SutikshnakrtaRamaStotram.pdf">A5 / print</a><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-kindle-pdf/adhyatma-ramayana-stotras/SutikshnakrtaRamaStotram.pdf">Kindle</a><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-kindle-scribe-pdf/adhyatma-ramayana-stotras/SutikshnakrtaRamaStotram.pdf">Kindle Scribe</a></div>

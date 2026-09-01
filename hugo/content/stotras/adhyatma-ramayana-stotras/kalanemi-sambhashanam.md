@@ -1,0 +1,30 @@
+{
+ "title": "कालनेमिसम्भाषणम्",
+ "slug": "kalanemi-sambhashanam",
+ "source_file": "stotras/adhyatma-ramayana-stotras/KalanemiSambhashanam.tex",
+ "verse_count": 18,
+ "weight": 110
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">कालनेमिसम्भाषणम्</h2>
+<p class="uvacha">कालनेमिरुवाच</p>
+<div class="verse-block-wrapper" id="kalanemi-sambhashanam-b0003"><div class="verse-block verse-justify"><div class="line">सीतां प्रयच्छ रामाय राज्यं देहि विभीषणे।</div><div class="line" style="position:relative;">वनं याहि महाबाहो रम्यं मुनिगणाश्रयम्॥४६॥</div></div></div>
+<div class="verse-block-wrapper" id="kalanemi-sambhashanam-b0004"><div class="verse-block verse-justify"><div class="line">स्नात्वा प्रातः शुभजले कृत्वा सन्ध्यादिकाः क्रियाः।</div><div class="line" style="position:relative;">तत एकान्तमाश्रित्य सुखासनपरिग्रहः॥४७॥</div></div></div>
+<div class="verse-block-wrapper" id="kalanemi-sambhashanam-b0005"><div class="verse-block verse-justify"><div class="line">विसृज्य सर्वतः सङ्गमितरान् विषयान् बहिः।</div><div class="line" style="position:relative;">बहिःप्रवृत्ताक्षगणं शनैः प्रत्यक् प्रवाहय॥४८॥</div></div></div>
+<div class="verse-block-wrapper" id="kalanemi-sambhashanam-b0006"><div class="verse-block verse-justify"><div class="line">प्रकृतेर्भिन्नमात्मानं विचारय सदाऽनघ।</div><div class="line" style="position:relative;">चराचरं जगत्कृत्स्नं देहबुद्धीन्द्रियादिकम्॥४९॥</div></div></div>
+<div class="verse-block-wrapper" id="kalanemi-sambhashanam-b0007"><div class="verse-block verse-justify"><div class="line">आब्रह्मस्तम्बपर्यन्तं दृश्यते श्रूयते च यत्।</div><div class="line" style="position:relative;">सैषा प्रकृतिरित्युक्ता सैव मायेति कीर्तिता॥५०॥</div></div></div>
+<div class="verse-block-wrapper" id="kalanemi-sambhashanam-b0008"><div class="verse-block verse-justify"><div class="line">सर्गस्थितिविनाशानां जगद्वृक्षस्य कारणम्।</div><div class="line" style="position:relative;">लोहितश्वेतकृष्णादि प्रजाः सृजति सर्वदा॥५१॥</div></div></div>
+<div class="verse-block-wrapper" id="kalanemi-sambhashanam-b0009"><div class="verse-block verse-justify"><div class="line">कामक्रोधादिपुत्राद्यान् हिंसातृष्णादिकन्यकाः।</div><div class="line" style="position:relative;">मोहयन्त्यनिशं देवमात्मानं स्वैर्गुणैर्विभुम्॥५२॥</div></div></div>
+<div class="verse-block-wrapper" id="kalanemi-sambhashanam-b0010"><div class="verse-block verse-justify"><div class="line">कर्तृत्वभोक्तृत्वमुखान् स्वगुणानात्मनीश्वरे।</div><div class="line" style="position:relative;">आरोप्य स्ववशं कृत्वा तेन क्रीडति सर्वदा॥५३॥</div></div></div>
+<div class="verse-block-wrapper" id="kalanemi-sambhashanam-b0011"><div class="verse-block verse-justify"><div class="line">शुद्धोऽप्यात्मा यया युक्तः पश्यतीव सदा बहिः।</div><div class="line" style="position:relative;">विस्मृत्य च स्वमात्मानं मायागुणविमोहितः॥५४॥</div></div></div>
+<div class="verse-block-wrapper" id="kalanemi-sambhashanam-b0012"><div class="verse-block verse-justify"><div class="line">यदा सद्गुरुणा युक्तो बोध्यते बोधरूपिणा।</div><div class="line" style="position:relative;">निवृत्तदृष्टिरात्मानं पश्यत्येव सदा स्फुटम्॥५५॥</div></div></div>
+<div class="verse-block-wrapper" id="kalanemi-sambhashanam-b0013"><div class="verse-block verse-justify"><div class="line">जीवन्मुक्तः सदा देही मुच्यते प्राकृतैर्गुणैः।</div><div class="line" style="position:relative;">त्वमप्येवं सदाऽऽत्मानं विचार्य नियतेन्द्रियः॥५६॥</div></div></div>
+<div class="verse-block-wrapper" id="kalanemi-sambhashanam-b0014"><div class="verse-block verse-justify"><div class="line">प्रकृतेरन्यमात्मानं ज्ञात्वा मुक्तो भविष्यसि।</div><div class="line" style="position:relative;">ध्यातुं यद्यसमर्थोऽसि सगुणं देवमाश्रय॥५७॥</div></div></div>
+<div class="verse-block-wrapper" id="kalanemi-sambhashanam-b0015"><div class="verse-block verse-justify"><div class="line">हृत्पद्मकर्णिके स्वर्णपीठे मणिगणान्विते।</div><div class="line" style="position:relative;">मृदुश्लक्ष्णतरे तत्र जानक्या सह संस्थितम्॥५८॥</div></div></div>
+<div class="verse-block-wrapper" id="kalanemi-sambhashanam-b0016"><div class="verse-block verse-justify"><div class="line">वीरासनं विशालाक्षं विद्युत्पुञ्जनिभाम्बरम्।</div><div class="line" style="position:relative;">किरीटहारकेयूरकौस्तुभादिभिरन्वितम्॥५९॥</div></div></div>
+<div class="verse-block-wrapper" id="kalanemi-sambhashanam-b0017"><div class="verse-block verse-justify"><div class="line">नूपुरैः कटकैर्भान्तं तथैव वनमालया।</div><div class="line" style="position:relative;">लक्ष्मणेन धनुर्द्वन्द्वकरेण परिसेवितम्॥६०॥</div></div></div>
+<div class="verse-block-wrapper" id="kalanemi-sambhashanam-b0018"><div class="verse-block verse-justify"><div class="line">एवं ध्यात्वा सदाऽऽत्मानं रामं सर्वहृदि स्थितम्।</div><div class="line" style="position:relative;">भक्त्या परमया युक्तो मुच्यते नात्र संशयः॥६१॥</div></div></div>
+<div class="verse-block-wrapper" id="kalanemi-sambhashanam-b0019"><div class="verse-block verse-justify"><div class="line">शृणु वै चरितं तस्य भक्तैर्नित्यमनन्यधीः।</div><div class="line">एवं चेत्कृतपूर्वाणि पापानि च महान्त्यपि।</div><div class="line" style="position:relative;">क्षणादेव विनश्यन्ति यथाऽग्नेस्तूलराशयः॥६२॥</div></div></div>
+<div class="verse-block-wrapper" id="kalanemi-sambhashanam-b0020"><div class="verse-block"><div class="line">भजस्व रामं परिपूर्णमेकं</div><div class="line pada-even">विहाय वैरं निजभक्तियुक्तः।</div><div class="line">हृदा सदा भावितभावरूपम्</div><div class="line pada-even" style="position:relative;">अनामरूपं पुरुषं पुराणम्॥६३॥</div></div></div>
+<p class="prose">॥इति श्रीमदध्यात्मरामायणे उमामहेश्वरसंवादे युद्धकाण्डे<br>षष्ठे सर्गे कालनेमिसम्भाषणम् सम्पूर्णम्॥</p></div>
+<div class="pdf-links"><span class="pdf-links-label">PDF:</span><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-pdf/adhyatma-ramayana-stotras/KalanemiSambhashanam.pdf">A5 / print</a><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-kindle-pdf/adhyatma-ramayana-stotras/KalanemiSambhashanam.pdf">Kindle</a><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-kindle-scribe-pdf/adhyatma-ramayana-stotras/KalanemiSambhashanam.pdf">Kindle Scribe</a></div>

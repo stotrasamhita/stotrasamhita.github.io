@@ -1,0 +1,21 @@
+{
+ "title": "श्रीसुब्रह्मण्याष्टकम्",
+ "slug": "subrahmanya-ashtakam",
+ "source_file": "stotras/subrahmanya/SubrahmanyaAshtakam.tex",
+ "verse_count": 10,
+ "weight": 40
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">श्रीसुब्रह्मण्याष्टकम्</h2>
+<div class="verse-block-wrapper" id="subrahmanya-ashtakam-b0001"><div class="verse-block"><div class="line">हे स्वामिनाथ करुणाकर दीनबन्धो</div><div class="line pada-even">श्रीपार्वतीशमुखपङ्कजपद्मबन्धो।</div><div class="line">श्रीशादिदेवगणपूजितपादपद्म</div><div class="line pada-even" style="position:relative;">वल्लीशनाथ मम देहि करावलम्बम्॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="subrahmanya-ashtakam-b0002"><div class="verse-block"><div class="line">देवाधिदेवसुत देवगणाधिनाथ</div><div class="line pada-even">देवेन्द्रवन्द्यमृदुपङ्कजमञ्जुपाद।</div><div class="line">देवर्षिनारदमुनीन्द्रसुगीतकीर्ते</div><div class="line pada-even" style="position:relative;">वल्लीशनाथ मम देहि करावलम्बम्॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="subrahmanya-ashtakam-b0003"><div class="verse-block"><div class="line">नित्यान्नदाननिरताखिलरोगहारिन्</div><div class="line pada-even">भाग्यप्रदानपरिपूरितभक्तकाम।</div><div class="line">श‍ृत्यागमप्रणववाच्यनिजस्वरूप</div><div class="line pada-even" style="position:relative;">वल्लीशनाथ मम देहि करावलम्बम्॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="subrahmanya-ashtakam-b0004"><div class="verse-block"><div class="line">क्रौञ्चासुरेन्द्रपरिखण्डन शक्तिशूल-</div><div class="line pada-even">चापादिशस्त्रपरिमण्डितदिव्यपाणे।</div><div class="line">श्रीकुण्डलीशधरतुण्डशिखीन्द्रवाह</div><div class="line pada-even" style="position:relative;">वल्लीशनाथ मम देहि करावलम्बम्॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="subrahmanya-ashtakam-b0005"><div class="verse-block"><div class="line">देवाधिदेवरथमण्डलमध्यवेऽद्य</div><div class="line pada-even">देवेन्द्रपीठनकरं दृढचापहस्तम्।</div><div class="line">शूरं निहत्य सुरकोटिभिरीड्यमान</div><div class="line pada-even" style="position:relative;">वल्लीशनाथ मम देहि करावलम्बम्॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="subrahmanya-ashtakam-b0006"><div class="verse-block"><div class="line">हारादिरत्नमणियुक्तकिरीटहार</div><div class="line pada-even">केयूरकुण्डललसत्कवचाभिरामम्।</div><div class="line">हे वीर तारकजयामरवृन्दवन्द्य</div><div class="line pada-even" style="position:relative;">वल्लीशनाथ मम देहि करावलम्बम्॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="subrahmanya-ashtakam-b0007"><div class="verse-block"><div class="line">पञ्चाक्षरादिमनुमन्त्रितगाङ्गतोयैः</div><div class="line pada-even">पञ्चामृतैः प्रमुदितेन्द्रमुखैर्मुनीन्द्रैः।</div><div class="line">पट्टाभिषिक्तहरियुक्त परासनाथ</div><div class="line pada-even" style="position:relative;">वल्लीशनाथ मम देहि करावलम्बम्॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="subrahmanya-ashtakam-b0008"><div class="verse-block"><div class="line">श्रीकार्तिकेय करुणामृतपूर्णदृष्ट्या</div><div class="line pada-even">कामादिरोगकलुषीकृतदुष्टचित्तम्।</div><div class="line">सिक्त्वा तु मामव कलाधरकान्तिकान्त्या</div><div class="line pada-even" style="position:relative;">वल्लीशनाथ मम देहि करावलम्बम्॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="subrahmanya-ashtakam-b0009"><div class="verse-block verse-justify"><div class="line">सुब्रह्मण्याष्टकं पुण्यं ये पठन्ति द्विजोत्तमाः।</div><div class="line" style="position:relative;">ते सर्वे मुक्तिमायान्ति सुब्रह्मण्यप्रसादतः॥</div></div></div>
+<div class="verse-block-wrapper" id="subrahmanya-ashtakam-b0010"><div class="verse-block verse-justify"><div class="line">सुब्रह्मण्याष्टकमिदं प्रातरुत्थाय यः पठेत्।</div><div class="line" style="position:relative;">कोटिजन्मकृतं पापं तत्क्षणादेव नश्यति॥</div></div></div>
+<p class="pushpika">॥इति श्रीसुब्रह्मण्याष्टकं सम्पूर्णम्॥</p></div>
+<div class="pdf-links"><span class="pdf-links-label">PDF:</span><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-pdf/subrahmanya/SubrahmanyaAshtakam.pdf">A5 / print</a><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-kindle-pdf/subrahmanya/SubrahmanyaAshtakam.pdf">Kindle</a><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-kindle-scribe-pdf/subrahmanya/SubrahmanyaAshtakam.pdf">Kindle Scribe</a></div>

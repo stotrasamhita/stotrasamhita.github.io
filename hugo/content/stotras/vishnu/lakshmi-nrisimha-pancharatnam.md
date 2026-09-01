@@ -1,0 +1,16 @@
+{
+ "title": "श्री-लक्ष्मी-नृसिंह-पञ्चरत्न-स्तोत्रम्",
+ "slug": "lakshmi-nrisimha-pancharatnam",
+ "source_file": "stotras/vishnu/LakshmiNrisimhaPancharatnam.tex",
+ "verse_count": 5,
+ "weight": 40
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">श्री-लक्ष्मी-नृसिंह-पञ्चरत्न-स्तोत्रम्</h2>
+<div class="verse-block-wrapper" id="lakshmi-nrisimha-pancharatnam-b0001"><div class="verse-block"><div class="line">त्वत्-प्रभु-जीव-प्रियमिच्छसि चेन्नरहरि-पूजां कुरु सततं</div><div class="line pada-even">प्रतिबिम्बालङ्कृति-धृति-कुशलो बिम्बालङ्कृतिमातनुते।</div><div class="line">चेतो-भृङ्ग भ्रमसि वृथा भव-मरु-भूमौ विरसायां</div><div class="line pada-even" style="position:relative;">भज भज लक्ष्मी-नरसिंहानघ-पद-सरसिज-मकरन्दम्॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="lakshmi-nrisimha-pancharatnam-b0002"><div class="verse-block"><div class="line">शुक्तौ रजत-प्रतिभा जाता कटकाद्यर्थ-समर्था चेद्</div><div class="line pada-even">दुःखमयी ते संसृतिरेषा निर्वृति-दाने निपुणा स्यात्।</div><div class="line">चेतो-भृङ्ग भ्रमसि वृथा भव-मरु-भूमौ विरसायां</div><div class="line pada-even" style="position:relative;">भज भज लक्ष्मी-नरसिंहानघ-पद-सरसिज-मकरन्दम्॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="lakshmi-nrisimha-pancharatnam-b0003"><div class="verse-block"><div class="line">आकृति-साम्याच्छाल्मलि-कुसुमे स्थल-नलिनत्व-भ्रममकरोः</div><div class="line pada-even">गन्ध-रसाविह किमु विद्येते विफलं भ्राम्यसि भृश-विरसेऽस्मिन्।</div><div class="line">चेतो-भृङ्ग भ्रमसि वृथा भव-मरु-भूमौ विरसायां</div><div class="line pada-even" style="position:relative;">भज भज लक्ष्मी-नरसिंहानघ-पद-सरसिज-मकरन्दम्॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="lakshmi-nrisimha-pancharatnam-b0004"><div class="verse-block"><div class="line">स्रक्-चन्दन-वनितादीन् विषयान् सुखदान् मत्वा तत्र विहरसे</div><div class="line pada-even">गन्ध-फली-सदृशा ननु तेऽमी भोगानन्तर-दुःख-कृतः स्युः।</div><div class="line">चेतो-भृङ्ग भ्रमसि वृथा भव-मरु-भूमौ विरसायां</div><div class="line pada-even" style="position:relative;">भज भज लक्ष्मी-नरसिंहानघ-पद-सरसिज-मकरन्दम्॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="lakshmi-nrisimha-pancharatnam-b0005"><div class="verse-block"><div class="line">तव हितमेकं वचनं वक्ष्ये श‍ृणु सुख-कामो यदि सततं</div><div class="line pada-even">स्वप्ने दृष्टं सकलं हि मृषा जाग्रति च स्मर तद्वदिति।</div><div class="line">चेतो-भृङ्ग भ्रमसि वृथा भव-मरु-भूमौ विरसायां</div><div class="line pada-even" style="position:relative;">भज भज लक्ष्मी-नरसिंहानघ-पद-सरसिज-मकरन्दम्॥५॥</div></div></div>
+<p class="prose">॥इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्री-गोविन्द-भगवत्पूज्य-पाद-शिष्यस्य<br>श्रीमच्छङ्करभगवतः कृतौ श्री-लक्ष्मी-नृसिंह-पञ्चरत्न-स्तोत्रं सम्पूर्णम्॥</p></div>
+<div class="pdf-links"><span class="pdf-links-label">PDF:</span><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-pdf/vishnu/LakshmiNrisimhaPancharatnam.pdf">A5 / print</a><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-kindle-pdf/vishnu/LakshmiNrisimhaPancharatnam.pdf">Kindle</a><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-kindle-scribe-pdf/vishnu/LakshmiNrisimhaPancharatnam.pdf">Kindle Scribe</a></div>

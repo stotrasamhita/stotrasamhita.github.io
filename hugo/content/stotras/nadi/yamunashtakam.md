@@ -1,0 +1,19 @@
+{
+ "title": "यमुनाष्टकम्",
+ "slug": "yamunashtakam",
+ "source_file": "stotras/nadi/Yamunashtakam.tex",
+ "verse_count": 8,
+ "weight": 70
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">यमुनाष्टकम्</h2>
+<div class="verse-block-wrapper" id="yamunashtakam-b0001"><div class="verse-block"><div class="line">मुरारिकायकालिमाललामवारिधारिणी</div><div class="line pada-even">तृणीकृतत्रिविष्टपा त्रिलोकशोकहारिणी।</div><div class="line">मनोऽनुकूलकूलकुञ्जपुञ्जधूतदुर्मदा</div><div class="line pada-even" style="position:relative;">धुनोतु नो मनोमलं कलिन्दनन्दिनी सदा॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="yamunashtakam-b0002"><div class="verse-block"><div class="line">मलापहारिवारिपूरिभूरिमण्डितामृता</div><div class="line pada-even">भृशं प्रवातकप्रपञ्चनातिपण्डितानिशा।</div><div class="line">सुनन्दनन्दिनाङ्गसङ्गरागरञ्जिता हिता</div><div class="line pada-even" style="position:relative;">धुनोतु नो मनोमलं कलिन्दनन्दिनी सदा॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="yamunashtakam-b0003"><div class="verse-block"><div class="line">लसत्तरङ्गसङ्गधूतभूतजातपातका</div><div class="line pada-even">नवीनमाधुरीधुरीणभक्तिजातचातका।</div><div class="line">तटान्तवा सदा सहंससंसृताह्निकामदा</div><div class="line pada-even" style="position:relative;">धुनोतु नो मनोमलं कलिन्दनन्दिनी सदा॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="yamunashtakam-b0004"><div class="verse-block"><div class="line">विहाररासस्वेदभेदधीरतीरमारुता</div><div class="line pada-even">गता गिरामगोचरे यदीयनीरचारुता।</div><div class="line">प्रवाहसाहचर्यपूतमेदिनीनदीनदा</div><div class="line pada-even" style="position:relative;">धुनोतु नो मनोमलं कलिन्दनन्दिनी सदा॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="yamunashtakam-b0005"><div class="verse-block"><div class="line">तरङ्गसङ्गसैकतान्तरातितं सदासिता</div><div class="line pada-even">शरन्निशाकरांशुमञ्जुमञ्जरी सभाजिता।</div><div class="line">भवार्चनाप्रचारुणाम्बुनाऽधुना विशारदा</div><div class="line pada-even" style="position:relative;">धुनोतु नो मनोमलं कलिन्दनन्दिनी सदा॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="yamunashtakam-b0006"><div class="verse-block"><div class="line">जलान्तकेलिकारिचारुराधिकाङ्गरागिणी</div><div class="line pada-even">स्वभर्तुरन्यदुर्लभाङ्गताङ्गतांशभागिनी।</div><div class="line">स्वदत्तसुप्तसप्तसिन्धुभेदिनातिकोविदा</div><div class="line pada-even" style="position:relative;">धुनोतु नो मनोमलं कलिन्दनन्दिनी सदा॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="yamunashtakam-b0007"><div class="verse-block"><div class="line">जलच्युताच्युताङ्गरागलम्पटालिशालिनी</div><div class="line pada-even">विलोलराधिकाकचान्तचम्पकालिमालिनी।</div><div class="line">सदावगाहनावतीर्णभर्तृभृत्यनारदा</div><div class="line pada-even" style="position:relative;">धुनोतु नो मनोमलं कलिन्दनन्दिनी सदा॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="yamunashtakam-b0008"><div class="verse-block"><div class="line">सदैव नन्दिनन्दकेलिशालिकुञ्जमञ्जुला</div><div class="line pada-even">तटोत्थफुल्लमल्लिकाकदम्बरेणुसूज्ज्वला।</div><div class="line">जलावगाहिनां नृणां भवाब्धिसिन्धुपारदा</div><div class="line pada-even" style="position:relative;">धुनोतु नो मनोमलं कलिन्दनन्दिनी सदा॥८॥</div></div></div>
+<p class="prose">॥इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्री-गोविन्द-भगवत्पूज्य-पाद-शिष्यस्य<br>श्रीमच्छङ्करभगवतः कृतौ श्री-यमुनाष्टकं सम्पूर्णम्॥</p></div>
+<div class="pdf-links"><span class="pdf-links-label">PDF:</span><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-pdf/nadi/Yamunashtakam.pdf">A5 / print</a><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-kindle-pdf/nadi/Yamunashtakam.pdf">Kindle</a><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-kindle-scribe-pdf/nadi/Yamunashtakam.pdf">Kindle Scribe</a></div>

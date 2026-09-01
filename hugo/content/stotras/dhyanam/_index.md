@@ -1,6 +1,6 @@
 {
  "title": "Dhyanam",
- "weight": 20,
+ "weight": 30,
  "bookCollapseSection": true
 }
 

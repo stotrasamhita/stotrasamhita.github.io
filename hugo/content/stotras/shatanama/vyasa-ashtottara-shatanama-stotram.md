@@ -1,0 +1,27 @@
+{
+ "title": "व्यासाष्टोत्तरशतनामस्तोत्रम्",
+ "slug": "vyasa-ashtottara-shatanama-stotram",
+ "source_file": "stotras/shatanama/VyasaAshtottaraShatanamaStotram.tex",
+ "verse_count": 16,
+ "weight": 330
+}
+
+<div class="stotra-article"><h2 class="stotra-heading">व्यासाष्टोत्तरशतनामस्तोत्रम्</h2>
+<div class="verse-block-wrapper" id="vyasa-ashtottara-shatanama-stotram-b0001"><div class="verse-block verse-justify"><div class="line">नारायणकुलोद्भूतो नारायणपरो वरः।</div><div class="line" style="position:relative;">नारायणावतारश्च नारायणवशंवदः॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="vyasa-ashtottara-shatanama-stotram-b0002"><div class="verse-block verse-justify"><div class="line">स्वयम्भूवंशसम्भूतो वसिष्ठकुलदीपकः।</div><div class="line" style="position:relative;">शक्तिपौत्रः पापहन्ता पराशरसुतोऽमलः॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="vyasa-ashtottara-shatanama-stotram-b0003"><div class="verse-block verse-justify"><div class="line">द्वैपायनो मातृभक्तः शिष्टः सत्यवतीसुतः।</div><div class="line" style="position:relative;">स्वयमुद्भूतवेदश्च चतुर्वेदविभागकृत्॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="vyasa-ashtottara-shatanama-stotram-b0004"><div class="verse-block verse-justify"><div class="line">महाभारतकर्ता च ब्रह्मसूत्रप्रजापतिः।</div><div class="line" style="position:relative;">अष्टादशपुराणानां कर्ता श्यामः प्रशिष्यकः॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="vyasa-ashtottara-shatanama-stotram-b0005"><div class="verse-block verse-justify"><div class="line">शुकतातः पिङ्गजटः प्रांशुर्दण्डी मृगाजिनः।</div><div class="line" style="position:relative;">वश्यवाग् ज्ञानदाता च शङ्करायुःप्रदः शुचिः॥५॥</div></div></div>
+<div class="verse-block-wrapper" id="vyasa-ashtottara-shatanama-stotram-b0006"><div class="verse-block verse-justify"><div class="line">मातृवाक्यकरो धर्मी कर्मी तत्त्वार्थदर्शकः।</div><div class="line" style="position:relative;">सञ्जयज्ञानदाता च प्रतिस्मृत्युपदेशकः॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="vyasa-ashtottara-shatanama-stotram-b0007"><div class="verse-block verse-justify"><div class="line">सर्वधर्मोपदेष्टा च मृतदर्शनपण्डितः।</div><div class="line" style="position:relative;">विचक्षणः प्रहृष्टात्मा पर्वपूज्यः प्रभुर्मुनिः॥७॥</div></div></div>
+<div class="verse-block-wrapper" id="vyasa-ashtottara-shatanama-stotram-b0008"><div class="verse-block verse-justify"><div class="line">वीरो विश्रुतविज्ञानः प्राज्ञश्चाज्ञाननाशनः।</div><div class="line" style="position:relative;">ब्राह्मकृत् पाद्मकृद् धीरो विष्णुकृच्छिवकृत् तथा॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="vyasa-ashtottara-shatanama-stotram-b0009"><div class="verse-block verse-justify"><div class="line">श्रीभागवतकर्ता च भविष्यरचनादरः।</div><div class="line" style="position:relative;">नारदाख्यस्य कर्ता च मार्कण्डेयकरोऽग्निकृत्॥९॥</div></div></div>
+<div class="verse-block-wrapper" id="vyasa-ashtottara-shatanama-stotram-b0010"><div class="verse-block verse-justify"><div class="line">ब्रह्मवैवर्तकर्ता च लिङ्गकृच्च वराहकृत्।</div><div class="line" style="position:relative;">स्कान्दकर्ता वामनकृत् कूर्मकर्ता च मत्स्यकृत्॥१०॥</div></div></div>
+<div class="verse-block-wrapper" id="vyasa-ashtottara-shatanama-stotram-b0011"><div class="verse-block verse-justify"><div class="line">गरुडाख्यस्य कर्ता च ब्रह्माण्डाख्यपुराणकृत्।</div><div class="line" style="position:relative;">उपपुराणानां कर्ता पुराणः पुरुषोत्तमः॥११॥</div></div></div>
+<div class="verse-block-wrapper" id="vyasa-ashtottara-shatanama-stotram-b0012"><div class="verse-block verse-justify"><div class="line">काशिवासी ब्रह्मनिधिर्गीतादाता महामतिः।</div><div class="line" style="position:relative;">सर्वज्ञः सर्वसिद्धिश्च सर्वशास्त्रप्रवर्तकः॥१२॥</div></div></div>
+<div class="verse-block-wrapper" id="vyasa-ashtottara-shatanama-stotram-b0013"><div class="verse-block verse-justify"><div class="line">सर्वाश्रयः सर्वहितः सर्वः सर्वगुणाश्रयः।</div><div class="line" style="position:relative;">विशुद्धः शुद्धिकृद् दक्षो विष्णुभक्तः शिवार्चकः॥१३॥</div></div></div>
+<div class="verse-block-wrapper" id="vyasa-ashtottara-shatanama-stotram-b0014"><div class="verse-block verse-justify"><div class="line">देवीभक्तः स्कन्दरुचिर्गणेशादृच्च योगवित्।</div><div class="line" style="position:relative;">पैलाचार्य ऋचः कर्ता शाकल्यार्यश्च याजुषः॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="vyasa-ashtottara-shatanama-stotram-b0015"><div class="verse-block verse-justify"><div class="line">जैमिन्यार्यः सामकर्ता सुमन्त्वार्योऽप्यथर्वकृत्।</div><div class="line" style="position:relative;">रोमहर्षणसूतार्यो लोकाचार्यो महामुनिः॥१५॥</div></div></div>
+<div class="verse-block-wrapper" id="vyasa-ashtottara-shatanama-stotram-b0016"><div class="verse-block verse-justify"><div class="line">व्यासकाशीरतिर्विश्वपूज्यो विश्वेशपूजकः।</div><div class="line" style="position:relative;">शान्तः शान्ताकृतिः शान्तचित्तः शान्तिप्रदस्तथा॥१६॥</div></div></div>
+<p class="pushpika">॥इति व्यासाष्टोत्तरशतनामस्तोत्रं सम्पूर्णम्॥</p></div>
+<div class="pdf-links"><span class="pdf-links-label">PDF:</span><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-pdf/shatanama/VyasaAshtottaraShatanamaStotram.pdf">A5 / print</a><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-kindle-pdf/shatanama/VyasaAshtottaraShatanamaStotram.pdf">Kindle</a><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-kindle-scribe-pdf/shatanama/VyasaAshtottaraShatanamaStotram.pdf">Kindle Scribe</a></div>
