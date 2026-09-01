@@ -31,3 +31,7 @@ Each top-level directory under `content/` is a section, with an `_index.md` givi
 - **`themes/hugo-book/`** — the theme, as a git submodule; don't edit in place, it will be overwritten on submodule update.
 
 `public/`, `resources/`, and `.hugo_build.lock` are Hugo build artifacts and are gitignored.
+
+---
+
+*The README.md files on this repo were generated and beautified with Claude.*

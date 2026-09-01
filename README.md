@@ -39,3 +39,7 @@ A Jekyll page (`individual-pdfs/index.md`) that links out to the individually-co
 - **`.gitmodules`** points `hugo/themes/hugo-book` at [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) — run `git submodule update --init --recursive` after cloning or the Hugo theme will be missing.
 - **`Gruntfile.js` / `.jshintrc` / `package.json`** are minimal-mistakes' original Grunt-based asset build (JS lint/minify, image minification) for the Jekyll side; unrelated to the Hugo build.
 - **`_data/navigation.yml`** and **`_data/authors.yml`** are Jekyll data files (site nav, author metadata) consumed by the minimal-mistakes theme.
+
+---
+
+*The README.md files on this repo were generated and beautified with Claude.*
