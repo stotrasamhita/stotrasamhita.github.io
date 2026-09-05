@@ -2,6 +2,7 @@
 title: "Puja Vidhanam"
 type: docs
 weight: 3
+aliases: ["/pujavidhanam/"]
 ---
 
 # Puja Vidhanam

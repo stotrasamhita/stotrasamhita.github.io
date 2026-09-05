@@ -2,6 +2,7 @@
 title: "Namavalis"
 type: docs
 weight: 2
+aliases: ["/namavalis/"]
 ---
 
 # Namavalis

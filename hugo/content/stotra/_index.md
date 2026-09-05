@@ -2,6 +2,7 @@
 title: "Stotras"
 type: docs
 weight: 1
+aliases: ["/stotras/"]
 ---
 
 # Stotras
