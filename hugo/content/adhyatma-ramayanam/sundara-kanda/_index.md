@@ -1,7 +1,7 @@
 {
  "title": "सुन्दरकाण्डः",
  "slug": "sundara-kanda",
- "source_file": "/home/user/stotrasamhita/adhyatmaramayanam/TeX/SundaraKanda.tex",
+ "source_file": "kandas/SundaraKanda.tex",
  "verse_count": 329,
  "bookCollapseSection": true,
  "weight": 60

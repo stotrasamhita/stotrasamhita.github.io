@@ -21,7 +21,7 @@
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b2183"><div class="verse-block verse-justify"><div class="line">नारायणं नमस्कृत्य नरं चैव नरोत्तमम्।</div><div class="line" style="position:relative;">देवीं सरस्वतीं व्यासं ततो जयमुदीरयेत्॥</div></div></div>
 <h3 class="subheading">अथ एकषष्टितमोऽध्यायः॥६१</h3>
 <p class="uvacha">युधिष्ठिर उवाच</p>
-<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b2186"><div class="verse-block verse-justify"><div class="line">कथयस्व प्रसादेन ममाग्रे मधुसूदन।</div><div class="line" style="position:relative;">इषस्य शुक्लपक्षे तु किं नामैकादशीभवेत्॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b2186"><div class="verse-block verse-justify"><div class="line">कथयस्व प्रसादेन ममाग्रे मधुसूदन।</div><div class="line" style="position:relative;">इषस्य शुक्लपक्षे तु किं नामैकादशी भवेत्॥१॥</div></div></div>
 <p class="uvacha">श्रीकृष्ण उवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b2188"><div class="verse-block verse-justify"><div class="line">शृणुराजेन्द्र वक्ष्यामि माहात्म्यं पाप नाशनम्।</div><div class="line" style="position:relative;">शुक्लपक्षे चाश्विनस्य भवेदेकादशी तु या॥२॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b2189"><div class="verse-block verse-justify"><div class="line">पापाङ्कुशेति विख्याता सर्वपापहरा परा।</div><div class="line" style="position:relative;">पद्मनाभाभिधानं मां पूजयेत् तत्र मानवः॥३॥</div></div></div>

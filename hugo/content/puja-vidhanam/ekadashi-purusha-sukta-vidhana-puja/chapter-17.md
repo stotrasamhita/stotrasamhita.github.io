@@ -21,7 +21,7 @@
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1413"><div class="verse-block verse-justify"><div class="line">नारायणं नमस्कृत्य नरं चैव नरोत्तमम्।</div><div class="line" style="position:relative;">देवीं सरस्वतीं व्यासं ततो जयमुदीरयेत्॥</div></div></div>
 <h3 class="subheading">अथ पञ्चाशत्तमोऽध्यायः॥५०</h3>
 <p class="uvacha">युधिष्ठिर उवाच</p>
-<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1416"><div class="verse-block verse-justify"><div class="line">वैशाखस्यासिते पक्षे किन्नामैकादशी भवेत्।</div><div class="line" style="position:relative;">महिमानं कथय मे वासुदेव नमोऽस्तु ते॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1416"><div class="verse-block verse-justify"><div class="line">वैशाखस्यासिते पक्षे किं नामैकादशी भवेत्।</div><div class="line" style="position:relative;">महिमानं कथय मे वासुदेव नमोऽस्तु ते॥१॥</div></div></div>
 <p class="uvacha">श्रीकृष्ण उवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1418"><div class="verse-block verse-justify"><div class="line">सौभाग्यदायिनी राजन्निहलोके परत्र च।</div><div class="line" style="position:relative;">वैशाखकृष्णपक्षे तु नाम्ना चैव वरूथिनी॥२॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1419"><div class="verse-block verse-justify"><div class="line">वरूथिन्या व्रतेनैव सौख्यं भवति सर्वदा।</div><div class="line" style="position:relative;">पापहानिश्च भवति सौभाग्यप्राप्तिरेव च॥३॥</div></div></div>

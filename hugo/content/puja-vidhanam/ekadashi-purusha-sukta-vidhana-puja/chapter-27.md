@@ -21,7 +21,7 @@
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b2111"><div class="verse-block verse-justify"><div class="line">नारायणं नमस्कृत्य नरं चैव नरोत्तमम्।</div><div class="line" style="position:relative;">देवीं सरस्वतीं व्यासं ततो जयमुदीरयेत्॥</div></div></div>
 <h3 class="subheading">अथ षष्टितमोऽध्यायः॥६०</h3>
 <p class="uvacha">युधिष्ठिर उवाच</p>
-<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b2114"><div class="verse-block verse-justify"><div class="line">कथयस्व प्रसादेन ममाग्रे मधुसूदन।</div><div class="line" style="position:relative;">इषस्य कृष्णपक्षे तु किन्नामैकादशीभवेत्॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b2114"><div class="verse-block verse-justify"><div class="line">कथयस्व प्रसादेन ममाग्रे मधुसूदन।</div><div class="line" style="position:relative;">इषस्य कृष्णपक्षे तु किं नामैकादशी भवेत्॥१॥</div></div></div>
 <p class="uvacha">श्रीकृष्ण उवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b2116"><div class="verse-block verse-justify"><div class="line">आश्विने कृष्णपक्षे तु इन्दिरा नाम नामतः।</div><div class="line" style="position:relative;">तस्या व्रतप्रभावेन महापापं प्रणश्यति॥२॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b2117"><div class="verse-block verse-justify"><div class="line">अधोयोनि गतानां च पितॄणां गतिदायिनी।</div><div class="line" style="position:relative;">शृणुष्वावहितो राजन् कथां पापहरां पराम्॥३॥</div></div></div>

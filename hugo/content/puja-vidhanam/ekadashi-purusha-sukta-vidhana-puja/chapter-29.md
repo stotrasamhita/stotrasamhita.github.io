@@ -21,7 +21,7 @@
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b2242"><div class="verse-block verse-justify"><div class="line">नारायणं नमस्कृत्य नरं चैव नरोत्तमम्।</div><div class="line" style="position:relative;">देवीं सरस्वतीं व्यासं ततो जयमुदीरयेत्॥</div></div></div>
 <h3 class="subheading">अथ द्विषष्टिमोऽध्यायः॥६२</h3>
 <p class="uvacha">युधिष्ठिर उवाच</p>
-<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b2245"><div class="verse-block verse-justify"><div class="line">कथयस्व प्रसादेन मयि स्नेहाज्जनार्दन।</div><div class="line" style="position:relative;">कार्त्तिकस्यासिते पक्षे किन्नामैकादशी भवेत्॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b2245"><div class="verse-block verse-justify"><div class="line">कथयस्व प्रसादेन मयि स्नेहाज्जनार्दन।</div><div class="line" style="position:relative;">कार्त्तिकस्यासिते पक्षे किं नामैकादशी भवेत्॥१॥</div></div></div>
 <p class="uvacha">श्रीकृष्ण उवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b2247"><div class="verse-block verse-justify"><div class="line">श्रूयतां राजशार्दूल कथयामि तवाग्रतः।</div><div class="line" style="position:relative;">कार्त्तिके कृष्णपक्षे तु रमा नाम सुशोभना॥२॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b2248"><div class="verse-block verse-justify"><div class="line">एकादशी समाख्याता महापापहरा परा।</div><div class="line" style="position:relative;">अस्याः प्रसङ्गतो राजन् माहात्म्यं प्रवदामि ते॥३॥</div></div></div>

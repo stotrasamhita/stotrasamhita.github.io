@@ -21,7 +21,7 @@
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1065"><div class="verse-block verse-justify"><div class="line">नारायणं नमस्कृत्य नरं चैव नरोत्तमम्।</div><div class="line" style="position:relative;">देवीं सरस्वतीं व्यासं ततो जयमुदीरयेत्॥</div></div></div>
 <h3 class="subheading">अथ षट्चत्वारिंशोऽध्यायः॥४६</h3>
 <p class="uvacha">युधिष्ठिर उवाच</p>
-<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1068"><div class="verse-block verse-justify"><div class="line">फाल्गुनस्यासिते पक्षे किन्नामैकादशी भवेत्।</div><div class="line" style="position:relative;">कथयस्व प्रसादेन वासुदेव ममाग्रतः॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1068"><div class="verse-block verse-justify"><div class="line">फाल्गुनस्यासिते पक्षे किं नामैकादशी भवेत्।</div><div class="line" style="position:relative;">कथयस्व प्रसादेन वासुदेव ममाग्रतः॥१॥</div></div></div>
 <p class="uvacha">श्रीकृष्ण उवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1070"><div class="verse-block verse-justify"><div class="line">नारदः परिपप्रच्छ ब्रह्माणं कमलासनम्।</div><div class="line">फाल्गुनस्यासिते पक्षे विजया नाम नामतः।</div><div class="line" style="position:relative;">तस्याः पुण्यं द्विजश्रेष्ठ कथयस्व प्रसादतः॥२॥</div></div></div>
 <p class="uvacha">ब्रह्मोवाच</p>

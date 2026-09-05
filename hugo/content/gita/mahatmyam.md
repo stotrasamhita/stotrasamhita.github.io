@@ -1,7 +1,7 @@
 {
  "title": "गीता-माहात्म्यम्",
  "slug": "mahatmyam",
- "source_file": "/tmp/gita/mahatmyam.tex",
+ "source_file": "gita/mahatmyam.tex",
  "verse_count": 7,
  "weight": 30
 }

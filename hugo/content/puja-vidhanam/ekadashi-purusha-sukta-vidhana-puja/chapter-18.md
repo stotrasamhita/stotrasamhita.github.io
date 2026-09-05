@@ -21,7 +21,7 @@
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1469"><div class="verse-block verse-justify"><div class="line">नारायणं नमस्कृत्य नरं चैव नरोत्तमम्।</div><div class="line" style="position:relative;">देवीं सरस्वतीं व्यासं ततो जयमुदीरयेत्॥</div></div></div>
 <h3 class="subheading">अथ नामैकपञ्चाशत्तमोऽध्यायः॥५१</h3>
 <p class="uvacha">युधिष्ठिर उवाच</p>
-<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1472"><div class="verse-block verse-justify"><div class="line">वैशाख शुक्लपक्षे तु किन्नामैकादशी भवेत्।</div><div class="line" style="position:relative;">किं फलं को विधिस्तत्र कथयस्व जनार्दन॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1472"><div class="verse-block verse-justify"><div class="line">वैशाख शुक्लपक्षे तु किं नामैकादशी भवेत्।</div><div class="line" style="position:relative;">किं फलं को विधिस्तत्र कथयस्व जनार्दन॥१॥</div></div></div>
 <p class="uvacha">श्रीकृष्ण उवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1474"><div class="verse-block verse-justify"><div class="line">इदमेव पुरा पृष्टं रामचन्द्रेण धीमता।</div><div class="line" style="position:relative;">वसिष्ठं प्रति राजेन्द्र यत् त्वं मामनुपृच्छसि॥२॥</div></div></div>
 <p class="uvacha">राम उवाच</p>

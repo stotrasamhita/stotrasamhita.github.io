@@ -25,7 +25,7 @@
 <p class="uvacha">श्रीकृष्ण उवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1344"><div class="verse-block verse-justify"><div class="line">शृणुष्वैकमना राजन् कथां पुण्यां पुरातनीम्।</div><div class="line" style="position:relative;">वसिष्ठो यामकथयत् प्राग् दिलीपाय पृच्छते॥२॥</div></div></div>
 <p class="uvacha">दिलीप उवाच</p>
-<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1346"><div class="verse-block verse-justify"><div class="line">भगवञ्छ्रोतुमिच्छामि कथयस्व प्रसादतः।</div><div class="line" style="position:relative;">चैत्रमासि सिते पक्षे किन्नामैकादशी भवेत्॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1346"><div class="verse-block verse-justify"><div class="line">भगवञ्छ्रोतुमिच्छामि कथयस्व प्रसादतः।</div><div class="line" style="position:relative;">चैत्रमासि सिते पक्षे किं नामैकादशी भवेत्॥३॥</div></div></div>
 <p class="uvacha">वसिष्ठ उवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1348"><div class="verse-block verse-justify"><div class="line">साधु पृष्टं त्वया राजन् कथयामि तवाग्रतः।</div><div class="line" style="position:relative;">चैत्रस्य शुक्लपक्षे तु कामदा नाम नामतः॥४॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1349"><div class="verse-block verse-justify"><div class="line">एकादशी पुण्यतमा पापेन्धनदवानलः।</div><div class="line" style="position:relative;">शृणु राजन् कथामेतां पापघ्नीं पुण्यदायिनीम्॥५॥</div></div></div>

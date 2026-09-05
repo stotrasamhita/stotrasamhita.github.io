@@ -21,7 +21,7 @@
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b2031"><div class="verse-block verse-justify"><div class="line">नारायणं नमस्कृत्य नरं चैव नरोत्तमम्।</div><div class="line" style="position:relative;">देवीं सरस्वतीं व्यासं ततो जयमुदीरयेत्॥</div></div></div>
 <h3 class="subheading">अथ एकोनषष्टितमोऽध्यायः॥५९</h3>
 <p class="uvacha">युधिष्ठिर उवाच</p>
-<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b2034"><div class="verse-block verse-justify"><div class="line">नभस्यस्य सिते पक्षे किन्नामैकादशी भवेत्।</div><div class="line" style="position:relative;">को देवः को विधिस्तस्य एतदाख्याहि केशव॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b2034"><div class="verse-block verse-justify"><div class="line">नभस्यस्य सिते पक्षे किं नामैकादशी भवेत्।</div><div class="line" style="position:relative;">को देवः को विधिस्तस्य एतदाख्याहि केशव॥१॥</div></div></div>
 <p class="uvacha">श्रीकृष्ण उवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b2036"><div class="verse-block verse-justify"><div class="line">कथयामि महीपाल कथामाश्चर्यकारिणीम्।</div><div class="line" style="position:relative;">कथयामास यां ब्रह्मा नारदाय महात्मने॥२॥</div></div></div>
 <p class="uvacha">नारद उवाच</p>

@@ -21,7 +21,7 @@
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1977"><div class="verse-block verse-justify"><div class="line">नारायणं नमस्कृत्य नरं चैव नरोत्तमम्।</div><div class="line" style="position:relative;">देवीं सरस्वतीं व्यासं ततो जयमुदीरयेत्॥</div></div></div>
 <h3 class="subheading">अथ अष्टपञ्चाशत्तमोऽध्यायः॥५८</h3>
 <p class="uvacha">युधिष्ठिर उवाच</p>
-<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1980"><div class="verse-block verse-justify"><div class="line">भाद्रस्य कृष्णपक्षे तु किन्नामैकादशीभवेत्।</div><div class="line" style="position:relative;">एतदिच्छाम्यहं श्रोतुं कथयस्व जनार्दन॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1980"><div class="verse-block verse-justify"><div class="line">भाद्रस्य कृष्णपक्षे तु किं नामैकादशी भवेत्।</div><div class="line" style="position:relative;">एतदिच्छाम्यहं श्रोतुं कथयस्व जनार्दन॥१॥</div></div></div>
 <p class="uvacha">श्रीकृष्ण उवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1982"><div class="verse-block verse-justify"><div class="line">शृणुष्वैकमना राजन् कथयिष्यामि विस्तरात्।</div><div class="line" style="position:relative;">अजेति नामतः प्रोक्ता सर्वपापप्रणाशिनी॥२॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1983"><div class="verse-block verse-justify"><div class="line">पूजयित्वा हृषीकेशं व्रतमस्यां करोति यः।</div><div class="line" style="position:relative;">पापानि तस्य नश्यन्ति व्रतस्य श्रवणादपि॥३॥</div></div></div>

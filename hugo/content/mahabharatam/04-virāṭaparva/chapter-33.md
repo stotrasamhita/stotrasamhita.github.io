@@ -6,7 +6,7 @@
 <div class="stotra-article"><h2 class="stotra-heading">त्रयस्त्रिंशोऽध्यायः॥३३॥</h2>
 <p class="uvacha">वैशम्पायन उवाच</p>
 <div class="verse-block-wrapper" id="04-virāṭaparva-b1815"><div class="verse-block verse-justify"><div class="line">ततस्तेषां महाराज तत्रैवामिततेजसाम्।</div><div class="line" style="position:relative;">छद्मलिङ्गप्रविष्टानां पाण्डवानां महात्मनाम्॥१॥</div></div></div>
-<div class="verse-block-wrapper" id="04-virāṭaparva-b1816"><div class="verse-block verse-justify"><div class="line">व्यतीतः समयः सम्यग्विराटनगरे सताम्।</div><div class="line" style="position:relative;">कुर्वतां तस्य कर्माणि विराटस्य महीपतेः॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b1816"><div class="verse-block verse-justify"><div class="line">व्यतीतः समयः सम्यग् विराटनगरे सताम्।</div><div class="line" style="position:relative;">कुर्वतां तस्य कर्माणि विराटस्य महीपतेः॥२॥</div></div></div>
 <div class="verse-block-wrapper" id="04-virāṭaparva-b1817"><div class="verse-block verse-justify"><div class="line">कीचके तु हते राजा विराटः परवीरहा।</div><div class="line" style="position:relative;">परां सम्भावनां चक्रे कुन्तीपुत्रे युधिष्ठिरे॥३॥</div></div></div>
 <div class="verse-block-wrapper" id="04-virāṭaparva-b1818"><div class="verse-block verse-justify"><div class="line">ततस्त्रयोदशस्वान्ते तस्य वर्षस्य भारत।</div><div class="line" style="position:relative;">सुशर्मणा गृहीतं तु गोधनं तरसा बहु॥४॥</div></div></div>
 <div class="verse-block-wrapper" id="04-virāṭaparva-b1819"><div class="verse-block verse-justify"><div class="line">ततः शब्दो महानासीद् रेणुश्च दिवमस्पृशत्।</div><div class="line">शङ्खदुन्दुभिघोषश्च भेरीणां च महास्वनः।</div><div class="line" style="position:relative;">गवाश्वरथनागानां निस्वनश्च पदातिनाम्॥५॥</div></div></div>

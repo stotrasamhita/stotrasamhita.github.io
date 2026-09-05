@@ -1,7 +1,7 @@
 {
  "title": "गीतार्थसङ्ग्रहः",
  "slug": "gsa",
- "source_file": "/tmp/gita/gsa.tex",
+ "source_file": "gita/gsa.tex",
  "verse_count": 33,
  "weight": 20
 }

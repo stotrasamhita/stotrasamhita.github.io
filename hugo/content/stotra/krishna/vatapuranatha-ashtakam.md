@@ -1,12 +1,12 @@
 {
- "title": "गुरुवातपुरीशपञ्चरत्नम्",
+ "title": "वातपुरनाथाष्टकम्",
  "slug": "vatapuranatha-ashtakam",
  "source_file": "stotras/krishna/VatapuranathaAshtakam.tex",
  "verse_count": 9,
  "weight": 220
 }
 
-<div class="stotra-article"><h2 class="stotra-heading">गुरुवातपुरीशपञ्चरत्नम्</h2>
+<div class="stotra-article"><h2 class="stotra-heading">वातपुरनाथाष्टकम्</h2>
 <div class="verse-block-wrapper" id="vatapuranatha-ashtakam-b0001"><div class="verse-block"><div class="line">कुन्दसुमवृन्दसममन्दहसितास्यं</div><div class="line pada-even">नन्दकुलनन्दभरतुन्दलनकन्दम्।</div><div class="line">पूतनिजगीतलवधूतदुरितं तं</div><div class="line pada-even" style="position:relative;">वातपुरनाथमिममातनु हृदब्जे॥१॥</div></div></div>
 <div class="verse-block-wrapper" id="vatapuranatha-ashtakam-b0002"><div class="verse-block"><div class="line">नीलतरजालधरभालहरिरम्यं</div><div class="line pada-even">लोलतरशीलयुतबालजनलीलम्।</div><div class="line">जालनतिशीलमपि पालयितुकामं</div><div class="line pada-even" style="position:relative;">वातपुरनाथमिममातनु हृदब्जे॥२॥</div></div></div>
 <div class="verse-block-wrapper" id="vatapuranatha-ashtakam-b0003"><div class="verse-block"><div class="line">कंसरणहिंसमिह संसरणजात-</div><div class="line pada-even">क्लान्तिभरशान्तिकरकान्तिझरवीतम्।</div><div class="line">वातमुखधातुजनिपातभयघातं</div><div class="line pada-even" style="position:relative;">वातपुरनाथमिममातनु हृदब्जे॥३॥</div></div></div>

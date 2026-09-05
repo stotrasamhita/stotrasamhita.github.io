@@ -1,7 +1,7 @@
 {
  "title": "अध्यात्मरामायणमाहात्म्यम्",
  "slug": "mahatmyam",
- "source_file": "/home/user/stotrasamhita/adhyatmaramayanam/TeX/Mahatmyam.tex",
+ "source_file": "kandas/Mahatmyam.tex",
  "verse_count": 64,
  "weight": 10
 }

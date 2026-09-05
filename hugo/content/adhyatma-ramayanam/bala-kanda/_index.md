@@ -1,7 +1,7 @@
 {
  "title": "बालकाण्डः",
  "slug": "bala-kanda",
- "source_file": "/home/user/stotrasamhita/adhyatmaramayanam/TeX/BalaKanda.tex",
+ "source_file": "kandas/BalaKanda.tex",
  "verse_count": 388,
  "bookCollapseSection": true,
  "weight": 20
