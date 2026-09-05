@@ -1,0 +1,69 @@
+name: Sync corpus content
+
+# Daily check across every source-repo corpus (stotra-sangrahah,
+# namavali-manjari, puja-vidhanam, gita, adhyatmaramayanam, mahabharatam):
+# regenerates hugo/content/ from whichever repos have new commits since the
+# last run (tracked in .sync-state.json), and pushes only if that actually
+# changed anything -- which in turn triggers pages.yml's normal build+deploy.
+on:
+  schedule:
+    - cron: "17 3 * * *" # daily, off the hour to avoid GitHub's peak-minute scheduling delays
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write # to trigger pages.yml's workflow_dispatch below
+
+concurrency:
+  group: sync-content
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout stotrasamhita.github.io
+        uses: actions/checkout@v4
+        with:
+          path: site
+
+      - name: Checkout source repos
+        run: |
+          mkdir -p repos
+          for repo in stotra-sangrahah namavali-manjari puja-vidhanam gita adhyatmaramayanam mahabharatam; do
+            git clone --depth 1 "https://github.com/stotrasamhita/${repo}.git" "repos/${repo}"
+          done
+
+      - name: Run sync
+        working-directory: site
+        run: python3 scripts/sync_content.py --repos-dir "$GITHUB_WORKSPACE/repos"
+
+      - name: Commit and push if content changed
+        id: commit
+        working-directory: site
+        run: |
+          git add hugo/content .sync-state.json
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "Automated sync: regenerate content from updated source repo(s)" \
+                     -m "See .sync-state.json for the commit SHA each corpus was synced from."
+          git push origin master
+          echo "pushed=true" >> "$GITHUB_OUTPUT"
+
+      # A push made with the default GITHUB_TOKEN does not itself trigger
+      # other workflows' `on: push` (GitHub's cascade-prevention guard,
+      # avoiding infinite trigger loops) -- so pages.yml's build+deploy has
+      # to be kicked explicitly via its own workflow_dispatch trigger,
+      # which the same token is allowed to call directly. Only when this
+      # run's commit step actually pushed something -- not on every no-op day.
+      - name: Trigger site build+deploy
+        if: steps.commit.outputs.pushed == 'true'
+        working-directory: site
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run pages.yml --ref master
