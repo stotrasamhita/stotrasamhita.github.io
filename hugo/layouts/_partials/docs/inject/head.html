@@ -2,6 +2,15 @@
      theme's own (empty) partial at this same path, loaded into every page's
      <head>. Loads the stotra verse-rendering CSS and the script-switcher
      (vendored Sanscript.js + our own switcher logic) on every page. */}}
+
+{{/* Site typography (see stotras.css's :root/.stotra-article rules for how
+     these are actually applied): Inter for UI chrome, Noto Serif Devanagari
+     + Noto Serif for stotra content. Preconnect hints let the browser open
+     the connection to Google's font host before it's actually needed. */}}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Serif+Devanagari:wght@400;700&family=Noto+Serif:ital,wght@0,400;0,700;1,400&display=swap">
+
 {{ with resources.Get "css/stotras.css" }}
   {{ if hugo.IsProduction }}
     {{ with . | minify | fingerprint }}

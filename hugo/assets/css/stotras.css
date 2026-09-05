@@ -11,7 +11,28 @@
    matching that needs a JS measurement pass, so they keep plain
    inline-block/indentation instead. */
 
+/* Typography: a deliberate type system site-wide, loaded via Google Fonts
+   in layouts/_partials/docs/inject/head.html (neither of these was actually
+   loaded before -- the theme's own normalize.css sets system-ui on <html>
+   for everything, and "Noto Serif Devanagari"/"Sanskrit 2003" below were
+   never backed by a real @font-face, so both silently fell back to
+   whatever the visitor's OS/browser defaults to).
+     - UI chrome (sidebar, search, breadcrumbs, headings outside the
+       article) stays a clean sans -- Inter -- for scannability.
+     - Stotra content (.stotra-article: headings, prose, and verses alike,
+       since they're all nested inside it) gets a serif pairing instead,
+       for a classical/book reading feel: Noto Serif Devanagari for the
+       Devanagari text, Noto Serif for any Latin characters alongside it
+       (transliterations, punctuation) -- same type family, so mixed-script
+       lines still look like one coherent typeface rather than two fonts
+       stitched together.
+   :root (not html) so this reliably wins over normalize.css's html{} rule
+   regardless of stylesheet load order -- a pseudo-class selector is
+   higher-specificity than a bare type selector even though both target
+   the same <html> element. */
 :root {
+  font-family: "Inter", system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji";
   --shloka-indent: 2.4em;
 }
 
@@ -22,7 +43,7 @@
 }
 
 .stotra-article {
-  font-family: "Noto Serif Devanagari", "Sanskrit 2003", serif;
+  font-family: "Noto Serif Devanagari", "Noto Serif", serif;
 }
 
 .stotra-meta {
