@@ -171,6 +171,63 @@
   text-align: left;
 }
 
+/* puja-vidhanam's \pujainfobox (a Wikipedia-style summary panel in print,
+   see stotra-sangrahah's tex_to_ir.py/ir_to_hugo.py) -- a plain bordered
+   panel here rather than a reproduction of the print tcolorbox card,
+   using the theme's own border/text colors so it stays legible in both
+   light and dark mode without a separate color scheme of its own. */
+.infobox {
+  margin: 1em 0;
+  border: 1px solid var(--border-color, #e0e0e0);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.infobox-title {
+  font-weight: 700;
+  text-align: center;
+  padding: 0.4em 0.75em;
+  border-bottom: 1px solid var(--border-color, #e0e0e0);
+}
+
+.infobox-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.infobox-table th,
+.infobox-table td {
+  padding: 0.35em 0.75em;
+  text-align: left;
+  vertical-align: top;
+}
+
+.infobox-table th {
+  white-space: nowrap;
+  font-weight: 700;
+  width: 1%;
+}
+
+/* puja-vidhanam's \instruct{sanskrit}{english}{tamil} -- a procedural
+   stage-direction, set apart from the surrounding mantra text (matching
+   the print \pujanote box's intent) with a left rule rather than a filled
+   color card. */
+.instruction {
+  margin: 0.75em 0;
+  padding: 0.5em 0.9em;
+  border-left: 3px solid var(--border-color, #e0e0e0);
+}
+
+.instruction-sanskrit {
+  margin: 0 0 0.3em;
+}
+
+.instruction-lang {
+  margin: 0.2em 0 0;
+  font-size: 0.92em;
+  opacity: 0.85;
+}
+
 .script-switcher {
   display: flex;
   align-items: center;
