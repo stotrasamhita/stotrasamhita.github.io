@@ -2,7 +2,7 @@
  "title": "लघु-पञ्चायतन-पूजा",
  "slug": "laghu-panchayatana-puja",
  "source_file": "pujas/laghu-panchayatana-puja.tex",
- "verse_count": 26,
+ "verse_count": 33,
  "columns_hint": 2,
  "weight": 10
 }
@@ -99,6 +99,17 @@
 <p class="prose">अनया पूजया सपरिवार-साम्ब-परमेश्वरः प्रीयताम्।</p>
 <h3 class="subheading">उद्वासनम्</h3>
 <p class="prose">निर्याणमुद्रया पुष्पाण्यादाय आघ्राय हृदये स्थापयित्वा उद्वासयेत्। निर्माल्यं शिरसि धारयेत्।</p>
-<div class="verse-block-wrapper" id="laghu-panchayatana-puja-b0114"><div class="verse-block"><div class="line">कायेन वाचा मनसेन्द्रियैर्वा</div><div class="line pada-even">बुद्‌ध्याऽऽत्मना वा प्रकृतेः स्वभावात्।</div><div class="line">करोमि यद्यत् सकलं परस्मै</div><div class="line pada-even" style="position:relative;">नारायणायेति समर्पयामि॥</div></div></div>
+<h2 class="stotra-heading">ब्रह्मपारस्तोत्रम्</h2>
+<p class="uvacha">प्रचेतस ऊचुः</p>
+<div class="verse-block-wrapper" id="laghu-panchayatana-puja-b0117"><div class="verse-block verse-justify"><div class="line">ब्रह्मपारं मुने श्रोतुमिच्छामः परमं स्तवम्।</div><div class="line" style="position:relative;">जपता कण्डुना देवो येनाऽऽराध्यत केशवः॥५४॥</div></div></div>
+<p class="uvacha">सोम उवाच</p>
+<div class="verse-block-wrapper" id="laghu-panchayatana-puja-b0119"><div class="verse-block"><div class="line">पारं परं विष्णुरपारपारः</div><div class="line pada-even">परः परेभ्यः परमार्थरूपी।</div><div class="line">स ब्रह्मपारः परपारभूतः</div><div class="line pada-even" style="position:relative;">परः पराणामपि पारपारः॥५५॥</div></div></div>
+<div class="verse-block-wrapper" id="laghu-panchayatana-puja-b0120"><div class="verse-block"><div class="line">स कारणं कारणतस्ततोऽपि</div><div class="line pada-even">तस्यापि हेतुः परहेतुहेतुः।</div><div class="line">कार्येषु चैवं सह कर्मकर्तृ-</div><div class="line pada-even" style="position:relative;">रूपैरशेषैरवतीह सर्वम्॥५६॥</div></div></div>
+<div class="verse-block-wrapper" id="laghu-panchayatana-puja-b0121"><div class="verse-block"><div class="line">ब्रह्म प्रभुर्ब्रह्म स सर्वभूतो</div><div class="line pada-even">ब्रह्म प्रजानां पतिरच्युतोऽसौ।</div><div class="line">ब्रह्माव्ययं नित्यमजं स विष्णुः</div><div class="line pada-even" style="position:relative;">अपक्षयाद्यैरखिलैरसङ्गिः॥५७॥</div></div></div>
+<div class="verse-block-wrapper" id="laghu-panchayatana-puja-b0122"><div class="verse-block verse-justify"><div class="line">ब्रह्माक्षरमजं नित्यं यथाऽसौ पुरुषोत्तमः।</div><div class="line" style="position:relative;">तथा रागादयो दोषाः प्रयान्तु प्रशमं मम॥५८॥</div></div></div>
+<div class="verse-block-wrapper" id="laghu-panchayatana-puja-b0123"><div class="verse-block verse-justify"><div class="line">एतद् ब्रह्मपराख्यं वै संस्तवं परमं जपन्।</div><div class="line" style="position:relative;">अवाप परमां सिद्धिं समाराध्य स केशवम्॥५९॥</div></div></div>
+<div class="verse-block-wrapper" id="laghu-panchayatana-puja-b0124"><div class="verse-block verse-justify"><div class="line">इमं स्तवं यः पठति शृणुयाद् वाऽपि नित्यशः।</div><div class="line" style="position:relative;">स कामदोषैरखिलैर्मुक्तः प्राप्नोति वाञ्छितम्॥</div></div></div>
+<p class="pushpika">॥इति श्रीविष्णुपुराणे प्रथमेंऽशे पञ्चदशोऽध्याये ब्रह्मपारस्तोत्रं सम्पूर्णम्॥</p>
+<div class="verse-block-wrapper" id="laghu-panchayatana-puja-b0126"><div class="verse-block"><div class="line">कायेन वाचा मनसेन्द्रियैर्वा</div><div class="line pada-even">बुद्‌ध्याऽऽत्मना वा प्रकृतेः स्वभावात्।</div><div class="line">करोमि यद्यत् सकलं परस्मै</div><div class="line pada-even" style="position:relative;">नारायणायेति समर्पयामि॥</div></div></div>
 <p class="prose">ॐ तत्सद्ब्रह्मार्पणमस्तु।आचामेत्।</p>
 <div class="decoration">❀ ❀ ❀</div></div>
