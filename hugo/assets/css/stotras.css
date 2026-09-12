@@ -135,6 +135,31 @@
   column-rule: 1pt solid var(--border-color, #e0e0e0);
 }
 
+/* puja-vidhanam's \begin{multicols}{\maxColumns} (see tex_to_ir.py/
+   ir_to_hugo.py): \maxColumns is a print-only knob set per publication
+   target (2 in the main print edition, 3 in the Kindle editions), with no
+   single number that's "right" for a web page viewed at an arbitrary
+   width. Mobile-first: one column by default (a multi-column layout on a
+   narrow phone screen just forces awkward vertical scrolling within each
+   column), stepping up as there's room -- 2 from a small-tablet-ish width,
+   3 only at a genuine Full HD desktop width (1920px) where a third column
+   still has room to breathe. */
+.verse-columns-responsive {
+  column-count: 1;
+}
+
+@media (min-width: 768px) {
+  .verse-columns-responsive {
+    column-count: 2;
+  }
+}
+
+@media (min-width: 1920px) {
+  .verse-columns-responsive {
+    column-count: 3;
+  }
+}
+
 .stotra-table {
   margin: 1em auto;
   border-collapse: collapse;
