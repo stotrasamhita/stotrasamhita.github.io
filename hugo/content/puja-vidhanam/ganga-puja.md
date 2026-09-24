@@ -27,7 +27,7 @@
 <div class="verse-block-wrapper" id="ganga-puja-b0017"><div class="verse-block verse-justify"><div class="line">षोडशैतानि नामानि यः पठेच्छृणुयादपि।</div><div class="line">विद्यारम्भे विवाहे च प्रवेशे निर्गमे तथा।</div><div class="line" style="position:relative;">सङ्ग्रामे सर्वकार्येषु विघ्नस्तस्य न जायते॥</div></div></div>
 <p class="prose">प्रार्थनाः समर्पयामि।</p>
 <div class="decoration">❀</div>
-<h2 class="stotra-heading">प्रधान-पूजा — गङ्गापूजा</h2>
+<h2 class="stotra-heading">प्रधान-पूजा — गङ्गा-पूजा</h2>
 <div class="verse-block-wrapper" id="ganga-puja-b0021"><div class="verse-block verse-justify"><div class="line">शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम्।</div><div class="line" style="position:relative;">प्रसन्नवदनं ध्यायेत् सर्वविघ्नोपशान्तये॥</div></div></div>
 <p class="prose">प्राणान् आयम्य। ॐ भूः + भूर्भुवः॒ सुव॒रोम्।</p>
 <h3 class="subheading">सङ्कल्पः</h3>
