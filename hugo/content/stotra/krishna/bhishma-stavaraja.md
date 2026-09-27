@@ -3,6 +3,7 @@
  "slug": "bhishma-stavaraja",
  "source_file": "stotras/krishna/BhishmaStavaraja.tex",
  "verse_count": 146,
+ "vakta": "Bhishma",
  "weight": 70
 }
 

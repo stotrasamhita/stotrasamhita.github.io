@@ -6,6 +6,9 @@
  "deity": [
   "Ganesha"
  ],
+ "composer": [
+  "Adi Shankaracharya"
+ ],
  "chandas": [
   "Bhujanga Prayatam"
  ],

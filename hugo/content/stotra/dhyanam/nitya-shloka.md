@@ -7,9 +7,9 @@
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">चिरञ्जीविस्तोत्रम्</h2>
-<div class="verse-block-wrapper" id="nitya-shloka-b0001"><div class="verse-block"><div class="line">अश्वत्थामा बलिर्व्यासो हनुमांश्च विभीषणः</div><div class="line pada-even">कृपः परशुरामश्च सप्तैते चिरञ्जीविनः।</div><div class="line">सप्तैतान् संस्मरेन्नित्यं मार्कण्डेयमथाष्टमं</div><div class="line pada-even" style="position:relative;">जीवेद् वर्षशतं प्राज्ञ अपमृत्युविवर्जितः॥</div></div></div>
+<div class="verse-block-wrapper" id="nitya-shloka-b0001"><div class="verse-block"><div class="line">अश्वत्थामा बलिर्व्यासो हनुमांश्च विभीषणः</div><div class="line pada-even">कृपः परशुरामश्च सप्तैते चिरजीविनः।</div><div class="line">सप्तैतान् संस्मरेन्नित्यं मार्कण्डेयमथाष्टमम्</div><div class="line pada-even" style="position:relative;">जीवेद् वर्षशतं प्राज्ञ अपमृत्युविवर्जितः॥</div></div></div>
 <h2 class="stotra-heading">पञ्चकन्यास्मरणम्</h2>
-<div class="verse-block-wrapper" id="nitya-shloka-b0003"><div class="verse-block verse-justify"><div class="line">अहल्या द्रौपदी सीता तारा मन्दोदरी तथा।</div><div class="line" style="position:relative;">पञ्चकन्याः स्मरेन्नित्यं महापातकनाशनम्॥</div></div></div>
+<div class="verse-block-wrapper" id="nitya-shloka-b0003"><div class="verse-block verse-justify"><div class="line">अहल्या द्रौपदी सीता तारा मन्दोदरी तथा।</div><div class="line" style="position:relative;">पञ्चकं ना स्मरेन्नित्यं महापातकनाशनम्॥</div></div></div>
 <h2 class="stotra-heading">साम्बशिव-स्मरणम्</h2>
 <div class="verse-block-wrapper" id="nitya-shloka-b0005"><div class="verse-block"><div class="line">शिवनामनि भावितेऽन्तरङ्गे</div><div class="line pada-even">महति ज्योतिषि मानिनीमयार्धे।</div><div class="line">दुरितान्यपयान्ति दूरदूरे</div><div class="line pada-even" style="position:relative;">मुहुरायान्ति महान्ति मङ्गलानि॥</div></div></div>
 <h2 class="stotra-heading">हरि-स्मरणम्</h2>
@@ -20,13 +20,13 @@
 <p class="uvacha">पाण्डवा ऊचुः</p>
 <div class="verse-block-wrapper" id="nitya-shloka-b0012"><div class="verse-block"><div class="line">प्रह्लाद-नारद-पराशर-पुण्डरीक-</div><div class="line pada-even">व्यासाम्बरीष-शुक-शौनक-भीष्म-दाल्भ्यान्।</div><div class="line">रुक्माङ्गदार्जुन-वसिष्ठ-विभीषणादीन्</div><div class="line pada-even" style="position:relative;">पुण्यानिमान् परमभागवतान् समरामि॥</div></div></div>
 <h2 class="stotra-heading">गो-वन्दनम्</h2>
-<div class="verse-block-wrapper" id="nitya-shloka-b0014"><div class="verse-block verse-justify"><div class="line">गां च दृष्ट्वा नमस्कृत्य कृत्वा चैव प्रदक्षिणम्।</div><div class="line" style="position:relative;">प्रदक्षिणी कृता तेन सप्तद्वीपा वसुन्धरा॥</div></div></div>
+<div class="verse-block-wrapper" id="nitya-shloka-b0014"><div class="verse-block verse-justify"><div class="line">गां च दृष्ट्वा नमस्कृत्य कृत्वा चैव प्रदक्षिणम्।</div><div class="line" style="position:relative;">प्रदक्षिणीकृता तेन सप्तद्वीपा वसुन्धरा॥</div></div></div>
 <div class="verse-block-wrapper" id="nitya-shloka-b0015"><div class="verse-block verse-justify"><div class="line">सर्वकामदुघे देवि सर्वतीर्थाभिषेचिनी।</div><div class="line" style="position:relative;">पावने सुरभिश्रेष्ठे देवि तुभ्यं नमोऽस्तु ते॥</div></div></div>
 <div class="decoration">❀</div>
 <h2 class="stotra-heading">तुलसी-वन्दनम्</h2>
 <div class="verse-block-wrapper" id="nitya-shloka-b0018"><div class="verse-block"><div class="line">पापानि यानि रविसूनुपटस्थितानि</div><div class="line pada-even">गो-ब्रह्म-बाल-पितृ-मातृ-वधादिकानि।</div><div class="line">नश्यन्ति तानि तुलसीवनदर्शनेन</div><div class="line pada-even" style="position:relative;">गोकोटिदानसदृशे फलमाशु च स्यात्॥१॥</div></div></div>
 <p class="prose">(तुलसीवनगमने प्रोक्तव्यम्)</p>
-<div class="verse-block-wrapper" id="nitya-shloka-b0020"><div class="verse-block"><div class="line">या दृष्टा निखिलाघसङ्घशमनी स्पृष्टा वपुः पावनी</div><div class="line pada-even">रोगाणामभिवन्दिता निरसनी सिक्तान्तकत्रासिनी।</div><div class="line">प्रत्यासत्ति विधायिनी भगवतः कृष्णस्य संरोपिता</div><div class="line pada-even" style="position:relative;">न्यस्ता तच्चरणे विमुक्तिफलदा तस्यै तुलस्यै नमः॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="nitya-shloka-b0020"><div class="verse-block"><div class="line">या दृष्टा निखिलाघ-सङ्घ-शमनी स्पृष्टा वपुः पावनी</div><div class="line pada-even">रोगाणामभिवन्दिता निरसनी सिक्तान्तक-त्रासिनी।</div><div class="line">प्रत्यासत्ति-विधायिनी भगवतः कृष्णस्य संरोपिता</div><div class="line pada-even" style="position:relative;">न्यस्ता तच्चरणे विमुक्तिफलदा तस्यै तुलस्यै नमः॥२॥</div></div></div>
 <p class="prose">(तुलसी-जल-प्रोक्षणम्)</p>
 <div class="verse-block-wrapper" id="nitya-shloka-b0022"><div class="verse-block verse-justify"><div class="line">ललाटे यस्य दृश्येत तुलसीमूलमृत्तिका।</div><div class="line" style="position:relative;">यमस्तं नेक्षितुं शक्तः किमु दूता भयङ्कराः॥३॥</div></div></div>
 <p class="prose">(मृत्तिका-धारणम्)</p>
