@@ -14,7 +14,7 @@
  ],
  "source": "Brahmavaivarta Puranam",
  "wiki_title": "Yamashtakam",
- "weight": 60
+ "weight": 70
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">यमाष्टकम्</h2>
