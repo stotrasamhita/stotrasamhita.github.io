@@ -3,7 +3,7 @@
  "slug": "sugrivakrta-rama-stotram",
  "source_file": "stotras/adhyatma-ramayana-stotras/SugrivakrtaRamaStotram.tex",
  "verse_count": 18,
- "weight": 320
+ "weight": 330
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">सुग्रीवकृत-रामस्तोत्रम्</h2>

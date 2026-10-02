@@ -3,7 +3,7 @@
  "slug": "vasishthopadesha",
  "source_file": "stotras/adhyatma-ramayana-stotras/Vasishthopadesha.tex",
  "verse_count": 13,
- "weight": 390
+ "weight": 400
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">वसिष्ठोपदेशः</h2>

@@ -3,7 +3,7 @@
  "slug": "rama-sambhashanam",
  "source_file": "stotras/adhyatma-ramayana-stotras/RamaSambhashanam.tex",
  "verse_count": 30,
- "weight": 240
+ "weight": 250
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">राम-सम्भाषणम्</h2>

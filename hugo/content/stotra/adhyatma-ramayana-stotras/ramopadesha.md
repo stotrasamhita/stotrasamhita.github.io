@@ -3,7 +3,7 @@
  "slug": "ramopadesha",
  "source_file": "stotras/adhyatma-ramayana-stotras/Ramopadesha.tex",
  "verse_count": 37,
- "weight": 270
+ "weight": 280
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">ज्ञान-विज्ञानोपदेशः</h2>

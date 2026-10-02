@@ -3,7 +3,7 @@
  "slug": "sutikshnakrta-rama-stotram",
  "source_file": "stotras/adhyatma-ramayana-stotras/SutikshnakrtaRamaStotram.tex",
  "verse_count": 8,
- "weight": 330
+ "weight": 340
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">सुतीक्ष्णकृतं रामस्तोत्रम्</h2>

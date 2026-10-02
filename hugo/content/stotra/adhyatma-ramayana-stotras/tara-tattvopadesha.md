@@ -3,7 +3,7 @@
  "slug": "tara-tattvopadesha",
  "source_file": "stotras/adhyatma-ramayana-stotras/TaraTattvopadesha.tex",
  "verse_count": 26,
- "weight": 350
+ "weight": 360
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">तारायै रामस्य तत्त्वोपदेशः</h2>

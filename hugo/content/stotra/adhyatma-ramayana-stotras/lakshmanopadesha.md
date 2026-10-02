@@ -3,7 +3,7 @@
  "slug": "lakshmanopadesha",
  "source_file": "stotras/adhyatma-ramayana-stotras/Lakshmanopadesha.tex",
  "verse_count": 18,
- "weight": 160
+ "weight": 170
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">लक्ष्मणोपदेशः</h2>

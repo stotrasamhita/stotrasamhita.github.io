@@ -3,7 +3,7 @@
  "slug": "narada-rama-samvada",
  "source_file": "stotras/adhyatma-ramayana-stotras/NaradaRamaSamvada.tex",
  "verse_count": 41,
- "weight": 180
+ "weight": 190
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">नारद-राम-संवादः</h2>

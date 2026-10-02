@@ -3,7 +3,7 @@
  "slug": "parashuramakrta-rama-stotram",
  "source_file": "stotras/adhyatma-ramayana-stotras/ParashuramakrtaRamaStotram.tex",
  "verse_count": 22,
- "weight": 210
+ "weight": 220
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">परशुरामकृत-रामस्तोत्रम्</h2>

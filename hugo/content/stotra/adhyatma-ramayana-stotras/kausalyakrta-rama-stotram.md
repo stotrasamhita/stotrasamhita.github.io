@@ -3,7 +3,7 @@
  "slug": "kausalyakrta-rama-stotram",
  "source_file": "stotras/adhyatma-ramayana-stotras/KausalyakrtaRamaStotram.tex",
  "verse_count": 15,
- "weight": 120
+ "weight": 130
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">कौसल्याकृत-रामस्तोत्रम्</h2>

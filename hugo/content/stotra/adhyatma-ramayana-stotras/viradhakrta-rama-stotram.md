@@ -3,7 +3,7 @@
  "slug": "viradhakrta-rama-stotram",
  "source_file": "stotras/adhyatma-ramayana-stotras/ViradhakrtaRamaStotram.tex",
  "verse_count": 5,
- "weight": 410
+ "weight": 420
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">विराधकृतं रामस्तोत्रम्</h2>

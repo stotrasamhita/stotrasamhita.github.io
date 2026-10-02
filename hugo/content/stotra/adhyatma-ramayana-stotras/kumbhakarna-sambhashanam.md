@@ -3,7 +3,7 @@
  "slug": "kumbhakarna-sambhashanam",
  "source_file": "stotras/adhyatma-ramayana-stotras/KumbhakarnaSambhashanam.tex",
  "verse_count": 14,
- "weight": 140
+ "weight": 150
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">कुम्भकर्णसम्भाषणम्</h2>

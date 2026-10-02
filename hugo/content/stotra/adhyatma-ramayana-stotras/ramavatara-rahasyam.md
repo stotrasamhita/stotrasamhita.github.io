@@ -3,7 +3,7 @@
  "slug": "ramavatara-rahasyam",
  "source_file": "stotras/adhyatma-ramayana-stotras/RamavataraRahasyam.tex",
  "verse_count": 8,
- "weight": 260
+ "weight": 270
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">रामावताररहस्यम्</h2>

@@ -3,7 +3,7 @@
  "slug": "navavidhabhakti-varnanam",
  "source_file": "stotras/adhyatma-ramayana-stotras/NavavidhabhaktiVarnanam.tex",
  "verse_count": 12,
- "weight": 200
+ "weight": 210
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">नवविधभक्तिवर्णनम्</h2>

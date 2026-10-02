@@ -3,7 +3,7 @@
  "slug": "vali-sugriva-katha",
  "source_file": "stotras/adhyatma-ramayana-stotras/ValiSugrivaKatha.tex",
  "verse_count": 28,
- "weight": 360
+ "weight": 370
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">वाली-सुग्रीव-कथा</h2>

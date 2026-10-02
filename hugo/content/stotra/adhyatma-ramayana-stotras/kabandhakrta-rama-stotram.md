@@ -3,7 +3,7 @@
  "slug": "kabandhakrta-rama-stotram",
  "source_file": "stotras/adhyatma-ramayana-stotras/KabandhakrtaRamaStotram.tex",
  "verse_count": 27,
- "weight": 100
+ "weight": 110
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">कबन्धकृत-रामस्तोत्रम्</h2>

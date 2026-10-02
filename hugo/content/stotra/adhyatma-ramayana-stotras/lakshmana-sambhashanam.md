@@ -3,7 +3,7 @@
  "slug": "lakshmana-sambhashanam",
  "source_file": "stotras/adhyatma-ramayana-stotras/LakshmanaSambhashanam.tex",
  "verse_count": 15,
- "weight": 150
+ "weight": 160
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">लक्ष्मण-सम्भाषणम्</h2>

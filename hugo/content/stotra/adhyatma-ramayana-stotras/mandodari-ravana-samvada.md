@@ -3,7 +3,7 @@
  "slug": "mandodari-ravana-samvada",
  "source_file": "stotras/adhyatma-ramayana-stotras/MandodariRavanaSamvada.tex",
  "verse_count": 26,
- "weight": 170
+ "weight": 180
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">मन्दोदरी-रावण-संवादः</h2>

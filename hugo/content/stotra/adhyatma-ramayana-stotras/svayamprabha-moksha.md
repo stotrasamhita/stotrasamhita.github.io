@@ -3,7 +3,7 @@
  "slug": "svayamprabha-moksha",
  "source_file": "stotras/adhyatma-ramayana-stotras/SvayamprabhaMoksha.tex",
  "verse_count": 27,
- "weight": 340
+ "weight": 350
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">स्वयम्प्रभा-मोक्षः</h2>

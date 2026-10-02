@@ -3,7 +3,7 @@
  "slug": "ramopadesha--uttara-kanda",
  "source_file": "stotras/adhyatma-ramayana-stotras/Ramopadesha-UttaraKanda.tex",
  "verse_count": 32,
- "weight": 280
+ "weight": 290
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">रामोपदेशः</h2>

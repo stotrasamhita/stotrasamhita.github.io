@@ -3,7 +3,7 @@
  "slug": "rama-gita",
  "source_file": "stotras/adhyatma-ramayana-stotras/RamaGita.tex",
  "verse_count": 62,
- "weight": 220
+ "weight": 230
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">रामगीता</h2>

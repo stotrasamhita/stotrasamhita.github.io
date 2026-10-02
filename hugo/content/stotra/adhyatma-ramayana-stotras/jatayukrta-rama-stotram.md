@@ -3,7 +3,7 @@
  "slug": "jatayukrta-rama-stotram",
  "source_file": "stotras/adhyatma-ramayana-stotras/JatayukrtaRamaStotram.tex",
  "verse_count": 13,
- "weight": 80
+ "weight": 90
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">जटायुकृत-रामस्तोत्रम्</h2>

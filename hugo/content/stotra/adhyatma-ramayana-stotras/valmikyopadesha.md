@@ -3,7 +3,7 @@
  "slug": "valmikyopadesha",
  "source_file": "stotras/adhyatma-ramayana-stotras/Valmikyopadesha.tex",
  "verse_count": 17,
- "weight": 380
+ "weight": 390
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">वाल्मीक्योपदेशः</h2>

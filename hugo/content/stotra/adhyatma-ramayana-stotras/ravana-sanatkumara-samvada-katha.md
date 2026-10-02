@@ -3,7 +3,7 @@
  "slug": "ravana-sanatkumara-samvada-katha",
  "source_file": "stotras/adhyatma-ramayana-stotras/RavanaSanatkumaraSamvadaKatha.tex",
  "verse_count": 32,
- "weight": 290
+ "weight": 300
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">रावणसनत्कुमार-संवाद-कथा</h2>

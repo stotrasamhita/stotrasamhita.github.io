@@ -3,7 +3,7 @@
  "slug": "ramakatha-kathanam",
  "source_file": "stotras/adhyatma-ramayana-stotras/RamakathaKathanam.tex",
  "verse_count": 13,
- "weight": 250
+ "weight": 260
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">रामकथाकथनम्</h2>

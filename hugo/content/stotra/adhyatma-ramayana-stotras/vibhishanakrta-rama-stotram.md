@@ -3,7 +3,7 @@
  "slug": "vibhishanakrta-rama-stotram",
  "source_file": "stotras/adhyatma-ramayana-stotras/VibhishanakrtaRamaStotram.tex",
  "verse_count": 45,
- "weight": 400
+ "weight": 410
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">विभीषणकृतं रामस्तोत्रम्</h2>

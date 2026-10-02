@@ -3,7 +3,7 @@
  "slug": "rama-hrdayam",
  "source_file": "stotras/adhyatma-ramayana-stotras/RamaHrdayam.tex",
  "verse_count": 56,
- "weight": 230
+ "weight": 240
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">राम हृदयम्</h2>

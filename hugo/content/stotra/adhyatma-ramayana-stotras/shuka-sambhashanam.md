@@ -3,7 +3,7 @@
  "slug": "shuka-sambhashanam",
  "source_file": "stotras/adhyatma-ramayana-stotras/ShukaSambhashanam.tex",
  "verse_count": 17,
- "weight": 310
+ "weight": 320
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">शुकसम्भाषणम्</h2>

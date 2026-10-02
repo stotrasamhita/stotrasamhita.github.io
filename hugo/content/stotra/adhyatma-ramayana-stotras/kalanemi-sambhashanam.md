@@ -3,7 +3,7 @@
  "slug": "kalanemi-sambhashanam",
  "source_file": "stotras/adhyatma-ramayana-stotras/KalanemiSambhashanam.tex",
  "verse_count": 18,
- "weight": 110
+ "weight": 120
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">कालनेमिसम्भाषणम्</h2>

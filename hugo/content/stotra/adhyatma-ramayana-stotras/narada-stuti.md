@@ -3,7 +3,7 @@
  "slug": "narada-stuti",
  "source_file": "stotras/adhyatma-ramayana-stotras/NaradaStuti.tex",
  "verse_count": 19,
- "weight": 190
+ "weight": 200
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">नारदस्तुतिः</h2>

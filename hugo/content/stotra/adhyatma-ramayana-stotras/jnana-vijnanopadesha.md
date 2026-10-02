@@ -3,7 +3,7 @@
  "slug": "jnana-vijnanopadesha",
  "source_file": "stotras/adhyatma-ramayana-stotras/JnanaVijnanopadesha.tex",
  "verse_count": 37,
- "weight": 90
+ "weight": 100
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">ज्ञान-विज्ञानोपदेशः</h2>
