@@ -12,7 +12,7 @@
 <div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0003"><div class="verse-block"><div class="line">दंष्ट्राग्रेणोद्धृता गौरुदधिपरिवृता पर्वतैर्निम्नगाभिः</div><div class="line pada-even">साकं मृत्पिण्डवत् प्राग्बृहदुरुवपुषाऽनन्तरूपेण येन।</div><div class="line">सोऽयं कंसासुरारिर्मुरनरकदशास्यान्तकृत्सर्वसंस्थः</div><div class="line pada-even" style="position:relative;">कृष्णो विष्णुः सुरेशो नुदतु मम रिपूनादिदेवो वराहः॥२॥</div></div></div>
 <div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0004"><div class="verse-block"><div class="line">यः संसारार्णवे नौरिव मरणजराव्याधिनक्रोर्मिभीमे</div><div class="line pada-even">भक्तानां भीतिहर्ता मुरनरकदशास्यान्तकृत् कोलरूपी।</div><div class="line">विष्णुः सर्वेश्वरोऽयं यमिह कृतधियो लीलया प्राप्नुवन्ति</div><div class="line pada-even" style="position:relative;">मुक्तात्मानो न पापं प्रभवमनुदिनारातिपक्षः क्षितीशः॥३॥</div></div></div>
 <div class="decoration">❀</div>
-<div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0006"><div class="verse-block verse-justify"><div class="line">नारायणं नमस्कृत्य नरं चैव नरोत्तमम्।</div><div class="line" style="position:relative;">देवीं सरस्वतीं चैव ततो जयमुदीरयेत्॥</div></div></div>
+<div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0006"><div class="verse-block verse-justify"><div class="line">नारायणं नमस्कृत्य नरं चैव नरोत्तमम्।</div><div class="line" style="position:relative;">देवीं सरस्वतीं व्यासं ततो जयमुदीरयेत्॥</div></div></div>
 <p class="uvacha">धरोवाच</p>
 <div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0009"><div class="verse-block verse-justify"><div class="line">भगवन् परमेशान भक्तिरव्यभिचारिणी।</div><div class="line" style="position:relative;">प्रारब्धं भुज्यमानस्य कथं भवति हे प्रभो॥१॥</div></div></div>
 <p class="uvacha">श्री-विष्णुरुवाच</p>
@@ -42,6 +42,6 @@
 <p class="pushpika">॥इति श्रीवाराहपुराणे श्रीगीतामाहात्म्यं सम्पूर्णम्॥</p>
 <div class="decoration">❀</div>
 <h3 class="subheading">मङ्गलश्लोकाः</h3>
-<div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0038"><div class="verse-block"><div class="line">स्वस्ति प्रजाभ्यः परिपालयन्तां</div><div class="line pada-even">न्यायेन मार्गेण महीं महीशाः।</div><div class="line">गोब्राह्मणेभ्यः शुभमस्तु नित्यं</div><div class="line pada-even" style="position:relative;">लोकाः समस्ताः सुखिनो भवन्तु॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0038"><div class="verse-block"><div class="line">स्वस्ति प्रजाभ्यः परिपालयन्तां</div><div class="line pada-even">न्याय्येन मार्गेण महीं महीशाः।</div><div class="line">गोब्राह्मणेभ्यः शुभमस्तु नित्यं</div><div class="line pada-even" style="position:relative;">लोकाः समस्ताः सुखिनो भवन्तु॥१॥</div></div></div>
 <div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0039"><div class="verse-block verse-justify"><div class="line">काले वर्षतु पर्जन्यः पृथिवी सस्यशालिनी।</div><div class="line" style="position:relative;">देशोऽयं क्षोभरहितो ब्राह्मणाः सन्तु निर्भयाः॥२॥</div></div></div>
 <div class="verse-block-wrapper" id="mahatmyam-varaha-puranam-b0040"><div class="verse-block verse-justify"><div class="line">अपुत्राः पुत्रिणः सन्तु पुत्रिणः सन्तु पौत्रिणः।</div><div class="line" style="position:relative;">अधनाः सधनाः सन्तु जीवन्तु शरदां शतम्॥३॥</div></div></div></div>

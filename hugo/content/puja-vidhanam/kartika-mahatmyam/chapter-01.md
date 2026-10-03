@@ -4,7 +4,7 @@
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">अथ प्रथमोऽध्यायः</h2>
-<div class="verse-block-wrapper" id="kartika-mahatmyam-b0002"><div class="verse-block verse-justify"><div class="line">नारायणं नमस्कृत्य नरं चैव नरोत्तमम्।</div><div class="line" style="position:relative;">देवीं सरस्वतीं चैव ततो जयमुदीरयेत्॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="kartika-mahatmyam-b0002"><div class="verse-block verse-justify"><div class="line">नारायणं नमस्कृत्य नरं चैव नरोत्तमम्।</div><div class="line" style="position:relative;">देवीं सरस्वतीं व्यासं ततो जयमुदीरयेत्॥१॥</div></div></div>
 <p class="uvacha">ऋषय ऊचुः</p>
 <div class="verse-block-wrapper" id="kartika-mahatmyam-b0004"><div class="verse-block verse-justify"><div class="line">सूत नः कथितं पुण्यं माहात्म्यमाश्विनस्य च।</div><div class="line" style="position:relative;">भूयोऽन्यच्छ्रोतुमिच्छामः कार्तिकस्य च वैभवम्॥२॥</div></div></div>
 <div class="verse-block-wrapper" id="kartika-mahatmyam-b0005"><div class="verse-block verse-justify"><div class="line">कलौ कलुषचित्तानां नराणां पापकर्मणाम्।</div><div class="line" style="position:relative;">संसाराब्धौ निमग्नानामनायासेन का गतिः॥३॥</div></div></div>
