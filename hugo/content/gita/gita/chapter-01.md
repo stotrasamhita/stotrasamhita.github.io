@@ -1,6 +1,7 @@
 {
  "title": "प्रथमोऽध्यायः---अर्जुनविषादयोगः",
- "weight": 10
+ "weight": 10,
+ "iast": "Prathamo'dhyāyaḥ — Arjunaviṣādayogaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">प्रथमोऽध्यायः---अर्जुनविषादयोगः</h2>

@@ -12,7 +12,10 @@
  "stotra_type": "Shatanama Stotram",
  "source": "Padma Puranam",
  "wiki_title": "Rama Ashtottara Shatanama Stotram",
- "weight": 210
+ "weight": 210,
+ "iast": "Rāmāṣṭottaraśatanāmastotram",
+ "form": "Śatanāma",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Shatanama Stotram</p>

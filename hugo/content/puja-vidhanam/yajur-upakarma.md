@@ -3,7 +3,8 @@
  "slug": "yajur-upakarma",
  "source_file": "pujas/yajur-upakarma.tex",
  "verse_count": 8,
- "weight": 120
+ "weight": 120,
+ "iast": "Yajurveda-upākarma"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">यजुर्वेद-उपाकर्म</h2>

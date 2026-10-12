@@ -1,0 +1,20 @@
+{{/* Cover for a page: its picture, else a typographic cover in the colours
+     of its deity. Args: p (page), cls (extra classes), w (pixel width),
+     square (bool). */}}
+{{ $p := .p }}
+{{ $img := partial "cover-image.html" $p }}
+{{ if $img }}
+  {{ $w := .w | default 360 }}
+  {{ $r := cond .square ($img.Fill (printf "%dx%d center webp q75" $w $w)) ($img.Fill (printf "%dx%d center webp q75" $w (div (mul $w 5) 4))) }}
+  <div class="cover {{ .cls }}"><img src="{{ $r.RelPermalink }}" width="{{ $r.Width }}" height="{{ $r.Height }}" alt="" loading="lazy" decoding="async"></div>
+{{ else }}
+  {{ $g := index (partialCached "groups.html" $p $p.Path) 0 }}
+  {{ $c := hugo.Data.deities.default }}
+  {{ with $g }}{{ with index hugo.Data.deities.groups . }}{{ $c = .c }}{{ end }}{{ end }}
+  {{ $t := partial "title.html" $p.Title | replaceRE `\s*\([^)]*\)\s*` " " | strings.TrimSpace }}
+  {{/* Long titles get a smaller size so they break between words. */}}
+  {{ $n := strings.RuneCount $t }}
+  {{ $size := cond (gt $n 22) "xlong" (cond (gt $n 12) "long" "") }}
+  {{ if .glyph }}{{ $t = substr $t 0 1 }}{{ $size = "glyph" }}{{ end }}
+  <div class="cover fb {{ .cls }} {{ $size }}" style="--c1:{{ index $c 0 | safeCSS }};--c2:{{ index $c 1 | safeCSS }}" aria-hidden="true"><span>{{ $t }}</span></div>
+{{ end }}

@@ -1,6 +1,7 @@
 {
  "title": "अप्रतिरथम्",
- "weight": 220
+ "weight": 220,
+ "iast": "Apratiratham"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">अप्रतिरथम्</h2>

@@ -3,7 +3,13 @@
  "slug": "prajnavivardhana-karttikeya-stotram",
  "source_file": "stotras/subrahmanya/PrajnavivardhanaKarttikeyaStotram.tex",
  "verse_count": 7,
- "weight": 20
+ "weight": 20,
+ "iast": "Prajñāvivardhana-kārttikeya-stotram",
+ "form": "Stotram",
+ "deity": [
+  "Subrahmanya"
+ ],
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">प्रज्ञाविवर्धन-कार्त्तिकेय-स्तोत्रम्</h2>

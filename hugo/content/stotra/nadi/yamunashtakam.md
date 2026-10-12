@@ -3,7 +3,13 @@
  "slug": "yamunashtakam",
  "source_file": "stotras/nadi/Yamunashtakam.tex",
  "verse_count": 8,
- "weight": 70
+ "weight": 70,
+ "iast": "Yamunāṣṭakam",
+ "form": "Aṣṭakam",
+ "deity": [
+  "Nadi"
+ ],
+ "date": "2019-03-30"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">यमुनाष्टकम्</h2>

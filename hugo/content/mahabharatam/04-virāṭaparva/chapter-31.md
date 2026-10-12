@@ -1,6 +1,7 @@
 {
  "title": "एकत्रिंशोऽध्यायः॥३१॥",
- "weight": 310
+ "weight": 310,
+ "iast": "Ekatriṃśo'dhyāyaḥ||31||"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">एकत्रिंशोऽध्यायः॥३१॥</h2>

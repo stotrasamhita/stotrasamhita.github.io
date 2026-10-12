@@ -1,0 +1,3 @@
+{{ $out := slice }}
+{{ range .Params.chandas }}{{ $out = $out | append (index hugo.Data.meters . | default .) }}{{ end }}
+{{ return $out }}

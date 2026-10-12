@@ -3,7 +3,13 @@
  "slug": "vyasashtakam",
  "source_file": "stotras/guru/Vyasashtakam.tex",
  "verse_count": 8,
- "weight": 20
+ "weight": 20,
+ "iast": "Vyāsāṣṭakam",
+ "form": "Aṣṭakam",
+ "deity": [
+  "Guru"
+ ],
+ "date": "2026-08-23"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">व्यासाष्टकम्</h2>

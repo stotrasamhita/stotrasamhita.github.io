@@ -1,6 +1,7 @@
 {
  "title": "मार्गशीर्ष-शुक्ल-मोक्षदा-एकादशी-माहात्म्यम्",
- "weight": 380
+ "weight": 380,
+ "iast": "Mārgaśīrṣa-śukla-mokṣadā-ekādaśī-māhātmyam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">मार्गशीर्ष-शुक्ल-मोक्षदा-एकादशी-माहात्म्यम्</h2>

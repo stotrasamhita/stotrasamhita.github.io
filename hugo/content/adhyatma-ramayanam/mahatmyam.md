@@ -3,7 +3,8 @@
  "slug": "mahatmyam",
  "source_file": "kandas/Mahatmyam.tex",
  "verse_count": 64,
- "weight": 10
+ "weight": 10,
+ "iast": "Adhyātmarāmāyaṇamāhātmyam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">अध्यात्मरामायणमाहात्म्यम्</h2>

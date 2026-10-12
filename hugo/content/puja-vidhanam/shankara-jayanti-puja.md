@@ -4,7 +4,8 @@
  "source_file": "pujas/shankara-jayanti-puja.tex",
  "verse_count": 258,
  "columns_hint": 2,
- "weight": 70
+ "weight": 70,
+ "iast": "Śrī-śaṅkara-bhagavatpāda-pūjā"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्री-शङ्कर-भगवत्पाद-पूजा</h2>

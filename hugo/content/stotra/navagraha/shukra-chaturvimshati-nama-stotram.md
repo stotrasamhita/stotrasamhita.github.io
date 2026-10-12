@@ -12,7 +12,10 @@
  "stotra_type": "Nama Stotram",
  "source": "Skanda Puranam",
  "wiki_title": "Shukra Chaturvimshati Nama Stotram",
- "weight": 140
+ "weight": 140,
+ "iast": "Śukracaturviṃśatināmastotram",
+ "form": "Nāma stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Nama Stotram</p>

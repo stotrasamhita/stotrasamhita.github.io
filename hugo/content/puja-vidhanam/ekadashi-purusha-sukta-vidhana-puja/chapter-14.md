@@ -1,6 +1,7 @@
 {
  "title": "माघ-कृष्ण-षट्तिला-एकादशी-माहात्म्यम्",
- "weight": 140
+ "weight": 140,
+ "iast": "Māgha-kṛṣṇa-ṣaṭtilā-ekādaśī-māhātmyam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">माघ-कृष्ण-षट्तिला-एकादशी-माहात्म्यम्</h2>

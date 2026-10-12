@@ -1,6 +1,7 @@
 {
  "title": "त्रयोदशोऽध्यायः---क्षेत्रक्षेत्रज्ञविभागयोगः",
- "weight": 130
+ "weight": 130,
+ "iast": "Trayodaśo'dhyāyaḥ — Kṣetrakṣetrajñavibhāgayogaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">त्रयोदशोऽध्यायः---क्षेत्रक्षेत्रज्ञविभागयोगः</h2>

@@ -10,7 +10,10 @@
   "Vasantatilaka"
  ],
  "wiki_title": "Venkatesha Prapatti",
- "weight": 60
+ "weight": 60,
+ "iast": "Veṅkaṭeśa Prapattiḥ",
+ "form": "Stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">वेङ्कटेश प्रपत्तिः</h2>

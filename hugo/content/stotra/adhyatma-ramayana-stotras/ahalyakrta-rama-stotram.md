@@ -11,7 +11,10 @@
  ],
  "source": "Adhyatma Ramayanam",
  "wiki_title": "Ahalyakrta Rama Stotram",
- "weight": 30
+ "weight": 30,
+ "iast": "Ahalyākṛta-rāmastotram",
+ "form": "Stotram",
+ "date": "2017-12-29"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">अहल्याकृत-रामस्तोत्रम्</h2>

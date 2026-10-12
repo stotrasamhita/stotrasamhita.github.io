@@ -1,0 +1,16 @@
+{{/* A stotra card. Data attributes feed the filters on the browse page. */}}
+{{ $p := . }}
+{{ $groups := partialCached "groups.html" $p $p.Path }}
+{{ $comps := partial "composers.html" $p }}
+{{ $meters := partial "meters.html" $p }}
+{{ $vc := $p.Params.verse_count | default 0 }}
+{{ $len := cond (le $vc 10) "Short" (cond (le $vc 40) "Medium" "Long") }}
+{{ $coll := cond (eq $p.Parent.File.ContentBaseName "adhyatma-ramayana-stotras") "Adhyātma Rāmāyaṇa" "" }}
+<a class="card" href="{{ $p.RelPermalink }}"
+  data-deity="{{ delimit $groups "|" }}" data-form="{{ $p.Params.form }}" data-composer="{{ delimit $comps "|" }}"
+  data-metre="{{ delimit $meters "|" }}" data-len="{{ $len }}" data-coll="{{ $coll }}"
+  data-vc="{{ $vc }}" data-date="{{ $p.Date.Format "2006-01-02" }}" data-q="{{ $p.Title }} {{ $p.Params.iast }} {{ $p.File.ContentBaseName }}">
+  {{ partial "cover.html" (dict "p" $p) }}
+  <div><div class="t">{{ partial "title.html" $p.Title }}</div>{{ with $p.Params.iast }}<div class="r">{{ . }}</div>{{ end }}</div>
+  <div class="m">{{ partial "metaline.html" $p }}</div>
+</a>

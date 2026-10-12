@@ -1,6 +1,7 @@
 {
  "title": "सप्तविंशोऽध्यायः—भाद्रपद-कृष्ण-चतुर्थी-माहात्म्य-वर्णनम्",
- "weight": 310
+ "weight": 310,
+ "iast": "Saptaviṃśo'dhyāyaḥ—bhādrapada-kṛṣṇa-caturthī-māhātmya-varṇanam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">सप्तविंशोऽध्यायः—भाद्रपद-कृष्ण-चतुर्थी-माहात्म्य-वर्णनम्</h2>

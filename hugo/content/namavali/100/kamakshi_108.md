@@ -4,7 +4,8 @@
  "source_file": "100/Kamakshi_108.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 190
+ "weight": 190,
+ "iast": "Kāmākṣyaṣṭottaraśatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">कामाक्ष्यष्टोत्तरशतनामावलिः</h2>

@@ -1,7 +1,6 @@
 {
- "title": "1000 Names",
+ "title": "सहस्रनामावलयः",
+ "iast": "1000 names",
  "weight": 30,
- "bookCollapseSection": true
+ "description": "Sahasra nāmāvalīs: a thousand names each."
 }
-
-<p>Sahasranama namavalis (1000 names each).</p>

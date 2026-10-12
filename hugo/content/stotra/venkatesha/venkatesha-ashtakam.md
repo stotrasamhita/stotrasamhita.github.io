@@ -17,7 +17,10 @@
  "vakta": "Brahma",
  "shrota": "Narada",
  "wiki_title": "Venkatesha Ashtakam",
- "weight": 20
+ "weight": 20,
+ "iast": "Veṅkaṭeśa-aṣṭakam",
+ "form": "Aṣṭakam",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Ashtakam</p>

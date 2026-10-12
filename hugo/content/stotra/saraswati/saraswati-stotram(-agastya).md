@@ -13,7 +13,10 @@
   "Anushtup"
  ],
  "wiki_title": "Saraswati Stotram (Agastya)",
- "weight": 10
+ "weight": 10,
+ "iast": "Sarasvatīstotram Agastyamuni-proktam",
+ "form": "Stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">सरस्वतीस्तोत्रम् अगस्त्यमुनि-प्रोक्तम्</h2>

@@ -1,6 +1,7 @@
 {
  "title": "पुरुषसूक्तम्",
- "weight": 200
+ "weight": 200,
+ "iast": "Puruṣasūktam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">पुरुषसूक्तम्</h2>

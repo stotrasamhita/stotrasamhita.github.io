@@ -1,6 +1,7 @@
 {
  "title": "लघुन्यासे श्री-रुद्रध्यानम्",
- "weight": 290
+ "weight": 290,
+ "iast": "Laghunyāse Śrī-rudradhyānam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">लघुन्यासे श्री-रुद्रध्यानम्</h2>

@@ -1,6 +1,7 @@
 {
  "title": "चतुःपञ्चाशोऽध्यायः॥५४॥",
- "weight": 540
+ "weight": 540,
+ "iast": "Catuḥpañcāśo'dhyāyaḥ||54||"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">चतुःपञ्चाशोऽध्यायः॥५४॥</h2>

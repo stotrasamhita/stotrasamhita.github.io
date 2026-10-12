@@ -10,7 +10,10 @@
   "Anushtup"
  ],
  "wiki_title": "Mahaganapati Navarnavedapada Stava",
- "weight": 50
+ "weight": 50,
+ "iast": "Mahāgaṇapati Navārṇavedapāda Stavaḥ",
+ "form": "Stuti",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">महागणपति नवार्णवेदपाद स्तवः</h2>

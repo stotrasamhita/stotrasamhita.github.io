@@ -4,7 +4,8 @@
  "source_file": "pujas/brindavana-puja.tex",
  "verse_count": 156,
  "columns_hint": 2,
- "weight": 200
+ "weight": 200,
+ "iast": "Bṛndāvanapūjā Śrī-tulasī–viṣṇu-pūjā"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">बृन्दावनपूजा (श्री-तुलसी--विष्णु-पूजा)</h2>

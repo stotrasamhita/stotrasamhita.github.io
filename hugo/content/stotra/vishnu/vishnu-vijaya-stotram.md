@@ -3,7 +3,13 @@
  "slug": "vishnu-vijaya-stotram",
  "source_file": "stotras/vishnu/VishnuVijayaStotram.tex",
  "verse_count": 14,
- "weight": 100
+ "weight": 100,
+ "iast": "Viṣṇu-vijayastotram",
+ "form": "Stotram",
+ "deity": [
+  "Vishnu"
+ ],
+ "date": "2023-05-21"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">विष्णु-विजयस्तोत्रम्</h2>

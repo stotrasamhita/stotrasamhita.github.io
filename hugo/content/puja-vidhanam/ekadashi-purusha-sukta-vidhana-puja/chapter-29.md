@@ -1,6 +1,7 @@
 {
  "title": "भाद्रपद-शुक्ल-पद्मा-एकादशी-माहात्म्यम्",
- "weight": 290
+ "weight": 290,
+ "iast": "Bhādrapada-śukla-padmā-ekādaśī-māhātmyam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">भाद्रपद-शुक्ल-पद्मा-एकादशी-माहात्म्यम्</h2>

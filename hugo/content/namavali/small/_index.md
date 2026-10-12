@@ -1,7 +1,6 @@
 {
- "title": "Other Namavalis",
+ "title": "इतरनामावलयः",
+ "iast": "Other nāmāvalīs",
  "weight": 40,
- "bookCollapseSection": true
+ "description": "Shorter nāmāvalīs."
 }
-
-<p>Namavalis of other lengths.</p>

@@ -4,7 +4,8 @@
  "source_file": "pujas/panchanga-puja.tex",
  "verse_count": 71,
  "columns_hint": 2,
- "weight": 50
+ "weight": 50,
+ "iast": "Pañcāṅga-pūjā"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">पञ्चाङ्ग-पूजा</h2>

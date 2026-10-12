@@ -3,7 +3,10 @@
  "slug": "ramayana-dhyanam",
  "source_file": "stotras/dhyanam/RamayanaDhyanam.tex",
  "verse_count": 37,
- "weight": 90
+ "weight": 90,
+ "iast": "Śrīmadrāmāyaṇa-dhyānam",
+ "form": "Dhyānam",
+ "date": "2016-02-06"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्रीमद्रामायण-ध्यानम्</h2>

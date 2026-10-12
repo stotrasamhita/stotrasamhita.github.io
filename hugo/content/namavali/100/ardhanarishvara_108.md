@@ -4,7 +4,8 @@
  "source_file": "100/Ardhanarishvara_108.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 50
+ "weight": 50,
+ "iast": "Ardhanārīśvarāṣṭottaraśatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">अर्धनारीश्वराष्टोत्तरशतनामावलिः</h2>

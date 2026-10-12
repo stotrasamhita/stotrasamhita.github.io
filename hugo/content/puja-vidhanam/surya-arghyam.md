@@ -3,7 +3,8 @@
  "slug": "surya-arghyam",
  "source_file": "pujas/surya-arghyam.tex",
  "verse_count": 2,
- "weight": 20
+ "weight": 20,
+ "iast": "Sūrya-arghya-pradānam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">सूर्य-अर्घ्य-प्रदानम्</h2>

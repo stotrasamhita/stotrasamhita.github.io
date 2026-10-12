@@ -3,7 +3,13 @@
  "slug": "kanchi-kamakoti-guru-parampara-stava",
  "source_file": "stotras/guru/KanchiKamakotiGuruParamparaStava.tex",
  "verse_count": 77,
- "weight": 10
+ "weight": 10,
+ "iast": "Śrīkāñcīkāmakoṭipīṭhajagadguruparamparāstavaḥ",
+ "form": "Stuti",
+ "deity": [
+  "Guru"
+ ],
+ "date": "2021-04-18"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्रीकाञ्चीकामकोटिपीठजगद्गुरुपरम्परास्तवः</h2>

@@ -1,7 +1,6 @@
 {
- "title": "Vishnu",
+ "title": "विष्णुः",
+ "iast": "Viṣṇu",
  "weight": 210,
- "bookCollapseSection": true
+ "description": "Stotras to Viṣṇu."
 }
-
-<p>Stotras dedicated to Vishnu.</p>

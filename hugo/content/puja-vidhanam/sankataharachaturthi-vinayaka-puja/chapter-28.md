@@ -1,6 +1,7 @@
 {
  "title": "चतुर्विंशोऽध्यायः—ज्येष्ठ-कृष्ण-चतुर्थी-माहात्म्य-वर्णनम्",
- "weight": 280
+ "weight": 280,
+ "iast": "Caturviṃśo'dhyāyaḥ—jyeṣṭha-kṛṣṇa-caturthī-māhātmya-varṇanam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">चतुर्विंशोऽध्यायः—ज्येष्ठ-कृष्ण-चतुर्थी-माहात्म्य-वर्णनम्</h2>

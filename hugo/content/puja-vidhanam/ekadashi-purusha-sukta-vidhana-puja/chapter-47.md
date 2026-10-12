@@ -1,6 +1,7 @@
 {
  "title": "वैशाख-कृष्ण-वरूथिनी-एकादशी-माहात्म्यम्",
- "weight": 470
+ "weight": 470,
+ "iast": "Vaiśākha-kṛṣṇa-varūthinī-ekādaśī-māhātmyam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">वैशाख-कृष्ण-वरूथिनी-एकादशी-माहात्म्यम्</h2>

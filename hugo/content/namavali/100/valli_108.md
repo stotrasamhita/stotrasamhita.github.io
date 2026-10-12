@@ -4,7 +4,8 @@
  "source_file": "100/Valli_108.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 410
+ "weight": 410,
+ "iast": "Vallyaṣṭottaraśatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">वल्ल्यष्टोत्तरशतनामावलिः</h2>

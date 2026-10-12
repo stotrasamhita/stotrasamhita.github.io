@@ -4,7 +4,8 @@
  "source_file": "100/Kubera_108.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 230
+ "weight": 230,
+ "iast": "Kuberāṣṭottaraśatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">कुबेराष्टोत्तरशतनामावलिः</h2>

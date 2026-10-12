@@ -1,6 +1,7 @@
 {
  "title": "अष्टाविंशोऽध्यायः—आश्विन-कृष्ण-चतुर्थी-माहात्म्य-वर्णनम्",
- "weight": 320
+ "weight": 320,
+ "iast": "Aṣṭāviṃśo'dhyāyaḥ—āśvina-kṛṣṇa-caturthī-māhātmya-varṇanam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">अष्टाविंशोऽध्यायः—आश्विन-कृष्ण-चतुर्थी-माहात्म्य-वर्णनम्</h2>

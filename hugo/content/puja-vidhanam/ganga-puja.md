@@ -4,7 +4,8 @@
  "source_file": "pujas/ganga-puja.tex",
  "verse_count": 57,
  "columns_hint": 2,
- "weight": 290
+ "weight": 290,
+ "iast": "Śrī-gaṅgāpūjā"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्री-गङ्गापूजा</h2>

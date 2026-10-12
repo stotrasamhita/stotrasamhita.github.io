@@ -1,6 +1,7 @@
 {
  "title": "सप्तमः सर्गः",
- "weight": 70
+ "weight": 70,
+ "iast": "Saptamaḥ Sargaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">सप्तमः सर्गः</h2>

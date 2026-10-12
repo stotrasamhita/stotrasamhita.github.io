@@ -1,7 +1,6 @@
 {
- "title": "Adhyatma Ramayana Stotras",
+ "title": "अध्यात्मरामायणस्तोत्राणि",
+ "iast": "Adhyātma Rāmāyaṇa stotras",
  "weight": 10,
- "bookCollapseSection": true
+ "description": "Stutis from the Adhyātma Rāmāyaṇa."
 }
-
-<p>Stotras associated with the Adhyatma Ramayanam.</p>

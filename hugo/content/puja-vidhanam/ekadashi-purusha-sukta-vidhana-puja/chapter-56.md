@@ -1,6 +1,7 @@
 {
  "title": "भाद्रपद-कृष्णाजा-एकादशी-माहात्म्यम्",
- "weight": 560
+ "weight": 560,
+ "iast": "Bhādrapada-kṛṣṇājā-ekādaśī-māhātmyam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">भाद्रपद-कृष्णाजा-एकादशी-माहात्म्यम्</h2>

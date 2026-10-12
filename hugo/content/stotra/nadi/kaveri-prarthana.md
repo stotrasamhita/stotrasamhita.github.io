@@ -3,7 +3,13 @@
  "slug": "kaveri-prarthana",
  "source_file": "stotras/nadi/KaveriPrarthana.tex",
  "verse_count": 5,
- "weight": 40
+ "weight": 40,
+ "iast": "Kāverī Prārthanā",
+ "form": "Prārthanā",
+ "deity": [
+  "Nadi"
+ ],
+ "date": "2019-06-29"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">कावेरी प्रार्थना</h2>

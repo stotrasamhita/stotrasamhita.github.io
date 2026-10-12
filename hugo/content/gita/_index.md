@@ -1,10 +1,7 @@
 ---
-title: "Gita"
-type: docs
+title: "श्रीमद्भगवद्गीता"
+iast: "Bhagavad Gītā"
 weight: 4
 ---
 
-# Gita
-
-Srimad Bhagavad Gita in Sanskrit, built from the
-[gita](https://github.com/stotrasamhita/gita) TeX corpus.
+All eighteen chapters with the dhyāna ślokas, the Gītā-māhātmya from the Varāha Purāṇa and Yāmunācārya's Gītārtha-saṅgraha, from the [gita](https://github.com/stotrasamhita/gita) corpus.

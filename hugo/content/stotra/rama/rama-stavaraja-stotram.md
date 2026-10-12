@@ -13,7 +13,10 @@
   "Anushtup"
  ],
  "wiki_title": "Rama Stavaraja Stotram",
- "weight": 120
+ "weight": 120,
+ "iast": "Rāmastavarājastotram",
+ "form": "Stuti",
+ "date": "2017-06-11"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">रामस्तवराजस्तोत्रम्</h2>

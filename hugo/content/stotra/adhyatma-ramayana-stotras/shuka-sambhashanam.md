@@ -3,7 +3,13 @@
  "slug": "shuka-sambhashanam",
  "source_file": "stotras/adhyatma-ramayana-stotras/ShukaSambhashanam.tex",
  "verse_count": 17,
- "weight": 320
+ "weight": 320,
+ "iast": "Śukasambhāṣaṇam",
+ "form": "Saṃvāda",
+ "deity": [
+  "Rama"
+ ],
+ "date": "2017-12-29"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">शुकसम्भाषणम्</h2>

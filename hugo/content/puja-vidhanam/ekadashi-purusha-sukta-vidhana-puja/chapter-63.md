@@ -1,6 +1,7 @@
 {
  "title": "पुरुषोत्तम-मासस्य कृष्ण-परमा-एकादशी-माहात्म्यम्",
- "weight": 630
+ "weight": 630,
+ "iast": "Puruṣottama-māsasya Kṛṣṇa-paramā-ekādaśī-māhātmyam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">पुरुषोत्तम-मासस्य कृष्ण-परमा-एकादशी-माहात्म्यम्</h2>

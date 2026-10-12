@@ -3,7 +3,13 @@
  "slug": "kamakshi-stotram",
  "source_file": "stotras/shakti/KamakshiStotram.tex",
  "verse_count": 10,
- "weight": 100
+ "weight": 100,
+ "iast": "Kāmākṣī-stotram",
+ "form": "Stotram",
+ "deity": [
+  "Shakti"
+ ],
+ "date": "2019-06-29"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">कामाक्षी-स्तोत्रम्</h2>

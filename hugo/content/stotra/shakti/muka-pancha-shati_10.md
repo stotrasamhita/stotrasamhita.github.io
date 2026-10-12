@@ -3,7 +3,13 @@
  "slug": "muka-pancha-shati_10",
  "source_file": "stotras/shakti/MukaPanchaShati_10.tex",
  "verse_count": 10,
- "weight": 150
+ "weight": 150,
+ "iast": "Mūkapañcaśatī",
+ "form": "Stotram",
+ "deity": [
+  "Shakti"
+ ],
+ "date": "2016-05-07"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">मूकपञ्चशती</h2>

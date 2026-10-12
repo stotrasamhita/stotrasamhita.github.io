@@ -1,6 +1,7 @@
 {
  "title": "फाल्गुन-शुक्लामलक्येकादशी-माहात्म्यम्",
- "weight": 170
+ "weight": 170,
+ "iast": "Phālguna-śuklāmalakyekādaśī-māhātmyam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">फाल्गुन-शुक्लामलक्येकादशी-माहात्म्यम्</h2>

@@ -1,6 +1,7 @@
 {
  "title": "चतुर्थोऽध्यायः॥४॥",
- "weight": 40
+ "weight": 40,
+ "iast": "Caturtho'dhyāyaḥ||4||"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">चतुर्थोऽध्यायः॥४॥</h2>

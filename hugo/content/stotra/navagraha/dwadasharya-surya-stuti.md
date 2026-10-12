@@ -7,7 +7,10 @@
   "Surya"
  ],
  "wiki_title": "Dwadasharya Surya Stuti",
- "weight": 70
+ "weight": 70,
+ "iast": "Dvādaśāryāsūryastutiḥ",
+ "form": "Stuti",
+ "date": "2016-11-27"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">द्वादशार्यासूर्यस्तुतिः</h2>

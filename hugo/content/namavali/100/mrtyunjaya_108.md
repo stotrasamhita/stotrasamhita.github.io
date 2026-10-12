@@ -4,7 +4,8 @@
  "source_file": "100/Mrtyunjaya_108.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 260
+ "weight": 260,
+ "iast": "Mṛtyuñjayāṣṭottaraśatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">मृत्युञ्जयाष्टोत्तरशतनामावलिः</h2>

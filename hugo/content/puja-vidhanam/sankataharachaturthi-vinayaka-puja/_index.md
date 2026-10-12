@@ -5,7 +5,8 @@
  "verse_count": 2367,
  "columns_hint": 2,
  "bookCollapseSection": true,
- "weight": 40
+ "weight": 40,
+ "iast": "Śrī-saṅkaṣṭacaturthīvrata-siddhivināyaka-pūjā"
 }
 
 <div class="stotra-article"></div>

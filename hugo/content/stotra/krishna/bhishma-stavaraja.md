@@ -4,7 +4,13 @@
  "source_file": "stotras/krishna/BhishmaStavaraja.tex",
  "verse_count": 146,
  "vakta": "Bhishma",
- "weight": 70
+ "weight": 70,
+ "iast": "Bhīṣma-stavarājaḥ",
+ "form": "Stuti",
+ "deity": [
+  "Krishna"
+ ],
+ "date": "2026-02-01"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">भीष्म-स्तवराजः</h2>

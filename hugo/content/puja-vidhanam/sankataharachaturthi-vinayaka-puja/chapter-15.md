@@ -1,6 +1,7 @@
 {
  "title": "नामैकादशोऽध्यायः—पौष-शुक्ल-चतुर्थी-माहात्म्य-वर्णनम्",
- "weight": 150
+ "weight": 150,
+ "iast": "Nāmaikādaśo'dhyāyaḥ—pauṣa-śukla-caturthī-māhātmya-varṇanam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">नामैकादशोऽध्यायः—पौष-शुक्ल-चतुर्थी-माहात्म्य-वर्णनम्</h2>

@@ -4,7 +4,8 @@
  "source_file": "100/Vyasa_108.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 450
+ "weight": 450,
+ "iast": "Śrīvyāsācāryāṣṭottaraśatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्रीव्यासाचार्याष्टोत्तरशतनामावलिः</h2>

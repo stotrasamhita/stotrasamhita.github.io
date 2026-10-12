@@ -4,7 +4,8 @@
  "source_file": "100/Devasena_108.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 80
+ "weight": 80,
+ "iast": "Devasenāṣṭottaraśatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">देवसेनाष्टोत्तरशतनामावलिः</h2>

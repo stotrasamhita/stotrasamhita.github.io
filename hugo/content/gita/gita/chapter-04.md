@@ -1,6 +1,7 @@
 {
  "title": "चतुर्थोऽध्यायः---ज्ञानकर्मसन्न्यासयोगः",
- "weight": 40
+ "weight": 40,
+ "iast": "Caturtho'dhyāyaḥ — Jñānakarmasannyāsayogaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">चतुर्थोऽध्यायः---ज्ञानकर्मसन्न्यासयोगः</h2>

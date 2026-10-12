@@ -3,7 +3,10 @@
  "slug": "guru-parampara",
  "source_file": "stotras/dhyanam/GuruParampara.tex",
  "verse_count": 9,
- "weight": 30
+ "weight": 30,
+ "iast": "Guruparamparā-stutiḥ",
+ "form": "Stuti",
+ "date": "2018-05-01"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">गुरुपरम्परा-स्तुतिः</h2>

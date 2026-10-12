@@ -1,20 +1,23 @@
 baseURL = 'https://stotrasamhita.github.io/'
 locale = 'en'
-title = 'Stotra Samhita'
-theme = 'hugo-book'
+title = 'StotraSamhita'
 disablePathToLower = true
-enableGitInfo = true
+# Deity, composer and metre are browse filters on /stotra/ rather than
+# taxonomy pages.
+disableKinds = ['taxonomy', 'term']
 
 [markup.goldmark.renderer]
   unsafe = true
 
 [params]
-  BookSection = '*'
-  BookSearch = true
-  BookComments = false
-  BookLogo = 'logo.png'
+  description = 'Sanskrit stotras, nāmāvalīs, pūjās and complete texts, proofread and typeset.'
+  github = 'https://github.com/stotrasamhita'
+  calendar = 'https://adyatithi.github.io/'
+  # Public-domain Ravi Varma paintings stand in as covers for a few stotras
+  # (data/placeholder_covers.yaml) until each stotra has its own cover.
+  placeholderCovers = true
 
-[taxonomies]
-  deity = 'deities'
-  composer = 'composers'
-  chandas = 'meters'
+
+[outputs]
+  home = ['html', 'rss']
+  section = ['html']

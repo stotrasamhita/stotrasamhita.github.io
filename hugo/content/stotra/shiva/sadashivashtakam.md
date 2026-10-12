@@ -15,7 +15,10 @@
  "stotra_type": "Ashtakam",
  "source": "Halasya Mahatmyam",
  "wiki_title": "Sadashivashtakam",
- "weight": 140
+ "weight": 140,
+ "iast": "Sadāśivāṣṭakam",
+ "form": "Aṣṭakam",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Ashtakam</p>

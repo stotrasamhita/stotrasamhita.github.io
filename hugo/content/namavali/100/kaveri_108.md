@@ -4,7 +4,8 @@
  "source_file": "100/Kaveri_108.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 210
+ "weight": 210,
+ "iast": "Kāveryaṣṭottaraśatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">कावेर्यष्टोत्तरशतनामावलिः</h2>

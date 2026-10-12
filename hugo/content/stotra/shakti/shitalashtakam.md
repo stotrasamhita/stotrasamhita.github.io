@@ -15,7 +15,10 @@
  "stotra_type": "Ashtakam",
  "source": "Skanda Puranam",
  "wiki_title": "Shitalashtakam",
- "weight": 190
+ "weight": 190,
+ "iast": "Śītalāṣṭakam",
+ "form": "Aṣṭakam",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Ashtakam</p>

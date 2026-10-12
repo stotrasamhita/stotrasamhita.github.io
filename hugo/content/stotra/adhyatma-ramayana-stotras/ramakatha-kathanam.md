@@ -3,7 +3,13 @@
  "slug": "ramakatha-kathanam",
  "source_file": "stotras/adhyatma-ramayana-stotras/RamakathaKathanam.tex",
  "verse_count": 13,
- "weight": 260
+ "weight": 260,
+ "iast": "Rāmakathākathanam",
+ "form": "Stotram",
+ "deity": [
+  "Rama"
+ ],
+ "date": "2017-12-29"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">रामकथाकथनम्</h2>

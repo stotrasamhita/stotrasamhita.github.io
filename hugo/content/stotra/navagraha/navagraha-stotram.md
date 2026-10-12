@@ -13,7 +13,10 @@
   "Anushtup"
  ],
  "wiki_title": "Navagraha Stotram",
- "weight": 110
+ "weight": 110,
+ "iast": "Navagrahastotram",
+ "form": "Stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">नवग्रहस्तोत्रम्</h2>

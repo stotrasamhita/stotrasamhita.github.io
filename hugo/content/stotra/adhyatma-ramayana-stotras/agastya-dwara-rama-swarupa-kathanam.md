@@ -3,7 +3,13 @@
  "slug": "agastya-dwara-rama-swarupa-kathanam",
  "source_file": "stotras/adhyatma-ramayana-stotras/AgastyaDwaraRamaSwarupaKathanam.tex",
  "verse_count": 15,
- "weight": 10
+ "weight": 10,
+ "iast": "Agastyadvārā Rāmasvarūpakathanam",
+ "form": "Stotram",
+ "deity": [
+  "Rama"
+ ],
+ "date": "2017-12-29"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">अगस्त्यद्वारा रामस्वरूपकथनम्</h2>

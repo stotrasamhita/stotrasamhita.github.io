@@ -1,6 +1,7 @@
 {
  "title": "प्रतिपूरुषम् (ब्रा॰)",
- "weight": 240
+ "weight": 240,
+ "iast": "Pratipūruṣam Brā॰"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">प्रतिपूरुषम् (ब्रा॰)</h2>

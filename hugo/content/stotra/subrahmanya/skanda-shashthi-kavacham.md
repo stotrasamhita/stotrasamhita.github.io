@@ -3,7 +3,12 @@
  "slug": "skanda-shashthi-kavacham",
  "source_file": "stotras/subrahmanya/SkandaShashthiKavacham.tex",
  "verse_count": 0,
- "weight": 30
+ "weight": 30,
+ "form": "Stotram",
+ "deity": [
+  "Subrahmanya"
+ ],
+ "date": "2016-06-15"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">கந்தர்ஷஷ்டி கவசம்</h2>

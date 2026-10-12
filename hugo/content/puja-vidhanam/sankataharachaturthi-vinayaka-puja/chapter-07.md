@@ -1,6 +1,7 @@
 {
  "title": "तृतीयोऽध्यायः—प्रतिपदादिव्रत-वर्णनम्",
- "weight": 70
+ "weight": 70,
+ "iast": "Tṛtīyo'dhyāyaḥ—pratipadādivrata-varṇanam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">तृतीयोऽध्यायः—प्रतिपदादिव्रत-वर्णनम्</h2>

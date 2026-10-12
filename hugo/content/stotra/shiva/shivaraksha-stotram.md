@@ -14,7 +14,10 @@
  ],
  "stotra_type": "Kavacham",
  "wiki_title": "Shivaraksha Stotram",
- "weight": 210
+ "weight": 210,
+ "iast": "Śivarakṣāstotram",
+ "form": "Stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Kavacham</p>

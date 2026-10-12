@@ -11,7 +11,10 @@
  ],
  "stotra_type": "Pratah Smaranam",
  "wiki_title": "Shiva Pratah Smarana Stotram",
- "weight": 190
+ "weight": 190,
+ "iast": "Śivaprātaḥsmaraṇastotram",
+ "form": "Prātaḥsmaraṇam",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Pratah Smaranam</p>

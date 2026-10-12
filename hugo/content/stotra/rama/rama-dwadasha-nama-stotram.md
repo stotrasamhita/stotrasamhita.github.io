@@ -17,7 +17,10 @@
  "vakta": "Shiva",
  "shrota": "Shakti",
  "wiki_title": "Rama Dwadasha Nama Stotram",
- "weight": 100
+ "weight": 100,
+ "iast": "Rāmadvādaśanāmastotram",
+ "form": "Nāma stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Nama Stotram</p>

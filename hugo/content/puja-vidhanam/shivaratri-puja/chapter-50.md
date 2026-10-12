@@ -1,6 +1,7 @@
 {
  "title": "श्रीरुद्रनाम त्रिशती",
- "weight": 500
+ "weight": 500,
+ "iast": "Śrīrudranāma Triśatī"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्रीरुद्रनाम त्रिशती</h2>

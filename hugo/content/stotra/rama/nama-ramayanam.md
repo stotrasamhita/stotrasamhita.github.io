@@ -11,7 +11,10 @@
  ],
  "wiki_title": "Nama Ramayanam",
  "columns_hint": 2,
- "weight": 80
+ "weight": 80,
+ "iast": "Nāmarāmāyaṇam",
+ "form": "Nāma stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">नामरामायणम्</h2>

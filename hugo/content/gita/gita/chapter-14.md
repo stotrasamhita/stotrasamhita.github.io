@@ -1,6 +1,7 @@
 {
  "title": "चतुर्दशोऽध्यायः---गुणत्रयविभागयोगः",
- "weight": 140
+ "weight": 140,
+ "iast": "Caturdaśo'dhyāyaḥ — Guṇatrayavibhāgayogaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">चतुर्दशोऽध्यायः---गुणत्रयविभागयोगः</h2>

@@ -4,7 +4,8 @@
  "source_file": "100/Dhanvantari_108.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 90
+ "weight": 90,
+ "iast": "Dhanvantaryaṣṭottaraśatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">धन्वन्तर्यष्टोत्तरशतनामावलिः</h2>

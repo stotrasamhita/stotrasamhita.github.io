@@ -3,7 +3,13 @@
  "slug": "akrurakrta-dashavatara-stuti",
  "source_file": "stotras/krishna/AkrurakrtaDashavataraStuti.tex",
  "verse_count": 6,
- "weight": 20
+ "weight": 20,
+ "iast": "Akrūrakṛta-daśāvatārastutiḥ",
+ "form": "Stuti",
+ "deity": [
+  "Krishna"
+ ],
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">अक्रूरकृत-दशावतारस्तुतिः</h2>

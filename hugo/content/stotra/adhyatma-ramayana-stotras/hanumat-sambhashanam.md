@@ -3,7 +3,13 @@
  "slug": "hanumat-sambhashanam",
  "source_file": "stotras/adhyatma-ramayana-stotras/HanumatSambhashanam.tex",
  "verse_count": 12,
- "weight": 70
+ "weight": 70,
+ "iast": "Hanūmatsambhāṣaṇam",
+ "form": "Saṃvāda",
+ "deity": [
+  "Rama"
+ ],
+ "date": "2017-12-29"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">हनूमत्सम्भाषणम्</h2>

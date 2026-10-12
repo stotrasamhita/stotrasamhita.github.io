@@ -10,7 +10,9 @@
   "Anushtup"
  ],
  "wiki_title": "Chandra Grahana Pidaparihara Shlokam",
- "weight": 60
+ "weight": 60,
+ "form": "Stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h3 class="subheading">चन्द्रग्रहण-पीडापरिहारश्लोकः</h3>

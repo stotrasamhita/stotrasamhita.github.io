@@ -1,6 +1,7 @@
 {
  "title": "चतुर्थोऽध्यायः—दशरथ-व्रतोपदेशः",
- "weight": 80
+ "weight": 80,
+ "iast": "Caturtho'dhyāyaḥ—daśaratha-vratopadeśaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">चतुर्थोऽध्यायः—दशरथ-व्रतोपदेशः</h2>

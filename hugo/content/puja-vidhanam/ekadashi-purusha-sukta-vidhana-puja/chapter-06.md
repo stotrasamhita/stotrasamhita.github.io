@@ -1,6 +1,7 @@
 {
  "title": "त्रिस्पृशाख्यानम्",
- "weight": 60
+ "weight": 60,
+ "iast": "Trispṛśākhyānam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">त्रिस्पृशाख्यानम्</h2>

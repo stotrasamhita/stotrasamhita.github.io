@@ -14,7 +14,10 @@
  ],
  "stotra_type": "Pancharatnam",
  "wiki_title": "Minakshi Pancharatnam",
- "weight": 140
+ "weight": 140,
+ "iast": "Mīnākṣīpañcaratnam",
+ "form": "Pañcaratnam",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Pancharatnam</p>

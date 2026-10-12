@@ -1,6 +1,7 @@
 {
  "title": "कलशेषु साम्बपरमेश्वर ध्यानम्",
- "weight": 320
+ "weight": 320,
+ "iast": "Kalaśeṣu Sāmbaparameśvara Dhyānam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">कलशेषु साम्बपरमेश्वर ध्यानम्</h2>

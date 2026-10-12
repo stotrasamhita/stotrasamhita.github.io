@@ -4,7 +4,8 @@
  "source_file": "100/Venkateshwara_108.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 430
+ "weight": 430,
+ "iast": "Veṅkaṭeśāṣṭottaraśatanāmāvaliḥ Varāhapurāṇāntargatā"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">वेङ्कटेशाष्टोत्तरशतनामावलिः (वराहपुराणान्तर्गता)</h2>

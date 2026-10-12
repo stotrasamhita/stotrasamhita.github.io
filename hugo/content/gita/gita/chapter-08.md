@@ -1,6 +1,7 @@
 {
  "title": "अष्टमोऽध्यायः---अक्षरब्रह्मयोगः",
- "weight": 80
+ "weight": 80,
+ "iast": "Aṣṭamo'dhyāyaḥ — Akṣarabrahmayogaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">अष्टमोऽध्यायः---अक्षरब्रह्मयोगः</h2>

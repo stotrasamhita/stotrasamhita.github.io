@@ -14,7 +14,10 @@
  ],
  "source": "Mahabharatam",
  "wiki_title": "Rudra Stotram",
- "weight": 130
+ "weight": 130,
+ "iast": "Śrīkṛṣṇārjunakṛta-rudrastotram",
+ "form": "Stotram",
+ "date": "2024-04-22"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्रीकृष्णार्जुनकृत-रुद्रस्तोत्रम्</h2>

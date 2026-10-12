@@ -3,7 +3,13 @@
  "slug": "kriya-yoga",
  "source_file": "stotras/adhyatma-ramayana-stotras/KriyaYoga.tex",
  "verse_count": 34,
- "weight": 140
+ "weight": 140,
+ "iast": "Kriyāyogaḥ",
+ "form": "Stotram",
+ "deity": [
+  "Rama"
+ ],
+ "date": "2017-12-29"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">क्रियायोगः</h2>

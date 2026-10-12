@@ -1,6 +1,7 @@
 {
  "title": "श्रीपाद्मपुराणे माघमासमाहात्म्ये शिवरात्रिव्रतकथनम्",
- "weight": 580
+ "weight": 580,
+ "iast": "Śrīpādmapurāṇe Māghamāsamāhātmye Śivarātrivratakathanam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्रीपाद्मपुराणे माघमासमाहात्म्ये शिवरात्रिव्रतकथनम्</h2>

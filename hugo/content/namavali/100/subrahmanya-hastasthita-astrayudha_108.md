@@ -4,7 +4,8 @@
  "source_file": "100/SubrahmanyaHastasthitaAstrayudha_108.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 360
+ "weight": 360,
+ "iast": "Subrahmaṇyasya Hastasthitasya Astrāyudha Aṣṭottaraśatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">सुब्रह्मण्यस्य हस्तस्थितस्य अस्त्रायुध अष्टोत्तरशतनामावलिः</h2>

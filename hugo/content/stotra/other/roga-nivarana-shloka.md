@@ -3,7 +3,10 @@
  "slug": "roga-nivarana-shloka",
  "source_file": "stotras/other/RogaNivaranaShloka.tex",
  "verse_count": 9,
- "weight": 40
+ "weight": 40,
+ "iast": "Roganivāraṇaślokāḥ",
+ "form": "Stotram",
+ "date": "2020-04-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">रोगनिवारणश्लोकाः</h2>

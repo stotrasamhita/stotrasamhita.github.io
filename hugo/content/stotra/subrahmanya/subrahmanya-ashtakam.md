@@ -3,7 +3,13 @@
  "slug": "subrahmanya-ashtakam",
  "source_file": "stotras/subrahmanya/SubrahmanyaAshtakam.tex",
  "verse_count": 10,
- "weight": 40
+ "weight": 40,
+ "iast": "Śrīsubrahmaṇyāṣṭakam",
+ "form": "Aṣṭakam",
+ "deity": [
+  "Subrahmanya"
+ ],
+ "date": "2024-08-16"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्रीसुब्रह्मण्याष्टकम्</h2>

@@ -4,7 +4,13 @@
  "source_file": "stotras/krishna/BhajaGovindam-laghu.tex",
  "verse_count": 10,
  "columns_hint": 2,
- "weight": 60
+ "weight": 60,
+ "iast": "Bhaja Govindam",
+ "form": "Stotram",
+ "deity": [
+  "Krishna"
+ ],
+ "date": "2020-02-09"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">भज गोविन्दम्</h2>

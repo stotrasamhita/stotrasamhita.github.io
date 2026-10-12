@@ -1,6 +1,7 @@
 {
  "title": "सङ्कष्ट-चतुर्थी-व्रत-कथा",
- "weight": 40
+ "weight": 40,
+ "iast": "Saṅkaṣṭa-caturthī-vrata-kathā"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">सङ्कष्ट-चतुर्थी-व्रत-कथा</h2>

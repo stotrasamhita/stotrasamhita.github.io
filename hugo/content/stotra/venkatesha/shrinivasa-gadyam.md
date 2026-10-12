@@ -11,7 +11,10 @@
  ],
  "stotra_type": "Gadyam",
  "wiki_title": "Shrinivasa Gadyam",
- "weight": 10
+ "weight": 10,
+ "iast": "Śrīnivāsa Gadyam",
+ "form": "Gadyam",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Gadyam</p>

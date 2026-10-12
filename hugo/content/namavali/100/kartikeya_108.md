@@ -4,7 +4,8 @@
  "source_file": "100/Kartikeya_108.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 200
+ "weight": 200,
+ "iast": "Kārttikeyāṣṭottaraśatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">कार्त्तिकेयाष्टोत्तरशतनामावलिः</h2>

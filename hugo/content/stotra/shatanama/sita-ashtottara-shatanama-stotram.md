@@ -12,7 +12,10 @@
  "stotra_type": "Shatanama Stotram",
  "source": "Ananda Ramayanam",
  "wiki_title": "Sita Ashtottara Shatanama Stotram",
- "weight": 270
+ "weight": 270,
+ "iast": "Sītāṣṭottaraśatanāmastotram",
+ "form": "Śatanāma",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Shatanama Stotram</p>

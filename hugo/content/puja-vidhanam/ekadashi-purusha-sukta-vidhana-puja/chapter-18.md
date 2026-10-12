@@ -1,6 +1,7 @@
 {
  "title": "चैत्र-कृष्ण-पापमोचनी-एकादशी-माहात्म्यम्",
- "weight": 180
+ "weight": 180,
+ "iast": "Caitra-kṛṣṇa-pāpamocanī-ekādaśī-māhātmyam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">चैत्र-कृष्ण-पापमोचनी-एकादशी-माहात्म्यम्</h2>

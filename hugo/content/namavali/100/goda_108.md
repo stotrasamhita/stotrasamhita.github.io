@@ -4,7 +4,8 @@
  "source_file": "100/Goda_108.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 160
+ "weight": 160,
+ "iast": "Godāṣṭottaraśatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">गोदाष्टोत्तरशतनामावलिः</h2>

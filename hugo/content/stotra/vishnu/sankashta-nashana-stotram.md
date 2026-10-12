@@ -3,7 +3,13 @@
  "slug": "sankashta-nashana-stotram",
  "source_file": "stotras/vishnu/SankashtaNashanaStotram.tex",
  "verse_count": 4,
- "weight": 80
+ "weight": 80,
+ "iast": "Saṅkaṣṭanāśana-stotraṃ",
+ "form": "Stotram",
+ "deity": [
+  "Vishnu"
+ ],
+ "date": "2025-11-01"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">सङ्कष्टनाशन-स्तोत्रं</h2>

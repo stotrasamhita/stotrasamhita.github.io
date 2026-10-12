@@ -3,7 +3,13 @@
  "slug": "ahalyakrta-rama-stotram",
  "source_file": "stotras/rama/AhalyakrtaRamaStotram.tex",
  "verse_count": 23,
- "weight": 10
+ "weight": 10,
+ "iast": "Ahalyākṛta-rāmastotram",
+ "form": "Stotram",
+ "deity": [
+  "Rama"
+ ],
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">अहल्याकृत-रामस्तोत्रम्</h2>

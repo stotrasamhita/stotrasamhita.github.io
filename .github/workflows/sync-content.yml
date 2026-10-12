@@ -30,9 +30,13 @@ jobs:
       - name: Checkout source repos
         run: |
           mkdir -p repos
-          for repo in stotra-sangrahah namavali-manjari puja-vidhanam gita adhyatmaramayanam mahabharatam; do
+          # stotra-sangrahah in full: enrich_content.py dates each stotra
+          # by the commit that first added its .tex.
+          git clone "https://github.com/stotrasamhita/stotra-sangrahah.git" repos/stotra-sangrahah
+          for repo in namavali-manjari puja-vidhanam gita adhyatmaramayanam mahabharatam; do
             git clone --depth 1 "https://github.com/stotrasamhita/${repo}.git" "repos/${repo}"
           done
+          pip install indic_transliteration
 
       - name: Run sync
         working-directory: site

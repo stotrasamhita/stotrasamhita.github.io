@@ -1,6 +1,7 @@
 {
  "title": "त्रयोविंशोऽध्यायः॥२३॥",
- "weight": 230
+ "weight": 230,
+ "iast": "Trayoviṃśo'dhyāyaḥ||23||"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">त्रयोविंशोऽध्यायः॥२३॥</h2>

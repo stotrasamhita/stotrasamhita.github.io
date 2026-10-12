@@ -3,7 +3,13 @@
  "slug": "sundara-hanuman-maha-mantra-nama-stotram",
  "source_file": "stotras/hanuman/SundaraHanumanMahaMantraNamaStotram.tex",
  "verse_count": 5,
- "weight": 40
+ "weight": 40,
+ "iast": "Sundarahanumān Mahāmantranāmastotram",
+ "form": "Nāma stotram",
+ "deity": [
+  "Hanuman"
+ ],
+ "date": "2016-11-27"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">सुन्दरहनुमान् महामन्त्रनामस्तोत्रम्</h2>

@@ -1,6 +1,7 @@
 {
  "title": "श्रवणद्वादशीव्रतम्",
- "weight": 360
+ "weight": 360,
+ "iast": "Śravaṇadvādaśīvratam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्रवणद्वादशीव्रतम्</h2>

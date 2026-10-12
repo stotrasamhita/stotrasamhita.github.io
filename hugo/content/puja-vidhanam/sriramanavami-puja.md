@@ -4,7 +4,8 @@
  "source_file": "pujas/sriramanavami-puja.tex",
  "verse_count": 171,
  "columns_hint": 2,
- "weight": 60
+ "weight": 60,
+ "iast": "Śrī-rāmanavamī-pūjā"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्री-रामनवमी-पूजा</h2>

@@ -1,6 +1,7 @@
 {
  "title": "चतुःसप्ततितमोऽध्यायः॥७४॥",
- "weight": 740
+ "weight": 740,
+ "iast": "Catuḥsaptatitamo'dhyāyaḥ||74||"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">चतुःसप्ततितमोऽध्यायः॥७४॥</h2>

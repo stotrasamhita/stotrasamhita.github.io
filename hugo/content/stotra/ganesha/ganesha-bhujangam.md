@@ -14,7 +14,10 @@
  ],
  "stotra_type": "Ashtakam",
  "wiki_title": "Ganesha Bhujangam",
- "weight": 30
+ "weight": 30,
+ "iast": "Gaṇeśabhujaṅgam",
+ "form": "Bhujaṅgam",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Ashtakam</p>

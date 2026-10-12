@@ -13,7 +13,10 @@
   "Vasantatilaka"
  ],
  "wiki_title": "Venkatesha Karavalamba Stotram",
- "weight": 40
+ "weight": 40,
+ "iast": "Veṅkaṭeśa Karāvalambastotram",
+ "form": "Stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">वेङ्कटेश करावलम्बस्तोत्रम्</h2>

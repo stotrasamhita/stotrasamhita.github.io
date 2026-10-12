@@ -1,6 +1,7 @@
 {
  "title": "विष्णुसहस्रनामावलिः",
- "weight": 30
+ "weight": 30,
+ "iast": "Viṣṇusahasranāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">विष्णुसहस्रनामावलिः</h2>

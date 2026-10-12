@@ -3,7 +3,10 @@
  "slug": "yamabhayanivarana-stotram",
  "source_file": "stotras/other/YamabhayanivaranaStotram.tex",
  "verse_count": 1,
- "weight": 60
+ "weight": 60,
+ "iast": "Yamabhayanivāraṇastotram",
+ "form": "Stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">यमभयनिवारणस्तोत्रम्</h2>

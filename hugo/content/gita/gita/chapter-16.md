@@ -1,6 +1,7 @@
 {
  "title": "षोडशोऽध्यायः---दैवासुरसम्पद्विभागयोगः",
- "weight": 160
+ "weight": 160,
+ "iast": "Ṣoḍaśo'dhyāyaḥ — Daivāsurasampadvibhāgayogaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">षोडशोऽध्यायः---दैवासुरसम्पद्विभागयोगः</h2>

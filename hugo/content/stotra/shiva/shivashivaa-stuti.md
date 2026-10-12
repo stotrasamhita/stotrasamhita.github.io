@@ -11,7 +11,10 @@
   "Composer:Subrahmanya"
  ],
  "wiki_title": "Shivashivaa Stuti",
- "weight": 220
+ "weight": 220,
+ "iast": "Śivaśivāstutiḥ",
+ "form": "Stuti",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">शिवशिवास्तुतिः</h2>

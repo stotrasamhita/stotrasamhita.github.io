@@ -3,7 +3,13 @@
  "slug": "muka-sarah",
  "source_file": "stotras/shakti/MukaSarah.tex",
  "verse_count": 40,
- "weight": 160
+ "weight": 160,
+ "iast": "Mūkasāraḥ",
+ "form": "Stotram",
+ "deity": [
+  "Shakti"
+ ],
+ "date": "2019-10-14"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">मूकसारः</h2>

@@ -4,7 +4,8 @@
  "source_file": "kandas/YuddhaKanda.tex",
  "verse_count": 1106,
  "bookCollapseSection": true,
- "weight": 70
+ "weight": 70,
+ "iast": "Yuddhakāṇḍaḥ"
 }
 
 <div class="stotra-article"></div>

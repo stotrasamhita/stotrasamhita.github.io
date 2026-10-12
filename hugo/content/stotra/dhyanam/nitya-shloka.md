@@ -3,7 +3,10 @@
  "slug": "nitya-shloka",
  "source_file": "stotras/dhyanam/NityaShloka.tex",
  "verse_count": 19,
- "weight": 70
+ "weight": 70,
+ "iast": "Nityaślokāḥ",
+ "form": "Stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">चिरञ्जीविस्तोत्रम्</h2>

@@ -4,7 +4,8 @@
  "source_file": "pujas/varamahalakshmi-puja.tex",
  "verse_count": 176,
  "columns_hint": 2,
- "weight": 110
+ "weight": 110,
+ "iast": "Śrī-varamahālakṣmī-pūjā"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्री-वरमहालक्ष्मी-पूजा</h2>

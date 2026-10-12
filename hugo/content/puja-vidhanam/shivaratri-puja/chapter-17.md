@@ -1,6 +1,7 @@
 {
  "title": "गुह्यादि मस्तकान्तं षडङ्ग (चतुर्थो) न्यासः",
- "weight": 170
+ "weight": 170,
+ "iast": "Guhyādi Mastakāntaṃ Ṣaḍaṅga Caturtho Nyāsaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">गुह्यादि मस्तकान्तं षडङ्ग (चतुर्थो) न्यासः</h2>

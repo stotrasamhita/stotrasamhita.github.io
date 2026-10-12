@@ -1,37 +1,51 @@
 # Hugo site
 
-A self-contained [Hugo](https://gohugo.io/) site, using the [hugo-book](https://github.com/alex-shpak/hugo-book) theme (a git submodule at `themes/hugo-book` — run `git submodule update --init --recursive` from the repo root if it's empty). See the [root README](../README.md) for how this fits together with the Jekyll site at the repo root: this Hugo build only supplies specific content sections (`stotras/`, `namavalis/`, `pujavidhanam/`, `mahabharatam/`, `gita/`, `adhyatma-ramayanam/`), not the site's homepage or root-level pages.
+The site's homepage and all of its content sections, built with
+[Hugo](https://gohugo.io/) (extended edition, version pinned in
+`.github/workflows/pages.yml`) and a theme of its own in `layouts/`. A few
+older root-level pages (`about/`, `major-books/`, `individual-pdfs/`) still
+come from the Jekyll site at the repo root; see the [root README](../README.md).
 
-Run locally with:
+Run locally from inside this `hugo/` directory:
 
 ```
 hugo server
 ```
 
-(run from inside this `hugo/` directory; requires the extended edition of Hugo, matching the version pinned in `.github/workflows/pages.yml`).
+## Content (`content/`)
 
-## Content layout (`content/`)
+Generated from the TeX corpora by `scripts/sync_content.py` and then
+`scripts/enrich_content.py`; don't edit generated pages by hand. Each
+section's own `_index.md` is hand-written and kept across syncs.
 
-Each top-level directory under `content/` is a section, with an `_index.md` giving it a title/landing page:
+- **`stotra/`**: stotras by category (mostly deity), e.g. `stotra/lakshmi/`.
+  `/stotra/` itself is the browse page, with filters for deity, form,
+  composer, metre and length (`?deity=Śiva&form=Aṣṭakam`).
+- **`namavali/`**: nāmāvalīs, grouped by length (`100`, `300`, `1000`, `small`).
+- **`puja-vidhanam/`**: pūjās and vratas; multi-part ones are subdirectories.
+- **`gita/`**, **`adhyatma-ramayanam/`**, **`mahabharatam/`**: whole texts,
+  split into chapters.
 
-- **`stotras/`** — stotras (hymns), organized by subject/deity (e.g. `dhyanam/`, `hanuman/`).
-- **`namavalis/`** — nāmāvalis (name-lists), grouped by length (`100`, `300`, `1000`) plus a `small/` set.
-- **`pujavidhanam/`** — pūjā-vidhānam (ritual procedure texts) — individual pujas (e.g. `ganga-puja.md`, `surya-puja.md`), vratams, tarpaṇams, and māhātmyams, both as flat `.md` files and as subdirectories for multi-page procedures.
-- **`mahabharatam/`** — Mahābhāratam content, organized by parva (e.g. `04-virāṭaparva/`).
-- **`gita/`** — the Bhagavad Gītā and related texts (Gītā Sāra, māhātmyams).
-- **`adhyatma-ramayanam/`** — Adhyātma Rāmāyaṇam, organized by kāṇḍa (bala, ayodhya, aranya, kishkindha, sundara, yuddha, uttara).
+`enrich_content.py` adds the IAST title, form, date added and missing deity
+to each page's front matter, and moves the old `stotra/big/` stotras into
+their deity's folder, keeping the old URL as an alias.
 
-`content/_index.md` itself is a stub — it's not served as a page; it just documents (for anyone browsing the source) that the real homepage lives in the Jekyll site at the repo root.
+## Theme
 
-## Other directories
+- `layouts/home.html`: the magazine front page. What it features (lead
+  stotra, featured stotras, collections, books, day-of-week deities) is set
+  in `data/home.yaml`.
+- `layouts/browse.html`: `/stotra/`. Cards are rendered here; `assets/js/browse.js`
+  filters and sorts them in the browser.
+- `layouts/section.html`, `layouts/page.html`: section listings and reading pages.
+- `data/deities.yaml`, `composers.yaml`, `meters.yaml`: display names (with
+  diacritics) for the raw TeX metadata, and each deity's cover colours.
+- `assets/css/site.css`: the design; `assets/css/stotras.css`: verse layout.
 
-- **`assets/`** — CSS/JS built through Hugo's asset pipeline (`assets/css/stotras.css`, `assets/js/sanscript.js` for script transliteration, `assets/js/script-switcher.js`).
-- **`layouts/`** — custom layout overrides on top of the hugo-book theme.
-- **`static/`** — files served as-is (e.g. `logo.png`).
-- **`themes/hugo-book/`** — the theme, as a git submodule; don't edit in place, it will be overwritten on submodule update.
+## Covers
 
-`public/`, `resources/`, and `.hugo_build.lock` are Hugo build artifacts and are gitignored.
-
----
-
-*The README.md files on this repo were generated and beautified with Claude.*
+A stotra's cover is `assets/covers/<slug>.webp` if it exists. Otherwise, while
+`params.placeholderCovers` is on, a public-domain Ravi Varma painting from
+`assets/covers/placeholder/` stands in for the few stotras listed in
+`data/placeholder_covers.yaml`. Every other stotra gets a typographic cover
+in its deity's colours.

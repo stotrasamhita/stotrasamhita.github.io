@@ -3,7 +3,13 @@
  "slug": "mahalakshmi-stuti",
  "source_file": "stotras/lakshmi/MahalakshmiStuti.tex",
  "verse_count": 13,
- "weight": 30
+ "weight": 30,
+ "iast": "Mahālakṣmīstutiḥ Agastyakṛtā",
+ "form": "Stuti",
+ "deity": [
+  "Lakshmi"
+ ],
+ "date": "2018-10-15"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">महालक्ष्मीस्तुतिः (अगस्त्यकृता)</h2>

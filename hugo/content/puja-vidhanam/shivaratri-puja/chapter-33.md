@@ -1,6 +1,7 @@
 {
  "title": "प्रदक्षिणम्",
- "weight": 330
+ "weight": 330,
+ "iast": "Pradakṣiṇam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">प्रदक्षिणम्</h2>

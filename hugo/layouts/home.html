@@ -1,0 +1,81 @@
+{{ define "main" }}
+{{ $H := hugo.Data.home }}
+{{ $stotras := (site.GetPage "/stotra").RegularPagesRecursive }}
+{{ $by := dict }}{{ range $stotras }}{{ $by = merge $by (dict .File.ContentBaseName .) }}{{ end }}
+
+{{ with index $by $H.lead.slug }}
+<section class="lead">
+  <a href="{{ .RelPermalink }}" tabindex="-1">{{ partial "cover.html" (dict "p" . "cls" "big" "w" 560) }}</a>
+  <div>
+    <div class="kicker">{{ $H.lead.kicker }}</div>
+    <h1>{{ .Title }}</h1>
+    <div class="iast">{{ .Params.iast }}{{ with $H.lead.subtitle }} · {{ . }}{{ end }}</div>
+    <p class="dek">{{ $H.lead.dek }}</p>
+    <div class="byline">{{ partial "metaline.html" . }}</div>
+    <div class="actions"><a class="btn" href="{{ .RelPermalink }}">Read the stotra</a><a class="btn ghost" href="/stotra/">Browse all stotras</a></div>
+  </div>
+</section>
+{{ end }}
+
+<section>
+  <div class="sec-h"><h2>Featured stotras</h2><span class="sub">Chosen by the editors</span><a class="more" href="/stotra/">All stotras →</a></div>
+  <div class="grid featured4">{{ range $H.featured }}{{ with index $by . }}{{ partial "card.html" . }}{{ end }}{{ end }}</div>
+</section>
+
+{{/* All seven days are rendered; site.js shows today's. Sunday by default. */}}
+{{ range $i, $d := $H.days }}
+<section class="today" data-day="{{ $i }}"{{ if $i }} hidden{{ end }}>
+  <div><div class="day">{{ $d.deva }}</div><div class="day"><small>{{ $d.en }} · {{ $d.g }}</small></div>
+    <p>{{ $d.note }}</p>
+    <a class="adya" href="{{ site.Params.calendar }}" rel="noopener">Today's tithi and festivals on Adyatithi ↗</a></div>
+  <ul>
+  {{ $n := 0 }}
+  {{ range $stotras.ByWeight }}{{ if and (lt $n 8) (in (partialCached "groups.html" . .Path) $d.g) }}{{ $n = add $n 1 }}
+    <li><a href="{{ .RelPermalink }}"><span class="t">{{ partial "title.html" .Title }}</span>{{ with .Params.verse_count }}<span class="n">{{ . }} verses</span>{{ end }}</a></li>
+  {{ end }}{{ end }}
+  </ul>
+</section>
+{{ end }}
+
+<section id="collections">
+  <div class="sec-h"><h2>Major collections</h2><span class="sub">Complete texts, proofread chapter by chapter</span></div>
+  <div class="colls">
+  {{ range $H.collections }}
+    {{ $href := .url }}
+    {{ with .section }}{{ with site.GetPage (printf "/%s" .) }}{{ $href = .RelPermalink }}{{ end }}{{ end }}
+    <a class="coll{{ if .wide }} wide{{ end }}" href="{{ $href }}">
+      {{ $img := "" }}{{ with .img }}{{ with resources.Get (printf "covers/placeholder/%s.webp" .) }}{{ $img = .Fill "600x460 center webp q72" }}{{ end }}{{ end }}
+      {{ if $img }}<div class="bg"><img src="{{ $img.RelPermalink }}" alt="" loading="lazy"></div>
+      {{ else }}<div class="bg fb" style="--c1:{{ index .c 0 | safeCSS }};--c2:{{ index .c 1 | safeCSS }}"><span class="glyph">{{ .g }}</span></div>{{ end }}
+      <div class="txt"><span class="d">{{ .deva }}</span><span class="e">{{ .en }}</span><span class="n">{{ partial "collcount.html" . }}</span></div>
+    </a>
+  {{ end }}
+  </div>
+</section>
+
+<section>
+  <div class="sec-h"><h2>Recently added</h2><span class="sub">New to the collection</span><a class="more" href="/stotra/?sort=recent">See more →</a></div>
+  <div class="grid">{{ range first 6 $stotras.ByDate.Reverse }}{{ partial "card.html" . }}{{ end }}</div>
+</section>
+
+<section>
+  <div class="sec-h"><h2>Browse by deity</h2><a class="more" href="/stotra/">All filters →</a></div>
+  <div class="deities">
+  {{ range $H.deities }}
+    {{ $g := . }}{{ $info := index hugo.Data.deities.groups $g }}
+    {{ $n := 0 }}{{ range $stotras }}{{ if in (partialCached "groups.html" . .Path) $g }}{{ $n = add $n 1 }}{{ end }}{{ end }}
+    <a class="deity" href="/stotra/?deity={{ $g }}">
+      {{ $img := "" }}{{ with index $H.deity_covers $g }}{{ with resources.Get (printf "covers/placeholder/%s.webp" .) }}{{ $img = .Fill "168x168 top webp q72" }}{{ end }}{{ end }}
+      {{ if $img }}<div class="cover"><img src="{{ $img.RelPermalink }}" alt="" loading="lazy"></div>
+      {{ else }}<div class="cover fb" style="--c1:{{ index $info.c 0 | safeCSS }};--c2:{{ index $info.c 1 | safeCSS }}"><span>{{ substr $info.deva 0 1 }}</span></div>{{ end }}
+      <span class="n1">{{ $info.deva }}</span><span class="n2">{{ $g }} · {{ $n }}</span>
+    </a>
+  {{ end }}
+  </div>
+</section>
+
+<section>
+  <div class="sec-h"><h2>Books</h2><span class="sub">Typeset books, as PDF and for Kindle</span><a class="more" href="/major-books/">All books →</a></div>
+  <div class="books">{{ range $H.books }}<a class="book" href="/major-books/#{{ .anchor }}" style="--c1:{{ index .c 0 | safeCSS }};--c2:{{ index .c 1 | safeCSS }}"><span class="d">{{ .deva }}</span><span class="f"><span>{{ .en }}</span></span></a>{{ end }}</div>
+</section>
+{{ end }}

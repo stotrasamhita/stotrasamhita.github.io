@@ -3,7 +3,13 @@
  "slug": "chandramopadesha",
  "source_file": "stotras/adhyatma-ramayana-stotras/Chandramopadesha.tex",
  "verse_count": 35,
- "weight": 50
+ "weight": 50,
+ "iast": "Candramopadeśaḥ",
+ "form": "Stotram",
+ "deity": [
+  "Rama"
+ ],
+ "date": "2017-12-29"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">चन्द्रमोपदेशः</h2>

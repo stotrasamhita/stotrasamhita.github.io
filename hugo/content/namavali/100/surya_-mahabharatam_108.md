@@ -4,7 +4,8 @@
  "source_file": "100/Surya_Mahabharatam_108.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 380
+ "weight": 380,
+ "iast": "Sūryāṣṭottaraśatanāmāvaliḥ Mahābhāratāntargatā"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">सूर्याष्टोत्तरशतनामावलिः (महाभारतान्तर्गता)</h2>

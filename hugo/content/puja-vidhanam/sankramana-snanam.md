@@ -3,7 +3,8 @@
  "slug": "sankramana-snanam",
  "source_file": "pujas/sankramana-snanam.tex",
  "verse_count": 8,
- "weight": 250
+ "weight": 250,
+ "iast": "Saṅkramaṇa-puṇyakāla-snāna-saṅkalpaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">सङ्क्रमण-पुण्यकाल-स्नान-सङ्कल्पः</h2>

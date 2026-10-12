@@ -11,7 +11,10 @@
  ],
  "stotra_type": "Pancharatnam",
  "wiki_title": "Durga Pancharatnam",
- "weight": 40
+ "weight": 40,
+ "iast": "Durgāpañcaratnam",
+ "form": "Pañcaratnam",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Pancharatnam</p>

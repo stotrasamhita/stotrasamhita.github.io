@@ -1,6 +1,7 @@
 {
  "title": "लघुन्यासे देवता-स्थापनम्",
- "weight": 300
+ "weight": 300,
+ "iast": "Laghunyāse Devatā-sthāpanam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">लघुन्यासे देवता-स्थापनम्</h2>

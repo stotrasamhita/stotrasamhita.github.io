@@ -1,6 +1,7 @@
 {
  "title": "शिवाष्टोत्तरशतनामावलिः",
- "weight": 610
+ "weight": 610,
+ "iast": "Śivāṣṭottaraśatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">शिवाष्टोत्तरशतनामावलिः</h2>

@@ -4,7 +4,8 @@
  "source_file": "pujas/surya-puja.tex",
  "verse_count": 105,
  "columns_hint": 2,
- "weight": 210
+ "weight": 210,
+ "iast": "Śrī-sūrya-pūjā"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्री-सूर्य-पूजा</h2>

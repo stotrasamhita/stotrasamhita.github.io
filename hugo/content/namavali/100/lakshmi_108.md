@@ -4,7 +4,8 @@
  "source_file": "100/Lakshmi_108.tex",
  "verse_count": 2,
  "columns_hint": 2,
- "weight": 250
+ "weight": 250,
+ "iast": "Lakṣmyaṣṭottaraśatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">लक्ष्म्यष्टोत्तरशतनामावलिः</h2>

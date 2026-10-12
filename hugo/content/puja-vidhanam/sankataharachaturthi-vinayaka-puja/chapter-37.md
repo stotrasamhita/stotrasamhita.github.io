@@ -1,6 +1,7 @@
 {
  "title": "त्रयस्त्रिंशोऽध्यायः—शमी-मूल-चतुर्थी-व्रताचरण-वर्णनम्",
- "weight": 370
+ "weight": 370,
+ "iast": "Trayastriṃśo'dhyāyaḥ—śamī-mūla-caturthī-vratācaraṇa-varṇanam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">त्रयस्त्रिंशोऽध्यायः—शमी-मूल-चतुर्थी-व्रताचरण-वर्णनम्</h2>

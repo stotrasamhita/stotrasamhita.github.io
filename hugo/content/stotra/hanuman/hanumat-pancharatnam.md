@@ -11,7 +11,10 @@
  ],
  "stotra_type": "Pancharatnam",
  "wiki_title": "Hanumat Pancharatnam",
- "weight": 30
+ "weight": 30,
+ "iast": "Hanumat-pañcaratnam",
+ "form": "Pañcaratnam",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Pancharatnam</p>

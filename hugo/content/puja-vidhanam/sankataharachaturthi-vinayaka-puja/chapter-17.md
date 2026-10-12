@@ -1,6 +1,7 @@
 {
  "title": "त्रयोदशोऽध्यायः—फाल्गुन-शुक्ल-चतुर्थी-माहात्म्य-वर्णनम्",
- "weight": 170
+ "weight": 170,
+ "iast": "Trayodaśo'dhyāyaḥ—phālguna-śukla-caturthī-māhātmya-varṇanam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">त्रयोदशोऽध्यायः—फाल्गुन-शुक्ल-चतुर्थी-माहात्म्य-वर्णनम्</h2>

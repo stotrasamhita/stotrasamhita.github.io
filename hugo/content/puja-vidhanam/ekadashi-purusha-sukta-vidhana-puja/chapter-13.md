@@ -1,6 +1,7 @@
 {
  "title": "पौष-शुक्ल-पुत्रदा-एकादशी-माहात्म्यम्",
- "weight": 130
+ "weight": 130,
+ "iast": "Pauṣa-śukla-putradā-ekādaśī-māhātmyam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">पौष-शुक्ल-पुत्रदा-एकादशी-माहात्म्यम्</h2>

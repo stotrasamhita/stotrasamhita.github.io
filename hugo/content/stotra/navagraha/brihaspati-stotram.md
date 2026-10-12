@@ -12,7 +12,10 @@
  "stotra_type": "Nama Stotram",
  "source": "Skanda Puranam",
  "wiki_title": "Brihaspati Stotram",
- "weight": 30
+ "weight": 30,
+ "iast": "Bṛhaspatistotram",
+ "form": "Stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Nama Stotram</p>

@@ -4,7 +4,8 @@
  "source_file": "100/Krishna_108.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 220
+ "weight": 220,
+ "iast": "Kṛṣṇāṣṭottaraśatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">कृष्णाष्टोत्तरशतनामावलिः</h2>

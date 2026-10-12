@@ -4,7 +4,8 @@
  "source_file": "100/Dakshinamurti_108.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 70
+ "weight": 70,
+ "iast": "Dakṣiṇāmūrtyaṣṭottaraśatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">दक्षिणामूर्त्यष्टोत्तरशतनामावलिः</h2>

@@ -4,7 +4,8 @@
  "source_file": "100/Sita_Ramarahasya_108.tex",
  "verse_count": 2,
  "columns_hint": 2,
- "weight": 340
+ "weight": 340,
+ "iast": "Sītāṣṭottaraśatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">सीताष्टोत्तरशतनामावलिः</h2>

@@ -1,6 +1,7 @@
 {
  "title": "दिक् सम्पुटन्यासः",
- "weight": 150
+ "weight": 150,
+ "iast": "Dik Sampuṭanyāsaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">दिक् सम्पुटन्यासः</h2>

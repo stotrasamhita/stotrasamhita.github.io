@@ -1,6 +1,7 @@
 {
  "title": "द्वितीयोऽध्यायः—शुक्ल--कृष्ण-चतुर्थी-वरदान-वर्णनम्",
- "weight": 60
+ "weight": 60,
+ "iast": "Dvitīyo'dhyāyaḥ—śukla–kṛṣṇa-caturthī-varadāna-varṇanam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">द्वितीयोऽध्यायः—शुक्ल--कृष्ण-चतुर्थी-वरदान-वर्णनम्</h2>

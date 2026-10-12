@@ -11,7 +11,10 @@
  ],
  "stotra_type": "Suprabhatam",
  "wiki_title": "Kamakshi Suprabhatam",
- "weight": 110
+ "weight": 110,
+ "iast": "Kāmākṣī Suprabhātam",
+ "form": "Suprabhātam",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Suprabhatam</p>

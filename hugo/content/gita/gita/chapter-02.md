@@ -1,6 +1,7 @@
 {
  "title": "द्वितीयोऽध्यायः---साङ्ख्ययोगः",
- "weight": 20
+ "weight": 20,
+ "iast": "Dvitīyo'dhyāyaḥ — Sāṅkhyayogaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">द्वितीयोऽध्यायः---साङ्ख्ययोगः</h2>

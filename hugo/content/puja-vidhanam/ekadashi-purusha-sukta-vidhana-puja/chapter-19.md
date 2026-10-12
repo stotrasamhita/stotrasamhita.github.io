@@ -1,6 +1,7 @@
 {
  "title": "चैत्र-शुक्ल-कामदा-एकादशी-माहात्म्यम्",
- "weight": 190
+ "weight": 190,
+ "iast": "Caitra-śukla-kāmadā-ekādaśī-māhātmyam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">चैत्र-शुक्ल-कामदा-एकादशी-माहात्म्यम्</h2>

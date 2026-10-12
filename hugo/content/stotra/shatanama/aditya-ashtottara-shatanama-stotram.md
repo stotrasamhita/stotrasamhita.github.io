@@ -15,7 +15,10 @@
  "stotra_type": "Shatanama Stotram",
  "source": "Bhavishya Puranam",
  "wiki_title": "Aditya Ashtottara Shatanama Stotram",
- "weight": 10
+ "weight": 10,
+ "iast": "Ādityāṣṭottaraśatanāmastotram",
+ "form": "Śatanāma",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Shatanama Stotram</p>

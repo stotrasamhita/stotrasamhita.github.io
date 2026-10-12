@@ -3,7 +3,10 @@
  "slug": "vyasa-ashtottara-shatanama-stotram",
  "source_file": "stotras/shatanama/VyasaAshtottaraShatanamaStotram.tex",
  "verse_count": 16,
- "weight": 330
+ "weight": 330,
+ "iast": "Vyāsāṣṭottaraśatanāmastotram",
+ "form": "Śatanāma",
+ "date": "2021-04-18"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">व्यासाष्टोत्तरशतनामस्तोत्रम्</h2>

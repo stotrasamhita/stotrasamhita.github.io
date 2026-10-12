@@ -3,7 +3,13 @@
  "slug": "bharadwajakrta-rama-stuti",
  "source_file": "stotras/adhyatma-ramayana-stotras/BharadwajakrtaRamaStuti.tex",
  "verse_count": 16,
- "weight": 40
+ "weight": 40,
+ "iast": "Bharadvājakṛta-rāmastutiḥ",
+ "form": "Stuti",
+ "deity": [
+  "Rama"
+ ],
+ "date": "2017-12-29"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">भरद्वाजकृत-रामस्तुतिः</h2>

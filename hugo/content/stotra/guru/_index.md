@@ -1,7 +1,6 @@
 {
- "title": "Guru",
+ "title": "गुरुः",
+ "iast": "Guru",
  "weight": 50,
- "bookCollapseSection": true
+ "description": "Stotras to the Guru and the ācāryas."
 }
-
-<p>Stotras dedicated to one's Guru.</p>

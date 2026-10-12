@@ -14,7 +14,10 @@
  ],
  "source": "Skanda Puranam",
  "wiki_title": "Munikrta Rama Stotram",
- "weight": 70
+ "weight": 70,
+ "iast": "Rāmastotram",
+ "form": "Stotram",
+ "date": "2024-04-22"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">रामस्तोत्रम्</h2>

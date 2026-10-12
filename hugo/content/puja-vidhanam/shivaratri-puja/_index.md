@@ -5,7 +5,8 @@
  "verse_count": 604,
  "columns_hint": 2,
  "bookCollapseSection": true,
- "weight": 230
+ "weight": 230,
+ "iast": "Śivarātri-pūjā — Yāma-catuṣṭaya-pūjā"
 }
 
 <div class="stotra-article"></div>

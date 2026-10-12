@@ -4,7 +4,8 @@
  "source_file": "100/Jagadanandakaraka_100.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 180
+ "weight": 180,
+ "iast": "Jagadānandakāraka Śatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">जगदानन्दकारक शतनामावलिः</h2>

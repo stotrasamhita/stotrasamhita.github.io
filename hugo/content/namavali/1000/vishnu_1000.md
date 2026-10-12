@@ -3,7 +3,8 @@
  "slug": "vishnu_1000",
  "source_file": "1000/Vishnu_1000.tex",
  "verse_count": 0,
- "weight": 70
+ "weight": 70,
+ "iast": "Viṣṇusahasranāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">विष्णुसहस्रनामावलिः</h2>

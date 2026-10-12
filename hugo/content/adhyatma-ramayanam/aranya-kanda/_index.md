@@ -4,7 +4,8 @@
  "source_file": "kandas/AranyaKanda.tex",
  "verse_count": 516,
  "bookCollapseSection": true,
- "weight": 40
+ "weight": 40,
+ "iast": "Araṇyakāṇḍaḥ"
 }
 
 <div class="stotra-article"></div>

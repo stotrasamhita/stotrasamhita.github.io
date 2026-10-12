@@ -1,7 +1,6 @@
 {
- "title": "Hanuman",
+ "title": "हनूमान्",
+ "iast": "Hanumān",
  "weight": 60,
- "bookCollapseSection": true
+ "description": "Stotras to Hanumān."
 }
-
-<p>Stotras dedicated to Hanuman.</p>

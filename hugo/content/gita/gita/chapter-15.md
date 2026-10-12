@@ -1,6 +1,7 @@
 {
  "title": "पञ्चदशोऽध्यायः---पुरुषोत्तमयोगः",
- "weight": 150
+ "weight": 150,
+ "iast": "Pañcadaśo'dhyāyaḥ — Puruṣottamayogaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">पञ्चदशोऽध्यायः---पुरुषोत्तमयोगः</h2>

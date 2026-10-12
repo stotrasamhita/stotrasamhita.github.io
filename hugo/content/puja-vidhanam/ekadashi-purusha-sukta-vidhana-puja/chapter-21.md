@@ -1,6 +1,7 @@
 {
  "title": "वैशाख-शुक्ल-मोहिनी-एकादशी-माहात्म्यम्",
- "weight": 210
+ "weight": 210,
+ "iast": "Vaiśākha-śukla-mohinī-ekādaśī-māhātmyam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">वैशाख-शुक्ल-मोहिनी-एकादशी-माहात्म्यम्</h2>

@@ -12,7 +12,10 @@
  "stotra_type": "Nama Stotram",
  "source": "Shankara Samhita",
  "wiki_title": "Subrahmanya Shodasha Nama Stotram",
- "weight": 80
+ "weight": 80,
+ "iast": "Subrahmaṇyaṣoḍaśanāmastotram",
+ "form": "Nāma stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Nama Stotram</p>

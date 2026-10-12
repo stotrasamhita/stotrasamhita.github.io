@@ -3,7 +3,13 @@
  "slug": "rama-sambhashanam",
  "source_file": "stotras/adhyatma-ramayana-stotras/RamaSambhashanam.tex",
  "verse_count": 30,
- "weight": 250
+ "weight": 250,
+ "iast": "Rāma-sambhāṣaṇam",
+ "form": "Saṃvāda",
+ "deity": [
+  "Rama"
+ ],
+ "date": "2017-12-29"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">राम-सम्भाषणम्</h2>

@@ -13,7 +13,10 @@
   "Anushtup"
  ],
  "wiki_title": "Saraswati Stotram (Brihaspati)",
- "weight": 30
+ "weight": 30,
+ "iast": "Sarasvatīstotraṃ Bṛhaspativiracitam",
+ "form": "Stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">सरस्वतीस्तोत्रं बृहस्पतिविरचितम्</h2>

@@ -4,7 +4,8 @@
  "source_file": "100/Annapurna_108.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 40
+ "weight": 40,
+ "iast": "Annapūrṇāṣṭottaraśatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">अन्नपूर्णाष्टोत्तरशतनामावलिः</h2>

@@ -3,7 +3,13 @@
  "slug": "lakshmana-sambhashanam",
  "source_file": "stotras/adhyatma-ramayana-stotras/LakshmanaSambhashanam.tex",
  "verse_count": 15,
- "weight": 160
+ "weight": 160,
+ "iast": "Lakṣmaṇa-sambhāṣaṇam",
+ "form": "Saṃvāda",
+ "deity": [
+  "Rama"
+ ],
+ "date": "2017-12-29"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">लक्ष्मण-सम्भाषणम्</h2>

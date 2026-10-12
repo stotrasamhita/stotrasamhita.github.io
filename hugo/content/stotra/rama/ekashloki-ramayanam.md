@@ -8,7 +8,10 @@
  ],
  "stotra_type": "Ekashloki",
  "wiki_title": "Ekashloki Ramayanam",
- "weight": 50
+ "weight": 50,
+ "iast": "Ekaśloki Rāmāyaṇam",
+ "form": "Stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Ekashloki</p>

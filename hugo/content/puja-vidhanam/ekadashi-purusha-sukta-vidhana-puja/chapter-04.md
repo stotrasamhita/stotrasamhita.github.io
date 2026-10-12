@@ -1,6 +1,7 @@
 {
  "title": "कृष्णाष्टोत्तरशतनामावलिः",
- "weight": 40
+ "weight": 40,
+ "iast": "Kṛṣṇāṣṭottaraśatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">कृष्णाष्टोत्तरशतनामावलिः</h2>

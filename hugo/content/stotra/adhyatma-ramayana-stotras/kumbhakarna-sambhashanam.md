@@ -3,7 +3,13 @@
  "slug": "kumbhakarna-sambhashanam",
  "source_file": "stotras/adhyatma-ramayana-stotras/KumbhakarnaSambhashanam.tex",
  "verse_count": 14,
- "weight": 150
+ "weight": 150,
+ "iast": "Kumbhakarṇasambhāṣaṇam",
+ "form": "Saṃvāda",
+ "deity": [
+  "Rama"
+ ],
+ "date": "2017-12-29"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">कुम्भकर्णसम्भाषणम्</h2>

@@ -3,7 +3,13 @@
  "slug": "gauri-dashakam",
  "source_file": "stotras/shakti/GauriDashakam.tex",
  "verse_count": 11,
- "weight": 60
+ "weight": 60,
+ "iast": "Gaurīdaśakam",
+ "form": "Daśakam",
+ "deity": [
+  "Shakti"
+ ],
+ "date": "2021-04-18"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">गौरीदशकम्</h2>

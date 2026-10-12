@@ -1,6 +1,7 @@
 {
  "title": "आषाढ-शुक्ल-शयनी-एकादशी-माहात्म्यम्",
- "weight": 250
+ "weight": 250,
+ "iast": "Āṣāḍha-śukla-śayanī-ekādaśī-māhātmyam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">आषाढ-शुक्ल-शयनी-एकादशी-माहात्म्यम्</h2>

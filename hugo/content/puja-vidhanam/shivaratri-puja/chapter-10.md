@@ -1,6 +1,7 @@
 {
  "title": "पञ्चाङ्गमुखन्यासः रावणोक्ता पञ्चमुखप्रार्थना-सहितम्",
- "weight": 100
+ "weight": 100,
+ "iast": "Pañcāṅgamukhanyāsaḥ Rāvaṇoktā Pañcamukhaprārthanā-sahitam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">पञ्चाङ्गमुखन्यासः रावणोक्ता पञ्चमुखप्रार्थना-सहितम्</h2>

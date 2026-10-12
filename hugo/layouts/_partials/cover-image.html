@@ -1,0 +1,7 @@
+{{/* The page's cover image resource, or nil: its own cover first
+     (assets/covers/<slug>.webp), then a placeholder painting. */}}
+{{ $img := resources.Get (printf "covers/%s.webp" .File.ContentBaseName) }}
+{{ if and (not $img) site.Params.placeholderCovers }}
+  {{ with index hugo.Data.placeholder_covers .File.ContentBaseName }}{{ $img = resources.Get (printf "covers/placeholder/%s.webp" .) }}{{ end }}
+{{ end }}
+{{ return $img }}

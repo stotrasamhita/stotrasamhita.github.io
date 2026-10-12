@@ -13,7 +13,10 @@
   "Anushtup"
  ],
  "wiki_title": "Sharada Prarthana",
- "weight": 50
+ "weight": 50,
+ "iast": "Śāradā Prārthanā",
+ "form": "Prārthanā",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">शारदा प्रार्थना</h2>

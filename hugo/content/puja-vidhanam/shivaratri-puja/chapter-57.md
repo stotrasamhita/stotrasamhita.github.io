@@ -1,6 +1,7 @@
 {
  "title": "श्रीलिङ्गपुराणे उमामहेश्वरसंवादे शिवरात्रिव्रतकथा",
- "weight": 570
+ "weight": 570,
+ "iast": "Śrīliṅgapurāṇe Umāmaheśvarasaṃvāde Śivarātrivratakathā"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्रीलिङ्गपुराणे उमामहेश्वरसंवादे शिवरात्रिव्रतकथा</h2>

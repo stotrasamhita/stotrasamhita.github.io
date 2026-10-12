@@ -1,6 +1,7 @@
 {
  "title": "ज्येष्ठ-कृष्णापरा-एकादशी-माहात्म्यम्",
- "weight": 220
+ "weight": 220,
+ "iast": "Jyeṣṭha-kṛṣṇāparā-ekādaśī-māhātmyam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">ज्येष्ठ-कृष्णापरा-एकादशी-माहात्म्यम्</h2>

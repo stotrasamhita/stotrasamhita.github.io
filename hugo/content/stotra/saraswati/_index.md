@@ -1,7 +1,6 @@
 {
- "title": "Saraswati",
+ "title": "सरस्वती",
+ "iast": "Sarasvatī",
  "weight": 140,
- "bookCollapseSection": true
+ "description": "Stotras to Sarasvatī."
 }
-
-<p>Stotras dedicated to Saraswati.</p>

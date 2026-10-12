@@ -3,7 +3,13 @@
  "slug": "kalabhairavashtakam",
  "source_file": "stotras/shiva/Kalabhairavashtakam.tex",
  "verse_count": 9,
- "weight": 90
+ "weight": 90,
+ "iast": "Kālabhairavāṣṭakam",
+ "form": "Aṣṭakam",
+ "deity": [
+  "Shiva"
+ ],
+ "date": "2024-08-16"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">कालभैरवाष्टकम्</h2>

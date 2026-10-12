@@ -1,7 +1,6 @@
 {
- "title": "Ganesha",
+ "title": "गणेशः",
+ "iast": "Gaṇeśa",
  "weight": 40,
- "bookCollapseSection": true
+ "description": "Stotras to Gaṇeśa."
 }
-
-<p>Stotras dedicated to Ganesha.</p>

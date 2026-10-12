@@ -264,6 +264,12 @@ def main():
         state[state_key] = sha
         changed_count += 1
 
+    if changed_count:
+        # Always over the whole tree: each sync above rewrites its corpus's
+        # front matter from scratch, dropping the fields enrich adds.
+        run([sys.executable, str(REPO_ROOT / "scripts" / "enrich_content.py"),
+             "--stotra-repo", str(args.repos_dir / "stotra-sangrahah")])
+
     save_state(state)
     print(f"changed: {changed_count}")
     return 0

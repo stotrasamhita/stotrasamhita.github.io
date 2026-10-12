@@ -11,7 +11,10 @@
  ],
  "stotra_type": "Dashakam",
  "wiki_title": "Shasta Dashakam",
- "weight": 20
+ "weight": 20,
+ "iast": "Śāstādaśakam",
+ "form": "Daśakam",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Dashakam</p>

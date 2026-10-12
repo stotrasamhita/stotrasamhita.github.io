@@ -1,6 +1,7 @@
 {
  "title": "चतुर्विंशोऽध्यायः॥२४॥",
- "weight": 240
+ "weight": 240,
+ "iast": "Caturviṃśo'dhyāyaḥ||24||"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">चतुर्विंशोऽध्यायः॥२४॥</h2>

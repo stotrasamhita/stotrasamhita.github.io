@@ -3,7 +3,8 @@
  "slug": "mahatmyam-varaha-puranam",
  "source_file": "gita/mahatmyam-varaha-puranam.tex",
  "verse_count": 30,
- "weight": 40
+ "weight": 40,
+ "iast": "Gītāmāhātmyam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">गीतामाहात्म्यम्</h2>

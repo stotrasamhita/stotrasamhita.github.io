@@ -13,7 +13,10 @@
   "Bhujanga Prayatam"
  ],
  "wiki_title": "Ganapati Stava",
- "weight": 10
+ "weight": 10,
+ "iast": "Gaṇapatistavaḥ",
+ "form": "Stuti",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">गणपतिस्तवः</h2>

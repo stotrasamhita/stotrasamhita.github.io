@@ -3,7 +3,13 @@
  "slug": "sugrivakrta-rama-stotram",
  "source_file": "stotras/adhyatma-ramayana-stotras/SugrivakrtaRamaStotram.tex",
  "verse_count": 18,
- "weight": 330
+ "weight": 330,
+ "iast": "Sugrīvakṛta-rāmastotram",
+ "form": "Stotram",
+ "deity": [
+  "Rama"
+ ],
+ "date": "2017-12-29"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">सुग्रीवकृत-रामस्तोत्रम्</h2>

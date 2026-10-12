@@ -4,7 +4,8 @@
  "source_file": "parvas/04-virāṭaparva.tex",
  "verse_count": 3495,
  "bookCollapseSection": true,
- "weight": 10
+ "weight": 10,
+ "iast": "Virāṭaparva"
 }
 
 <div class="stotra-article"></div>

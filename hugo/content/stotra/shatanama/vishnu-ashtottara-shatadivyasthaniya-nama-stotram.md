@@ -11,7 +11,10 @@
  ],
  "stotra_type": "Shatanama Stotram",
  "wiki_title": "Vishnu Ashtottara Shatadivyasthaniya Nama Stotram",
- "weight": 320
+ "weight": 320,
+ "iast": "Viṣṇoraṣṭottaraśatadivyasthānīyanāmastotram",
+ "form": "Nāma stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Shatanama Stotram</p>

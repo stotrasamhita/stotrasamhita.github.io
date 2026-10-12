@@ -3,7 +3,10 @@
  "slug": "mahabharata-dhyanam",
  "source_file": "stotras/dhyanam/MahabharataDhyanam.tex",
  "verse_count": 55,
- "weight": 60
+ "weight": 60,
+ "iast": "Śrīmahābhārata-dhyānam",
+ "form": "Dhyānam",
+ "date": "2023-05-14"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्रीमहाभारत-ध्यानम्</h2>

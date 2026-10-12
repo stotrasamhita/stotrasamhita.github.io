@@ -1,6 +1,7 @@
 {
  "title": "सप्तमोऽध्यायः---ज्ञानविज्ञानयोगः",
- "weight": 70
+ "weight": 70,
+ "iast": "Saptamo'dhyāyaḥ — Jñānavijñānayogaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">सप्तमोऽध्यायः---ज्ञानविज्ञानयोगः</h2>

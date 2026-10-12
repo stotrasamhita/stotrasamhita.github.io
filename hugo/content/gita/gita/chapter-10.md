@@ -1,6 +1,7 @@
 {
  "title": "दशमोऽध्यायः---विभूतियोगः",
- "weight": 100
+ "weight": 100,
+ "iast": "Daśamo'dhyāyaḥ — Vibhūtiyogaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">दशमोऽध्यायः---विभूतियोगः</h2>

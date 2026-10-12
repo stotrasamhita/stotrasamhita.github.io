@@ -1,6 +1,7 @@
 {
  "title": "आत्मपूजा",
- "weight": 310
+ "weight": 310,
+ "iast": "Ātmapūjā"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">आत्मपूजा</h2>

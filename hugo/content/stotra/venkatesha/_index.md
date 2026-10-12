@@ -1,7 +1,6 @@
 {
- "title": "Venkatesha",
+ "title": "वेङ्कटेशः",
+ "iast": "Veṅkaṭeśa",
  "weight": 200,
- "bookCollapseSection": true
+ "description": "Stotras to Veṅkaṭeśa."
 }
-
-<p>Stotras dedicated to Venkatesha.</p>

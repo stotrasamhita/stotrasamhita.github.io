@@ -3,7 +3,13 @@
  "slug": "triveni-stotram",
  "source_file": "stotras/nadi/TriveniStotram.tex",
  "verse_count": 11,
- "weight": 60
+ "weight": 60,
+ "iast": "Triveṇīstotram",
+ "form": "Stotram",
+ "deity": [
+  "Nadi"
+ ],
+ "date": "2019-03-30"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">त्रिवेणीस्तोत्रम्</h2>

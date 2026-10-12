@@ -3,7 +3,13 @@
  "slug": "dhanvatari-stotram",
  "source_file": "stotras/vishnu/DhanvatariStotram.tex",
  "verse_count": 23,
- "weight": 20
+ "weight": 20,
+ "iast": "Dhanvantari-stotram Matsya Purāṇāntargatam",
+ "form": "Stotram",
+ "deity": [
+  "Vishnu"
+ ],
+ "date": "2023-05-22"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">धन्वन्तरि-स्तोत्रम् (मत्स्य पुराणान्तर्गतम्)</h2>

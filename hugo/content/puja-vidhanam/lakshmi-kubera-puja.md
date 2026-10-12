@@ -4,7 +4,8 @@
  "source_file": "pujas/lakshmi-kubera-puja.tex",
  "verse_count": 66,
  "columns_hint": 2,
- "weight": 180
+ "weight": 180,
+ "iast": "Śrī-lakṣmī–kubera-pūjā"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्री-लक्ष्मी--कुबेर-पूजा</h2>

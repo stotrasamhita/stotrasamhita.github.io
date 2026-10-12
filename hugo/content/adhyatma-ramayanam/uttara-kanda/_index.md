@@ -4,7 +4,8 @@
  "source_file": "kandas/UttaraKanda.tex",
  "verse_count": 611,
  "bookCollapseSection": true,
- "weight": 80
+ "weight": 80,
+ "iast": "Uttarakāṇḍaḥ"
 }
 
 <div class="stotra-article"></div>

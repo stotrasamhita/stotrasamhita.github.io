@@ -3,7 +3,13 @@
  "slug": "vivaha-mangalashtakam",
  "source_file": "stotras/rama/VivahaMangalashtakam.tex",
  "verse_count": 9,
- "weight": 170
+ "weight": 170,
+ "iast": "Vivāha-maṅgalāṣṭakam",
+ "form": "Aṣṭakam",
+ "deity": [
+  "Rama"
+ ],
+ "date": "2026-02-21"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">विवाह-मङ्गलाष्टकम्</h2>

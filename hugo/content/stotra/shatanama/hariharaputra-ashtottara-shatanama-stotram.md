@@ -11,7 +11,10 @@
  ],
  "stotra_type": "Shatanama Stotram",
  "wiki_title": "Hariharaputra Ashtottara Shatanama Stotram",
- "weight": 140
+ "weight": 140,
+ "iast": "Hariharaputrāṣṭottaraśatanāmastotram",
+ "form": "Śatanāma",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Shatanama Stotram</p>

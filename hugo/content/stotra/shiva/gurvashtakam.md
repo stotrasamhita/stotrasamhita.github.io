@@ -13,7 +13,10 @@
   "Bhujanga Prayatam"
  ],
  "wiki_title": "Gurvashtakam",
- "weight": 80
+ "weight": 80,
+ "iast": "Gurvaṣṭakam",
+ "form": "Aṣṭakam",
+ "date": "2014-08-03"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">गुर्वष्टकम्</h2>

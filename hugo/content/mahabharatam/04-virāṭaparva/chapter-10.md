@@ -1,6 +1,7 @@
 {
  "title": "दशमोऽध्यायः॥१०॥",
- "weight": 100
+ "weight": 100,
+ "iast": "Daśamo'dhyāyaḥ||10||"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">दशमोऽध्यायः॥१०॥</h2>

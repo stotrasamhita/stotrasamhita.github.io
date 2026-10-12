@@ -1,6 +1,7 @@
 {
  "title": "अष्टादशोऽध्यायः---मोक्षसन्न्यासयोगः",
- "weight": 180
+ "weight": 180,
+ "iast": "Aṣṭādaśo'dhyāyaḥ — Mokṣasannyāsayogaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">अष्टादशोऽध्यायः---मोक्षसन्न्यासयोगः</h2>

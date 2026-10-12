@@ -4,7 +4,8 @@
  "source_file": "100/Durga_108.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 100
+ "weight": 100,
+ "iast": "Durgāṣṭottaraśatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">दुर्गाष्टोत्तरशतनामावलिः</h2>

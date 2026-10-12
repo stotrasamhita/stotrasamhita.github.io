@@ -10,7 +10,9 @@
   "Anushtup"
  ],
  "wiki_title": "Surya Grahana Pidaparihara Shlokam",
- "weight": 150
+ "weight": 150,
+ "form": "Stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h3 class="subheading">सूर्यग्रहण-पीडापरिहारश्लोकः</h3>

@@ -14,7 +14,10 @@
  ],
  "source": "Brahmavaivarta Puranam",
  "wiki_title": "Durga Stotram",
- "weight": 50
+ "weight": 50,
+ "iast": "Durgāstotram",
+ "form": "Stotram",
+ "date": "2017-06-03"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">दुर्गास्तोत्रम्</h2>

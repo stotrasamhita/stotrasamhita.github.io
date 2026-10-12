@@ -1,6 +1,7 @@
 {
  "title": "एकोनत्रिंशोऽध्यायः—कार्तिक-कृष्ण-चतुर्थी-माहात्म्य-वर्णनम्",
- "weight": 330
+ "weight": 330,
+ "iast": "Ekonatriṃśo'dhyāyaḥ—kārtika-kṛṣṇa-caturthī-māhātmya-varṇanam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">एकोनत्रिंशोऽध्यायः—कार्तिक-कृष्ण-चतुर्थी-माहात्म्य-वर्णनम्</h2>

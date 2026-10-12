@@ -1,6 +1,7 @@
 {
  "title": "विंशोऽध्यायः॥२०॥",
- "weight": 200
+ "weight": 200,
+ "iast": "Viṃśo'dhyāyaḥ||20||"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">विंशोऽध्यायः॥२०॥</h2>

@@ -3,7 +3,13 @@
  "slug": "vali-sugriva-katha",
  "source_file": "stotras/adhyatma-ramayana-stotras/ValiSugrivaKatha.tex",
  "verse_count": 28,
- "weight": 370
+ "weight": 370,
+ "iast": "Vālī-sugrīva-kathā",
+ "form": "Stotram",
+ "deity": [
+  "Rama"
+ ],
+ "date": "2017-12-29"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">वाली-सुग्रीव-कथा</h2>

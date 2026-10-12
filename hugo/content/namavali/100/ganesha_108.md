@@ -4,7 +4,8 @@
  "source_file": "100/Ganesha_108.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 130
+ "weight": 130,
+ "iast": "Gaṇapatyaṣṭottaraśatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">गणपत्यष्टोत्तरशतनामावलिः</h2>

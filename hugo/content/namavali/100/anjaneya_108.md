@@ -4,7 +4,8 @@
  "source_file": "100/Anjaneya_108.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 30
+ "weight": 30,
+ "iast": "Hanumadaṣṭottaraśatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">हनुमदष्टोत्तरशतनामावलिः</h2>

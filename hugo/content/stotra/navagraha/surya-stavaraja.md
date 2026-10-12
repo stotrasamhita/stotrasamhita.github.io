@@ -3,7 +3,13 @@
  "slug": "surya-stavaraja",
  "source_file": "stotras/navagraha/SuryaStavaraja.tex",
  "verse_count": 14,
- "weight": 190
+ "weight": 190,
+ "iast": "Sūryastavarājaḥ",
+ "form": "Stuti",
+ "deity": [
+  "Navagraha"
+ ],
+ "date": "2020-02-09"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">सूर्यस्तवराजः</h2>

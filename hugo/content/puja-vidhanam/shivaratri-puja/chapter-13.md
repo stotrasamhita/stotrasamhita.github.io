@@ -1,6 +1,7 @@
 {
  "title": "पादादिमूर्धान्त पञ्चाङ्ग (तृतीयो) न्यासः",
- "weight": 130
+ "weight": 130,
+ "iast": "Pādādimūrdhānta Pañcāṅga Tṛtīyo Nyāsaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">पादादिमूर्धान्त पञ्चाङ्ग (तृतीयो) न्यासः</h2>

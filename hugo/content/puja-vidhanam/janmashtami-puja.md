@@ -4,7 +4,8 @@
  "source_file": "pujas/janmashtami-puja.tex",
  "verse_count": 418,
  "columns_hint": 2,
- "weight": 130
+ "weight": 130,
+ "iast": "Śrī-kṛṣṇajanmāṣṭamī-pūjā"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्री-कृष्णजन्माष्टमी-पूजा</h2>

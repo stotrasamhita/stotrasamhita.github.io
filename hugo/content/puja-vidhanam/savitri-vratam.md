@@ -4,7 +4,8 @@
  "source_file": "pujas/savitri-vratam.tex",
  "verse_count": 354,
  "columns_hint": 2,
- "weight": 240
+ "weight": 240,
+ "iast": "Śrī-sāvitrī-vratam — Kāmākṣī-pūjā"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्री-सावित्री-व्रतम् — कामाक्षी-पूजा</h2>

@@ -3,7 +3,13 @@
  "slug": "dakshinamurti-stotram(-samara-pungava-dikshita-krtam)",
  "source_file": "stotras/shiva/DakshinamurtiStotram(SamaraPungavaDikshitaKrtam).tex",
  "verse_count": 9,
- "weight": 50
+ "weight": 50,
+ "iast": "Dakṣiṇāmūrtistotram Samarapuṅgavadīkṣitakṛtam",
+ "form": "Stotram",
+ "deity": [
+  "Shiva"
+ ],
+ "date": "2019-06-29"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">दक्षिणामूर्तिस्तोत्रम् समरपुङ्गवदीक्षितकृतम्</h2>

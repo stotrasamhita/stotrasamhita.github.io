@@ -1,11 +1,8 @@
 ---
-title: "Puja Vidhanam"
-type: docs
+title: "पूजाविधानम्"
+iast: "Pūjā-vidhānam"
 weight: 3
 aliases: ["/pujavidhanam/"]
 ---
 
-# Puja Vidhanam
-
-Mantras and shlokas for performing various pujas, built from the
-[puja-vidhanam](https://github.com/stotrasamhita/puja-vidhanam) TeX corpus.
+Mantras and ślokas for pūjās and vratas, with their kathās, from the [puja-vidhanam](https://github.com/stotrasamhita/puja-vidhanam) corpus.

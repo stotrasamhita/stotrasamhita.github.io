@@ -3,7 +3,13 @@
  "slug": "subrahmanya-bhujangam--paramashivendra-krtam",
  "source_file": "stotras/subrahmanya/SubrahmanyaBhujangam-ParamashivendraKrtam.tex",
  "verse_count": 31,
- "weight": 60
+ "weight": 60,
+ "iast": "Śrī-paramaśivendra-kṛtaṃ Subrahmaṇya-bhujaṅgam",
+ "form": "Bhujaṅgam",
+ "deity": [
+  "Subrahmanya"
+ ],
+ "date": "2025-11-02"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्री-परमशिवेन्द्र-कृतं सुब्रह्मण्य-भुजङ्गम्</h2>

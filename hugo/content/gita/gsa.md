@@ -3,7 +3,8 @@
  "slug": "gsa",
  "source_file": "gita/gsa.tex",
  "verse_count": 33,
- "weight": 20
+ "weight": 20,
+ "iast": "Gītārthasaṅgrahaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">गीतार्थसङ्ग्रहः</h2>

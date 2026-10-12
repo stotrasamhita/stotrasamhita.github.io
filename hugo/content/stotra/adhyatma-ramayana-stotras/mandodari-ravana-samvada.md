@@ -3,7 +3,13 @@
  "slug": "mandodari-ravana-samvada",
  "source_file": "stotras/adhyatma-ramayana-stotras/MandodariRavanaSamvada.tex",
  "verse_count": 26,
- "weight": 180
+ "weight": 180,
+ "iast": "Mandodarī-rāvaṇa-saṃvādaḥ",
+ "form": "Saṃvāda",
+ "deity": [
+  "Rama"
+ ],
+ "date": "2017-12-29"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">मन्दोदरी-रावण-संवादः</h2>

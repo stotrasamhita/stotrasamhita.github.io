@@ -3,7 +3,13 @@
  "slug": "kausalyakrta-rama-stotram",
  "source_file": "stotras/adhyatma-ramayana-stotras/KausalyakrtaRamaStotram.tex",
  "verse_count": 15,
- "weight": 130
+ "weight": 130,
+ "iast": "Kausalyākṛta-rāmastotram",
+ "form": "Stotram",
+ "deity": [
+  "Rama"
+ ],
+ "date": "2017-12-29"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">कौसल्याकृत-रामस्तोत्रम्</h2>

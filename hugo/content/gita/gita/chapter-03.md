@@ -1,6 +1,7 @@
 {
  "title": "तृतीयोऽध्यायः---कर्मयोगः",
- "weight": 30
+ "weight": 30,
+ "iast": "Tṛtīyo'dhyāyaḥ — Karmayogaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">तृतीयोऽध्यायः---कर्मयोगः</h2>

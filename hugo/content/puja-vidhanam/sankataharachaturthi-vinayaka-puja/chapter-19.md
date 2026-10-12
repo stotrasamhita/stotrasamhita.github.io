@@ -1,6 +1,7 @@
 {
  "title": "पञ्चदशोऽध्यायः—वैशाख-शुक्ल-चतुर्थी-माहात्म्य-वर्णनम्",
- "weight": 190
+ "weight": 190,
+ "iast": "Pañcadaśo'dhyāyaḥ—vaiśākha-śukla-caturthī-māhātmya-varṇanam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">पञ्चदशोऽध्यायः—वैशाख-शुक्ल-चतुर्थी-माहात्म्य-वर्णनम्</h2>

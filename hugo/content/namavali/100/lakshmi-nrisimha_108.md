@@ -4,7 +4,8 @@
  "source_file": "100/LakshmiNrisimha_108.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 240
+ "weight": 240,
+ "iast": "Śrī-lakṣmī-nṛsiṃhāṣṭottaraśatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्री-लक्ष्मी-नृसिंहाष्टोत्तरशतनामावलिः</h2>

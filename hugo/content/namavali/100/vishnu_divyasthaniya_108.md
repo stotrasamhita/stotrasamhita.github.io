@@ -4,7 +4,8 @@
  "source_file": "100/Vishnu_divyasthaniya_108.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 440
+ "weight": 440,
+ "iast": "Viṣṇoraṣṭottaraśatadivyasthānīyanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">विष्णोरष्टोत्तरशतदिव्यस्थानीयनामावलिः</h2>

@@ -13,7 +13,10 @@
  "vakta": "Shiva",
  "shrota": "Shakti",
  "wiki_title": "Lakshmi Ashtottara Shatanama Stotram",
- "weight": 180
+ "weight": 180,
+ "iast": "Lakṣmyaṣṭottaraśatanāmastotram",
+ "form": "Śatanāma",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Shatanama Stotram</p>

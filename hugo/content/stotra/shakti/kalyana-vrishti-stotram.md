@@ -3,7 +3,13 @@
  "slug": "kalyana-vrishti-stotram",
  "source_file": "stotras/shakti/KalyanaVrishtiStotram.tex",
  "verse_count": 16,
- "weight": 80
+ "weight": 80,
+ "iast": "Kalyāṇavṛṣṭistotram",
+ "form": "Stotram",
+ "deity": [
+  "Shakti"
+ ],
+ "date": "2018-10-15"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">कल्याणवृष्टिस्तोत्रम्</h2>

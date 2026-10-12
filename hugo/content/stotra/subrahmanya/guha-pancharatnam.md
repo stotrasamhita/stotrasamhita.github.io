@@ -11,7 +11,10 @@
  ],
  "stotra_type": "Pancharatnam",
  "wiki_title": "Guha Pancharatnam",
- "weight": 10
+ "weight": 10,
+ "iast": "Guhapañcaratnam",
+ "form": "Pañcaratnam",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Pancharatnam</p>

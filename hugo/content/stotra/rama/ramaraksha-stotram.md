@@ -15,7 +15,10 @@
  "stotra_type": "Kavacham",
  "source": "Padma Puranam",
  "wiki_title": "Ramaraksha Stotram",
- "weight": 130
+ "weight": 130,
+ "iast": "Rāmarakṣāstotram",
+ "form": "Stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Kavacham</p>

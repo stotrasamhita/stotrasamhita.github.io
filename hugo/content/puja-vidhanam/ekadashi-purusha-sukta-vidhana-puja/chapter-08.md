@@ -1,6 +1,7 @@
 {
  "title": "पक्षवर्धिनी-एकादशी-माहात्म्यम्",
- "weight": 80
+ "weight": 80,
+ "iast": "Pakṣavardhinī-ekādaśī-māhātmyam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">पक्षवर्धिनी-एकादशी-माहात्म्यम्</h2>

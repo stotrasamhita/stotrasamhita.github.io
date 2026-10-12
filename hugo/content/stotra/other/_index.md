@@ -1,7 +1,6 @@
 {
- "title": "Other",
+ "title": "इतराणि",
+ "iast": "Other stotras",
  "weight": 110,
- "bookCollapseSection": true
+ "description": "Stotras for specific occasions and needs."
 }
-
-<p>Stotras for specific occasions and needs.</p>

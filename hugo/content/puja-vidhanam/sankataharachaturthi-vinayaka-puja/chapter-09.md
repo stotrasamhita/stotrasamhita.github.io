@@ -1,6 +1,7 @@
 {
  "title": "पञ्चमोऽध्यायः—चतुर्थीविवेक-वर्णनम्",
- "weight": 90
+ "weight": 90,
+ "iast": "Pañcamo'dhyāyaḥ—caturthīviveka-varṇanam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">पञ्चमोऽध्यायः—चतुर्थीविवेक-वर्णनम्</h2>

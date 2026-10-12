@@ -10,7 +10,10 @@
   "Anushtup"
  ],
  "wiki_title": "Gayatri Stotram",
- "weight": 70
+ "weight": 70,
+ "iast": "Gāyatrīstotram",
+ "form": "Stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">गायत्रीस्तोत्रम्</h2>

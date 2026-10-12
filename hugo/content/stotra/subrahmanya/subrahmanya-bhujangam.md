@@ -13,7 +13,10 @@
   "Bhujanga Prayatam"
  ],
  "wiki_title": "Subrahmanya Bhujangam",
- "weight": 50
+ "weight": 50,
+ "iast": "Subrahmaṇyabhujaṅgam",
+ "form": "Bhujaṅgam",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">सुब्रह्मण्यभुजङ्गम्</h2>

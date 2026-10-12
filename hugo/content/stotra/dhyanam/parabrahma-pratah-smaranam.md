@@ -11,7 +11,10 @@
  ],
  "stotra_type": "Pratah Smaranam",
  "wiki_title": "Parabrahma Pratah Smaranam",
- "weight": 80
+ "weight": 80,
+ "iast": "Parabrahma-prātaḥ Smaraṇa-stotram",
+ "form": "Prātaḥsmaraṇam",
+ "date": "2016-06-03"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Pratah Smaranam</p>

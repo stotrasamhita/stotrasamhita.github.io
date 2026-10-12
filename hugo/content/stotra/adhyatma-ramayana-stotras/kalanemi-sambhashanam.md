@@ -3,7 +3,13 @@
  "slug": "kalanemi-sambhashanam",
  "source_file": "stotras/adhyatma-ramayana-stotras/KalanemiSambhashanam.tex",
  "verse_count": 18,
- "weight": 120
+ "weight": 120,
+ "iast": "Kālanemisambhāṣaṇam",
+ "form": "Saṃvāda",
+ "deity": [
+  "Rama"
+ ],
+ "date": "2017-12-29"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">कालनेमिसम्भाषणम्</h2>

@@ -13,7 +13,10 @@
  "stotra_type": "Shatanama Stotram",
  "source": "Skanda Puranam",
  "wiki_title": "Harihara Ashtottara Shatanama Stotram",
- "weight": 130
+ "weight": 130,
+ "iast": "Hariharāṣṭottaraśatanāmastotram",
+ "form": "Śatanāma",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Shatanama Stotram</p>

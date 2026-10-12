@@ -3,7 +3,13 @@
  "slug": "parashuramakrta-rama-stotram",
  "source_file": "stotras/adhyatma-ramayana-stotras/ParashuramakrtaRamaStotram.tex",
  "verse_count": 22,
- "weight": 220
+ "weight": 220,
+ "iast": "Paraśurāmakṛta-rāmastotram",
+ "form": "Stotram",
+ "deity": [
+  "Rama"
+ ],
+ "date": "2017-12-29"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">परशुरामकृत-रामस्तोत्रम्</h2>

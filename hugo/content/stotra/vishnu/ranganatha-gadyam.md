@@ -11,7 +11,10 @@
  ],
  "stotra_type": "Gadyam",
  "wiki_title": "Ranganatha Gadyam",
- "weight": 60
+ "weight": 60,
+ "iast": "Raṅganātha Gadyam",
+ "form": "Gadyam",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Gadyam</p>

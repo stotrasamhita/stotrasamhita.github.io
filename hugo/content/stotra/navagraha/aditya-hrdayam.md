@@ -16,7 +16,10 @@
  "vakta": "Agastya",
  "shrota": "Rama",
  "wiki_title": "Aditya Hrdayam",
- "weight": 10
+ "weight": 10,
+ "iast": "Ādityahṛdayam",
+ "form": "Stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">आदित्यहृदयम्</h2>

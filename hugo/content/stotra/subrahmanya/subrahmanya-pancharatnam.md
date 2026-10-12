@@ -8,7 +8,10 @@
  ],
  "stotra_type": "Pancharatnam",
  "wiki_title": "Subrahmanya Pancharatnam",
- "weight": 70
+ "weight": 70,
+ "iast": "Subrahmaṇyapañcaratnam",
+ "form": "Pañcaratnam",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Pancharatnam</p>

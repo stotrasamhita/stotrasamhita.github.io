@@ -1,6 +1,7 @@
 {
  "title": "नामैकत्रिंशोऽध्यायः—पौष-कृष्ण-चतुर्थी-माहात्म्य-वर्णनम्",
- "weight": 350
+ "weight": 350,
+ "iast": "Nāmaikatriṃśo'dhyāyaḥ—pauṣa-kṛṣṇa-caturthī-māhātmya-varṇanam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">नामैकत्रिंशोऽध्यायः—पौष-कृष्ण-चतुर्थी-माहात्म्य-वर्णनम्</h2>

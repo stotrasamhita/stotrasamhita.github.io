@@ -3,7 +3,13 @@
  "slug": "parashurama-krta-durga-stotram",
  "source_file": "stotras/shakti/ParashuramaKrtaDurgaStotram.tex",
  "verse_count": 59,
- "weight": 170
+ "weight": 170,
+ "iast": "Paraśurāmakṛta-durgāstotram",
+ "form": "Stotram",
+ "deity": [
+  "Shakti"
+ ],
+ "date": "2017-06-03"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">परशुरामकृत-दुर्गास्तोत्रम्</h2>

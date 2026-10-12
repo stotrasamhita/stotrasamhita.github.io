@@ -1,6 +1,7 @@
 {
  "title": "षोडशोऽध्यायः—ज्येष्ठ-शुक्ल-चतुर्थी-माहात्म्य-वर्णनम्",
- "weight": 200
+ "weight": 200,
+ "iast": "Ṣoḍaśo'dhyāyaḥ—jyeṣṭha-śukla-caturthī-māhātmya-varṇanam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">षोडशोऽध्यायः—ज्येष्ठ-शुक्ल-चतुर्थी-माहात्म्य-वर्णनम्</h2>

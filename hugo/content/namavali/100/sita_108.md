@@ -4,7 +4,8 @@
  "source_file": "100/Sita_108.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 350
+ "weight": 350,
+ "iast": "Sītāṣṭottaraśatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">सीताष्टोत्तरशतनामावलिः</h2>

@@ -3,7 +3,10 @@
  "slug": "karttikeya-ashtottara-shatanama-stotram",
  "source_file": "stotras/shatanama/KarttikeyaAshtottaraShatanamaStotram.tex",
  "verse_count": 21,
- "weight": 160
+ "weight": 160,
+ "iast": "Kārttikeyāṣṭottaraśatanāmastotram",
+ "form": "Śatanāma",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">कार्त्तिकेयाष्टोत्तरशतनामस्तोत्रम्</h2>

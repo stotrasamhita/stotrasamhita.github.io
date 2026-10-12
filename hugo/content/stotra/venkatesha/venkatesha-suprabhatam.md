@@ -11,7 +11,10 @@
  ],
  "stotra_type": "Suprabhatam",
  "wiki_title": "Venkatesha Suprabhatam",
- "weight": 80
+ "weight": 80,
+ "iast": "Veṅkaṭeśa Suprabhātam",
+ "form": "Suprabhātam",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Suprabhatam</p>

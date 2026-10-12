@@ -1,6 +1,7 @@
 {
  "title": "गणपत्यष्टोत्तरशतनामावलिः",
- "weight": 30
+ "weight": 30,
+ "iast": "Gaṇapatyaṣṭottaraśatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">गणपत्यष्टोत्तरशतनामावलिः</h2>

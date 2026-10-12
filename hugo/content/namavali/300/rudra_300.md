@@ -4,7 +4,8 @@
  "source_file": "300/Rudra_300.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 20
+ "weight": 20,
+ "iast": "Śrīrudranāma Triśatī"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्रीरुद्रनाम त्रिशती</h2>

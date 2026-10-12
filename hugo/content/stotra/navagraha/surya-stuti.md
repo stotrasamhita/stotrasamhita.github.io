@@ -3,7 +3,13 @@
  "slug": "surya-stuti",
  "source_file": "stotras/navagraha/SuryaStuti.tex",
  "verse_count": 7,
- "weight": 200
+ "weight": 200,
+ "iast": "Sūryastutiḥ",
+ "form": "Stuti",
+ "deity": [
+  "Navagraha"
+ ],
+ "date": "2019-11-24"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">सूर्यस्तुतिः</h2>

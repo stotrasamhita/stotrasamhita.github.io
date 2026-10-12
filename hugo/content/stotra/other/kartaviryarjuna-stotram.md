@@ -10,7 +10,10 @@
   "Anushtup"
  ],
  "wiki_title": "Kartaviryarjuna Stotram",
- "weight": 30
+ "weight": 30,
+ "iast": "Kārtavīryārjuna-dvādaśanāmastotram",
+ "form": "Nāma stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">कार्तवीर्यार्जुन-द्वादशनामस्तोत्रम्</h2>

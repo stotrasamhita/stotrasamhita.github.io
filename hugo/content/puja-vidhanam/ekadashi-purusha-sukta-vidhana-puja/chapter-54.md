@@ -1,6 +1,7 @@
 {
  "title": "श्रावण-कृष्ण-कामिका-एकादशी-माहात्म्यम्",
- "weight": 540
+ "weight": 540,
+ "iast": "Śrāvaṇa-kṛṣṇa-kāmikā-ekādaśī-māhātmyam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्रावण-कृष्ण-कामिका-एकादशी-माहात्म्यम्</h2>

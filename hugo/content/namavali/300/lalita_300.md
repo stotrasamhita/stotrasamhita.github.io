@@ -4,7 +4,8 @@
  "source_file": "300/Lalita_300.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 10
+ "weight": 10,
+ "iast": "Lalitātriśatīnāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">ललितात्रिशतीनामावलिः</h2>

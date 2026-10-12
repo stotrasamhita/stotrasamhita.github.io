@@ -12,7 +12,10 @@
  "stotra_type": "Shatanama Stotram",
  "source": "Matsya Puranam",
  "wiki_title": "Shakti Ashtottara Shatadivyasthaniya Nama Stotram",
- "weight": 230
+ "weight": 230,
+ "iast": "Śaktyaṣṭottaraśatadivyasthānīyanāmastotram",
+ "form": "Nāma stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Shatanama Stotram</p>

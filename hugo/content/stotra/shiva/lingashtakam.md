@@ -11,7 +11,10 @@
  ],
  "stotra_type": "Ashtakam",
  "wiki_title": "Lingashtakam",
- "weight": 110
+ "weight": 110,
+ "iast": "Liṅgāṣṭakam",
+ "form": "Aṣṭakam",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Ashtakam</p>

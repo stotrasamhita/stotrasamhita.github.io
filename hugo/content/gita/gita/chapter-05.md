@@ -1,6 +1,7 @@
 {
  "title": "पञ्चमोऽध्यायः---कर्मसन्न्यासयोगः",
- "weight": 50
+ "weight": 50,
+ "iast": "Pañcamo'dhyāyaḥ — Karmasannyāsayogaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">पञ्चमोऽध्यायः---कर्मसन्न्यासयोगः</h2>

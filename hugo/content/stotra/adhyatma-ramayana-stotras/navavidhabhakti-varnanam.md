@@ -3,7 +3,13 @@
  "slug": "navavidhabhakti-varnanam",
  "source_file": "stotras/adhyatma-ramayana-stotras/NavavidhabhaktiVarnanam.tex",
  "verse_count": 12,
- "weight": 210
+ "weight": 210,
+ "iast": "Navavidhabhaktivarṇanam",
+ "form": "Stotram",
+ "deity": [
+  "Rama"
+ ],
+ "date": "2017-12-29"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">नवविधभक्तिवर्णनम्</h2>

@@ -1,0 +1,31 @@
+{{ define "main" }}
+{{ partial "crumbs.html" . }}
+<header class="page-head">
+  {{ with .Parent }}{{ if not .IsHome }}<div class="kicker">{{ .Params.iast | default .Title }}</div>{{ end }}{{ end }}
+  <h1>{{ partial "title.html" .Title }}</h1>
+  {{ with .Params.iast }}<div class="iast">{{ . }}</div>{{ end }}
+  {{ with .Content | plainify | strings.TrimSpace }}<div class="desc">{{ $.Content }}</div>{{ else }}{{ with .Description }}<div class="desc"><p>{{ . }}</p></div>{{ end }}{{ end }}
+  {{ with .Params.verse_count }}<div class="facts">{{ . }} verses{{ with $.Pages }} · {{ len . }} parts{{ end }}</div>{{ end }}
+</header>
+
+{{ if .Params.source_file }}
+  {{/* One text split into chapters: a table of contents. */}}
+  <section>
+    <ol class="toc">{{ range $i, $p := .Pages.ByWeight }}
+      <li><a href="{{ .RelPermalink }}"><span class="no">{{ add $i 1 }}</span><span class="t">{{ partial "title.html" .Title }}</span>{{ with .Params.iast }}<span class="r">{{ . }}</span>{{ end }}</a></li>
+    {{ end }}</ol>
+  </section>
+{{ else }}
+  {{/* Pages and whole texts (sections split into chapters) side by side;
+       plain groupings (e.g. nāmāvalīs by length) get a heading each. */}}
+  {{ $items := .RegularPages }}
+  {{ range .Sections }}{{ if .Params.source_file }}{{ $items = $items | append . }}{{ end }}{{ end }}
+  {{ with $items }}<section><div class="grid">{{ range sort . "Weight" }}{{ partial "card.html" . }}{{ end }}</div></section>{{ end }}
+  {{ range .Sections.ByWeight }}{{ if not .Params.source_file }}
+  <section>
+    <div class="sec-h"><h2><a href="{{ .RelPermalink }}">{{ partial "title.html" .Title }}</a></h2>{{ with .Params.iast }}<span class="sub">{{ . }}</span>{{ end }}<a class="more" href="{{ .RelPermalink }}">All {{ len .RegularPagesRecursive }} →</a></div>
+    <div class="grid">{{ range .RegularPages.ByWeight }}{{ partial "card.html" . }}{{ end }}</div>
+  </section>
+  {{ end }}{{ end }}
+{{ end }}
+{{ end }}

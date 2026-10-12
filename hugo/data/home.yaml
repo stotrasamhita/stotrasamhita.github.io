@@ -1,0 +1,48 @@
+# Homepage picks. Slugs refer to stotra pages.
+lead:
+  slug: kanakadhara-stavam
+  kicker: Featured
+  subtitle: the hymn of the golden shower
+  dek: >-
+    A boy on his round of alms stops at a poor household. The woman has
+    nothing to give but a single dried gooseberry. Moved by her gift,
+    Śaṅkara sings to Lakṣmī on her behalf.
+featured:
+  - subrahmanya-bhujangam
+  - ardhanarishwara-stotram
+  - sharada-bhujangaprayata-ashtakam
+  - balamukundashtakam
+
+# Day of the week -> deity group (see deities.yaml), as commonly observed.
+days:
+  - {deva: रविवासरः, en: Sunday, g: Sūrya, note: "Sunday is the day of Sūrya. Many recite the Āditya-hṛdayam and other hymns to the Sun."}
+  - {deva: सोमवासरः, en: Monday, g: Śiva, note: "Monday is the day of Śiva."}
+  - {deva: मङ्गलवासरः, en: Tuesday, g: Subrahmaṇya, note: "Tuesday is kept for Subrahmaṇya, and for the Devī."}
+  - {deva: बुधवासरः, en: Wednesday, g: Viṣṇu, note: "Wednesday is kept for Viṣṇu."}
+  - {deva: गुरुवासरः, en: Thursday, g: Guru, note: "Thursday is the day of the Guru and Dakṣiṇāmūrti."}
+  - {deva: शुक्रवासरः, en: Friday, g: Lakṣmī, note: "Friday is the day of Lakṣmī and the Devī."}
+  - {deva: शनिवासरः, en: Saturday, g: Veṅkaṭeśa, note: "Saturday is kept for Veṅkaṭeśa, Hanumān and Śani."}
+
+deities: [Gaṇeśa, Śiva, Devī, Lakṣmī, Sarasvatī, Viṣṇu, Kṛṣṇa, Rāma, Subrahmaṇya, Veṅkaṭeśa, Hanumān, Guru, Sūrya, Navagraha, Sacred rivers]
+deity_covers: {Gaṇeśa: ganesha, Śiva: markandeya, Lakṣmī: lakshmi, Sarasvatī: saraswati, Viṣṇu: vishnu, Kṛṣṇa: krishna, Rāma: rama, Subrahmaṇya: murugan, Guru: dattatreya, Sacred rivers: ganga}
+
+# Major collections. `section` is a content section (counts come from it);
+# `url` is an outside link for collections not on the site yet.
+collections:
+  - {deva: स्तोत्रसङ्ग्रहः, en: Stotra Saṅgrahaḥ, section: stotra, unit: stotras, img: saraswati, wide: true}
+  - {deva: अध्यात्मरामायणम्, en: Adhyātma Rāmāyaṇa, section: adhyatma-ramayanam, unit: kāṇḍas, img: sarayu}
+  - {deva: महाभारतम्, en: Mahābhārata · Virāṭa Parva, section: mahabharatam, note: Proofread edition, img: shantanu}
+  - {deva: श्रीमद्भगवद्गीता, en: Bhagavad Gītā, section: gita, note: 18 adhyāyas with māhātmya, c: ['#7A3B12', '#2B1205'], g: गी}
+  - {deva: पूजाविधानम्, en: Pūjā-vidhānam, section: puja-vidhanam, note: "Pūjās, vratas & kathās", c: ['#7E1A2E', '#2E0811'], g: ॐ}
+  - {deva: नामावलीमञ्जरी, en: Nāmāvalī-mañjarī, section: namavali, unit: nāmāvalīs, c: ['#24506A', '#0A1E2A'], g: ना}
+  - {deva: वाल्मीकिरामायणम्, en: Vālmīki Rāmāyaṇa, url: "https://github.com/stotrasamhita/ValmikiRamayanam", note: On GitHub, img: bharata}
+
+# Typeset books on /major-books/.
+books:
+  - {deva: स्तोत्रसङ्ग्रहः, en: Stotra Saṅgrahaḥ, anchor: stotra-sangrahah, c: ['#7E1A2E', '#2E0811']}
+  - {deva: वेदमन्त्राः, en: Veda-mantra book, anchor: veda-mantra-book, c: ['#5A5326', '#211E0B']}
+  - {deva: ब्राह्मणम्, en: Taittirīya Brāhmaṇa, anchor: brahmanam-book, c: ['#2F5D50', '#0F2620']}
+  - {deva: आरण्यकम्, en: Taittirīya Āraṇyaka, anchor: aranyaka-book, c: ['#3D4F6E', '#141B2C']}
+  - {deva: नामावलीमञ्जरी, en: Nāmāvalī-mañjarī, anchor: namavali-manjari, c: ['#24506A', '#0A1E2A']}
+  - {deva: श्रीमद्भगवद्गीता, en: Bhagavad Gītā, anchor: shrimad-bhagavad-gita, c: ['#7A3B12', '#2B1205']}
+  - {deva: अध्यात्मरामायणम्, en: Adhyātma Rāmāyaṇa, anchor: adhyatma-ramayanam, c: ['#6B3B7A', '#2A1330']}

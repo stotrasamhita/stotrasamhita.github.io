@@ -3,7 +3,10 @@
  "slug": "vigneshwara-prarthana",
  "source_file": "stotras/dhyanam/VigneshwaraPrarthana.tex",
  "verse_count": 9,
- "weight": 110
+ "weight": 110,
+ "iast": "Vighneśvara Prārthanā",
+ "form": "Prārthanā",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">विघ्नेश्वर प्रार्थना</h2>

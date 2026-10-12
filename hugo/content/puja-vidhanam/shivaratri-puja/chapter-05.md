@@ -1,6 +1,7 @@
 {
  "title": "उत्तराङ्ग-पूजा",
- "weight": 50
+ "weight": 50,
+ "iast": "Uttarāṅga-pūjā"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">उत्तराङ्ग-पूजा</h2>

@@ -1,7 +1,6 @@
 {
- "title": "Nadi",
+ "title": "नद्यः",
+ "iast": "Sacred rivers",
  "weight": 90,
- "bookCollapseSection": true
+ "description": "Stotras to Gaṅgā, Kāverī and other sacred rivers."
 }
-
-<p>Stotras dedicated to sacred rivers.</p>

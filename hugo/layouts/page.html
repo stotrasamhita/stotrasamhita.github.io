@@ -1,0 +1,65 @@
+{{ define "main" }}
+{{/* The generated body repeats the title as its first heading and ends
+     with the PDF links; both move into the page chrome instead. */}}
+{{ $body := replaceRE `<h2 class="stotra-heading">[^<]*</h2>\s*` "" .Content 1 }}
+{{ $pdfs := slice }}
+{{ with findRE `(?s)<div class="pdf-links">.*?</div>` $body 1 }}
+  {{ range findRESubmatch `<a href="([^"]+)">([^<]+)</a>` (index . 0) }}{{ $pdfs = $pdfs | append (dict "href" (index . 1) "label" (index . 2)) }}{{ end }}
+{{ end }}
+{{ $body = $body | replaceRE `(?s)<div class="pdf-links">.*?</div>` "" }}
+{{ $book := and .Parent .Parent.Params.source_file }}
+{{ $kinds := dict "stotra" "Stotra" "namavali" "Nāmāvalī" "puja-vidhanam" "Pūjā" "gita" "Gītā" "adhyatma-ramayanam" "Adhyātma Rāmāyaṇa" "mahabharatam" "Mahābhārata" }}
+
+{{ partial "crumbs.html" . }}
+{{ if $book }}
+<article class="reading">
+  <header class="rhead">
+    <div class="kicker"><a href="{{ .Parent.RelPermalink }}">{{ partial "title.html" .Parent.Title }}</a></div>
+    <h1>{{ partial "title.html" .Title }}</h1>
+    {{ with .Params.iast }}<div class="iast">{{ . }}</div>{{ end }}
+  </header>
+  <div style="margin-top:22px">{{ partial "scripts-bar.html" . }}</div>
+  {{ $body | safeHTML }}
+  <nav class="pager" aria-label="Chapters">
+    {{ with .PrevInSection }}<a class="prev" href="{{ .RelPermalink }}"><small>← Previous</small><span>{{ partial "title.html" .Title }}</span></a>{{ end }}
+    {{ with .NextInSection }}<a class="next" href="{{ .RelPermalink }}"><small>Next →</small><span>{{ partial "title.html" .Title }}</span></a>{{ end }}
+  </nav>
+</article>
+{{ else }}
+{{ $groups := partialCached "groups.html" . .Path }}
+{{ $comps := partial "composers.html" . }}
+{{ $meters := partial "meters.html" . }}
+<div class="shead">
+  {{ partial "cover.html" (dict "p" . "cls" "big" "w" 600) }}
+  <div>
+    <div class="kicker">{{ index $kinds .Section | default "Text" }}{{ range $groups }} · {{ . }}{{ end }}</div>
+    <h1>{{ partial "title.html" .Title }}</h1>
+    {{ with .Params.iast }}<div class="iast">{{ . }}</div>{{ end }}
+    <div class="chips">
+      {{ range $groups }}<a class="chip" href="/stotra/?deity={{ . }}"><small>Deity</small><span>{{ . }}</span></a>{{ end }}
+      {{ range $comps }}<a class="chip" href="/stotra/?composer={{ . }}"><small>Composer</small><span>{{ . }}</span></a>{{ end }}
+      {{ range $meters }}<a class="chip" href="/stotra/?metre={{ . }}"><small>Metre</small><span>{{ . }}</span></a>{{ end }}
+      {{ $vc := int (.Params.verse_count | default 0) }}
+      {{ if or .Params.form $vc }}<a class="chip" href="/stotra/{{ with .Params.form }}?form={{ . }}{{ end }}"><small>Form</small><span>{{ with .Params.form }}{{ . }}{{ if $vc }} · {{ end }}{{ end }}{{ if $vc }}{{ $vc }} verses{{ end }}</span></a>{{ end }}
+    </div>
+  </div>
+</div>
+<div class="sbody">
+  <div>
+    {{ with .Params.story }}<section class="about"><h2>About this {{ lower (index $kinds $.Section | default "text") }}</h2>{{ . | markdownify }}</section>{{ end }}
+    {{ partial "scripts-bar.html" . }}
+    {{ $body | safeHTML }}
+  </div>
+  <aside class="aside">
+    {{ with $pdfs }}<div class="box"><h4>Download</h4>{{ range . }}<a class="dl" href="{{ .href }}">PDF <small>{{ .label }}</small></a>{{ end }}</div>{{ end }}
+    {{ with .Params.source_file }}<div class="box"><h4>Source</h4><p class="src" style="margin:0">Typeset from <a href="{{ partial "source-url.html" $ }}">{{ path.Base . }}</a>. Spotted an error? Open an issue there.</p></div>{{ end }}
+    {{ with $groups }}
+      {{ $g := index . 0 }}
+      {{ $rel := slice }}
+      {{ range (site.GetPage "/stotra").RegularPagesRecursive.ByWeight }}{{ if and (ne . $) (lt (len $rel) 6) (in (partialCached "groups.html" . .Path) $g) }}{{ $rel = $rel | append . }}{{ end }}{{ end }}
+      {{ with $rel }}<div class="box rel"><h4>More to {{ $g }}</h4>{{ range . }}<a href="{{ .RelPermalink }}">{{ partial "cover.html" (dict "p" . "w" 88 "square" true "glyph" true) }}<div><div class="t">{{ partial "title.html" .Title }}</div>{{ with .Params.iast }}<div class="r">{{ . }}</div>{{ end }}</div></a>{{ end }}<a class="more" href="/stotra/?deity={{ $g }}">All {{ $g }} stotras →</a></div>{{ end }}
+    {{ end }}
+  </aside>
+</div>
+{{ end }}
+{{ end }}

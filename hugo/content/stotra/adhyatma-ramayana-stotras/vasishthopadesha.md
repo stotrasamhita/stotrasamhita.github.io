@@ -3,7 +3,13 @@
  "slug": "vasishthopadesha",
  "source_file": "stotras/adhyatma-ramayana-stotras/Vasishthopadesha.tex",
  "verse_count": 13,
- "weight": 400
+ "weight": 400,
+ "iast": "Vasiṣṭhopadeśaḥ",
+ "form": "Stotram",
+ "deity": [
+  "Rama"
+ ],
+ "date": "2017-12-29"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">वसिष्ठोपदेशः</h2>

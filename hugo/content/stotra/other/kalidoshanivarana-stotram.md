@@ -3,7 +3,10 @@
  "slug": "kalidoshanivarana-stotram",
  "source_file": "stotras/other/KalidoshanivaranaStotram.tex",
  "verse_count": 1,
- "weight": 20
+ "weight": 20,
+ "iast": "Kalidoṣanivāraṇastotram",
+ "form": "Stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">कलिदोषनिवारणस्तोत्रम्</h2>

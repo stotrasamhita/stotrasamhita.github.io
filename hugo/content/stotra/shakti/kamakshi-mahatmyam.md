@@ -11,7 +11,10 @@
  ],
  "source": "Kamakshi Vilasam",
  "wiki_title": "Kamakshi Mahatmyam",
- "weight": 90
+ "weight": 90,
+ "iast": "Kāmākṣī-māhātmyam",
+ "form": "Stotram",
+ "date": "2014-10-04"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">कामाक्षी-माहात्म्यम्</h2>

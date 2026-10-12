@@ -1,7 +1,6 @@
 {
- "title": "Lakshmi",
+ "title": "लक्ष्मीः",
+ "iast": "Lakṣmī",
  "weight": 80,
- "bookCollapseSection": true
+ "description": "Stotras to Lakṣmī."
 }
-
-<p>Stotras dedicated to Lakshmi.</p>

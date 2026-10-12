@@ -4,7 +4,8 @@
  "source_file": "100/Subrahmanya_108.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 370
+ "weight": 370,
+ "iast": "Subrahmaṇyāṣṭottaraśatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">सुब्रह्मण्याष्टोत्तरशतनामावलिः</h2>

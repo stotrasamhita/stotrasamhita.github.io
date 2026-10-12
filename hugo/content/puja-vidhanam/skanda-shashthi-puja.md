@@ -4,7 +4,8 @@
  "source_file": "pujas/skanda-shashthi-puja.tex",
  "verse_count": 125,
  "columns_hint": 2,
- "weight": 190
+ "weight": 190,
+ "iast": "Śrī-skanda-ṣaṣṭhī-pūjā"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्री-स्कन्द-षष्ठी-पूजा</h2>

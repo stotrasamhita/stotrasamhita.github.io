@@ -3,7 +3,10 @@
  "slug": "ardhanarishvara-ashtottara-shatanama-stotram",
  "source_file": "stotras/shatanama/ArdhanarishvaraAshtottaraShatanamaStotram.tex",
  "verse_count": 40,
- "weight": 40
+ "weight": 40,
+ "iast": "Ardhanārīśvarāṣṭottaraśatanāmastotram",
+ "form": "Śatanāma",
+ "date": "2018-08-26"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">अर्धनारीश्वराष्टोत्तरशतनामस्तोत्रम्</h2>

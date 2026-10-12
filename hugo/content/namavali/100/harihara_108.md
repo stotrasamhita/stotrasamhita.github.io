@@ -4,7 +4,8 @@
  "source_file": "100/Harihara_108.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 170
+ "weight": 170,
+ "iast": "Hariharāṣṭottaraśatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">हरिहराष्टोत्तरशतनामावलिः</h2>

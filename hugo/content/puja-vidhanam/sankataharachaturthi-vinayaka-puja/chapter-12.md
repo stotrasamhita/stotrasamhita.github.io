@@ -1,6 +1,7 @@
 {
  "title": "नामाष्टमोऽध्यायः—आश्विन-शुक्ल-चतुर्थी-माहात्म्य-वर्णनम्",
- "weight": 120
+ "weight": 120,
+ "iast": "Nāmāṣṭamo'dhyāyaḥ—āśvina-śukla-caturthī-māhātmya-varṇanam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">नामाष्टमोऽध्यायः—आश्विन-शुक्ल-चतुर्थी-माहात्म्य-वर्णनम्</h2>

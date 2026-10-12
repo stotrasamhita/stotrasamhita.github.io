@@ -1,6 +1,7 @@
 {
  "title": "नवमोऽध्यायः—कार्तिक-शुक्ल-चतुर्थी-माहात्म्य-वर्णनम्",
- "weight": 130
+ "weight": 130,
+ "iast": "Navamo'dhyāyaḥ—kārtika-śukla-caturthī-māhātmya-varṇanam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">नवमोऽध्यायः—कार्तिक-शुक्ल-चतुर्थी-माहात्म्य-वर्णनम्</h2>

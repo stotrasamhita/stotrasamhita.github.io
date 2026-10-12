@@ -1,6 +1,7 @@
 {
  "title": "उन्मीलनीव्रतम्",
- "weight": 70
+ "weight": 70,
+ "iast": "Unmīlanīvratam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">उन्मीलनीव्रतम्</h2>

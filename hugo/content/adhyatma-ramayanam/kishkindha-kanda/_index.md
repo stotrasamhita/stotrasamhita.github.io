@@ -4,7 +4,8 @@
  "source_file": "kandas/KishkindhaKanda.tex",
  "verse_count": 560,
  "bookCollapseSection": true,
- "weight": 50
+ "weight": 50,
+ "iast": "Kiṣkindhākāṇḍaḥ"
 }
 
 <div class="stotra-article"></div>

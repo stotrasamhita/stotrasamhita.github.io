@@ -11,7 +11,10 @@
   "Adi Shankaracharya"
  ],
  "wiki_title": "Umamaheshwara Stotram",
- "weight": 240
+ "weight": 240,
+ "iast": "Umāmaheśvarastotram",
+ "form": "Stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">उमामहेश्वरस्तोत्रम्</h2>

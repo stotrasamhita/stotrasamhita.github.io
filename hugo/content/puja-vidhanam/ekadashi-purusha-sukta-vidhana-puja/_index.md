@@ -5,7 +5,8 @@
  "verse_count": 3635,
  "columns_hint": 2,
  "bookCollapseSection": true,
- "weight": 30
+ "weight": 30,
+ "iast": "Ekādaśīvratam — Śrī-mahāviṣṇupūjā"
 }
 
 <div class="stotra-article"></div>

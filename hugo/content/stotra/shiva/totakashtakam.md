@@ -14,7 +14,10 @@
   "Totakam"
  ],
  "wiki_title": "Totakashtakam",
- "weight": 230
+ "weight": 230,
+ "iast": "Toṭakāṣṭakam",
+ "form": "Aṣṭakam",
+ "date": "2014-08-03"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">तोटकाष्टकम्</h2>

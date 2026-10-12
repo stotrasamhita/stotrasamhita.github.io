@@ -1,6 +1,7 @@
 {
  "title": "चमकानुवाकैः प्रार्थना",
- "weight": 350
+ "weight": 350,
+ "iast": "Camakānuvākaiḥ Prārthanā"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">चमकानुवाकैः प्रार्थना</h2>

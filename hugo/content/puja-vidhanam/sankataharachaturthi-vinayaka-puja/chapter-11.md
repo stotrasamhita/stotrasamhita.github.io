@@ -1,6 +1,7 @@
 {
  "title": "सप्तमोऽध्यायः—भाद्रपद-शुक्ल-चतुर्थी-माहात्म्य-वर्णनम्",
- "weight": 110
+ "weight": 110,
+ "iast": "Saptamo'dhyāyaḥ—bhādrapada-śukla-caturthī-māhātmya-varṇanam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">सप्तमोऽध्यायः—भाद्रपद-शुक्ल-चतुर्थी-माहात्म्य-वर्णनम्</h2>

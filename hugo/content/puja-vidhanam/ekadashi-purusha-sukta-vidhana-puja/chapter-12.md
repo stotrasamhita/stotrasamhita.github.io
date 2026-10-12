@@ -1,6 +1,7 @@
 {
  "title": "पौष-कृष्ण-सफला-एकादशी-माहात्म्यम्",
- "weight": 120
+ "weight": 120,
+ "iast": "Pauṣa-kṛṣṇa-saphalā-ekādaśī-māhātmyam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">पौष-कृष्ण-सफला-एकादशी-माहात्म्यम्</h2>

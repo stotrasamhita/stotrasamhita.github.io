@@ -1,0 +1,5 @@
+{{ $out := slice }}
+{{ range .Params.composer }}
+  {{ if not (hasPrefix . "Composer:") }}{{ $out = $out | append (index hugo.Data.composers . | default .) }}{{ end }}
+{{ end }}
+{{ return $out }}

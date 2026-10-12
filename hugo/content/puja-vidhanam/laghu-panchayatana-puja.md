@@ -4,7 +4,8 @@
  "source_file": "pujas/laghu-panchayatana-puja.tex",
  "verse_count": 33,
  "columns_hint": 2,
- "weight": 10
+ "weight": 10,
+ "iast": "Laghu-pañcāyatana-pūjā"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">लघु-पञ्चायतन-पूजा</h2>

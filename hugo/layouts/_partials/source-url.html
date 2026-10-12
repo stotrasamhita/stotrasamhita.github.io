@@ -1,0 +1,8 @@
+{{/* GitHub URL of the .tex a page was typeset from. source_file paths are
+     as the sync passed them, which differs from the repo layout for gita
+     (run from one level up) and adhyatma-ramayanam (TeX/ seen as kandas/). */}}
+{{ $repos := dict "stotra" "stotra-sangrahah" "namavali" "namavali-manjari" "puja-vidhanam" "puja-vidhanam" "gita" "gita" "adhyatma-ramayanam" "AdhyatmaRamayanam" "mahabharatam" "Mahabharatam" }}
+{{ $f := .Params.source_file }}
+{{ if eq .Section "gita" }}{{ $f = strings.TrimPrefix "gita/" $f }}{{ end }}
+{{ if eq .Section "adhyatma-ramayanam" }}{{ $f = replace $f "kandas/" "TeX/" }}{{ end }}
+{{ return printf "%s/%s/blob/master/%s" site.Params.github (index $repos .Section) $f }}

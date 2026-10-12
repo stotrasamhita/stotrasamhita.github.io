@@ -4,7 +4,8 @@
  "source_file": "1000/VakratundaMahaganapati_1000.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 60
+ "weight": 60,
+ "iast": "Vakratuṇḍa Mahāgaṇapati Sahasranāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">वक्रतुण्ड महागणपति सहस्रनामावलिः</h2>

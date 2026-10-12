@@ -4,7 +4,8 @@
  "source_file": "pujas/dhanvantari-puja.tex",
  "verse_count": 72,
  "columns_hint": 2,
- "weight": 170
+ "weight": 170,
+ "iast": "Śrī-dhanvantari-pūjā"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्री-धन्वन्तरि-पूजा</h2>

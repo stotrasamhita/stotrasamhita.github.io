@@ -3,7 +3,13 @@
  "slug": "lakshmi-nrisimha-karunarasa-stotram",
  "source_file": "stotras/vishnu/LakshmiNrisimhaKarunarasaStotram.tex",
  "verse_count": 17,
- "weight": 30
+ "weight": 30,
+ "iast": "Lakṣmī-nṛsiṃha-karuṇārasa-stotram",
+ "form": "Stotram",
+ "deity": [
+  "Vishnu"
+ ],
+ "date": "2020-06-20"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">लक्ष्मी-नृसिंह-करुणारस-स्तोत्रम्</h2>

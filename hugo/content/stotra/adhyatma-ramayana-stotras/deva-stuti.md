@@ -3,7 +3,13 @@
  "slug": "deva-stuti",
  "source_file": "stotras/adhyatma-ramayana-stotras/DevaStuti.tex",
  "verse_count": 34,
- "weight": 60
+ "weight": 60,
+ "iast": "Brahmendradevatādi Stutiḥ",
+ "form": "Stuti",
+ "deity": [
+  "Rama"
+ ],
+ "date": "2017-12-29"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">ब्रह्मेन्द्रदेवतादि स्तुतिः</h2>

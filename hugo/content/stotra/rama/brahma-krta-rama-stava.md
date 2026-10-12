@@ -3,7 +3,13 @@
  "slug": "brahma-krta-rama-stava",
  "source_file": "stotras/rama/BrahmaKrtaRamaStava.tex",
  "verse_count": 32,
- "weight": 30
+ "weight": 30,
+ "iast": "Brahmakṛtarāmastavaḥ",
+ "form": "Stuti",
+ "deity": [
+  "Rama"
+ ],
+ "date": "2024-10-06"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">ब्रह्मकृतरामस्तवः</h2>

@@ -1,7 +1,6 @@
 {
- "title": "Krishna",
+ "title": "कृष्णः",
+ "iast": "Kṛṣṇa",
  "weight": 70,
- "bookCollapseSection": true
+ "description": "Stotras to Kṛṣṇa."
 }
-
-<p>Stotras dedicated to Krishna.</p>

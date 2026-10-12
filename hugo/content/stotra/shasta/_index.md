@@ -1,7 +1,6 @@
 {
- "title": "Shasta",
+ "title": "शास्ता",
+ "iast": "Śāstā",
  "weight": 160,
- "bookCollapseSection": true
+ "description": "Stotras to Śāstā."
 }
-
-<p>Stotras dedicated to Shasta (Ayyappa).</p>

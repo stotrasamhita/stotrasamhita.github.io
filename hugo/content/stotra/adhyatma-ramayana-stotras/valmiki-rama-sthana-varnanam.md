@@ -3,7 +3,13 @@
  "slug": "valmiki-rama-sthana-varnanam",
  "source_file": "stotras/adhyatma-ramayana-stotras/ValmikiRamaSthanaVarnanam.tex",
  "verse_count": 13,
- "weight": 380
+ "weight": 380,
+ "iast": "Vālmīkīrita-rāmasthānavarṇanam",
+ "form": "Stotram",
+ "deity": [
+  "Rama"
+ ],
+ "date": "2017-12-29"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">वाल्मीकीरित-रामस्थानवर्णनम्</h2>

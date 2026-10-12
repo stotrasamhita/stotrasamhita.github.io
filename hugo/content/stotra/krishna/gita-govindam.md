@@ -3,7 +3,13 @@
  "slug": "gita-govindam",
  "source_file": "stotras/krishna/GitaGovindam.tex",
  "verse_count": 2,
- "weight": 110
+ "weight": 110,
+ "iast": "Gītagovindam",
+ "form": "Stotram",
+ "deity": [
+  "Krishna"
+ ],
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">गीतगोविन्दम्</h2>

@@ -1,6 +1,7 @@
 {
  "title": "द्वादशी-एकादशी-जागरणमहिमावर्णनम्",
- "weight": 90
+ "weight": 90,
+ "iast": "Dvādaśī-ekādaśī-jāgaraṇamahimāvarṇanam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">द्वादशी-एकादशी-जागरणमहिमावर्णनम्</h2>

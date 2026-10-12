@@ -3,7 +3,13 @@
  "slug": "sita-vivaha-churnika",
  "source_file": "stotras/rama/sita-vivaha-churnika.tex",
  "verse_count": 5,
- "weight": 160
+ "weight": 160,
+ "iast": "Sītā-vivāha-cūrṇikā",
+ "form": "Stotram",
+ "deity": [
+  "Rama"
+ ],
+ "date": "2026-02-21"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">सीता-विवाह-चूर्णिका</h2>

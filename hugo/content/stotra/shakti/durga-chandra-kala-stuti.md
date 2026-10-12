@@ -3,7 +3,13 @@
  "slug": "durga-chandra-kala-stuti",
  "source_file": "stotras/shakti/DurgaChandraKalaStuti.tex",
  "verse_count": 18,
- "weight": 30
+ "weight": 30,
+ "iast": "Durgācandrakalāstutiḥ",
+ "form": "Stuti",
+ "deity": [
+  "Shakti"
+ ],
+ "date": "2020-06-20"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">दुर्गाचन्द्रकलास्तुतिः</h2>

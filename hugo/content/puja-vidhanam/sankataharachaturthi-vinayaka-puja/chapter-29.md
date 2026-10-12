@@ -1,6 +1,7 @@
 {
  "title": "पञ्चविंशोऽध्यायः—आषाढ-कृष्ण-चतुर्थी-माहात्म्य-वर्णनम्",
- "weight": 290
+ "weight": 290,
+ "iast": "Pañcaviṃśo'dhyāyaḥ—āṣāḍha-kṛṣṇa-caturthī-māhātmya-varṇanam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">पञ्चविंशोऽध्यायः—आषाढ-कृष्ण-चतुर्थी-माहात्म्य-वर्णनम्</h2>

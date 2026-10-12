@@ -12,7 +12,10 @@
  "stotra_type": "Shatanama Stotram",
  "source": "Ganesha Puranam",
  "wiki_title": "Ganapati Ashtottara Shatanama Stotram",
- "weight": 70
+ "weight": 70,
+ "iast": "Gaṇapatyaṣṭottaraśatanāmastotram",
+ "form": "Śatanāma",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Shatanama Stotram</p>

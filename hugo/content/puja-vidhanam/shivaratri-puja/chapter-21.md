@@ -1,6 +1,7 @@
 {
  "title": "उत्तरनारायणम्",
- "weight": 210
+ "weight": 210,
+ "iast": "Uttaranārāyaṇam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">उत्तरनारायणम्</h2>

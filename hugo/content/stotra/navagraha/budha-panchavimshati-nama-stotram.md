@@ -12,7 +12,10 @@
  "stotra_type": "Nama Stotram",
  "source": "Padma Puranam",
  "wiki_title": "Budha Panchavimshati Nama Stotram",
- "weight": 40
+ "weight": 40,
+ "iast": "Budhapañcaviṃśatināmastotram",
+ "form": "Nāma stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Nama Stotram</p>

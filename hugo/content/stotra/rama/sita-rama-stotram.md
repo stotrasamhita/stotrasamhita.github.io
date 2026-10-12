@@ -14,7 +14,10 @@
   "Anushtup"
  ],
  "wiki_title": "Sita Rama Stotram",
- "weight": 150
+ "weight": 150,
+ "iast": "Hanumatkṛtaṃ Śrī-sītā-rāma-stotram",
+ "form": "Stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">हनुमत्कृतं श्री-सीता-राम-स्तोत्रम्</h2>

@@ -4,7 +4,8 @@
  "source_file": "pujas/go-puja.tex",
  "verse_count": 69,
  "columns_hint": 2,
- "weight": 220
+ "weight": 220,
+ "iast": "Go-pūjā"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">गो-पूजा</h2>

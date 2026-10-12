@@ -1,7 +1,6 @@
 {
- "title": "300 Names",
+ "title": "त्रिशतीनामावलयः",
+ "iast": "300 names",
  "weight": 20,
- "bookCollapseSection": true
+ "description": "Triśatī nāmāvalīs: 300 names each."
 }
-
-<p>Trishati namavalis (300 names each).</p>

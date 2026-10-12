@@ -3,7 +3,13 @@
  "slug": "narada-stuti",
  "source_file": "stotras/adhyatma-ramayana-stotras/NaradaStuti.tex",
  "verse_count": 19,
- "weight": 200
+ "weight": 200,
+ "iast": "Nāradastutiḥ",
+ "form": "Stuti",
+ "deity": [
+  "Rama"
+ ],
+ "date": "2017-12-29"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">नारदस्तुतिः</h2>

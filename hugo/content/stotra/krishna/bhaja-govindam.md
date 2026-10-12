@@ -11,7 +11,10 @@
  ],
  "wiki_title": "Bhaja Govindam",
  "columns_hint": 2,
- "weight": 50
+ "weight": 50,
+ "iast": "Bhaja Govindam",
+ "form": "Stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">भज गोविन्दम्</h2>

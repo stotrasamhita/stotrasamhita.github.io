@@ -1,7 +1,6 @@
 {
- "title": "Navagraha",
+ "title": "नवग्रहाः",
+ "iast": "Navagraha",
  "weight": 100,
- "bookCollapseSection": true
+ "description": "Stotras to Sūrya and the nine planets."
 }
-
-<p>Stotras dedicated to the nine planets.</p>

@@ -4,7 +4,8 @@
  "source_file": "pujas/siddhivinayaka-puja.tex",
  "verse_count": 520,
  "columns_hint": 2,
- "weight": 140
+ "weight": 140,
+ "iast": "Śrī-siddhivināyaka-pūjā"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्री-सिद्धिविनायक-पूजा</h2>

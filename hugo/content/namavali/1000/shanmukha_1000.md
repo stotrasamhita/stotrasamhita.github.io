@@ -3,7 +3,8 @@
  "slug": "shanmukha_1000",
  "source_file": "1000/Shanmukha_1000.tex",
  "verse_count": 7,
- "weight": 40
+ "weight": 40,
+ "iast": "Ṣaṇmukhasahasranāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">षण्मुखसहस्रनामावलिः</h2>

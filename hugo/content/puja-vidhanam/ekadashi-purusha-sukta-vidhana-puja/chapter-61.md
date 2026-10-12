@@ -1,6 +1,7 @@
 {
  "title": "कार्त्तिक-शुक्ल-प्रबोधिनी-एकादशी-माहात्म्यम्",
- "weight": 610
+ "weight": 610,
+ "iast": "Kārttika-śukla-prabodhinī-ekādaśī-māhātmyam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">कार्त्तिक-शुक्ल-प्रबोधिनी-एकादशी-माहात्म्यम्</h2>

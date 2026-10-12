@@ -3,7 +3,8 @@
  "slug": "mahatmyam",
  "source_file": "gita/mahatmyam.tex",
  "verse_count": 7,
- "weight": 30
+ "weight": 30,
+ "iast": "Gītā-māhātmyam"
 }
 
 <div class="stotra-article"><h3 class="subheading">माहात्म्यम्</h3>

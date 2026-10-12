@@ -12,7 +12,10 @@
  "stotra_type": "Shatanama Stotram",
  "source": "Brahmanda Puranam",
  "wiki_title": "Krishna Ashtottara Shatanama Stotram",
- "weight": 170
+ "weight": 170,
+ "iast": "Kṛṣṇāṣṭottaraśatanāmastotram",
+ "form": "Śatanāma",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Shatanama Stotram</p>

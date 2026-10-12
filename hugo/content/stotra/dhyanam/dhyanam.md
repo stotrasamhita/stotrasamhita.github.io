@@ -3,7 +3,10 @@
  "slug": "dhyanam",
  "source_file": "stotras/dhyanam/Dhyanam.tex",
  "verse_count": 7,
- "weight": 20
+ "weight": 20,
+ "iast": "Dhyānam",
+ "form": "Dhyānam",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="prose">॥ॐ श्री-गणेशाय नमः॥<br>॥ॐ श्री-गुरुभ्यो नमः॥<br>॥हरिः ॐ॥</p>

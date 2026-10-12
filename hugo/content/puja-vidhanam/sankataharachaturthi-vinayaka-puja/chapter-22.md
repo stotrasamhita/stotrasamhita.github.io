@@ -1,6 +1,7 @@
 {
  "title": "नामाष्टादशोऽध्यायः—श्रावण-शुक्ल-चतुर्थी-माहात्म्य-वर्णनम्",
- "weight": 220
+ "weight": 220,
+ "iast": "Nāmāṣṭādaśo'dhyāyaḥ—śrāvaṇa-śukla-caturthī-māhātmya-varṇanam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">नामाष्टादशोऽध्यायः—श्रावण-शुक्ल-चतुर्थी-माहात्म्य-वर्णनम्</h2>

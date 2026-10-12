@@ -1,6 +1,7 @@
 {
  "title": "त्रिषष्टितमोऽध्यायः॥६३॥",
- "weight": 630
+ "weight": 630,
+ "iast": "Triṣaṣṭitamo'dhyāyaḥ||63||"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">त्रिषष्टितमोऽध्यायः॥६३॥</h2>

@@ -3,7 +3,8 @@
  "slug": "rudra_300_compact",
  "source_file": "300/Rudra_300_compact.tex",
  "verse_count": 0,
- "weight": 30
+ "weight": 30,
+ "iast": "Śrīrudranāma Triśatī"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्रीरुद्रनाम त्रिशती</h2>

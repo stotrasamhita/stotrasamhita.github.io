@@ -3,7 +3,13 @@
  "slug": "vani-stavanam",
  "source_file": "stotras/saraswati/VaniStavanam.tex",
  "verse_count": 35,
- "weight": 60
+ "weight": 60,
+ "iast": "Vāṇīstavanam",
+ "form": "Stuti",
+ "deity": [
+  "Saraswati"
+ ],
+ "date": "2017-06-03"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">वाणीस्तवनम्</h2>

@@ -1,7 +1,6 @@
 {
- "title": "Rama",
+ "title": "रामः",
+ "iast": "Rāma",
  "weight": 130,
- "bookCollapseSection": true
+ "description": "Stotras to Rāma."
 }
-
-<p>Stotras dedicated to Rama.</p>

@@ -14,7 +14,10 @@
  ],
  "source": "Bhagavatam",
  "wiki_title": "Dhruvakrta Bhagavat Stavam",
- "weight": 100
+ "weight": 100,
+ "iast": "Dhruvastutiḥ",
+ "form": "Stuti",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">ध्रुवस्तुतिः</h2>

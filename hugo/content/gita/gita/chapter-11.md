@@ -1,6 +1,7 @@
 {
  "title": "एकादशोऽध्यायः---विश्वरूपदर्शनयोगः",
- "weight": 110
+ "weight": 110,
+ "iast": "Ekādaśo'dhyāyaḥ — Viśvarūpadarśanayogaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">एकादशोऽध्यायः---विश्वरूपदर्शनयोगः</h2>

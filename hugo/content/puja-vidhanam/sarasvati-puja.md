@@ -4,7 +4,8 @@
  "source_file": "pujas/sarasvati-puja.tex",
  "verse_count": 223,
  "columns_hint": 2,
- "weight": 160
+ "weight": 160,
+ "iast": "Śrī-sarasvatī-pūjā"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्री-सरस्वती-पूजा</h2>

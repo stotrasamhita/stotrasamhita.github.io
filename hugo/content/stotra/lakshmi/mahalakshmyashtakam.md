@@ -15,7 +15,10 @@
  "stotra_type": "Ashtakam",
  "source": "Padma Puranam",
  "wiki_title": "Mahalakshmyashtakam",
- "weight": 40
+ "weight": 40,
+ "iast": "Mahālakṣmyaṣṭakam",
+ "form": "Aṣṭakam",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Ashtakam</p>

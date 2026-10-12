@@ -3,7 +3,13 @@
  "slug": "devaih-krta-rama-stotram",
  "source_file": "stotras/rama/DevaihKrtaRamaStotram.tex",
  "verse_count": 21,
- "weight": 40
+ "weight": 40,
+ "iast": "Devaiḥ Kṛtaṃ Rāma-stotram",
+ "form": "Stotram",
+ "deity": [
+  "Rama"
+ ],
+ "date": "2024-10-06"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">देवैः कृतं राम-स्तोत्रम्</h2>

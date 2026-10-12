@@ -3,7 +3,13 @@
  "slug": "dakshinamurti-stotram(-vrishabha-deva-krtam)",
  "source_file": "stotras/shiva/DakshinamurtiStotram(VrishabhaDevaKrtam).tex",
  "verse_count": 9,
- "weight": 60
+ "weight": 60,
+ "iast": "Dakṣiṇāmūrtistotraṃ Vṛṣabhadevakṛtam",
+ "form": "Stotram",
+ "deity": [
+  "Shiva"
+ ],
+ "date": "2016-06-04"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">दक्षिणामूर्तिस्तोत्रं वृषभदेवकृतम्</h2>

@@ -14,7 +14,10 @@
  ],
  "source": "Ramayanam",
  "wiki_title": "Gayatri Ramayanam",
- "weight": 60
+ "weight": 60,
+ "iast": "Gāyatrī-rāmāyaṇam",
+ "form": "Stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">गायत्री-रामायणम्</h2>

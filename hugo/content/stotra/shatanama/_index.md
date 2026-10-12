@@ -1,7 +1,6 @@
 {
- "title": "Shatanama",
+ "title": "शतनामस्तोत्राणि",
+ "iast": "Śatanāma stotras",
  "weight": 170,
- "bookCollapseSection": true
+ "description": "Aṣṭottaraśatanāma stotras: 108 names in verse."
 }
-
-<p>Ashtottara/sahasranama-style name-list stotras.</p>

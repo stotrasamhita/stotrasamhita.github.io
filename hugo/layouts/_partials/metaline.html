@@ -1,0 +1,4 @@
+{{ $bits := slice }}
+{{ with .Params.form }}{{ $bits = $bits | append . }}{{ end }}
+{{ with .Params.verse_count }}{{ $bits = $bits | append (printf "%d verses" (int .)) }}{{ end }}
+{{ delimit $bits " · " }}{{ with partial "composers.html" . }} · <b>{{ index . 0 }}</b>{{ end }}

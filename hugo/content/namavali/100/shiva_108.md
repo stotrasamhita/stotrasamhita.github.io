@@ -3,7 +3,8 @@
  "slug": "shiva_108",
  "source_file": "100/Shiva_108.tex",
  "verse_count": 0,
- "weight": 320
+ "weight": 320,
+ "iast": "Śivāṣṭottaraśatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">शिवाष्टोत्तरशतनामावलिः</h2>

@@ -1,6 +1,7 @@
 {
  "title": "मूर्धादिपादान्त दशाक्षरी दशाङ्ग (द्वितीयो) न्यासः",
- "weight": 120
+ "weight": 120,
+ "iast": "Mūrdhādipādānta Daśākṣarī Daśāṅga Dvitīyo Nyāsaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">मूर्धादिपादान्त दशाक्षरी दशाङ्ग (द्वितीयो) न्यासः</h2>

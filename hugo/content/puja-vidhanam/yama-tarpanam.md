@@ -3,7 +3,8 @@
  "slug": "yama-tarpanam",
  "source_file": "pujas/yama-tarpanam.tex",
  "verse_count": 9,
- "weight": 320
+ "weight": 320,
+ "iast": "Kṛṣṇāṅgāraka-caturdaśī-yama-tarpaṇam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">कृष्णाङ्गारक-चतुर्दशी-यम-तर्पणम्</h2>

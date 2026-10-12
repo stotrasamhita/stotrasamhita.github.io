@@ -1,6 +1,7 @@
 {
  "title": "आश्विन-कृष्णेन्दिरा-एकादशी-माहात्म्यम्",
- "weight": 300
+ "weight": 300,
+ "iast": "Āśvina-kṛṣṇendirā-ekādaśī-māhātmyam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">आश्विन-कृष्णेन्दिरा-एकादशी-माहात्म्यम्</h2>

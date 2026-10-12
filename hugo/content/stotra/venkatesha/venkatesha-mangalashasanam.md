@@ -10,7 +10,10 @@
   "Anushtup"
  ],
  "wiki_title": "Venkatesha Mangalashasanam",
- "weight": 50
+ "weight": 50,
+ "iast": "Veṅkaṭeśa Maṅgalāśāsanam",
+ "form": "Stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">वेङ्कटेश मङ्गलाशासनम्</h2>

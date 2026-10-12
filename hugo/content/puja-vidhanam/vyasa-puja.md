@@ -4,7 +4,8 @@
  "source_file": "pujas/vyasa-puja.tex",
  "verse_count": 112,
  "columns_hint": 2,
- "weight": 100
+ "weight": 100,
+ "iast": "Śrī-vyāsa-pūrṇimā-pūjā"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्री-व्यास-पूर्णिमा-पूजा</h2>

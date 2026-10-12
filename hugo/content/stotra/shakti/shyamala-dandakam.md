@@ -11,7 +11,10 @@
  ],
  "stotra_type": "Dandakam",
  "wiki_title": "Shyamala Dandakam",
- "weight": 200
+ "weight": 200,
+ "iast": "Śyāmalādaṇḍakam",
+ "form": "Daṇḍakam",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Dandakam</p>

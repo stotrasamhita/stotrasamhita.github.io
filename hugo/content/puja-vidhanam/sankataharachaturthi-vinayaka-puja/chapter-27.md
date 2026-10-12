@@ -1,6 +1,7 @@
 {
  "title": "त्रयोविंशोऽध्यायः—वैशाख-कृष्ण-चतुर्थी-माहात्म्य-वर्णनम्",
- "weight": 270
+ "weight": 270,
+ "iast": "Trayoviṃśo'dhyāyaḥ—vaiśākha-kṛṣṇa-caturthī-māhātmya-varṇanam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">त्रयोविंशोऽध्यायः—वैशाख-कृष्ण-चतुर्थी-माहात्म्य-वर्णनम्</h2>

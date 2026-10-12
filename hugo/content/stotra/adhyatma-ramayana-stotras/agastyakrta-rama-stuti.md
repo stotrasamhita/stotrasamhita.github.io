@@ -3,7 +3,13 @@
  "slug": "agastyakrta-rama-stuti",
  "source_file": "stotras/adhyatma-ramayana-stotras/AgastyakrtaRamaStuti.tex",
  "verse_count": 41,
- "weight": 20
+ "weight": 20,
+ "iast": "Agastyakṛta-rāmastutiḥ",
+ "form": "Stuti",
+ "deity": [
+  "Rama"
+ ],
+ "date": "2017-12-29"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">अगस्त्यकृत-रामस्तुतिः</h2>

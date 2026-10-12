@@ -13,7 +13,10 @@
   "Shikharini"
  ],
  "wiki_title": "Shiva Mahimna Stotram",
- "weight": 160
+ "weight": 160,
+ "iast": "Śivamahimnaḥ-stotram",
+ "form": "Stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">शिवमहिम्नः-स्तोत्रम्</h2>

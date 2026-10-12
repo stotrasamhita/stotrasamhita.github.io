@@ -4,7 +4,8 @@
  "source_file": "100/Surya_108.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 390
+ "weight": 390,
+ "iast": "Sūryāṣṭottaraśatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">सूर्याष्टोत्तरशतनामावलिः</h2>

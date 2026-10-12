@@ -1,0 +1,7 @@
+{{/* Deity groups of a page (data/deities.yaml), in order, without repeats. */}}
+{{ $out := slice }}
+{{ range .Params.deity }}
+  {{ $g := index hugo.Data.deities.map . | default . }}
+  {{ if not (in $out $g) }}{{ $out = $out | append $g }}{{ end }}
+{{ end }}
+{{ return $out }}

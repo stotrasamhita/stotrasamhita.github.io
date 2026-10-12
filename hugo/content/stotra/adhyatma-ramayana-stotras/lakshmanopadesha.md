@@ -3,7 +3,13 @@
  "slug": "lakshmanopadesha",
  "source_file": "stotras/adhyatma-ramayana-stotras/Lakshmanopadesha.tex",
  "verse_count": 18,
- "weight": 170
+ "weight": 170,
+ "iast": "Lakṣmaṇopadeśaḥ",
+ "form": "Stotram",
+ "deity": [
+  "Rama"
+ ],
+ "date": "2017-12-29"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">लक्ष्मणोपदेशः</h2>

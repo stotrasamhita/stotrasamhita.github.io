@@ -1,6 +1,7 @@
 {
  "title": "षष्ठोऽध्यायः---आत्मसंयमयोगः",
- "weight": 60
+ "weight": 60,
+ "iast": "Ṣaṣṭho'dhyāyaḥ — Ātmasaṃyamayogaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">षष्ठोऽध्यायः---आत्मसंयमयोगः</h2>

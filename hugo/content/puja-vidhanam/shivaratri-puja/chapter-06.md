@@ -1,6 +1,7 @@
 {
  "title": "प्रधान-पूजा — साम्ब-परमेश्वर-पूजा (द्वितीय-यामः)",
- "weight": 60
+ "weight": 60,
+ "iast": "Pradhāna-pūjā — Sāmba-parameśvara-pūjā Dvitīya-yāmaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">प्रधान-पूजा — साम्ब-परमेश्वर-पूजा (द्वितीय-यामः)</h2>

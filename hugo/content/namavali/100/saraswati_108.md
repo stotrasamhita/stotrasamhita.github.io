@@ -4,7 +4,8 @@
  "source_file": "100/Saraswati_108.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 300
+ "weight": 300,
+ "iast": "Sarasvatyaṣṭottaraśatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">सरस्वत्यष्टोत्तरशतनामावलिः</h2>

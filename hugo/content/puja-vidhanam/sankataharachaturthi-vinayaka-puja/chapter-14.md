@@ -1,6 +1,7 @@
 {
  "title": "दशमोऽध्यायः—मार्गशीर्ष-शुक्ल-चतुर्थी-माहात्म्य-वर्णनम्",
- "weight": 140
+ "weight": 140,
+ "iast": "Daśamo'dhyāyaḥ—mārgaśīrṣa-śukla-caturthī-māhātmya-varṇanam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">दशमोऽध्यायः—मार्गशीर्ष-शुक्ल-चतुर्थी-माहात्म्य-वर्णनम्</h2>

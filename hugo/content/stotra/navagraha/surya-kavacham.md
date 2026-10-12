@@ -14,7 +14,10 @@
  ],
  "stotra_type": "Kavacham",
  "wiki_title": "Surya Kavacham",
- "weight": 160
+ "weight": 160,
+ "iast": "Sūryakavacam",
+ "form": "Kavacam",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Kavacham</p>

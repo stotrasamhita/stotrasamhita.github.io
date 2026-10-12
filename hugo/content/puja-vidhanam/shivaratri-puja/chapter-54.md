@@ -1,6 +1,7 @@
 {
  "title": "षोडशोपचार-पूजा",
- "weight": 540
+ "weight": 540,
+ "iast": "Ṣoḍaśopacāra-pūjā"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">षोडशोपचार-पूजा</h2>

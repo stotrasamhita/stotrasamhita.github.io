@@ -4,7 +4,8 @@
  "source_file": "100/Shiva_divyasthaniya_108.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 330
+ "weight": 330,
+ "iast": "Śivāṣṭottaraśatadivyasthānīyanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">शिवाष्टोत्तरशतदिव्यस्थानीयनामावलिः</h2>

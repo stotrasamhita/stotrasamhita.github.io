@@ -1,6 +1,7 @@
 {
  "title": "अथ द्वात्रिंशोऽध्यायः",
- "weight": 320
+ "weight": 320,
+ "iast": "Atha Dvātriṃśo'dhyāyaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">अथ द्वात्रिंशोऽध्यायः</h2>

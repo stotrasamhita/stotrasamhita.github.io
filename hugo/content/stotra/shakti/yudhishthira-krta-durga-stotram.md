@@ -3,7 +3,13 @@
  "slug": "yudhishthira-krta-durga-stotram",
  "source_file": "stotras/shakti/YudhishthiraKrtaDurgaStotram.tex",
  "verse_count": 36,
- "weight": 220
+ "weight": 220,
+ "iast": "Durgāstotram Yudhiṣṭhirakṛtam",
+ "form": "Stotram",
+ "deity": [
+  "Shakti"
+ ],
+ "date": "2019-12-19"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">दुर्गास्तोत्रम् (युधिष्ठिरकृतम्)</h2>

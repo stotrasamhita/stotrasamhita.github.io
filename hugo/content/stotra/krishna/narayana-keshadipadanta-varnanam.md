@@ -3,7 +3,13 @@
  "slug": "narayana-keshadipadanta-varnanam",
  "source_file": "stotras/krishna/NarayanaKeshadipadantaVarnanam.tex",
  "verse_count": 11,
- "weight": 210
+ "weight": 210,
+ "iast": "Nārāyaṇa Keśādipādavarṇanam",
+ "form": "Stotram",
+ "deity": [
+  "Krishna"
+ ],
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">नारायण केशादिपादवर्णनम्</h2>

@@ -4,7 +4,8 @@
  "source_file": "pujas/chitragupta-puja.tex",
  "verse_count": 46,
  "columns_hint": 2,
- "weight": 90
+ "weight": 90,
+ "iast": "Śrī-citragupta-pūjā"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्री-चित्रगुप्त-पूजा</h2>

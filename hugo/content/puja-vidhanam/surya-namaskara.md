@@ -4,7 +4,8 @@
  "source_file": "pujas/surya-namaskara.tex",
  "verse_count": 76,
  "columns_hint": 2,
- "weight": 310
+ "weight": 310,
+ "iast": "Śrī-sūrya-namaskāraḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्री-सूर्य-नमस्कारः</h2>

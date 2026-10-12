@@ -3,7 +3,13 @@
  "slug": "brahmapaara-stotram",
  "source_file": "stotras/vishnu/BrahmapaaraStotram.tex",
  "verse_count": 7,
- "weight": 10
+ "weight": 10,
+ "iast": "Brahmapārastotram",
+ "form": "Stotram",
+ "deity": [
+  "Vishnu"
+ ],
+ "date": "2023-05-21"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">ब्रह्मपारस्तोत्रम्</h2>

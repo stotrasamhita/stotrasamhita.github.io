@@ -1,0 +1,18 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{{ $title := cond .IsHome site.Title (printf "%s · %s" (.Params.iast | default .Title) site.Title) }}
+<title>{{ $title }}</title>
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Params.iast }}{{ $.Title }} ({{ . }}){{ else }}{{ site.Params.description }}{{ end }}{{ end }}">
+<meta property="og:title" content="{{ .Title }}{{ with .Params.iast }} · {{ . }}{{ end }}">
+<meta property="og:site_name" content="{{ site.Title }}">
+<link rel="canonical" href="{{ .Permalink }}">
+<link rel="icon" href="/favicon.png">
+{{/* Applied before first paint so a stored dark choice never flashes light. */}}
+<script>try { if (localStorage.getItem('ss-theme') === 'dark') document.documentElement.setAttribute('data-theme', 'dark'); } catch (e) {}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+Devanagari:wght@500;600;700&family=Tiro+Devanagari+Sanskrit:ital@0;1&family=Hanken+Grotesk:wght@400;500;600;700&display=swap">
+{{ $css := slice (resources.Get "css/site.css") (resources.Get "css/stotras.css") | resources.Concat "css/main.css" }}
+{{ if hugo.IsProduction }}{{ $css = $css | minify | fingerprint }}{{ end }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}"{{ with $css.Data.Integrity }} integrity="{{ . }}"{{ end }}>
+{{ with .OutputFormats.Get "rss" }}<link rel="alternate" type="application/rss+xml" href="{{ .RelPermalink }}" title="{{ site.Title }}">{{ end }}

@@ -11,7 +11,10 @@
  ],
  "stotra_type": "Nama Stotram",
  "wiki_title": "Chandra Ashtavimshati Nama Stotram",
- "weight": 50
+ "weight": 50,
+ "iast": "Candrāṣṭaviṃśatināmastotram",
+ "form": "Nāma stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Nama Stotram</p>

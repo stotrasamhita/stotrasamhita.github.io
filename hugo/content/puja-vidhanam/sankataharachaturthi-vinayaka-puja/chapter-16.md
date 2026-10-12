@@ -1,6 +1,7 @@
 {
  "title": "द्वादशोऽध्यायः—माघ-शुक्ल-चतुर्थी-माहात्म्य-वर्णनम्",
- "weight": 160
+ "weight": 160,
+ "iast": "Dvādaśo'dhyāyaḥ—māgha-śukla-caturthī-māhātmya-varṇanam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">द्वादशोऽध्यायः—माघ-शुक्ल-चतुर्थी-माहात्म्य-वर्णनम्</h2>

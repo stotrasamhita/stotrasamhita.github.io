@@ -1,6 +1,7 @@
 {
  "title": "सप्तदशोऽध्यायः—आषाढ-शुक्ल-चतुर्थी-माहात्म्य-वर्णनम्",
- "weight": 210
+ "weight": 210,
+ "iast": "Saptadaśo'dhyāyaḥ—āṣāḍha-śukla-caturthī-māhātmya-varṇanam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">सप्तदशोऽध्यायः—आषाढ-शुक्ल-चतुर्थी-माहात्म्य-वर्णनम्</h2>

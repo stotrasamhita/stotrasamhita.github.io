@@ -12,7 +12,10 @@
  "stotra_type": "Nama Stotram",
  "source": "Skanda Puranam",
  "wiki_title": "Angaraka Stotram",
- "weight": 20
+ "weight": 20,
+ "iast": "Aṅgārakastotram",
+ "form": "Stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Nama Stotram</p>

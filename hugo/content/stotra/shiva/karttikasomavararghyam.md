@@ -3,7 +3,13 @@
  "slug": "karttikasomavararghyam",
  "source_file": "stotras/shiva/Karttikasomavararghyam.tex",
  "verse_count": 8,
- "weight": 100
+ "weight": 100,
+ "iast": "Kārttikasomavārārghyam",
+ "form": "Stotram",
+ "deity": [
+  "Shiva"
+ ],
+ "date": "2020-12-14"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">कार्त्तिकसोमवारार्घ्यम्</h2>

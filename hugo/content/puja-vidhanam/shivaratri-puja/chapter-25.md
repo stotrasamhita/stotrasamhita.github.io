@@ -1,6 +1,7 @@
 {
  "title": "शतरुद्रीयम् (सं॰)",
- "weight": 250
+ "weight": 250,
+ "iast": "Śatarudrīyam Saṃ॰"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">शतरुद्रीयम् (सं॰)</h2>

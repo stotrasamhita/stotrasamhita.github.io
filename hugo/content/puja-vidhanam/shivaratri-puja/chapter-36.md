@@ -1,6 +1,7 @@
 {
  "title": "प्रार्थना",
- "weight": 360
+ "weight": 360,
+ "iast": "Prārthanā"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">प्रार्थना</h2>

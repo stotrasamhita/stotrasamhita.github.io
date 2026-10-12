@@ -17,7 +17,10 @@
  "vakta": "Krishna",
  "shrota": "Arjuna",
  "wiki_title": "Krishna Dwadasha Nama Stotram",
- "weight": 140
+ "weight": 140,
+ "iast": "Kṛṣṇadvādaśanāmastotram",
+ "form": "Nāma stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Nama Stotram</p>

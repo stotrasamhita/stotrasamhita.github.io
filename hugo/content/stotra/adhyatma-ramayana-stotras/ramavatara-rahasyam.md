@@ -3,7 +3,13 @@
  "slug": "ramavatara-rahasyam",
  "source_file": "stotras/adhyatma-ramayana-stotras/RamavataraRahasyam.tex",
  "verse_count": 8,
- "weight": 270
+ "weight": 270,
+ "iast": "Rāmāvatārarahasyam",
+ "form": "Stotram",
+ "deity": [
+  "Rama"
+ ],
+ "date": "2017-12-29"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">रामावताररहस्यम्</h2>

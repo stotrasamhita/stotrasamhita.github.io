@@ -1,6 +1,7 @@
 {
  "title": "प्रधान-पूजा — एकादशीपूजा",
- "weight": 10
+ "weight": 10,
+ "iast": "Pradhāna-pūjā — Ekādaśīpūjā"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">प्रधान-पूजा — एकादशीपूजा</h2>

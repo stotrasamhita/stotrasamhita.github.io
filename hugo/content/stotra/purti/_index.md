@@ -1,7 +1,6 @@
 {
- "title": "Purti",
+ "title": "पूर्तिः",
+ "iast": "Pūrti",
  "weight": 120,
- "bookCollapseSection": true
+ "description": "Concluding verses."
 }
-
-<p>Prayers of fulfillment and completion.</p>

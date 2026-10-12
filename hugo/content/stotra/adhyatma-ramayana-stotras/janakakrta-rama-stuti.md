@@ -3,7 +3,13 @@
  "slug": "janakakrta-rama-stuti",
  "source_file": "stotras/adhyatma-ramayana-stotras/JanakakrtaRamaStuti.tex",
  "verse_count": 3,
- "weight": 80
+ "weight": 80,
+ "iast": "Janakakṛta-rāmastutiḥ",
+ "form": "Stuti",
+ "deity": [
+  "Rama"
+ ],
+ "date": "2026-10-02"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">जनककृत-रामस्तुतिः</h2>

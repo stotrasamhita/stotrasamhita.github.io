@@ -3,7 +3,13 @@
  "slug": "shivakrta-rama-stuti",
  "source_file": "stotras/adhyatma-ramayana-stotras/ShivakrtaRamaStuti.tex",
  "verse_count": 13,
- "weight": 310
+ "weight": 310,
+ "iast": "Śivakṛta-rāmastutiḥ",
+ "form": "Stuti",
+ "deity": [
+  "Rama"
+ ],
+ "date": "2017-12-29"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">शिवकृत-रामस्तुतिः</h2>

@@ -4,7 +4,8 @@
  "source_file": "pujas/nrisimha-jayanti-puja.tex",
  "verse_count": 264,
  "columns_hint": 2,
- "weight": 80
+ "weight": 80,
+ "iast": "Śrī-lakṣmī-nṛsiṃha-jayantī-pūjā"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्री-लक्ष्मी-नृसिंह-जयन्ती-पूजा</h2>

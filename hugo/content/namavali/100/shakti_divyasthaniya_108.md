@@ -4,7 +4,8 @@
  "source_file": "100/Shakti_divyasthaniya_108.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 310
+ "weight": 310,
+ "iast": "Śaktyaṣṭottaraśatadivyasthānīyanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">शक्त्यष्टोत्तरशतदिव्यस्थानीयनामावलिः</h2>

@@ -1,7 +1,6 @@
 {
- "title": "Subrahmanya",
+ "title": "सुब्रह्मण्यः",
+ "iast": "Subrahmaṇya",
  "weight": 190,
- "bookCollapseSection": true
+ "description": "Stotras to Subrahmaṇya."
 }
-
-<p>Stotras dedicated to Subrahmanya (Kartikeya/Skanda).</p>

@@ -17,7 +17,10 @@
  "vakta": "Dhaumya",
  "shrota": "Yudhishthira",
  "wiki_title": "Surya Ashtottara Shatanama Stotram",
- "weight": 290
+ "weight": 290,
+ "iast": "Sūryāṣṭottaraśatanāmastotram",
+ "form": "Śatanāma",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Shatanama Stotram</p>

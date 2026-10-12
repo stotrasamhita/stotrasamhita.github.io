@@ -1,12 +1,7 @@
 ---
-title: "Mahabharatam"
-type: docs
+title: "महाभारतम्"
+iast: "Mahābhārata"
 weight: 6
 ---
 
-# Mahabharatam
-
-Srimad Mahabharatam in Sanskrit (Kumbhaghonam edition), built from the
-[Mahabharatam](https://github.com/stotrasamhita/Mahabharatam) TeX corpus.
-Currently just Virata Parva, the one parva proofread so far; the rest of
-the corpus will be added as it's ready.
+The Mahābhārata (Kumbhakonam edition), from the [Mahabharatam](https://github.com/stotrasamhita/Mahabharatam) corpus. Virāṭa Parva is the first parva proofread; others will follow.

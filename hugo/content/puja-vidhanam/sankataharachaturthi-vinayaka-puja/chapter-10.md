@@ -1,6 +1,7 @@
 {
  "title": "षष्ठोऽध्यायः—चन्द्रदर्शन-दोष-हरण-चरित-वर्णनम्",
- "weight": 100
+ "weight": 100,
+ "iast": "Ṣaṣṭho'dhyāyaḥ—candradarśana-doṣa-haraṇa-carita-varṇanam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">षष्ठोऽध्यायः—चन्द्रदर्शन-दोष-हरण-चरित-वर्णनम्</h2>

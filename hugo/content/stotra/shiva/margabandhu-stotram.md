@@ -10,7 +10,10 @@
   "Appayya Dikshita"
  ],
  "wiki_title": "Margabandhu Stotram",
- "weight": 120
+ "weight": 120,
+ "iast": "Mārgabandhustotram",
+ "form": "Stotram",
+ "date": "2015-03-28"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">मार्गबन्धुस्तोत्रम्</h2>

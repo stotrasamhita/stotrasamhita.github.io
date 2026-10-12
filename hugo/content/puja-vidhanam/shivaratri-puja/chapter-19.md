@@ -1,6 +1,7 @@
 {
  "title": "शिवसङ्कल्पः",
- "weight": 190
+ "weight": 190,
+ "iast": "Śivasaṅkalpaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">शिवसङ्कल्पः</h2>

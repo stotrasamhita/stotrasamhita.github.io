@@ -10,7 +10,10 @@
   "Totakam"
  ],
  "wiki_title": "Venkatesha Stotram",
- "weight": 70
+ "weight": 70,
+ "iast": "Veṅkaṭeśa-stotram",
+ "form": "Stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">वेङ्कटेश-स्तोत्रम्</h2>

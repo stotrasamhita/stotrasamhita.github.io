@@ -1,6 +1,7 @@
 {
  "title": "आषाढ-शुक्ल-शयनी-एकादशी-माहात्म्यम् (भविष्य-पुराणम्)",
- "weight": 530
+ "weight": 530,
+ "iast": "Āṣāḍha-śukla-śayanī-ekādaśī-māhātmyam Bhaviṣya-purāṇam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">आषाढ-शुक्ल-शयनी-एकादशी-माहात्म्यम् (भविष्य-पुराणम्)</h2>

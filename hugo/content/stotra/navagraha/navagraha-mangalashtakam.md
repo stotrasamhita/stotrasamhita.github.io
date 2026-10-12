@@ -10,7 +10,10 @@
   "Shardulavikriditam"
  ],
  "wiki_title": "Navagraha Mangalashtakam",
- "weight": 90
+ "weight": 90,
+ "iast": "Navagrahamaṅgalāṣṭakam",
+ "form": "Aṣṭakam",
+ "date": "2016-06-04"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">नवग्रहमङ्गलाष्टकम्</h2>

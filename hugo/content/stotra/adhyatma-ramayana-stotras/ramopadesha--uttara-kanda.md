@@ -3,7 +3,13 @@
  "slug": "ramopadesha--uttara-kanda",
  "source_file": "stotras/adhyatma-ramayana-stotras/Ramopadesha-UttaraKanda.tex",
  "verse_count": 32,
- "weight": 290
+ "weight": 290,
+ "iast": "Rāmopadeśaḥ",
+ "form": "Stotram",
+ "deity": [
+  "Rama"
+ ],
+ "date": "2017-12-29"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">रामोपदेशः</h2>

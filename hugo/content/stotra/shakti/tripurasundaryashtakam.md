@@ -3,7 +3,13 @@
  "slug": "tripurasundaryashtakam",
  "source_file": "stotras/shakti/Tripurasundaryashtakam.tex",
  "verse_count": 8,
- "weight": 210
+ "weight": 210,
+ "iast": "Tripurasundaryaṣṭakam",
+ "form": "Aṣṭakam",
+ "deity": [
+  "Shakti"
+ ],
+ "date": "2024-08-16"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">त्रिपुरसुन्दर्यष्टकम्</h2>

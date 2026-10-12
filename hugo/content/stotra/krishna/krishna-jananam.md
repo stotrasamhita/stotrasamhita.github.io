@@ -3,7 +3,13 @@
  "slug": "krishna-jananam",
  "source_file": "stotras/krishna/KrishnaJananam.tex",
  "verse_count": 3,
- "weight": 150
+ "weight": 150,
+ "iast": "Śrī-kṛṣṇa-jananam",
+ "form": "Stotram",
+ "deity": [
+  "Krishna"
+ ],
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्री-कृष्ण-जननम्</h2>

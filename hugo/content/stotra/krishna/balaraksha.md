@@ -3,7 +3,13 @@
  "slug": "balaraksha",
  "source_file": "stotras/krishna/Balaraksha.tex",
  "verse_count": 11,
- "weight": 40
+ "weight": 40,
+ "iast": "Bālarakṣā",
+ "form": "Stotram",
+ "deity": [
+  "Krishna"
+ ],
+ "date": "2015-01-26"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">बालरक्षा</h2>

@@ -13,7 +13,10 @@
   "Shravanabharanam"
  ],
  "wiki_title": "Mahishasuramardini Stotram",
- "weight": 130
+ "weight": 130,
+ "iast": "Mahiṣāsuramardini-stotram",
+ "form": "Stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">महिषासुरमर्दिनि-स्तोत्रम्</h2>

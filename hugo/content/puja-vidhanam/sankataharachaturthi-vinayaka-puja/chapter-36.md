@@ -1,6 +1,7 @@
 {
  "title": "द्वात्रिंशोऽध्यायः—मलमास-कृष्ण-चतुर्थी-माहात्म्य-वर्णनम्",
- "weight": 360
+ "weight": 360,
+ "iast": "Dvātriṃśo'dhyāyaḥ—malamāsa-kṛṣṇa-caturthī-māhātmya-varṇanam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">द्वात्रिंशोऽध्यायः—मलमास-कृष्ण-चतुर्थी-माहात्म्य-वर्णनम्</h2>

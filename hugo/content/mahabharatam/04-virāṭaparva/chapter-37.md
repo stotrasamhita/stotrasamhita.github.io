@@ -1,6 +1,7 @@
 {
  "title": "सप्तत्रिंशोऽध्यायः॥३७॥",
- "weight": 370
+ "weight": 370,
+ "iast": "Saptatriṃśo'dhyāyaḥ||37||"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">सप्तत्रिंशोऽध्यायः॥३७॥</h2>

@@ -1,0 +1,9 @@
+{{/* Collection subtitle: a live count when the collection names a unit. */}}
+{{ $s := "" }}
+{{ if and .section .unit }}
+  {{ with site.GetPage (printf "/%s" .section) }}
+    {{ $n := cond (eq $.unit "kāṇḍas") (len .Sections) (len .RegularPagesRecursive) }}
+    {{ $s = printf "%d %s" $n $.unit }}
+  {{ end }}
+{{ else }}{{ $s = .note }}{{ end }}
+{{ return $s }}

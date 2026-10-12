@@ -1,6 +1,7 @@
 {
  "title": "एकविंशोऽध्यायः॥२१॥",
- "weight": 210
+ "weight": 210,
+ "iast": "Ekaviṃśo'dhyāyaḥ||21||"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">एकविंशोऽध्यायः॥२१॥</h2>

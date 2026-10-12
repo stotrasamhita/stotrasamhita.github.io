@@ -1,6 +1,7 @@
 {
  "title": "नवमोऽध्यायः---राजविद्याराजगुह्ययोगः",
- "weight": 90
+ "weight": 90,
+ "iast": "Navamo'dhyāyaḥ — Rājavidyārājaguhyayogaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">नवमोऽध्यायः---राजविद्याराजगुह्ययोगः</h2>

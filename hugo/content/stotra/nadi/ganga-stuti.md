@@ -3,7 +3,13 @@
  "slug": "ganga-stuti",
  "source_file": "stotras/nadi/GangaStuti.tex",
  "verse_count": 26,
- "weight": 10
+ "weight": 10,
+ "iast": "Gaṅgādaśaharāstotram",
+ "form": "Stotram",
+ "deity": [
+  "Nadi"
+ ],
+ "date": "2019-06-29"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">गङ्गादशहरास्तोत्रम्</h2>

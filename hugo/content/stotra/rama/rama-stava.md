@@ -3,7 +3,13 @@
  "slug": "rama-stava",
  "source_file": "stotras/rama/RamaStava.tex",
  "verse_count": 30,
- "weight": 110
+ "weight": 110,
+ "iast": "Śambhukṛta-rāmastavaḥ",
+ "form": "Stuti",
+ "deity": [
+  "Rama"
+ ],
+ "date": "2024-04-22"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">शम्भुकृत-रामस्तवः</h2>

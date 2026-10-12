@@ -3,7 +3,13 @@
  "slug": "suryarya-stotram",
  "source_file": "stotras/navagraha/SuryaryaStotram.tex",
  "verse_count": 12,
- "weight": 210
+ "weight": 210,
+ "iast": "Sūryāryāstotram",
+ "form": "Stotram",
+ "deity": [
+  "Navagraha"
+ ],
+ "date": "2020-02-09"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">सूर्यार्यास्तोत्रम्</h2>

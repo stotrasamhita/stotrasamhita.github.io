@@ -4,7 +4,8 @@
  "source_file": "100/Rama_Ramarahasya_108.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 280
+ "weight": 280,
+ "iast": "Rāmāṣṭottaraśatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">रामाष्टोत्तरशतनामावलिः</h2>

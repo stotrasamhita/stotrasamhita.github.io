@@ -1,6 +1,7 @@
 {
  "title": "षोडशाङ्गरौद्रीकरणम्",
- "weight": 160
+ "weight": 160,
+ "iast": "Ṣoḍaśāṅgaraudrīkaraṇam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">षोडशाङ्गरौद्रीकरणम्</h2>

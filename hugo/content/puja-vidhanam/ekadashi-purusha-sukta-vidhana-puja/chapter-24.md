@@ -1,6 +1,7 @@
 {
  "title": "आषाढ-कृष्ण-योगिनी-एकादशी-माहात्म्यम्",
- "weight": 240
+ "weight": 240,
+ "iast": "Āṣāḍha-kṛṣṇa-yoginī-ekādaśī-māhātmyam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">आषाढ-कृष्ण-योगिनी-एकादशी-माहात्म्यम्</h2>

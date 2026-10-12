@@ -1,11 +1,9 @@
 ---
-title: "Stotras"
-type: docs
+title: "स्तोत्राणि"
+iast: "Stotras"
 weight: 1
+layout: browse
 aliases: ["/stotras/"]
 ---
 
-# Stotras
-
-A collection of Sanskrit stotras, built from the
-[stotra-sangrahah](https://github.com/stotrasamhita/stotra-sangrahah) TeX corpus.
+Sanskrit stotras from the [stotra-sangrahah](https://github.com/stotrasamhita/stotra-sangrahah) corpus, proofread and typeset alongside the printed books.

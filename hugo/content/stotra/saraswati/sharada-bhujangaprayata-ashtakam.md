@@ -14,7 +14,10 @@
  ],
  "stotra_type": "Ashtakam",
  "wiki_title": "Sharada Bhujangaprayata Ashtakam",
- "weight": 40
+ "weight": 40,
+ "iast": "Śāradābhujaṅgaprayātāṣṭakam",
+ "form": "Aṣṭakam",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Ashtakam</p>

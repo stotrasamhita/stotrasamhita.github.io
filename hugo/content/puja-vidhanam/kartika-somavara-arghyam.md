@@ -3,7 +3,8 @@
  "slug": "kartika-somavara-arghyam",
  "source_file": "pujas/kartika-somavara-arghyam.tex",
  "verse_count": 278,
- "weight": 270
+ "weight": 270,
+ "iast": "Kārttikasomavārārghyam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">कार्त्तिकसोमवारार्घ्यम्</h2>

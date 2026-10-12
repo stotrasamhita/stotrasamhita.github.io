@@ -1,6 +1,7 @@
 {
  "title": "हंसगायत्री",
- "weight": 140
+ "weight": 140,
+ "iast": "Haṃsagāyatrī"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">हंसगायत्री</h2>

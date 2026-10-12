@@ -4,7 +4,8 @@
  "source_file": "100/ChandrashekharendraSaraswati_108.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 60
+ "weight": 60,
+ "iast": "Candraśekharendra Sarasvatī Aṣṭottaraśatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">चन्द्रशेखरेन्द्र सरस्वती अष्टोत्तरशतनामावलिः</h2>

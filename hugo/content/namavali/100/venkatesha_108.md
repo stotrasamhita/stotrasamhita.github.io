@@ -4,7 +4,8 @@
  "source_file": "100/Venkatesha_108.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 420
+ "weight": 420,
+ "iast": "Veṅkaṭeśāṣṭottaraśatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">वेङ्कटेशाष्टोत्तरशतनामावलिः</h2>

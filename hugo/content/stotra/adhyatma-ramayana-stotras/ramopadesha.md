@@ -3,7 +3,13 @@
  "slug": "ramopadesha",
  "source_file": "stotras/adhyatma-ramayana-stotras/Ramopadesha.tex",
  "verse_count": 37,
- "weight": 280
+ "weight": 280,
+ "iast": "Jñāna-vijñānopadeśaḥ",
+ "form": "Stotram",
+ "deity": [
+  "Rama"
+ ],
+ "date": "2017-12-29"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">ज्ञान-विज्ञानोपदेशः</h2>

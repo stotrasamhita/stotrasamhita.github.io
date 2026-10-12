@@ -1,6 +1,7 @@
 {
  "title": "व्रत-सङ्कल्पः",
- "weight": 10
+ "weight": 10,
+ "iast": "Vrata-saṅkalpaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">व्रत-सङ्कल्पः</h2>

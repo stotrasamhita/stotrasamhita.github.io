@@ -1,6 +1,7 @@
 {
  "title": "श्रावण-शुक्ल-पुत्रदा-एकादशी-माहात्म्यम्",
- "weight": 550
+ "weight": 550,
+ "iast": "Śrāvaṇa-śukla-putradā-ekādaśī-māhātmyam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्रावण-शुक्ल-पुत्रदा-एकादशी-माहात्म्यम्</h2>

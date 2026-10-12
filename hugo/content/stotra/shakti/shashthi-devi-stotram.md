@@ -14,7 +14,10 @@
  ],
  "source": "Brahmavaivarta Puranam",
  "wiki_title": "Shashthi Devi Stotram",
- "weight": 180
+ "weight": 180,
+ "iast": "Ṣaṣṭhīdevī-stotram",
+ "form": "Stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">षष्ठीदेवी-स्तोत्रम्</h2>

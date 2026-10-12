@@ -3,7 +3,10 @@
  "slug": "dhyana-shloka",
  "source_file": "stotras/dhyanam/DhyanaShloka.tex",
  "verse_count": 18,
- "weight": 10
+ "weight": 10,
+ "iast": "Dhyāna-stotrāṇi",
+ "form": "Dhyānam",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">ध्यान-स्तोत्राणि</h2>

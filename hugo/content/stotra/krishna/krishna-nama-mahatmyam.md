@@ -3,7 +3,13 @@
  "slug": "krishna-nama-mahatmyam",
  "source_file": "stotras/krishna/KrishnaNamaMahatmyam.tex",
  "verse_count": 37,
- "weight": 160
+ "weight": 160,
+ "iast": "Śrī-skāndapurāṇāntargata-mārgaśīrṣa-māhātmye Kṛṣṇa-nāma-māhātmyam",
+ "form": "Nāma stotram",
+ "deity": [
+  "Krishna"
+ ],
+ "date": "2023-12-04"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्री-स्कान्दपुराणान्तर्गत-मार्गशीर्ष-माहात्म्ये कृष्ण-नाम-माहात्म्यम्</h2>

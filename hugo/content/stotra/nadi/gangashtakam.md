@@ -3,7 +3,13 @@
  "slug": "gangashtakam",
  "source_file": "stotras/nadi/Gangashtakam.tex",
  "verse_count": 10,
- "weight": 30
+ "weight": 30,
+ "iast": "Gaṅgāṣṭakam",
+ "form": "Aṣṭakam",
+ "deity": [
+  "Nadi"
+ ],
+ "date": "2019-03-30"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">गङ्गाष्टकम्</h2>

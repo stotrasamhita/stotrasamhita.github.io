@@ -1,6 +1,7 @@
 {
  "title": "चतुस्त्रिंशोऽध्यायः—वसिष्ठ-दशरथ-संवाद-समाप्ति-वर्णनम्",
- "weight": 380
+ "weight": 380,
+ "iast": "Catustriṃśo'dhyāyaḥ—vasiṣṭha-daśaratha-saṃvāda-samāpti-varṇanam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">चतुस्त्रिंशोऽध्यायः—वसिष्ठ-दशरथ-संवाद-समाप्ति-वर्णनम्</h2>

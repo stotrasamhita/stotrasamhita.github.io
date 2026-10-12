@@ -3,7 +3,13 @@
  "slug": "lakshmi-nrisimha-pancharatnam",
  "source_file": "stotras/vishnu/LakshmiNrisimhaPancharatnam.tex",
  "verse_count": 5,
- "weight": 40
+ "weight": 40,
+ "iast": "Śrī-lakṣmī-nṛsiṃha-pañcaratna-stotram",
+ "form": "Pañcaratnam",
+ "deity": [
+  "Vishnu"
+ ],
+ "date": "2024-08-16"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्री-लक्ष्मी-नृसिंह-पञ्चरत्न-स्तोत्रम्</h2>

@@ -3,7 +3,13 @@
  "slug": "narada-rama-samvada",
  "source_file": "stotras/adhyatma-ramayana-stotras/NaradaRamaSamvada.tex",
  "verse_count": 41,
- "weight": 190
+ "weight": 190,
+ "iast": "Nārada-rāma-saṃvādaḥ",
+ "form": "Saṃvāda",
+ "deity": [
+  "Rama"
+ ],
+ "date": "2017-12-29"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">नारद-राम-संवादः</h2>

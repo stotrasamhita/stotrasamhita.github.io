@@ -11,7 +11,10 @@
  ],
  "stotra_type": "Shatanama Stotram",
  "wiki_title": "Ganapati Gakara Ashtottara Shatanama Stotram",
- "weight": 80
+ "weight": 80,
+ "iast": "Gaṇapati Gakāra Aṣṭottaraśatanāmastotram",
+ "form": "Śatanāma",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Shatanama Stotram</p>

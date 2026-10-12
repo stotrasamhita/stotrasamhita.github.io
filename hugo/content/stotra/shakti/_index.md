@@ -1,7 +1,6 @@
 {
- "title": "Shakti",
+ "title": "देवी",
+ "iast": "Devī",
  "weight": 150,
- "bookCollapseSection": true
+ "description": "Stotras to the Devī."
 }
-
-<p>Stotras dedicated to Devi/Shakti.</p>

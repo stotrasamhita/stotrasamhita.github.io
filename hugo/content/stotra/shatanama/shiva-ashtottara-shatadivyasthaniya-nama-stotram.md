@@ -12,7 +12,10 @@
  "stotra_type": "Shatanama Stotram",
  "source": "Lalitagama",
  "wiki_title": "Shiva Ashtottara Shatadivyasthaniya Nama Stotram",
- "weight": 250
+ "weight": 250,
+ "iast": "Śivāṣṭottaraśatadivyasthānīyanāmastotram",
+ "form": "Nāma stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Shatanama Stotram</p>

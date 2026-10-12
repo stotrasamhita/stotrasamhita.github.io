@@ -1,6 +1,7 @@
 {
  "title": "नामैकविंशतितमोऽध्यायः—फाल्गुन-कृष्ण-चतुर्थी-माहात्म्य-वर्णनम्",
- "weight": 250
+ "weight": 250,
+ "iast": "Nāmaikaviṃśatitamo'dhyāyaḥ—phālguna-kṛṣṇa-caturthī-māhātmya-varṇanam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">नामैकविंशतितमोऽध्यायः—फाल्गुन-कृष्ण-चतुर्थी-माहात्म्य-वर्णनम्</h2>

@@ -3,7 +3,10 @@
  "slug": "tulasi-ashtottara-shatanama-stotram",
  "source_file": "stotras/shatanama/TulasiAshtottaraShatanamaStotram.tex",
  "verse_count": 17,
- "weight": 300
+ "weight": 300,
+ "iast": "Tulasyaṣṭottaraśatanāmastotram",
+ "form": "Śatanāma",
+ "date": "2018-11-21"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">तुलस्यष्टोत्तरशतनामस्तोत्रम्</h2>

@@ -14,7 +14,10 @@
  ],
  "stotra_type": "Ashtakam",
  "wiki_title": "Dakshinamurtyashtakam",
- "weight": 70
+ "weight": 70,
+ "iast": "Dakṣiṇāmūrtyaṣṭakam",
+ "form": "Aṣṭakam",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Ashtakam</p>

@@ -1,0 +1,65 @@
+# Raw `deity:` values from the TeX metadata, grouped for browsing.
+# g: the browse/display group; groups carry the Devanagari name, the URL
+# folder their stotras live in, and the two colours of their fallback cover.
+map:
+  Shiva: Śiva
+  Dakshinamurti: Śiva
+  Nataraja: Śiva
+  Shakti: Devī
+  Gayatri: Devī
+  Svadha: Devī
+  Lakshmi: Lakṣmī
+  Saraswati: Sarasvatī
+  Ganesha: Gaṇeśa
+  Vishnu: Viṣṇu
+  Nrisimha: Viṣṇu
+  Hayagriva: Viṣṇu
+  Krishna: Kṛṣṇa
+  Guruvayupurisha: Kṛṣṇa
+  Rama: Rāma
+  Sita: Sītā
+  Venkatesha: Veṅkaṭeśa
+  Subrahmanya: Subrahmaṇya
+  Hanuman: Hanumān
+  Shasta: Śāstā
+  Surya: Sūrya
+  Navagraha: Navagraha
+  Chandra: Navagraha
+  Angaraka: Navagraha
+  Budha: Navagraha
+  Brihaspati: Navagraha
+  Shukra: Navagraha
+  Shanaishchara: Navagraha
+  Rahu: Navagraha
+  Ketu: Navagraha
+  Guru: Guru
+  Adi Shankaracharya: Guru
+  Nadi: Sacred rivers
+  Ganga: Sacred rivers
+  Narmada: Sacred rivers
+  Goda: Godā
+  Others: Other
+  Bharata Mata: Other
+  Paramatma: Other
+  Yama: Other
+groups:
+  Gaṇeśa: {deva: गणेशः, c: ['#A2541C', '#43200A']}
+  Śiva: {deva: शिवः, c: ['#3D4F6E', '#141B2C']}
+  Devī: {deva: देवी, c: ['#8E1E34', '#3A0A16']}
+  Lakṣmī: {deva: लक्ष्मीः, c: ['#A5293F', '#430E19']}
+  Sarasvatī: {deva: सरस्वती, c: ['#6F6A5C', '#2A2720']}
+  Viṣṇu: {deva: विष्णुः, c: ['#2D4A86', '#101A35']}
+  Kṛṣṇa: {deva: कृष्णः, c: ['#26507A', '#0D1F33']}
+  Rāma: {deva: रामः, c: ['#2F5D50', '#0F2620']}
+  Sītā: {deva: सीता, c: ['#9A3550', '#3D1120']}
+  Veṅkaṭeśa: {deva: वेङ्कटेशः, c: ['#6B3B7A', '#2A1330']}
+  Subrahmaṇya: {deva: सुब्रह्मण्यः, c: ['#9A3A1C', '#3E1309']}
+  Hanumān: {deva: हनूमान्, c: ['#A2401E', '#421607']}
+  Śāstā: {deva: शास्ता, c: ['#3F5B3A', '#162214']}
+  Sūrya: {deva: सूर्यः, c: ['#B8641A', '#4A2306']}
+  Navagraha: {deva: नवग्रहाः, c: ['#4C3F75', '#1A1430']}
+  Guru: {deva: गुरुः, c: ['#8A5A1F', '#36220A']}
+  Sacred rivers: {deva: नद्यः, c: ['#2E6C78', '#0E2B31']}
+  Godā: {deva: गोदा, c: ['#9A3550', '#3D1120']}
+  Other: {deva: इतरे, c: ['#5B4A3A', '#211912']}
+default: ['#5B4A3A', '#211912']

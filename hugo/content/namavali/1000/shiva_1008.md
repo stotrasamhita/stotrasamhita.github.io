@@ -4,7 +4,8 @@
  "source_file": "1000/Shiva_1008.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 50
+ "weight": 50,
+ "iast": "Śivasahasranāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">शिवसहस्रनामावलिः</h2>

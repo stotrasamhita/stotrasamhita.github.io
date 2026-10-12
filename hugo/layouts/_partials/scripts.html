@@ -1,0 +1,6 @@
+{{ $js := slice (resources.Get "js/site.js") }}
+{{ if and .IsPage (strings.Contains .Content "stotra-article") }}{{ $js = $js | append (resources.Get "js/sanscript.js") (resources.Get "js/script-switcher.js") }}{{ end }}
+{{ if eq .Layout "browse" }}{{ $js = $js | append (resources.Get "js/browse.js") }}{{ end }}
+{{ $b := $js | resources.Concat (printf "js/%s.js" (cond (eq .Layout "browse") "browse-all" (cond (gt (len $js) 1) "reading" "site"))) }}
+{{ if hugo.IsProduction }}{{ $b = $b | minify | fingerprint }}{{ end }}
+<script src="{{ $b.RelPermalink }}" defer></script>

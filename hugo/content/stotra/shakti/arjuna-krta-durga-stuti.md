@@ -3,7 +3,13 @@
  "slug": "arjuna-krta-durga-stuti",
  "source_file": "stotras/shakti/ArjunaKrtaDurgaStuti.tex",
  "verse_count": 28,
- "weight": 20
+ "weight": 20,
+ "iast": "Durgā-stutiḥ Arjuna-kṛtā",
+ "form": "Stuti",
+ "deity": [
+  "Shakti"
+ ],
+ "date": "2021-02-14"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">दुर्गा-स्तुतिः (अर्जुन-कृता)</h2>

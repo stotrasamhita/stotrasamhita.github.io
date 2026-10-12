@@ -1,6 +1,7 @@
 {
  "title": "एकोनपञ्चाशोऽध्यायः॥४९॥",
- "weight": 490
+ "weight": 490,
+ "iast": "Ekonapañcāśo'dhyāyaḥ||49||"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">एकोनपञ्चाशोऽध्यायः॥४९॥</h2>

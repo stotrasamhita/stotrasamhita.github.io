@@ -11,7 +11,10 @@
  ],
  "stotra_type": "Nama Stotram",
  "wiki_title": "Venkatesha Dwadasha Nama Stotram",
- "weight": 30
+ "weight": 30,
+ "iast": "Veṅkaṭeśadvādaśanāmastotram",
+ "form": "Nāma stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Nama Stotram</p>

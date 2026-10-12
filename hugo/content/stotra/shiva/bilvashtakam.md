@@ -11,7 +11,10 @@
  ],
  "stotra_type": "Ashtakam",
  "wiki_title": "Bilvashtakam",
- "weight": 20
+ "weight": 20,
+ "iast": "Bilvāṣṭakam",
+ "form": "Aṣṭakam",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Ashtakam</p>

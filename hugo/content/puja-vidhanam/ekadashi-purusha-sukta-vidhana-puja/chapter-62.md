@@ -1,6 +1,7 @@
 {
  "title": "पुरुषोत्तम-मासस्य शुक्ल-कमला-एकादशी-माहात्म्यम्",
- "weight": 620
+ "weight": 620,
+ "iast": "Puruṣottama-māsasya Śukla-kamalā-ekādaśī-māhātmyam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">पुरुषोत्तम-मासस्य शुक्ल-कमला-एकादशी-माहात्म्यम्</h2>

@@ -3,7 +3,10 @@
  "slug": "dhanvantari-ashtottara-shatanama-stotram",
  "source_file": "stotras/shatanama/DhanvantariAshtottaraShatanamaStotram.tex",
  "verse_count": 32,
- "weight": 50
+ "weight": 50,
+ "iast": "Dhanvantaryaṣṭottaraśatanāmastotram",
+ "form": "Śatanāma",
+ "date": "2018-11-04"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">धन्वन्तर्यष्टोत्तरशतनामस्तोत्रम्</h2>

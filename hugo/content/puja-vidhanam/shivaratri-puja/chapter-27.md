@@ -1,6 +1,7 @@
 {
  "title": "पञ्चाङ्गम्",
- "weight": 270
+ "weight": 270,
+ "iast": "Pañcāṅgam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">पञ्चाङ्गम्</h2>

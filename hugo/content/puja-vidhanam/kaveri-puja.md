@@ -4,7 +4,8 @@
  "source_file": "pujas/kaveri-puja.tex",
  "verse_count": 69,
  "columns_hint": 2,
- "weight": 300
+ "weight": 300,
+ "iast": "Śrī-kāverī-pūjā"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्री-कावेरी-पूजा</h2>

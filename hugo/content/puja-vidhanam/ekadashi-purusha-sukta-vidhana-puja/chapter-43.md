@@ -1,6 +1,7 @@
 {
  "title": "फाल्गुन-कृष्ण-विजया-एकादशी-माहात्म्यम्",
- "weight": 430
+ "weight": 430,
+ "iast": "Phālguna-kṛṣṇa-vijayā-ekādaśī-māhātmyam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">फाल्गुन-कृष्ण-विजया-एकादशी-माहात्म्यम्</h2>

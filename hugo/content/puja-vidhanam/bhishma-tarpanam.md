@@ -3,7 +3,8 @@
  "slug": "bhishma-tarpanam",
  "source_file": "pujas/bhishma-tarpanam.tex",
  "verse_count": 168,
- "weight": 330
+ "weight": 330,
+ "iast": "Bhīṣma-tarpaṇam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">भीष्म-तर्पणम्</h2>

@@ -3,7 +3,10 @@
  "slug": "avaidhavya-prarthana-stotram",
  "source_file": "stotras/other/AvaidhavyaPrarthanaStotram.tex",
  "verse_count": 2,
- "weight": 10
+ "weight": 10,
+ "iast": "Avaidhavyaprārthanāstotram",
+ "form": "Prārthanā",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">अवैधव्यप्रार्थनास्तोत्रम्</h2>

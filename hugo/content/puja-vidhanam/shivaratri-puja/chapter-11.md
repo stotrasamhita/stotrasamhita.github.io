@@ -1,6 +1,7 @@
 {
  "title": "केशादिपादान्त (प्रथमो) न्यासः",
- "weight": 110
+ "weight": 110,
+ "iast": "Keśādipādānta Prathamo Nyāsaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">केशादिपादान्त (प्रथमो) न्यासः</h2>

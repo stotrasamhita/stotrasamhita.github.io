@@ -4,7 +4,8 @@
  "source_file": "100/GakaradiGanapati_108.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 110
+ "weight": 110,
+ "iast": "Gakārādi Gaṇapati Aṣṭottaraśatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">गकारादि गणपति अष्टोत्तरशतनामावलिः</h2>

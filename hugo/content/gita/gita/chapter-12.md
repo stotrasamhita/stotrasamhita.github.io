@@ -1,6 +1,7 @@
 {
  "title": "द्वादशोऽध्यायः---भक्तियोगः",
- "weight": 120
+ "weight": 120,
+ "iast": "Dvādaśo'dhyāyaḥ — Bhaktiyogaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">द्वादशोऽध्यायः---भक्तियोगः</h2>

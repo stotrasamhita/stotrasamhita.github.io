@@ -3,7 +3,13 @@
  "slug": "vatapuranatha-ashtakam",
  "source_file": "stotras/krishna/VatapuranathaAshtakam.tex",
  "verse_count": 9,
- "weight": 220
+ "weight": 220,
+ "iast": "Vātapuranāthāṣṭakam",
+ "form": "Aṣṭakam",
+ "deity": [
+  "Krishna"
+ ],
+ "date": "2025-10-26"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">वातपुरनाथाष्टकम्</h2>

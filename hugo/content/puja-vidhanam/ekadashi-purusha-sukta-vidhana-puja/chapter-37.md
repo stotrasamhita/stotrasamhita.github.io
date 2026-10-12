@@ -1,6 +1,7 @@
 {
  "title": "मार्गशीर्ष-कृष्ण-एकादशी-माहात्म्यम्",
- "weight": 370
+ "weight": 370,
+ "iast": "Mārgaśīrṣa-kṛṣṇa-ekādaśī-māhātmyam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">मार्गशीर्ष-कृष्ण-एकादशी-माहात्म्यम्</h2>

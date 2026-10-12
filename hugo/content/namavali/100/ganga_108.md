@@ -4,7 +4,8 @@
  "source_file": "100/Ganga_108.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 140
+ "weight": 140,
+ "iast": "Gaṅgāṣṭottaraśatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">गङ्गाष्टोत्तरशतनामावलिः</h2>

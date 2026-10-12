@@ -13,7 +13,10 @@
   "Shardulavikriditam"
  ],
  "wiki_title": "Shiva Manasapuja",
- "weight": 170
+ "weight": 170,
+ "iast": "Śivamānasapūjā",
+ "form": "Stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">शिवमानसपूजा</h2>

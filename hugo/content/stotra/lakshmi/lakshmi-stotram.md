@@ -3,7 +3,13 @@
  "slug": "lakshmi-stotram",
  "source_file": "stotras/lakshmi/LakshmiStotram.tex",
  "verse_count": 24,
- "weight": 20
+ "weight": 20,
+ "iast": "Lakṣmīstotram Viṣṇupurāṇāntargatam",
+ "form": "Stotram",
+ "deity": [
+  "Lakshmi"
+ ],
+ "date": "2018-10-15"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">लक्ष्मीस्तोत्रम् विष्णुपुराणान्तर्गतम्</h2>

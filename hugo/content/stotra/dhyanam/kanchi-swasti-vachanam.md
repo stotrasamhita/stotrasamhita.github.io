@@ -3,7 +3,10 @@
  "slug": "kanchi-swasti-vachanam",
  "source_file": "stotras/dhyanam/KanchiSwastiVachanam.tex",
  "verse_count": 0,
- "weight": 50
+ "weight": 50,
+ "iast": "Svasti-vacanam/guruvandanam",
+ "form": "Stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">स्वस्ति-वचनम्/गुरुवन्दनम्</h2>

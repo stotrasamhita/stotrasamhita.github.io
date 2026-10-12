@@ -3,7 +3,13 @@
  "slug": "pandurangashtakam",
  "source_file": "stotras/vishnu/Pandurangashtakam.tex",
  "verse_count": 9,
- "weight": 50
+ "weight": 50,
+ "iast": "Pāṇḍuraṅgāṣṭakam",
+ "form": "Aṣṭakam",
+ "deity": [
+  "Vishnu"
+ ],
+ "date": "2024-08-16"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">पाण्डुरङ्गाष्टकम्</h2>

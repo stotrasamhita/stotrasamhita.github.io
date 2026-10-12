@@ -4,7 +4,8 @@
  "source_file": "100/Tulasi_108.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 400
+ "weight": 400,
+ "iast": "Tulasyaṣṭottaraśatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">तुलस्यष्टोत्तरशतनामावलिः</h2>

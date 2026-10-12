@@ -4,7 +4,8 @@
  "source_file": "pujas/kartika-mahatmyam.tex",
  "verse_count": 1828,
  "bookCollapseSection": true,
- "weight": 280
+ "weight": 280,
+ "iast": "Kārtikamāsamāhātmyam"
 }
 
 <div class="stotra-article"></div>

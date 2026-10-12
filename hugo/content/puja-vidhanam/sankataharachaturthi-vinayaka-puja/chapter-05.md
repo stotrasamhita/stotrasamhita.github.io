@@ -1,6 +1,7 @@
 {
  "title": "प्रथमोऽध्यायः—चतुर्थी-तपो-वर्णनम्",
- "weight": 50
+ "weight": 50,
+ "iast": "Prathamo'dhyāyaḥ—caturthī-tapo-varṇanam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">प्रथमोऽध्यायः—चतुर्थी-तपो-वर्णनम्</h2>

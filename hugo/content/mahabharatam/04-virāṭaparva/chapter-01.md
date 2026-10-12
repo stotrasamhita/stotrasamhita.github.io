@@ -1,6 +1,7 @@
 {
  "title": "प्रथमोऽध्यायः॥१॥",
- "weight": 10
+ "weight": 10,
+ "iast": "Prathamo'dhyāyaḥ||1||"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">प्रथमोऽध्यायः॥१॥</h2>

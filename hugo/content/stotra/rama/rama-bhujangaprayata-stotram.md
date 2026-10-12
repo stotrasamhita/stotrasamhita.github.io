@@ -13,7 +13,10 @@
   "Bhujanga Prayatam"
  ],
  "wiki_title": "Rama Bhujangaprayata Stotram",
- "weight": 90
+ "weight": 90,
+ "iast": "Rāmabhujaṅgaprayātastotram",
+ "form": "Bhujaṅgam",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">रामभुजङ्गप्रयातस्तोत्रम्</h2>

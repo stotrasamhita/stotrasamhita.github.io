@@ -4,7 +4,8 @@
  "source_file": "1000/GakaradiGanapati_1000.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 10
+ "weight": 10,
+ "iast": "Gaṇeśa Gakāra Sahasranāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">गणेश गकार सहस्रनामावलिः</h2>

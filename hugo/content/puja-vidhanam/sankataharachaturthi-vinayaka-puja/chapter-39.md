@@ -1,6 +1,7 @@
 {
  "title": "पञ्चत्रिंशोऽध्यायः—चतुर्थ्युद्यापन-निरूपणम्",
- "weight": 390
+ "weight": 390,
+ "iast": "Pañcatriṃśo'dhyāyaḥ—caturthyudyāpana-nirūpaṇam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">पञ्चत्रिंशोऽध्यायः—चतुर्थ्युद्यापन-निरूपणम्</h2>

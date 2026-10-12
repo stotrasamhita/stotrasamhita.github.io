@@ -10,7 +10,10 @@
   "Bankim Chandra Chattopadhyay"
  ],
  "wiki_title": "Vande Mataram",
- "weight": 20
+ "weight": 20,
+ "iast": "Vande Mātaram",
+ "form": "Stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">वन्दे मातरम्</h2>

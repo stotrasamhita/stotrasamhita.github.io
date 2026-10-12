@@ -16,7 +16,10 @@
  "vakta": "Vibhishana",
  "shrota": "Garuda",
  "wiki_title": "Apaduddharaka Dwadashamukha Hanuman Stotram",
- "weight": 10
+ "weight": 10,
+ "iast": "Āpaduddhāraka-dvādaśamukha-hanumān-stotram",
+ "form": "Stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">आपदुद्धारक-द्वादशमुख-हनुमान्-स्तोत्रम्</h2>

@@ -14,7 +14,10 @@
  ],
  "source": "Bhagavatam",
  "wiki_title": "Bhishma Stuti",
- "weight": 80
+ "weight": 80,
+ "iast": "Bhīṣmastutiḥ",
+ "form": "Stuti",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">भीष्मस्तुतिः</h2>

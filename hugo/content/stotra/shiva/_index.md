@@ -1,7 +1,6 @@
 {
- "title": "Shiva",
+ "title": "शिवः",
+ "iast": "Śiva",
  "weight": 180,
- "bookCollapseSection": true
+ "description": "Stotras to Śiva."
 }
-
-<p>Stotras dedicated to Shiva.</p>

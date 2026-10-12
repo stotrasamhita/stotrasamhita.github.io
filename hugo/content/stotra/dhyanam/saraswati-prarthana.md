@@ -8,7 +8,10 @@
  ],
  "stotra_type": "Prarthana",
  "wiki_title": "Saraswati Prarthana",
- "weight": 100
+ "weight": 100,
+ "iast": "Sarasvatī Prārthanā",
+ "form": "Prārthanā",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Prarthana</p>

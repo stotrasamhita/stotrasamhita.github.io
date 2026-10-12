@@ -11,7 +11,10 @@
  ],
  "source": "Bhavishya Puranam",
  "wiki_title": "Surya Mandala Stotram",
- "weight": 170
+ "weight": 170,
+ "iast": "Sūryamaṇḍala-stotram",
+ "form": "Stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">सूर्यमण्डल-स्तोत्रम्</h2>

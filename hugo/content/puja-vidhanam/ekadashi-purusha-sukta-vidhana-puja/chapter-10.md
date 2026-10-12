@@ -1,6 +1,7 @@
 {
  "title": "मार्गशीर्ष-कृष्ण-उत्पन्ना-एकादशी-कृत-मुरवधः",
- "weight": 100
+ "weight": 100,
+ "iast": "Mārgaśīrṣa-kṛṣṇa-utpannā-ekādaśī-kṛta-muravadhaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">मार्गशीर्ष-कृष्ण-उत्पन्ना-एकादशी-कृत-मुरवधः</h2>

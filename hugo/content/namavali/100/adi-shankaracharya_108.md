@@ -4,7 +4,8 @@
  "source_file": "100/AdiShankaracharya_108.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 10
+ "weight": 10,
+ "iast": "Ādiśaṅkarācāryāṣṭottaraśatanāmāvaliḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">आदिशङ्कराचार्याष्टोत्तरशतनामावलिः</h2>

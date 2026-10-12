@@ -14,7 +14,10 @@
  ],
  "stotra_type": "Ashtakam",
  "wiki_title": "Krishnashtakam 1",
- "weight": 170
+ "weight": 170,
+ "iast": "Kṛṣṇāṣṭakam 1",
+ "form": "Aṣṭakam",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Ashtakam</p>

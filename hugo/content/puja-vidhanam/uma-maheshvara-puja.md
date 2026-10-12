@@ -4,7 +4,8 @@
  "source_file": "pujas/uma-maheshvara-puja.tex",
  "verse_count": 83,
  "columns_hint": 2,
- "weight": 150
+ "weight": 150,
+ "iast": "Śrī-umā-maheśvara-pūjā"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्री-उमा-महेश्वर-पूजा</h2>

@@ -1,6 +1,7 @@
 {
  "title": "विंशोऽध्यायः—माघ-कृष्ण-चतुर्थी-माहात्म्य-वर्णनम्",
- "weight": 240
+ "weight": 240,
+ "iast": "Viṃśo'dhyāyaḥ—māgha-kṛṣṇa-caturthī-māhātmya-varṇanam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">विंशोऽध्यायः—माघ-कृष्ण-चतुर्थी-माहात्म्य-वर्णनम्</h2>

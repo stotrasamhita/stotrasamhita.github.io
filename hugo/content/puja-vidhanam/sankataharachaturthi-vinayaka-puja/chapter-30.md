@@ -1,6 +1,7 @@
 {
  "title": "षड्विंशोऽध्यायः—श्रावण-कृष्ण-चतुर्थी-माहात्म्य-वर्णनम्",
- "weight": 300
+ "weight": 300,
+ "iast": "Ṣaḍviṃśo'dhyāyaḥ—śrāvaṇa-kṛṣṇa-caturthī-māhātmya-varṇanam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">षड्विंशोऽध्यायः—श्रावण-कृष्ण-चतुर्थी-माहात्म्य-वर्णनम्</h2>

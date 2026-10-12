@@ -13,7 +13,10 @@
   "Vasantatilaka"
  ],
  "wiki_title": "Kanakadhara Stavam",
- "weight": 10
+ "weight": 10,
+ "iast": "Kanakadhārāstavaḥ",
+ "form": "Stuti",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">कनकधारास्तवः</h2>

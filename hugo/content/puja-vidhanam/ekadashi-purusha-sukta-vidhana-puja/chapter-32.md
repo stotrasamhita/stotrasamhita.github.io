@@ -1,6 +1,7 @@
 {
  "title": "कार्त्तिक-कृष्ण-रमा-एकादशी-माहात्म्यम्",
- "weight": 320
+ "weight": 320,
+ "iast": "Kārttika-kṛṣṇa-ramā-ekādaśī-māhātmyam"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">कार्त्तिक-कृष्ण-रमा-एकादशी-माहात्म्यम्</h2>

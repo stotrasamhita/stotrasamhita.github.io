@@ -13,7 +13,10 @@
   "Sragdhara"
  ],
  "wiki_title": "Saraswati Stotram (Brahma)",
- "weight": 20
+ "weight": 20,
+ "iast": "Siddhasarasvatīstotraṃ Śrīmad-brahmaviracitam",
+ "form": "Stotram",
+ "date": "2014-07-10"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">सिद्धसरस्वतीस्तोत्रं श्रीमद्-ब्रह्मविरचितम्</h2>
