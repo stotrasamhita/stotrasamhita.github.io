@@ -1,3 +1,32 @@
 # Approved background stories, shown on the site under "About this stotra".
 # Drafts awaiting review are in stories/drafts.yaml.
-{}
+gita/mahatmyam-varaha-puranam:
+  text: 'The Gītā-māhātmyam of the Varāha Purāṇa. After verses of meditation on Varāha, the boar incarnation
+    who raised the earth on his tusk, the goddess Earth (Dharā) asks Lord Viṣṇu how unwavering devotion
+    can arise in one still bound by prārabdha karma. Viṣṇu answers with the glories of the Gītā: its student
+    is liberated and happy, untouched by sin like a lotus leaf by water; wherever the Gītā is read, all
+    holy places are present; ''the Gītā is My supreme abode; relying on its knowledge I sustain the three
+    worlds''; and He describes the merit of reciting the whole, half, a chapter, or even a single verse.'
+stotra/ganesha/gakaradi-ganapati-sahasranama-stotram:
+  text: The Gakārādi Gaṇapati Sahasranāma — a thousand names of Gaṇapati, every one beginning with the
+    syllable 'ga', taught by Śiva. From the Rudrayāmala, in the Anuṣṭubh metre.
+stotra/ganesha/maha-ganesha-pancharatnam:
+  text: The Mahāgaṇeśa Pañcaratnam — five jewel-like verses on Gaṇeśa, composed by Ādi Śaṅkarācārya in
+    the Pañcacāmara metre, beginning 'mudākarātta-modakam'.
+stotra/ganesha/vakratunda-mahaganapati-sahasranama-stotram:
+  text: The Vakratuṇḍa Mahāgaṇapati Sahasranāma — a thousand names of Gaṇeśa, from the Gaṇeśa Purāṇa.
+stotra/guru/vyasashtakam:
+  text: The Vyāsāṣṭakam — eight verses in praise of Veda Vyāsa, in the Anuṣṭubh metre.
+stotra/hanuman/apaduddharaka-dwadashamukha-hanuman-stotram:
+  text: The Āpaduddhāraka Dvādaśamukha Hanumān Stotram — a hymn to twelve-faced Hanumān, the remover of
+    distress, spoken by Vibhīṣaṇa. From the Sudarśana Saṁhitā.
+stotra/hanuman/hanumat-pancharatnam:
+  text: The Hanumat Pañcaratnam — five verses on Hanumān, composed by Ādi Śaṅkarācārya.
+stotra/hanuman/sundara-hanuman-maha-mantra-nama-stotram:
+  text: The Sundara-Hanumān Mahāmantra-nāma Stotram — names of Hanumān, in the Anuṣṭubh metre.
+stotra/krishna/achyutashtakam:
+  text: The Acyutāṣṭakam — eight verses on Śrī Kṛṣṇa, composed by Ādi Śaṅkarācārya in the Sragviṇī metre,
+    beginning 'acyutaṁ keśavaṁ rāma-nārāyaṇam'.
+stotra/krishna/bhishma-stavaraja:
+  text: The Bhīṣma Stavarāja — the 'king of hymns' sung by Bhīṣma to Śrī Kṛṣṇa from his bed of arrows.
+    From the Mahābhārata.
