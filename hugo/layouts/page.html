@@ -7,6 +7,7 @@
   {{ range findRESubmatch `<a href="([^"]+)">([^<]+)</a>` (index . 0) }}{{ $pdfs = $pdfs | append (dict "href" (index . 1) "label" (index . 2)) }}{{ end }}
 {{ end }}
 {{ $body = $body | replaceRE `(?s)<div class="pdf-links">.*?</div>` "" }}
+{{ $body = partial "namelist.html" $body }}
 {{ $book := and .Parent .Parent.Params.source_file }}
 {{ $kinds := dict "stotra" "Stotra" "namavali" "Nāmāvalī" "puja-vidhanam" "Pūjā" "gita" "Gītā" "adhyatma-ramayanam" "Adhyātma Rāmāyaṇa" "mahabharatam" "Mahābhārata" }}
 

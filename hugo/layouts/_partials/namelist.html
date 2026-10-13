@@ -1,0 +1,21 @@
+{{/* Numbered name lists (nāmāvalīs, and the archanas in pūjās): a prose
+     paragraph whose lines end in running numbers (…नमः१०) becomes one span
+     per name, the number set apart in a badge and each numbered line
+     closing a group. Other paragraphs pass through unchanged. */}}
+{{ $body := . }}
+{{ range findRE `<p class="prose">[^<]*(?:<br>[^<]*)*</p>` $body }}
+  {{ if ge (len (findRE `[^\s—–-]\s*[०-९0-9]+\s*(?:<br>|</p>)` .)) 2 }}
+    {{ $inner := strings.TrimSuffix "</p>" (strings.TrimPrefix `<p class="prose">` .) }}
+    {{ $out := slice }}
+    {{ range split $inner "<br>" }}
+      {{ $m := findRESubmatch `^(.*?)\s*([०-९0-9]+)\s*$` . 1 }}
+      {{ if $m }}
+        {{ $out = $out | append (printf `<span class="nm end">%s<b class="nn">%s</b></span>` (index $m 0 1) (index $m 0 2)) }}
+      {{ else }}
+        {{ $out = $out | append (printf `<span class="nm">%s</span>` .) }}
+      {{ end }}
+    {{ end }}
+    {{ $body = replace $body . (printf `<p class="prose names">%s</p>` (delimit $out "")) 1 }}
+  {{ end }}
+{{ end }}
+{{ return $body }}
