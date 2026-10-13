@@ -336,3 +336,72 @@ main > .crumbs { margin-bottom: -34px; }
 .shead.plain .kicker { margin-bottom: 10px; }
 .shead.plain + .sbody { margin-top: 28px; }
 .info dd { overflow-wrap: break-word; }
+
+/* Vani videos: the title slide as poster, the player swapped in on play. */
+.video { position: relative; aspect-ratio: 16 / 9; background: #1a0f12; overflow: hidden; }
+.video button { all: unset; cursor: pointer; display: block; width: 100%; height: 100%; }
+.video img, .video iframe { width: 100%; height: 100%; object-fit: cover; display: block; border: 0; }
+.video .pb { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); width: 54px; height: 54px; border-radius: 50%;
+  display: grid; place-items: center; background: rgba(20, 8, 16, .72); color: #fff; box-shadow: 0 2px 12px rgba(0,0,0,.35); transition: transform .15s; }
+.video button:hover .pb, .video button:focus-visible .pb { transform: translate(-50%, -50%) scale(1.1); background: var(--badge, var(--accent)); }
+.info .yt { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; padding: 9px 16px; border-bottom: 1px solid var(--line); font-size: 13.5px; color: var(--accent); }
+.yt small { color: var(--muted); font-size: 11.5px; }
+.rvideo { margin: 24px 0 8px; max-width: 720px; }
+.rvideo .video { border-radius: 4px; }
+.rvideo .yt { display: inline-flex; gap: 10px; align-items: baseline; margin-top: 8px; font-size: 14px; color: var(--accent); }
+.rvideo.wide { margin-bottom: 30px; }
+.reading .about { margin-top: 18px; }
+.cover.vid img { object-position: center; }
+.cover.wide { aspect-ratio: 16 / 9; }
+.cover.fb.wide { padding: 6% 12%; }
+.cover.fb.wide span { font-size: clamp(17px, 1.9vw, 26px); }
+.cover.fb.wide.xlong span { font-size: clamp(14px, 1.45vw, 19px); }
+
+/* About and other prose pages. */
+.prose-page h2 { font-family: var(--f-text); font-weight: 400; font-size: 26px; color: var(--head); margin: 36px 0 8px; }
+.prose-page h3 { font-size: 13px; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); margin: 26px 0 6px; }
+.prose-page a { color: var(--accent); }
+.prose-page li { margin: 6px 0; }
+.prose-page .mangala { font-style: italic; color: var(--muted); border-left: 3px solid var(--soft-line); padding-left: 18px; }
+
+/* Books. */
+.books-list { display: grid; gap: 34px; margin-top: 30px; max-width: 980px; }
+.book-row { display: grid; grid-template-columns: 120px minmax(0, 1fr); gap: 26px; align-items: start; scroll-margin-top: 90px; }
+.book-row .spine { aspect-ratio: 3 / 4; border-radius: 3px 6px 6px 3px; display: grid; place-items: center; padding: 10px; text-align: center; color: #F8EEDB;
+  background: radial-gradient(circle at 30% 20%, var(--c1), var(--c2)); box-shadow: inset 6px 0 0 rgba(0,0,0,.18), var(--shadow); }
+.book-row .spine span { font-family: var(--f-deva); font-weight: var(--w-deva); font-size: 17px; line-height: 1.3; overflow-wrap: anywhere; }
+.book-row h2 { margin: 0 0 6px; font-family: var(--f-text); font-weight: 400; font-size: 26px; color: var(--head); }
+.bdesc { font-family: var(--f-text); font-size: 16px; line-height: 1.6; color: var(--ink); max-width: 40em; }
+.bdesc p { margin: 0 0 6px; }
+.bdesc a, .lets a { color: var(--accent); }
+.dls { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0 8px; }
+.dls .dl { min-width: 160px; background: var(--card); }
+.lets { display: flex; flex-wrap: wrap; gap: 4px 12px; align-items: baseline; font-size: 14px; margin-top: 4px; }
+.lets small { color: var(--muted); font-size: 11.5px; letter-spacing: .08em; text-transform: uppercase; margin-right: 4px; }
+@media (max-width: 600px) { .book-row { grid-template-columns: 76px minmax(0, 1fr); gap: 16px; } .book-row .spine span { font-size: 12px; } }
+
+/* All PDFs. */
+.pdf-tools { display: grid; gap: 14px; margin-top: 18px; }
+.pdf-tools input { max-width: 420px; padding: 10px 14px; border: 1px solid var(--line); border-radius: 999px; background: var(--card); color: var(--ink); font: inherit; }
+.pdf-toc { display: flex; flex-wrap: wrap; gap: 6px; }
+.pdf-toc a { padding: 4px 11px; border: 1px solid var(--line); border-radius: 999px; font-size: 13.5px; background: var(--card); }
+.pdf-toc a:hover { border-color: var(--accent); }
+.pdf-sec { margin-top: 38px; scroll-margin-top: 90px; }
+.pdf-sec h2 { font-family: var(--f-text); font-weight: 400; font-size: 28px; color: var(--head); margin: 0 0 6px; }
+.pdf-sec h3 { font-size: 12.5px; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); margin: 22px 0 4px; }
+.pdf-list { list-style: none; margin: 0; padding: 0; columns: 2 420px; column-gap: 40px; }
+.pdf-list li { break-inside: avoid; display: flex; justify-content: space-between; align-items: baseline; gap: 12px; padding: 6px 0; border-bottom: 1px solid var(--line); }
+.pdf-list li[hidden] { display: none; }
+.pdf-list li.lv1 { padding-left: 18px; }
+.pdf-list .n { min-width: 0; }
+.pdf-list .t { font-family: var(--f-text); font-size: 16.5px; }
+.pdf-list .r { font-family: var(--f-text); font-style: italic; color: var(--muted); font-size: 13.5px; }
+.pdf-list .ls { display: flex; gap: 6px; flex: none; }
+.pdf-list .ls a { font-size: 12px; padding: 1px 8px; border: 1px solid var(--line); border-radius: 5px; color: var(--accent); white-space: nowrap; }
+.pdf-list .ls a:hover { border-color: var(--accent); }
+/* On a phone the info box (video, metadata) comes before the text; the
+   downloads and related stotras stay after it. */
+@media (max-width: 900px) {
+  .sbody > .aside { display: contents; }
+  .sbody > .aside > .info { order: -1; }
+}

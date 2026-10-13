@@ -1,0 +1,1591 @@
+[
+ {
+  "title": "Suktas/Mantras",
+  "subs": [
+   {
+    "title": "",
+    "items": [
+     {
+      "name": "Aghamarshana Suktam",
+      "level": 0,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/AghamarshanaSuktam.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/AghamarshanaSuktam.pdf"
+       }
+      ]
+     },
+     {
+      "name": "Ayushya Suktam",
+      "level": 0,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/AyushyaSuktam.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/AyushyaSuktam.pdf"
+       }
+      ]
+     },
+     {
+      "name": "Bhagya Suktam",
+      "level": 0,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/BhagyaSuktam.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/BhagyaSuktam.pdf"
+       }
+      ]
+     },
+     {
+      "name": "Bhu Suktam",
+      "level": 0,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/BhuSuktam.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/BhuSuktam.pdf"
+       }
+      ]
+     },
+     {
+      "name": "Dasha Shantayah",
+      "level": 0,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/DashaShantayah.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/DashaShantayah.pdf"
+       }
+      ]
+     },
+     {
+      "name": "Chamaka Prashnah",
+      "level": 0,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/ChamakaPrashnah.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/ChamakaPrashnah.pdf"
+       }
+      ]
+     },
+     {
+      "name": "Durga Suktam",
+      "level": 0,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/DurgaSuktam.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/DurgaSuktam.pdf"
+       }
+      ]
+     },
+     {
+      "name": "Ganapatyatharvashirsham",
+      "level": 0,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/Ganapatyatharvashirsham.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/Ganapatyatharvashirsham.pdf"
+       }
+      ]
+     },
+     {
+      "name": "Maha Nyasah",
+      "level": 0,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/MahaNyasah.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/MahaNyasah.pdf"
+       }
+      ]
+     },
+     {
+      "name": "Mrtyunjaya Homa Mantrah",
+      "level": 0,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/MrtyunjayaHomaMantrah.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/MrtyunjayaHomaMantrah.pdf"
+       }
+      ]
+     },
+     {
+      "name": "Medha Suktam",
+      "level": 0,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/MedhaSuktam.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/MedhaSuktam.pdf"
+       }
+      ]
+     },
+     {
+      "name": "Nakshatra Suktam",
+      "level": 0,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/NakshatraSuktam.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/NakshatraSuktam.pdf"
+       }
+      ]
+     },
+     {
+      "name": "Narayana Suktam",
+      "level": 0,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/NarayanaSuktam.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/NarayanaSuktam.pdf"
+       }
+      ]
+     },
+     {
+      "name": "Navagraha Suktam",
+      "level": 0,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/NavagrahaSuktam.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/NavagrahaSuktam.pdf"
+       }
+      ]
+     },
+     {
+      "name": "Pavamana Suktam",
+      "level": 0,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/PavamanaSuktam.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/PavamanaSuktam.pdf"
+       }
+      ]
+     },
+     {
+      "name": "Purusha Suktam",
+      "level": 0,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/PurushaSuktam.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/PurushaSuktam.pdf"
+       }
+      ]
+     },
+     {
+      "name": "Rudra Pada Patha",
+      "level": 0,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/RudraPadaPatha.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/RudraPadaPatha.pdf"
+       }
+      ]
+     },
+     {
+      "name": "Rudra Prashnah",
+      "level": 0,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/RudraPrashnah.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/RudraPrashnah.pdf"
+       }
+      ]
+     },
+     {
+      "name": "Shri Suktam",
+      "level": 0,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/ShriSuktam.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/ShriSuktam.pdf"
+       }
+      ]
+     },
+     {
+      "name": "Vaishvadeva Mantrah",
+      "level": 0,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/VaishvadevaMantrah.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/VaishvadevaMantrah.pdf"
+       }
+      ]
+     },
+     {
+      "name": "Vishnu Suktam",
+      "level": 0,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-pdf/VishnuSuktam.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/mantras-kindle-pdf/VishnuSuktam.pdf"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "title": "Taittiriya Brahmanam",
+  "subs": [
+   {
+    "title": "Ashtakams",
+    "items": [
+     {
+      "name": "All three ashtakams",
+      "level": 0,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-pdf/TaittiriyaBrahmanam-Ashtakams.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-kindle-pdf/TaittiriyaBrahmanam-Ashtakams.pdf"
+       }
+      ]
+     },
+     {
+      "name": "Ashtakam 1",
+      "level": 0,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-pdf/TaittiriyaBrahmanam-Ashtakam-1.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-kindle-pdf/TaittiriyaBrahmanam-Ashtakam-1.pdf"
+       }
+      ]
+     },
+     {
+      "name": "1-1",
+      "level": 1,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-pdf/TaittiriyaBrahmanam-1-1.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-kindle-pdf/TaittiriyaBrahmanam-1-1.pdf"
+       }
+      ]
+     },
+     {
+      "name": "1-2",
+      "level": 1,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-pdf/TaittiriyaBrahmanam-1-2.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-kindle-pdf/TaittiriyaBrahmanam-1-2.pdf"
+       }
+      ]
+     },
+     {
+      "name": "1-3",
+      "level": 1,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-pdf/TaittiriyaBrahmanam-1-3.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-kindle-pdf/TaittiriyaBrahmanam-1-3.pdf"
+       }
+      ]
+     },
+     {
+      "name": "1-4",
+      "level": 1,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-pdf/TaittiriyaBrahmanam-1-4.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-kindle-pdf/TaittiriyaBrahmanam-1-4.pdf"
+       }
+      ]
+     },
+     {
+      "name": "1-5",
+      "level": 1,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-pdf/TaittiriyaBrahmanam-1-5.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-kindle-pdf/TaittiriyaBrahmanam-1-5.pdf"
+       }
+      ]
+     },
+     {
+      "name": "1-6",
+      "level": 1,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-pdf/TaittiriyaBrahmanam-1-6.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-kindle-pdf/TaittiriyaBrahmanam-1-6.pdf"
+       }
+      ]
+     },
+     {
+      "name": "1-7",
+      "level": 1,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-pdf/TaittiriyaBrahmanam-1-7.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-kindle-pdf/TaittiriyaBrahmanam-1-7.pdf"
+       }
+      ]
+     },
+     {
+      "name": "1-8",
+      "level": 1,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-pdf/TaittiriyaBrahmanam-1-8.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-kindle-pdf/TaittiriyaBrahmanam-1-8.pdf"
+       }
+      ]
+     },
+     {
+      "name": "Ashtakam 2",
+      "level": 0,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-pdf/TaittiriyaBrahmanam-Ashtakam-2.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-kindle-pdf/TaittiriyaBrahmanam-Ashtakam-2.pdf"
+       }
+      ]
+     },
+     {
+      "name": "2-1",
+      "level": 1,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-pdf/TaittiriyaBrahmanam-2-1.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-kindle-pdf/TaittiriyaBrahmanam-2-1.pdf"
+       }
+      ]
+     },
+     {
+      "name": "2-2",
+      "level": 1,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-pdf/TaittiriyaBrahmanam-2-2.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-kindle-pdf/TaittiriyaBrahmanam-2-2.pdf"
+       }
+      ]
+     },
+     {
+      "name": "2-3",
+      "level": 1,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-pdf/TaittiriyaBrahmanam-2-3.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-kindle-pdf/TaittiriyaBrahmanam-2-3.pdf"
+       }
+      ]
+     },
+     {
+      "name": "2-4",
+      "level": 1,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-pdf/TaittiriyaBrahmanam-2-4.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-kindle-pdf/TaittiriyaBrahmanam-2-4.pdf"
+       }
+      ]
+     },
+     {
+      "name": "2-5",
+      "level": 1,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-pdf/TaittiriyaBrahmanam-2-5.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-kindle-pdf/TaittiriyaBrahmanam-2-5.pdf"
+       }
+      ]
+     },
+     {
+      "name": "2-6",
+      "level": 1,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-pdf/TaittiriyaBrahmanam-2-6.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-kindle-pdf/TaittiriyaBrahmanam-2-6.pdf"
+       }
+      ]
+     },
+     {
+      "name": "2-7",
+      "level": 1,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-pdf/TaittiriyaBrahmanam-2-7.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-kindle-pdf/TaittiriyaBrahmanam-2-7.pdf"
+       }
+      ]
+     },
+     {
+      "name": "2-8",
+      "level": 1,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-pdf/TaittiriyaBrahmanam-2-8.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-kindle-pdf/TaittiriyaBrahmanam-2-8.pdf"
+       }
+      ]
+     },
+     {
+      "name": "Ashtakam 3",
+      "level": 0,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-pdf/TaittiriyaBrahmanam-Ashtakam-3.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-kindle-pdf/TaittiriyaBrahmanam-Ashtakam-3.pdf"
+       }
+      ]
+     },
+     {
+      "name": "3-1",
+      "level": 1,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-pdf/TaittiriyaBrahmanam-3-1.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-kindle-pdf/TaittiriyaBrahmanam-3-1.pdf"
+       }
+      ]
+     },
+     {
+      "name": "3-2",
+      "level": 1,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-pdf/TaittiriyaBrahmanam-3-2.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-kindle-pdf/TaittiriyaBrahmanam-3-2.pdf"
+       }
+      ]
+     },
+     {
+      "name": "3-3",
+      "level": 1,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-pdf/TaittiriyaBrahmanam-3-3.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-kindle-pdf/TaittiriyaBrahmanam-3-3.pdf"
+       }
+      ]
+     },
+     {
+      "name": "3-4",
+      "level": 1,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-pdf/TaittiriyaBrahmanam-3-4.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-kindle-pdf/TaittiriyaBrahmanam-3-4.pdf"
+       }
+      ]
+     },
+     {
+      "name": "3-5",
+      "level": 1,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-pdf/TaittiriyaBrahmanam-3-5.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-kindle-pdf/TaittiriyaBrahmanam-3-5.pdf"
+       }
+      ]
+     },
+     {
+      "name": "3-6",
+      "level": 1,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-pdf/TaittiriyaBrahmanam-3-6.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-kindle-pdf/TaittiriyaBrahmanam-3-6.pdf"
+       }
+      ]
+     },
+     {
+      "name": "3-7",
+      "level": 1,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-pdf/TaittiriyaBrahmanam-3-7.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-kindle-pdf/TaittiriyaBrahmanam-3-7.pdf"
+       }
+      ]
+     },
+     {
+      "name": "3-8",
+      "level": 1,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-pdf/TaittiriyaBrahmanam-3-8.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-kindle-pdf/TaittiriyaBrahmanam-3-8.pdf"
+       }
+      ]
+     },
+     {
+      "name": "3-9",
+      "level": 1,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-pdf/TaittiriyaBrahmanam-3-9.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/ashtakas-kindle-pdf/TaittiriyaBrahmanam-3-9.pdf"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Taittiriya Aranyakam/Kathakam",
+    "items": [
+     {
+      "name": "(1) Aruna Prashnah",
+      "level": 0,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-pdf/aruNaprashnaH.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-kindle-pdf/aruNaprashnaH.pdf"
+       }
+      ]
+     },
+     {
+      "name": "(2) Saha Vai",
+      "level": 0,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-pdf/SahaVai.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-kindle-pdf/SahaVai.pdf"
+       }
+      ]
+     },
+     {
+      "name": "(3) Chittissruk",
+      "level": 0,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-pdf/Chittissruk.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-kindle-pdf/Chittissruk.pdf"
+       }
+      ]
+     },
+     {
+      "name": "(4) Namo Vache",
+      "level": 0,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-pdf/NamoVache.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-kindle-pdf/NamoVache.pdf"
+       }
+      ]
+     },
+     {
+      "name": "(5) Deva Vai",
+      "level": 0,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-pdf/DevaVai.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-kindle-pdf/DevaVai.pdf"
+       }
+      ]
+     },
+     {
+      "name": "(6) PareyuvaMsam",
+      "level": 0,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-pdf/PareyuvaMsam.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-kindle-pdf/PareyuvaMsam.pdf"
+       }
+      ]
+     },
+     {
+      "name": "(7–9) Taittiriyopanishat",
+      "level": 0,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-pdf/Taittiriyopanishat.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-kindle-pdf/Taittiriyopanishat.pdf"
+       }
+      ]
+     },
+     {
+      "name": "(10) Mahanarayanopanishat",
+      "level": 0,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-pdf/Mahanarayanopanishat.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-kindle-pdf/Mahanarayanopanishat.pdf"
+       }
+      ]
+     },
+     {
+      "name": "Taittiriya Kathakam",
+      "level": 0,
+      "links": [
+       {
+        "label": "A5",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-pdf/Kathaka.pdf"
+       },
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/aranyakas-kindle-pdf/Kathaka.pdf"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "title": "Taittiriya Samhita",
+  "subs": [
+   {
+    "title": "",
+    "items": [
+     {
+      "name": "Taittiriya Samhita All 7 Kandas",
+      "level": 0,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-Kandas.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-Kandas.pdf"
+       }
+      ]
+     },
+     {
+      "name": "Taittiriya Samhita Kandam-1",
+      "level": 0,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-Kandam-1.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-Kandam-1.pdf"
+       }
+      ]
+     },
+     {
+      "name": "1-1",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-1-1.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-1-1.pdf"
+       }
+      ]
+     },
+     {
+      "name": "1-2",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-1-2.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-1-2.pdf"
+       }
+      ]
+     },
+     {
+      "name": "1-3",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-1-3.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-1-3.pdf"
+       }
+      ]
+     },
+     {
+      "name": "1-4",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-1-4.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-1-4.pdf"
+       }
+      ]
+     },
+     {
+      "name": "1-5",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-1-5.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-1-5.pdf"
+       }
+      ]
+     },
+     {
+      "name": "1-6",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-1-6.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-1-6.pdf"
+       }
+      ]
+     },
+     {
+      "name": "1-7",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-1-7.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-1-7.pdf"
+       }
+      ]
+     },
+     {
+      "name": "1-8",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-1-8.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-1-8.pdf"
+       }
+      ]
+     },
+     {
+      "name": "Taittiriya Samhita Kandam-2",
+      "level": 0,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-Kandam-2.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-Kandam-2.pdf"
+       }
+      ]
+     },
+     {
+      "name": "2-1",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-2-1.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-2-1.pdf"
+       }
+      ]
+     },
+     {
+      "name": "2-2",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-2-2.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-2-2.pdf"
+       }
+      ]
+     },
+     {
+      "name": "2-3",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-2-3.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-2-3.pdf"
+       }
+      ]
+     },
+     {
+      "name": "2-4",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-2-4.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-2-4.pdf"
+       }
+      ]
+     },
+     {
+      "name": "2-5",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-2-5.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-2-5.pdf"
+       }
+      ]
+     },
+     {
+      "name": "2-6",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-2-6.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-2-6.pdf"
+       }
+      ]
+     },
+     {
+      "name": "Taittiriya Samhita Kandam-3",
+      "level": 0,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-Kandam-3.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-Kandam-3.pdf"
+       }
+      ]
+     },
+     {
+      "name": "3-1",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-3-1.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-3-1.pdf"
+       }
+      ]
+     },
+     {
+      "name": "3-2",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-3-2.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-3-2.pdf"
+       }
+      ]
+     },
+     {
+      "name": "3-3",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-3-3.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-3-3.pdf"
+       }
+      ]
+     },
+     {
+      "name": "3-4",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-3-4.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-3-4.pdf"
+       }
+      ]
+     },
+     {
+      "name": "3-5",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-3-5.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-3-5.pdf"
+       }
+      ]
+     },
+     {
+      "name": "Taittiriya Samhita Kandam-4",
+      "level": 0,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-Kandam-4.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-Kandam-4.pdf"
+       }
+      ]
+     },
+     {
+      "name": "4-1",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-4-1.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-4-1.pdf"
+       }
+      ]
+     },
+     {
+      "name": "4-2",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-4-2.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-4-2.pdf"
+       }
+      ]
+     },
+     {
+      "name": "4-3",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-4-3.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-4-3.pdf"
+       }
+      ]
+     },
+     {
+      "name": "4-4",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-4-4.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-4-4.pdf"
+       }
+      ]
+     },
+     {
+      "name": "4-5",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-4-5.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-4-5.pdf"
+       }
+      ]
+     },
+     {
+      "name": "4-6",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-4-6.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-4-6.pdf"
+       }
+      ]
+     },
+     {
+      "name": "4-7",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-4-7.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-4-7.pdf"
+       }
+      ]
+     },
+     {
+      "name": "Taittiriya Samhita Kandam-5",
+      "level": 0,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-Kandam-5.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-Kandam-5.pdf"
+       }
+      ]
+     },
+     {
+      "name": "5-1",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-5-1.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-5-1.pdf"
+       }
+      ]
+     },
+     {
+      "name": "5-2",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-5-2.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-5-2.pdf"
+       }
+      ]
+     },
+     {
+      "name": "5-3",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-5-3.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-5-3.pdf"
+       }
+      ]
+     },
+     {
+      "name": "5-4",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-5-4.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-5-4.pdf"
+       }
+      ]
+     },
+     {
+      "name": "5-5",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-5-5.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-5-5.pdf"
+       }
+      ]
+     },
+     {
+      "name": "5-6",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-5-6.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-5-6.pdf"
+       }
+      ]
+     },
+     {
+      "name": "5-7",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-5-7.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-5-7.pdf"
+       }
+      ]
+     },
+     {
+      "name": "Taittiriya Samhita Kandam-6",
+      "level": 0,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-Kandam-6.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-Kandam-6.pdf"
+       }
+      ]
+     },
+     {
+      "name": "6-1",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-6-1.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-6-1.pdf"
+       }
+      ]
+     },
+     {
+      "name": "6-2",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-6-2.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-6-2.pdf"
+       }
+      ]
+     },
+     {
+      "name": "6-3",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-6-3.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-6-3.pdf"
+       }
+      ]
+     },
+     {
+      "name": "6-4",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-6-4.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-6-4.pdf"
+       }
+      ]
+     },
+     {
+      "name": "6-5",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-6-5.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-6-5.pdf"
+       }
+      ]
+     },
+     {
+      "name": "6-6",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-6-6.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-6-6.pdf"
+       }
+      ]
+     },
+     {
+      "name": "Taittiriya Samhita Kandam-7",
+      "level": 0,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-Kandam-7.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-Kandam-7.pdf"
+       }
+      ]
+     },
+     {
+      "name": "7-1",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-7-1.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-7-1.pdf"
+       }
+      ]
+     },
+     {
+      "name": "7-2",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-7-2.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-7-2.pdf"
+       }
+      ]
+     },
+     {
+      "name": "7-3",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-7-3.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-7-3.pdf"
+       }
+      ]
+     },
+     {
+      "name": "7-4",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-7-4.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-7-4.pdf"
+       }
+      ]
+     },
+     {
+      "name": "7-5",
+      "level": 2,
+      "links": [
+       {
+        "label": "Kindle",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-pdf/TaittiriyaSamhita-7-5.pdf"
+       },
+       {
+        "label": "Kindle Scribe",
+        "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/kandas-kindle-scribe-pdf/TaittiriyaSamhita-7-5.pdf"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

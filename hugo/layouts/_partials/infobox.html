@@ -10,8 +10,9 @@
 {{ $vc := int ($p.Params.verse_count | default 0) }}
 {{ $src := partial "source-url.html" $p }}
 {{ $repo := replaceRE `/blob/.*$` "" $src }}
+{{ $vani := partial "vani.html" $p }}
 <div class="box info">
-  {{ with $img }}{{ $r := .Fill "540x420 center webp q75" }}<img class="info-img" src="{{ $r.RelPermalink }}" width="{{ $r.Width }}" height="{{ $r.Height }}" alt="">{{ end }}
+  {{ with $vani }}{{ partial "video.html" .id }}{{ else }}{{ with $img }}{{ $r := .Fill "540x420 center webp q75" }}<img class="info-img" src="{{ $r.RelPermalink }}" width="{{ $r.Width }}" height="{{ $r.Height }}" alt="">{{ end }}{{ end }}
   <dl>
     {{ with .groups }}<dt>Deity</dt><dd>{{ range $i, $g := . }}{{ if $i }}, {{ end }}<a href="/stotra/?deity={{ $g }}">{{ $g }}</a>{{ end }}</dd>{{ end }}
     {{ with .comps }}<dt>Composer</dt><dd>{{ range $i, $c := . }}{{ if $i }}, {{ end }}<a href="/stotra/?composer={{ $c }}">{{ $c }}</a>{{ end }}</dd>{{ end }}
@@ -22,7 +23,6 @@
     {{ with $vc }}<dt>Verses</dt><dd>{{ . }}</dd>{{ end }}
     {{ with $p.Params.date }}<dt>Added</dt><dd>{{ time.Format "2 January 2006" . }}</dd>{{ end }}
     {{ with $p.Parent }}{{ if and (not $.groups) (ne .Kind "home") (ne .Parent.Kind "home") }}<dt>In</dt><dd><a href="{{ .RelPermalink }}">{{ with .Params.iast }}{{ . }}{{ else }}{{ partial "title.html" .Title }}{{ end }}</a></dd>{{ end }}{{ end }}
-    {{ with $p.Params.source_file }}<dt>Source</dt><dd><a href="{{ $src }}" title="{{ path.Base . }}">TeX on GitHub ↗</a></dd>{{ end }}
   </dl>
-  {{ with $p.Params.source_file }}<p class="src">Spotted an error? <a href="{{ $repo }}/issues/new?title={{ (printf "%s (%s)" $p.Params.iast (path.Base .)) | urlquery }}&amp;body={{ (printf "Page: %s\n\n" $p.Permalink) | urlquery }}">Open an issue</a>.</p>{{ end }}
+  {{ with $p.Params.source_file }}<p class="src">Typeset from <a href="{{ $src }}">{{ path.Base . }}</a> on GitHub. Spotted an error? <a href="{{ $repo }}/issues/new?title={{ (printf "%s (%s)" $p.Params.iast (path.Base .)) | urlquery }}&amp;body={{ (printf "Page: %s\n\n" $p.Permalink) | urlquery }}">Open an issue</a>.</p>{{ end }}
 </div>

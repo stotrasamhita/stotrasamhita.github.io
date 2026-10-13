@@ -1,12 +1,15 @@
-{{/* Cover for a page: its picture, else a typographic cover in the colours
-     of its deity. Args: p (page), cls (extra classes), w (pixel width),
-     square (bool). */}}
+{{/* Cover for a page: its picture, else its Vani video's title slide, else
+     a typographic cover in the colours of its deity. Args: p (page), cls (extra classes), w (pixel width),
+     square, wide (16:9) (bool). */}}
 {{ $p := .p }}
 {{ $img := partial "cover-image.html" $p }}
 {{ if $img }}
   {{ $w := .w | default 360 }}
-  {{ $r := cond .square ($img.Fill (printf "%dx%d center webp q75" $w $w)) ($img.Fill (printf "%dx%d center webp q75" $w (div (mul $w 5) 4))) }}
+  {{ $r := cond .square ($img.Fill (printf "%dx%d center webp q75" $w $w)) ($img.Fill (printf "%dx%d center webp q75" $w (cond .wide (div (mul $w 9) 16) (div (mul $w 5) 4)))) }}
   <div class="cover {{ .cls }}"><img src="{{ $r.RelPermalink }}" width="{{ $r.Width }}" height="{{ $r.Height }}" alt="" loading="lazy" decoding="async"></div>
+{{ else if and (not .glyph) (partial "vani.html" $p) }}
+  {{ $id := (partial "vani.html" $p).id }}
+  <div class="cover vid {{ .cls }}"><img src="https://i.ytimg.com/vi/{{ $id }}/sddefault.jpg" alt="" loading="lazy" decoding="async"></div>
 {{ else }}
   {{ $g := index (partialCached "groups.html" $p $p.Path) 0 }}
   {{ $c := hugo.Data.deities.default }}

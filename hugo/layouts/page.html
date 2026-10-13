@@ -2,10 +2,7 @@
 {{/* The generated body repeats the title as its first heading and ends
      with the PDF links; both move into the page chrome instead. */}}
 {{ $body := replaceRE `<h2 class="stotra-heading">[^<]*</h2>\s*` "" .Content 1 }}
-{{ $pdfs := slice }}
-{{ with findRE `(?s)<div class="pdf-links">.*?</div>` $body 1 }}
-  {{ range findRESubmatch `<a href="([^"]+)">([^<]+)</a>` (index . 0) }}{{ $pdfs = $pdfs | append (dict "href" (index . 1) "label" (index . 2)) }}{{ end }}
-{{ end }}
+{{ $pdfs := partial "pdfs.html" . }}
 {{ $body = $body | replaceRE `(?s)<div class="pdf-links">.*?</div>` "" }}
 {{ $body = partial "namelist.html" $body }}
 {{ $book := and .Parent .Parent.Params.source_file }}
@@ -19,6 +16,7 @@
     <h1>{{ partial "title.html" .Title }}</h1>
     {{ with .Params.iast }}<div class="iast">{{ . }}</div>{{ end }}
   </header>
+  {{ with partial "vani.html" . }}<div class="rvideo">{{ partial "video.html" .id }}</div>{{ with .blurb }}<section class="about">{{ . | markdownify }}</section>{{ end }}{{ end }}
   <div style="margin-top:22px">{{ partial "scripts-bar.html" . }}</div>
   {{ $body | safeHTML }}
   <nav class="pager" aria-label="Chapters">
@@ -37,7 +35,7 @@
 </header>
 <div class="sbody">
   <div>
-    {{ with .Params.story }}<section class="about"><h2>About this {{ lower (index $kinds $.Section | default "text") }}</h2>{{ . | markdownify }}</section>{{ end }}
+    {{ with .Params.story | default (partial "vani.html" .).blurb }}<section class="about"><h2>About this {{ lower (index $kinds $.Section | default "text") }}</h2>{{ . | markdownify }}</section>{{ end }}
     {{ partial "scripts-bar.html" . }}
     {{ $body | safeHTML }}
   </div>

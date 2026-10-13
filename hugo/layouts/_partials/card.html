@@ -10,7 +10,7 @@
   data-deity="{{ delimit $groups "|" }}" data-form="{{ $p.Params.form }}" data-composer="{{ delimit $comps "|" }}"
   data-metre="{{ delimit $meters "|" }}" data-len="{{ $len }}" data-coll="{{ $coll }}"
   data-vc="{{ $vc }}" data-date="{{ $p.Date.Format "2006-01-02" }}" data-q="{{ $p.Title }} {{ $p.Params.iast }} {{ $p.File.ContentBaseName }}">
-  {{ partial "cover.html" (dict "p" $p) }}
+  {{ partial "cover.html" (dict "p" $p "cls" "wide" "wide" true "w" 480) }}
   <div><div class="t">{{ partial "title.html" $p.Title }}</div>{{ with $p.Params.iast }}<div class="r">{{ . }}</div>{{ end }}</div>
   <div class="m">{{ partial "metaline.html" $p }}</div>
 </a>

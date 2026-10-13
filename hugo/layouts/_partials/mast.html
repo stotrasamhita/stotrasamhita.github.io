@@ -6,7 +6,8 @@
     <a href="/namavali/"{{ if eq $sec "namavali" }} class="on" aria-current="page"{{ end }}>Nāmāvalīs</a>
     <a href="/puja-vidhanam/"{{ if eq $sec "puja-vidhanam" }} class="on" aria-current="page"{{ end }}>Pūjā</a>
     <a href="/#collections">Collections</a>
-    <a href="/major-books/">Books</a>
+    <a href="/major-books/"{{ if eq .Layout "books" }} class="on" aria-current="page"{{ end }}>Books</a>
+    <a href="/individual-pdfs/"{{ if eq .Layout "pdfs" }} class="on" aria-current="page"{{ end }}>PDFs</a>
     <a href="{{ site.Params.calendar }}" rel="noopener">Calendar ↗</a>
   </nav>
   <form class="searchbox" action="/stotra/" role="search">

@@ -1,0 +1,8 @@
+{{ define "main" }}
+{{ partial "crumbs.html" . }}
+<header class="page-head">
+  <h1>{{ partial "title.html" .Title }}</h1>
+  {{ with .Params.iast }}<div class="iast">{{ . }}</div>{{ end }}
+</header>
+<article class="prose-page">{{ .Content }}</article>
+{{ end }}

@@ -1,0 +1,27 @@
+{{ define "main" }}
+{{/* The typeset books (data/books.json), each with its PDFs. Anchors match
+     the homepage's book shelf. */}}
+{{ $shelf := dict }}
+{{ range hugo.Data.home.books }}{{ $shelf = merge $shelf (dict .anchor .) }}{{ end }}
+{{ partial "crumbs.html" . }}
+<header class="page-head">
+  <h1>{{ .Title }}</h1>
+  {{ with .Content }}<div class="desc">{{ . }}</div>{{ end }}
+</header>
+<div class="books-list">
+{{ range hugo.Data.books }}
+  {{ $s := index $shelf .anchor }}
+  <section class="book-row" id="{{ .anchor }}">
+    {{ $c := cond (and $s $s.c) $s.c (slice "#4B1D52" "#1E0B22") }}
+    <div class="spine" style="--c1:{{ index $c 0 | safeCSS }};--c2:{{ index $c 1 | safeCSS }}" aria-hidden="true"><span>{{ with $s }}{{ .deva }}{{ else }}{{ .title }}{{ end }}</span></div>
+    <div>
+      <h2>{{ with $s }}{{ .en }}{{ else }}{{ .title }}{{ end }}</h2>
+      {{ with .desc }}<div class="bdesc">{{ . | markdownify }}</div>{{ end }}
+      <div class="dls">{{ range .pdfs }}<a class="dl" href="{{ .href }}">{{ partial "icon.html" "download" }}<span>{{ .label }}</span>{{ partial "icon.html" "pdf" }}</a>{{ end }}</div>
+      {{ with .scripts }}<div class="lets"><small>Letter size, other scripts</small>{{ range . }}<a href="{{ .href }}">{{ .label }}</a>{{ end }}</div>{{ end }}
+      {{ with .split }}<div class="lets"><small>Letter size, split pādas</small>{{ range . }}<a href="{{ .href }}">{{ .label }}</a>{{ end }}</div>{{ end }}
+    </div>
+  </section>
+{{ end }}
+</div>
+{{ end }}

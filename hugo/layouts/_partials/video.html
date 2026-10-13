@@ -1,0 +1,9 @@
+{{/* A YouTube video that loads only when played (site.js swaps in the
+     player), showing the Vani title slide as its poster. Arg: video id. */}}
+<div class="video" data-yt="{{ . }}">
+  <button type="button" aria-label="Play the chanting video">
+    <img src="https://i.ytimg.com/vi/{{ . }}/maxresdefault.jpg" onerror="this.onerror=null;this.src='https://i.ytimg.com/vi/{{ . }}/hqdefault.jpg'" alt="" loading="lazy" decoding="async">
+    <span class="pb" aria-hidden="true"><svg viewBox="0 0 24 24" width="26" height="26"><path d="M8 5v14l11-7z" fill="currentColor"/></svg></span>
+  </button>
+</div>
+<a class="yt" href="https://www.youtube.com/watch?v={{ . }}">Listen on YouTube ↗<small>Stotra Samhita Vani</small></a>

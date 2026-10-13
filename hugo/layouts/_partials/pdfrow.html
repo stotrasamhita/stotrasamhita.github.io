@@ -1,0 +1,5 @@
+{{/* One row of the all-PDFs page: a page and its PDF links. */}}
+{{ with partial "pdfs.html" . }}
+  <li data-q="{{ $.Title }} {{ $.Params.iast }} {{ $.File.ContentBaseName }}"><a class="n" href="{{ $.RelPermalink }}"><span class="t">{{ partial "title.html" $.Title }}</span>{{ with $.Params.iast }} <span class="r">{{ . }}</span>{{ end }}</a>
+    <span class="ls">{{ range . }}<a href="{{ .href }}" title="{{ .label }} PDF">{{ .label | replaceRE ` ?/ ?print` "" }}</a>{{ end }}</span></li>
+  {{ end }}

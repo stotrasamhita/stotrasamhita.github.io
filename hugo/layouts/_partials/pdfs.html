@@ -1,0 +1,14 @@
+{{/* The PDF links ({label, href}) of a page: those at the end of its
+     generated body, or for a pūjā, its Kindle PDFs (data/puja_pdfs.json). */}}
+{{ $out := slice }}
+{{ with findRE `(?s)<div class="pdf-links">.*?</div>` .Content 1 }}
+  {{ range findRESubmatch `<a href="([^"]+)">([^<]+)</a>` (index . 0) }}{{ $out = $out | append (dict "href" (index . 1) "label" (index . 2)) }}{{ end }}
+{{ end }}
+{{ if and (not $out) (eq .Section "puja-vidhanam") .File }}
+  {{ $stem := printf "%s-vidhanam" .File.ContentBaseName }}
+  {{ if in hugo.Data.puja_pdfs $stem }}
+    {{ $base := printf "%s/puja-vidhanam/raw/master" site.Params.github }}
+    {{ $out = slice (dict "label" "Kindle" "href" (printf "%s/pujas-kindle-pdf/%s.pdf" $base $stem)) (dict "label" "Kindle Scribe" "href" (printf "%s/pujas-kindle-scribe-pdf/%s.pdf" $base $stem)) }}
+  {{ end }}
+{{ end }}
+{{ return $out }}

@@ -232,6 +232,17 @@ CORPORA = [
 ]
 
 
+def write_puja_pdfs(repo_dir):
+    """hugo/data/puja_pdfs.json: the pūjās with built PDFs. The generated pūjā
+    pages carry no download links, so the site adds them from this list
+    (pujas-kindle-pdf/<slug>-vidhanam.pdf, and the same under
+    pujas-kindle-scribe-pdf/)."""
+    pdfs = sorted(f.stem for f in (repo_dir / "pujas-kindle-pdf").glob("*.pdf"))
+    if pdfs:
+        out = REPO_ROOT / "hugo" / "data" / "puja_pdfs.json"
+        out.write_text(json.dumps(pdfs, indent=1) + "\n", encoding="utf-8")
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--repos-dir", required=True, type=Path,
@@ -270,6 +281,7 @@ def main():
         run([sys.executable, str(REPO_ROOT / "scripts" / "enrich_content.py"),
              "--stotra-repo", str(args.repos_dir / "stotra-sangrahah")])
 
+    write_puja_pdfs(args.repos_dir / "puja-vidhanam")
     save_state(state)
     print(f"changed: {changed_count}")
     return 0

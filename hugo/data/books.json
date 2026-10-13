@@ -1,0 +1,359 @@
+[
+ {
+  "title": "Stotra Sangrahah",
+  "desc": "This is a massive book containing (nearly) all the stotras on the StotraSamhita website. It can be printed out in A5 format (with mirror margins, \"A5-print\") or for reading on 8\" tablets (A5). There is also a Kindle version of the PDF, which works perfect on 6\" devices such as the Kindle Paperwhite (highly recommended!).",
+  "pdfs": [
+   {
+    "label": "A5 print",
+    "href": "https://github.com/stotrasamhita/stotra-sangrahah/raw/master/shloka-print.pdf"
+   },
+   {
+    "label": "A5",
+    "href": "https://github.com/stotrasamhita/stotra-sangrahah/raw/master/shloka.pdf"
+   },
+   {
+    "label": "Kindle PDF",
+    "href": "https://github.com/stotrasamhita/stotra-sangrahah/raw/master/shloka-kindle.pdf"
+   }
+  ],
+  "scripts": [
+   {
+    "label": "Kannada",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/stotra-sangrahah-Kannada.pdf"
+   },
+   {
+    "label": "Tamil",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/stotra-sangrahah-Tamil.pdf"
+   },
+   {
+    "label": "Telugu",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/stotra-sangrahah-Telugu.pdf"
+   },
+   {
+    "label": "Sanskrit (Chandas font)",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/stotra-sangrahah-Sanskrit.pdf"
+   },
+   {
+    "label": "IAST (Roman)",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/stotra-sangrahah-English.pdf"
+   }
+  ],
+  "split": [],
+  "anchor": "stotra-sangrahah"
+ },
+ {
+  "title": "Veda Mantra Book",
+  "desc": "Contains several Suktas, MahaNyasa etc.",
+  "pdfs": [
+   {
+    "label": "A5 print",
+    "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/vedamantrabook-print.pdf"
+   },
+   {
+    "label": "A5",
+    "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/vedamantrabook.pdf"
+   },
+   {
+    "label": "Kindle PDF",
+    "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/vedamantrabook-kindle.pdf"
+   }
+  ],
+  "scripts": [
+   {
+    "label": "Kannada",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/Vedamantrabook-Kannada.pdf"
+   },
+   {
+    "label": "Tamil",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/Vedamantrabook-Tamil.pdf"
+   },
+   {
+    "label": "Telugu",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/Vedamantrabook-Telugu.pdf"
+   },
+   {
+    "label": "Sanskrit (Chandas font)",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/Vedamantrabook-Sanskrit.pdf"
+   },
+   {
+    "label": "IAST (Roman)",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/Vedamantrabook-English.pdf"
+   }
+  ],
+  "split": [],
+  "anchor": "veda-mantra-book"
+ },
+ {
+  "title": "Brahmanam Book",
+  "desc": "Contains 25 prashnas from three Ashtakams in Krishna Yajurveda Taittiriya Brahmanam, as well as Aranyakas and Kathakam.",
+  "pdfs": [
+   {
+    "label": "A5 print",
+    "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/BrahmanamBook-print.pdf"
+   },
+   {
+    "label": "A5",
+    "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/BrahmanamBook.pdf"
+   },
+   {
+    "label": "Kindle PDF",
+    "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/BrahmanamBook-kindle.pdf"
+   }
+  ],
+  "scripts": [
+   {
+    "label": "Kannada",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/KYV-Taittiriya-Brahmana-Kannada.pdf"
+   },
+   {
+    "label": "Tamil",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/KYV-Taittiriya-Brahmana-Tamil.pdf"
+   },
+   {
+    "label": "Telugu",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/KYV-Taittiriya-Brahmana-Telugu.pdf"
+   },
+   {
+    "label": "Sanskrit (Chandas font)",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/KYV-Taittiriya-Brahmana-Sanskrit.pdf"
+   },
+   {
+    "label": "IAST (Roman)",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/KYV-Taittiriya-Brahmana-English.pdf"
+   }
+  ],
+  "split": [],
+  "anchor": "brahmanam-book"
+ },
+ {
+  "title": "Aranyaka Book",
+  "desc": "Contains ArunaPrashna, Saha Vai, Chittissruk, Namo Vache, Devai Vai, PareyuvaMsam, Taittiriyopanishat, Mahanarayanopanishat and Kathakam.",
+  "pdfs": [
+   {
+    "label": "A5 print",
+    "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/AraNyakabook-print.pdf"
+   },
+   {
+    "label": "A5",
+    "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/AraNyakabook.pdf"
+   },
+   {
+    "label": "Kindle PDF",
+    "href": "https://github.com/stotrasamhita/vedamantra-book/raw/master/AraNyakabook-kindle.pdf"
+   }
+  ],
+  "scripts": [
+   {
+    "label": "Kannada",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/KYV-Taittiriya-Aranyaka-Kannada.pdf"
+   },
+   {
+    "label": "Tamil",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/KYV-Taittiriya-Aranyaka-Tamil.pdf"
+   },
+   {
+    "label": "Telugu",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/KYV-Taittiriya-Aranyaka-Telugu.pdf"
+   },
+   {
+    "label": "Sanskrit (Chandas font)",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/KYV-Taittiriya-Aranyaka-Sanskrit.pdf"
+   },
+   {
+    "label": "IAST (Roman)",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/KYV-Taittiriya-Aranyaka-English.pdf"
+   }
+  ],
+  "split": [],
+  "anchor": "aranyaka-book"
+ },
+ {
+  "title": "Namavali Manjari",
+  "desc": "Contains several Namavalis (1000, 108, 300).",
+  "pdfs": [
+   {
+    "label": "A5 print",
+    "href": "https://github.com/stotrasamhita/namavali-manjari/raw/master/nAmA-print.pdf"
+   },
+   {
+    "label": "A5",
+    "href": "https://github.com/stotrasamhita/namavali-manjari/raw/master/nAmA.pdf"
+   },
+   {
+    "label": "Kindle PDF",
+    "href": "https://github.com/stotrasamhita/namavali-manjari/raw/master/nAmA-kindle.pdf"
+   }
+  ],
+  "scripts": [
+   {
+    "label": "Kannada",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/Namavali-manjari-Kannada.pdf"
+   },
+   {
+    "label": "Tamil",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/Namavali-manjari-Tamil.pdf"
+   },
+   {
+    "label": "Telugu",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/Namavali-manjari-Telugu.pdf"
+   },
+   {
+    "label": "Sanskrit (Chandas font)",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/Namavali-manjari-Sanskrit.pdf"
+   },
+   {
+    "label": "IAST (Roman)",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/Namavali-manjari-English.pdf"
+   }
+  ],
+  "split": [],
+  "anchor": "namavali-manjari"
+ },
+ {
+  "title": "Shrimad Bhagavad Gita",
+  "desc": "Contains Dhyana Shlokas, all 18 chapters of Shrimad Bhagavad Gita, along with Mahatmyam from Varaha Puranam and Yamunacharya's Gitartha Sangraha.",
+  "pdfs": [
+   {
+    "label": "A5 print",
+    "href": "https://github.com/stotrasamhita/gita/raw/master/gitabook-print.pdf"
+   },
+   {
+    "label": "A5",
+    "href": "https://github.com/stotrasamhita/gita/raw/master/gitabook.pdf"
+   },
+   {
+    "label": "Kindle PDF",
+    "href": "https://github.com/stotrasamhita/gita/raw/master/gitabook-kindle.pdf"
+   }
+  ],
+  "scripts": [
+   {
+    "label": "Kannada",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/BhagavadGita-Kannada.pdf"
+   },
+   {
+    "label": "Tamil",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/BhagavadGita-Tamil.pdf"
+   },
+   {
+    "label": "Telugu",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/BhagavadGita-Telugu.pdf"
+   },
+   {
+    "label": "Sanskrit (Chandas font)",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/BhagavadGita-Sanskrit.pdf"
+   },
+   {
+    "label": "IAST (Roman)",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/BhagavadGita-English.pdf"
+   }
+  ],
+  "split": [
+   {
+    "label": "Kannada",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/BhagavadGita-split-Kannada.pdf"
+   },
+   {
+    "label": "Tamil",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/BhagavadGita-split-Tamil.pdf"
+   },
+   {
+    "label": "Telugu",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/BhagavadGita-split-Telugu.pdf"
+   },
+   {
+    "label": "Sanskrit (Chandas font)",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/BhagavadGita-split-Sanskrit.pdf"
+   },
+   {
+    "label": "IAST (Roman)",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/BhagavadGita-split-English.pdf"
+   }
+  ],
+  "anchor": "shrimad-bhagavad-gita"
+ },
+ {
+  "title": "Adhyatma Ramayanam",
+  "desc": "Contains complete Adhyatma Ramayanam, including Uttara Kandam.",
+  "pdfs": [
+   {
+    "label": "A5 print",
+    "href": "https://github.com/stotrasamhita/AdhyatmaRamayanam/raw/master/AdhyatmaRamayanaBook-print.pdf"
+   },
+   {
+    "label": "A5",
+    "href": "https://github.com/stotrasamhita/AdhyatmaRamayanam/raw/master/AdhyatmaRamayanaBook.pdf"
+   },
+   {
+    "label": "Kindle PDF",
+    "href": "https://github.com/stotrasamhita/AdhyatmaRamayanam/raw/master/AdhyatmaRamayanaBook-kindle.pdf"
+   }
+  ],
+  "scripts": [
+   {
+    "label": "Kannada",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/AdhyatmaRamayanam-Kannada.pdf"
+   },
+   {
+    "label": "Tamil",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/AdhyatmaRamayanam-Tamil.pdf"
+   },
+   {
+    "label": "Telugu",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/AdhyatmaRamayanam-Telugu.pdf"
+   },
+   {
+    "label": "Sanskrit (Chandas font)",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/AdhyatmaRamayanam-Sanskrit.pdf"
+   },
+   {
+    "label": "IAST (Roman)",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/AdhyatmaRamayanam-English.pdf"
+   }
+  ],
+  "split": [],
+  "anchor": "adhyatma-ramayanam"
+ },
+ {
+  "title": "Valmiki Ramayanam",
+  "desc": "Contains complete Valmiki Ramayanam, including Uttara Kandam, based on the [bombay.indology.info](http://bombay.indology.info/ramayana/welcome.html) version.",
+  "pdfs": [
+   {
+    "label": "A5 print",
+    "href": "https://github.com/stotrasamhita/ValmikiRamayanam/raw/master/ValmikiRamayanaBook-print.pdf"
+   },
+   {
+    "label": "A5",
+    "href": "https://github.com/stotrasamhita/ValmikiRamayanam/raw/master/ValmikiRamayanaBook.pdf"
+   },
+   {
+    "label": "Kindle PDF",
+    "href": "https://github.com/stotrasamhita/ValmikiRamayanam/raw/master/ValmikiRamayanaBook-kindle.pdf"
+   }
+  ],
+  "scripts": [
+   {
+    "label": "Kannada",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/ValmikiRamayanam-Kannada.pdf"
+   },
+   {
+    "label": "Tamil",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/ValmikiRamayanam-Tamil.pdf"
+   },
+   {
+    "label": "Telugu",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/ValmikiRamayanam-Telugu.pdf"
+   },
+   {
+    "label": "Sanskrit (Chandas font)",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/ValmikiRamayanam-Sanskrit.pdf"
+   },
+   {
+    "label": "IAST (Roman)",
+    "href": "https://github.com/stotrasamhita/Transliterated-PDFs/raw/master/PDFs/ValmikiRamayanam-English.pdf"
+   }
+  ],
+  "split": [],
+  "anchor": "valmiki-ramayanam"
+ }
+]

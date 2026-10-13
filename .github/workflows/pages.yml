@@ -18,23 +18,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          submodules: recursive
-          fetch-depth: 0
-
-      # Uses GitHub's own github-pages gem (the same one the classic
-      # "Deploy from a branch" builder already relies on), rather than a
-      # hand-rolled `bundle exec jekyll build`. This repo's committed
-      # Gemfile/Gemfile.lock (Jekyll 2.5.3, Bundler 1.10.5) predates and is
-      # incompatible with the `remote_theme: mmistakes/minimal-mistakes`
-      # setting in _config.yml -- building against it directly would
-      # silently drop the theme. actions/jekyll-build-pages sidesteps that
-      # by using the same modern, theme-aware environment classic Pages uses.
-      - name: Build Jekyll (site root)
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site_jekyll
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
@@ -42,25 +25,16 @@ jobs:
           hugo-version: '0.165.0'
           extended: true
 
-      - name: Build Hugo (homepage and content sections)
+      # The whole site is Hugo: the homepage, the content sections, and the
+      # About, Books and All-PDFs pages that Jekyll used to serve.
+      - name: Build Hugo
         working-directory: hugo
-        run: hugo --minify --destination ../_site_hugo
-
-      # Hugo now owns the homepage and every content section; Jekyll still
-      # supplies a few root-level pages (about/, major-books/,
-      # individual-pdfs/, ...) until they move into Hugo. Jekyll's output is
-      # copied first and Hugo's over it, so where both produce a file
-      # (index.html, 404.html, sitemap.xml) Hugo's wins.
-      - name: Merge Jekyll + Hugo output
-        run: |
-          mkdir -p _site_merged
-          cp -r _site_jekyll/. _site_merged/
-          cp -r _site_hugo/. _site_merged/
+        run: hugo --minify --destination ../_site
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: _site_merged
+          path: _site
 
   deploy:
     needs: build

@@ -1,0 +1,45 @@
+{{ define "main" }}
+{{/* Every PDF on one page: the site's stotras, nāmāvalīs and pūjās (from
+     each page's download links), then the veda texts (data/veda_pdfs.json). */}}
+{{ partial "crumbs.html" . }}
+<header class="page-head">
+  <h1>{{ .Title }}</h1>
+  {{ with .Content }}<div class="desc">{{ . }}</div>{{ end }}
+  <div class="pdf-tools">
+    <input id="pdf-q" type="search" placeholder="Filter by name, e.g. सहस्र or sahasra" aria-label="Filter PDFs">
+    <nav class="pdf-toc" aria-label="Sections"><a href="#stotras">Stotras</a><a href="#namavalis">Nāmāvalīs</a><a href="#pujas">Pūjās</a>{{ range $i, $g := hugo.Data.veda_pdfs }}<a href="#veda-{{ $i }}">{{ $g.title }}</a>{{ end }}</nav>
+  </div>
+</header>
+<div class="pdf-all">
+  {{ $roots := slice (dict "id" "stotras" "title" "Stotras" "s" (site.GetPage "/stotra")) (dict "id" "namavalis" "title" "Nāmāvalīs" "s" (site.GetPage "/namavali")) (dict "id" "pujas" "title" "Pūjās" "s" (site.GetPage "/puja-vidhanam")) }}
+  {{ range $roots }}
+  <section class="pdf-sec" id="{{ .id }}"><h2>{{ .title }}</h2>
+    {{ with .s.RegularPages }}<ul class="pdf-list">{{ range .ByWeight }}{{ partial "pdfrow.html" . }}{{ end }}</ul>{{ end }}
+    {{ range .s.Sections.ByWeight }}
+      {{ $rows := slice }}
+      {{ if or .Params.source_file (partial "pdfs.html" .) }}{{ $rows = slice . }}{{ else }}{{ $rows = .RegularPages.ByWeight }}{{ end }}
+      {{ if $rows }}<h3>{{ .Params.iast | default .Title }}</h3><ul class="pdf-list">{{ range $rows }}{{ partial "pdfrow.html" . }}{{ end }}</ul>{{ end }}
+    {{ end }}
+  </section>
+  {{ end }}
+  {{ range $i, $g := hugo.Data.veda_pdfs }}
+  <section class="pdf-sec" id="veda-{{ $i }}"><h2>{{ $g.title }}</h2>
+    {{ range $g.subs }}
+      {{ with .title }}<h3>{{ . }}</h3>{{ end }}
+      <ul class="pdf-list">{{ range .items }}<li class="lv{{ .level }}" data-q="{{ .name }}"><span class="n"><span class="t">{{ .name }}</span></span><span class="ls">{{ range .links }}<a href="{{ .href }}" title="{{ .label }} PDF">{{ .label }}</a>{{ end }}</span></li>{{ end }}</ul>
+    {{ end }}
+  </section>
+  {{ end }}
+</div>
+<script>
+(function () {
+  var q = document.getElementById('pdf-q'); if (!q) return;
+  var norm = function (s) { return s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase(); };
+  q.addEventListener('input', function () {
+    var v = norm(q.value.trim());
+    document.querySelectorAll('.pdf-list li').forEach(function (li) { li.hidden = v && norm(li.getAttribute('data-q')).indexOf(v) < 0; });
+    document.querySelectorAll('.pdf-list').forEach(function (ul) { var h = ul.previousElementSibling; var any = ul.querySelector('li:not([hidden])'); ul.hidden = !any; if (h && h.tagName === 'H3') h.hidden = !any; });
+  });
+})();
+</script>
+{{ end }}
