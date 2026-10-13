@@ -1,4 +1,4 @@
-{{/* The page's Stotra Samhita Vani video ({id, blurb}) from data/vani.yaml, or nil. */}}
+{{/* The page's Stotra Samhita Vani video ({id}) from data/vani.yaml, or nil. */}}
 {{ $v := false }}
 {{ with .File }}{{ $v = index hugo.Data.vani (strings.TrimSuffix ".md" .Path) }}{{ end }}
 {{ return $v }}

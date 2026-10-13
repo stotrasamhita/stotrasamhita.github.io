@@ -16,7 +16,8 @@
     <h1>{{ partial "title.html" .Title }}</h1>
     {{ with .Params.iast }}<div class="iast">{{ . }}</div>{{ end }}
   </header>
-  {{ with partial "vani.html" . }}<div class="rvideo">{{ partial "video.html" .id }}</div>{{ with .blurb }}<section class="about">{{ . | markdownify }}</section>{{ end }}{{ end }}
+  {{ with partial "vani.html" . }}<div class="rvideo">{{ partial "video.html" .id }}</div>{{ end }}
+  {{ with partial "story.html" . }}<section class="about">{{ . | markdownify }}</section>{{ end }}
   <div style="margin-top:22px">{{ partial "scripts-bar.html" . }}</div>
   {{ $body | safeHTML }}
   <nav class="pager" aria-label="Chapters">
@@ -35,7 +36,7 @@
 </header>
 <div class="sbody">
   <div>
-    {{ with .Params.story | default (partial "vani.html" .).blurb }}<section class="about"><h2>About this {{ lower (index $kinds $.Section | default "text") }}</h2>{{ . | markdownify }}</section>{{ end }}
+    {{ with partial "story.html" . }}<section class="about"><h2>About this {{ lower (index $kinds $.Section | default "text") }}</h2>{{ . | markdownify }}</section>{{ end }}
     {{ partial "scripts-bar.html" . }}
     {{ $body | safeHTML }}
   </div>

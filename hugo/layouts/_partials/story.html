@@ -1,0 +1,6 @@
+{{/* The page's approved background story (Markdown): its own `story`
+     param, else its entry in data/stories.yaml. Drafts awaiting review
+     (stories/drafts.yaml, outside the site) never show. */}}
+{{ $s := .Params.story }}
+{{ if and (not $s) .File }}{{ with index hugo.Data.stories (strings.TrimSuffix ".md" .File.Path) }}{{ $s = .text }}{{ end }}{{ end }}
+{{ return $s }}

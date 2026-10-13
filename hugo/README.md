@@ -45,10 +45,11 @@ their deity's folder, keeping the old URL as an alias.
   come from the pages themselves (`_partials/pdfs.html`; pūjā PDFs from
   `data/puja_pdfs.json`, which `sync_content.py` writes); the veda texts,
   which have no pages yet, from `data/veda_pdfs.json`.
-- `data/vani.yaml`: each page's Stotra Samhita Vani video and blurb, written
-  by `scripts/sync_vani.py`. The video plays in the page's info box (or under
-  the heading of a chapter), the blurb fills "About this stotra", and the
-  video's title slide becomes the card thumbnail.
+- `data/vani.yaml`: each page's Stotra Samhita Vani video, written by
+  `scripts/sync_vani.py`. The video plays in the page's info box (or under
+  the heading of a chapter), and its title slide becomes the card thumbnail.
+- `data/stories.yaml`: approved background stories, shown under "About this
+  stotra" (`_partials/story.html`). Drafts wait in `../stories/drafts.yaml`.
 - `assets/css/site.css`: the design; `assets/css/stotras.css`: verse layout.
 
 ## Covers

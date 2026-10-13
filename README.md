@@ -7,11 +7,15 @@ The site is one [Hugo](https://gohugo.io/) site in `hugo/`, with its own theme. 
 ## How content gets here
 
 - **`scripts/sync_content.py`** regenerates `hugo/content/` from the sibling repos (via stotra-sangrahah's TeX-to-HTML scripts), then runs **`scripts/enrich_content.py`**, which adds the IAST title, form, date added and missing deities. The **Sync content** workflow runs this daily and commits any changes.
-- **`scripts/sync_vani.py`** writes `hugo/data/vani.yaml`: the [Stotra Samhita Vani](https://www.youtube.com/@stotrasamhita-vani) video and blurb for each page. It reads the upload list kept locally in the vani repo, so run it by hand after new uploads:
+- **`scripts/sync_vani.py`** writes `hugo/data/vani.yaml`: the [Stotra Samhita Vani](https://www.youtube.com/@stotrasamhita-vani) video for each page, and adds each video's blurb to `stories/drafts.yaml` for review. It reads the upload list kept locally in the vani repo, so run it by hand after new uploads:
 
   ```
   python3 scripts/sync_vani.py --vani ../vani
   ```
+
+## Stories
+
+Background stories wait in `stories/drafts.yaml` until reviewed; only those moved to `hugo/data/stories.yaml` appear on the site. See [`stories/README.md`](stories/README.md).
 
 ## Deploying
 
