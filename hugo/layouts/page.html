@@ -30,21 +30,11 @@
 {{ $groups := partialCached "groups.html" . .Path }}
 {{ $comps := partial "composers.html" . }}
 {{ $meters := partial "meters.html" . }}
-<div class="shead">
-  {{ partial "cover.html" (dict "p" . "cls" "big" "w" 600) }}
-  <div>
-    <div class="kicker">{{ index $kinds .Section | default "Text" }}{{ range $groups }} · {{ . }}{{ end }}</div>
-    <h1>{{ partial "title.html" .Title }}</h1>
-    {{ with .Params.iast }}<div class="iast">{{ . }}</div>{{ end }}
-    <div class="chips">
-      {{ range $groups }}<a class="chip" href="/stotra/?deity={{ . }}"><small>Deity</small><span>{{ . }}</span></a>{{ end }}
-      {{ range $comps }}<a class="chip" href="/stotra/?composer={{ . }}"><small>Composer</small><span>{{ . }}</span></a>{{ end }}
-      {{ range $meters }}<a class="chip" href="/stotra/?metre={{ . }}"><small>Metre</small><span>{{ . }}</span></a>{{ end }}
-      {{ $vc := int (.Params.verse_count | default 0) }}
-      {{ if or .Params.form $vc }}<a class="chip" href="/stotra/{{ with .Params.form }}?form={{ . }}{{ end }}"><small>Form</small><span>{{ with .Params.form }}{{ . }}{{ if $vc }} · {{ end }}{{ end }}{{ if $vc }}{{ $vc }} verses{{ end }}</span></a>{{ end }}
-    </div>
-  </div>
-</div>
+<header class="shead plain">
+  <div class="kicker">{{ index $kinds .Section | default "Text" }}{{ range $groups }} · {{ . }}{{ end }}</div>
+  <h1>{{ partial "title.html" .Title }}</h1>
+  {{ with .Params.iast }}<div class="iast">{{ . }}</div>{{ end }}
+</header>
 <div class="sbody">
   <div>
     {{ with .Params.story }}<section class="about"><h2>About this {{ lower (index $kinds $.Section | default "text") }}</h2>{{ . | markdownify }}</section>{{ end }}
@@ -52,8 +42,8 @@
     {{ $body | safeHTML }}
   </div>
   <aside class="aside">
-    {{ with $pdfs }}<div class="box"><h4>Download</h4>{{ range . }}<a class="dl" href="{{ .href }}">PDF <small>{{ .label }}</small></a>{{ end }}</div>{{ end }}
-    {{ with .Params.source_file }}<div class="box"><h4>Source</h4><p class="src" style="margin:0">Typeset from <a href="{{ partial "source-url.html" $ }}">{{ path.Base . }}</a>. Spotted an error? Open an issue there.</p></div>{{ end }}
+    {{ partial "infobox.html" (dict "p" . "groups" $groups "comps" $comps "meters" $meters) }}
+    {{ with $pdfs }}<div class="box"><h4>Download</h4>{{ range . }}<a class="dl" href="{{ .href }}">{{ partial "icon.html" "download" }}<span>{{ .label }}</span>{{ partial "icon.html" "pdf" }}</a>{{ end }}</div>{{ end }}
     {{ with $groups }}
       {{ $g := index . 0 }}
       {{ $rel := slice }}

@@ -1,0 +1,28 @@
+{{/* Infobox for a stotra or nāmāvalī page: its picture (own cover,
+     placeholder painting, or its deity's painting from home.yaml), then
+     every piece of metadata the source file carries. Args: p, groups,
+     comps, meters. */}}
+{{ $p := .p }}
+{{ $img := partial "cover-image.html" $p }}
+{{ if and (not $img) site.Params.placeholderCovers }}
+  {{ range .groups }}{{ if not $img }}{{ with index hugo.Data.home.deity_covers . }}{{ $img = resources.Get (printf "covers/placeholder/%s.webp" .) }}{{ end }}{{ end }}{{ end }}
+{{ end }}
+{{ $vc := int ($p.Params.verse_count | default 0) }}
+{{ $src := partial "source-url.html" $p }}
+{{ $repo := replaceRE `/blob/.*$` "" $src }}
+<div class="box info">
+  {{ with $img }}{{ $r := .Fill "540x420 center webp q75" }}<img class="info-img" src="{{ $r.RelPermalink }}" width="{{ $r.Width }}" height="{{ $r.Height }}" alt="">{{ end }}
+  <dl>
+    {{ with .groups }}<dt>Deity</dt><dd>{{ range $i, $g := . }}{{ if $i }}, {{ end }}<a href="/stotra/?deity={{ $g }}">{{ $g }}</a>{{ end }}</dd>{{ end }}
+    {{ with .comps }}<dt>Composer</dt><dd>{{ range $i, $c := . }}{{ if $i }}, {{ end }}<a href="/stotra/?composer={{ $c }}">{{ $c }}</a>{{ end }}</dd>{{ end }}
+    {{ with $p.Params.source }}<dt>From</dt><dd>{{ . }}</dd>{{ end }}
+    {{ with $p.Params.vakta }}<dt>Speaker</dt><dd>{{ . }}{{ with $p.Params.shrota }} <span class="m">to</span> {{ . }}{{ end }}</dd>{{ end }}
+    {{ with $p.Params.form }}<dt>Form</dt><dd><a href="/stotra/?form={{ . }}">{{ . }}</a></dd>{{ end }}
+    {{ with .meters }}<dt>Metre</dt><dd>{{ range $i, $m := . }}{{ if $i }}, {{ end }}<a href="/stotra/?metre={{ $m }}">{{ $m }}</a>{{ end }}</dd>{{ end }}
+    {{ with $vc }}<dt>Verses</dt><dd>{{ . }}</dd>{{ end }}
+    {{ with $p.Params.date }}<dt>Added</dt><dd>{{ time.Format "2 January 2006" . }}</dd>{{ end }}
+    {{ with $p.Parent }}{{ if and (not $.groups) (ne .Kind "home") (ne .Parent.Kind "home") }}<dt>In</dt><dd><a href="{{ .RelPermalink }}">{{ with .Params.iast }}{{ . }}{{ else }}{{ partial "title.html" .Title }}{{ end }}</a></dd>{{ end }}{{ end }}
+    {{ with $p.Params.source_file }}<dt>Source</dt><dd><a href="{{ $src }}" title="{{ path.Base . }}">TeX on GitHub ↗</a></dd>{{ end }}
+  </dl>
+  {{ with $p.Params.source_file }}<p class="src">Spotted an error? <a href="{{ $repo }}/issues/new?title={{ (printf "%s (%s)" $p.Params.iast (path.Base .)) | urlquery }}&amp;body={{ (printf "Page: %s\n\n" $p.Permalink) | urlquery }}">Open an issue</a>.</p>{{ end }}
+</div>

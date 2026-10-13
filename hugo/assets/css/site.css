@@ -315,3 +315,24 @@ main > .crumbs { margin-bottom: -34px; }
 .prose.names .nm.end { margin-bottom: .6em; }
 .prose.names .nn { margin-left: auto; flex: none; min-width: 2.1em; padding: 1px 6px 0; border-radius: 5px;
   background: var(--badge, var(--accent)); color: #fff; font-weight: 600; font-size: .78em; line-height: 1.5; text-align: center; }
+
+/* Stotra page: a plain text header, metadata in the infobox. */
+.shead.plain { display: block; margin-top: 18px; max-width: 46em; }
+.shead.plain h1 { font-size: clamp(34px, 5vw, 58px); }
+.aside { position: static; }
+.info { padding: 0; overflow: hidden; gap: 0; }
+.info-img { display: block; width: 100%; height: auto; aspect-ratio: 9 / 7; object-fit: cover; }
+.info dl { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 7px 14px; margin: 0; padding: 16px 16px 4px; font-size: 14px; }
+.info dt { font-size: 11px; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); padding-top: 2px; }
+.info dd { margin: 0; overflow-wrap: anywhere; }
+.info dd a { color: var(--accent); }
+.info dd .m { color: var(--muted); }
+.info .src { padding: 6px 16px 16px; margin: 0; }
+.dl { justify-content: flex-start; gap: 10px; color: var(--ink, inherit); }
+.dl span { flex: 1; }
+.dl .ic { flex: none; color: var(--accent); }
+.dl .ic.pdf { color: #B3261E; }
+.dl:hover { border-color: var(--accent); }
+.shead.plain .kicker { margin-bottom: 10px; }
+.shead.plain + .sbody { margin-top: 28px; }
+.info dd { overflow-wrap: break-word; }
