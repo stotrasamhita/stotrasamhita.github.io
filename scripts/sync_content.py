@@ -29,7 +29,13 @@ HUGO_CONTENT = REPO_ROOT / "hugo" / "content"
 
 def run(cmd, cwd=None):
     print("+", " ".join(str(c) for c in cmd), file=sys.stderr)
-    return subprocess.run(cmd, cwd=cwd, check=True, capture_output=True, text=True)
+    r = subprocess.run(cmd, cwd=cwd, capture_output=True, text=True)
+    if r.returncode:
+        # Show why (e.g. tex_to_ir.py's "ERROR: file.tex:26: ..."); the
+        # traceback alone only says the command failed.
+        sys.stderr.write(r.stdout[-5000:] + r.stderr[-5000:])
+        r.check_returncode()
+    return r
 
 
 def git_head_sha(repo_dir):

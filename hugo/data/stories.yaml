@@ -1,5 +1,11 @@
 # Approved background stories, shown on the site under "About this stotra".
 # Drafts awaiting review are in stories/drafts.yaml.
+gita/gsa:
+  text: 'The Gītārtha-saṅgraha of Śrī Yāmunācārya (Āḷavandār), the great Śrīvaiṣṇava teacher: 32 verses
+    summarising the meaning of the Bhagavad Gītā. It describes the Gītā''s aim as Nārāyaṇa, attainable
+    only through devotion arising from one''s duty, knowledge and detachment; treats the three hexads
+    of chapters (karma and jñāna yoga, bhakti yoga, and their synthesis); and gives the purport of each
+    of the eighteen chapters in turn, ending with the four kinds of devotees and the glory of the jñānī.'
 gita/mahatmyam-varaha-puranam:
   text: 'The Gītā-māhātmyam of the Varāha Purāṇa. After verses of meditation on Varāha, the boar incarnation
     who raised the earth on his tusk, the goddess Earth (Dharā) asks Lord Viṣṇu how unwavering devotion
@@ -15,6 +21,17 @@ stotra/ganesha/maha-ganesha-pancharatnam:
     the Pañcacāmara metre, beginning 'mudākarātta-modakam'.
 stotra/ganesha/vakratunda-mahaganapati-sahasranama-stotram:
   text: The Vakratuṇḍa Mahāgaṇapati Sahasranāma — a thousand names of Gaṇeśa, from the Gaṇeśa Purāṇa.
+stotra/guru/kanchi-kamakoti-guru-parampara-stava:
+  text: Śrī Kāñcī Kāmakoṭi Pīṭha, the Sarvajña Pīṭha at Kāñcīpuram, was established by Śrī Ādi Śaṅkara
+    Bhagavatpāda (Kalyabda 2621, 482 BCE), and its unbroken line of Jagadgurus continues to this day under
+    the 70th Pīṭhādhipati, Śrī Śaṅkara Vijayendra Sarasvatī Śaṅkarācārya Svāmigal, and His śiṣya, the
+    71st Jagadguru, Śrī Satya Candraśekharendra Sarasvatī Svāmigal. In this stava the 65th Jagadguru,
+    Śrī Sudarśana Mahādevendra Sarasvatī Śrīcaraṇa, bows to that Guru-paramparā in simple Anuṣṭubh verses,
+    recording some details not found in the earlier texts; the appendix verses (one of them by the 69th
+    Jagadguru, Śrī Jayendra Sarasvatī Śrīpāda) salute the Jagadgurus who followed. It is one of the four
+    traditional pramāṇa texts on the lineage, with the Puṇyaśloka-mañjarī (Śrī Sadāśiva Bodhendra Sarasvatī,
+    the 56th Jagadguru), the Jagadguru-ratnamālā (Śrī Sadāśiva Brahmendra) and its commentary Suṣamā (Śrī
+    Ātmabodhendra Sarasvatī).
 stotra/guru/vyasashtakam:
   text: The Vyāsāṣṭakam — eight verses in praise of Veda Vyāsa, in the Anuṣṭubh metre.
 stotra/hanuman/apaduddharaka-dwadashamukha-hanuman-stotram:
@@ -27,6 +44,60 @@ stotra/hanuman/sundara-hanuman-maha-mantra-nama-stotram:
 stotra/krishna/achyutashtakam:
   text: The Acyutāṣṭakam — eight verses on Śrī Kṛṣṇa, composed by Ādi Śaṅkarācārya in the Sragviṇī metre,
     beginning 'acyutaṁ keśavaṁ rāma-nārāyaṇam'.
+stotra/krishna/akrurakrta-dashavatara-stuti:
+  text: From the Śrīmad Bhāgavatam (Skandha 10, Adhyāya 40). Kaṃsa has sent Akrūra to Vraja to bring Kṛṣṇa
+    and Balarāma to Mathurā. On the way back, Akrūra stops at the Yamunā for his midday bath, and under
+    the water he sees the two boys; looking again, he sees Viṣṇu reclining on Ādiśeṣa, attended by sages
+    and devas. Overwhelmed, he praises the Lord, and in these six verses he salutes Him in each of His
+    avatāras, from Matsya to Kalki.
+stotra/krishna/balamukundashtakam:
+  text: The Bālamukundāṣṭakam — eight verses on the child Kṛṣṇa, beginning with the beloved image of the
+    baby who places His lotus-foot in His lotus-mouth.
+stotra/krishna/balaraksha:
+  text: 'From the Śrīmad Bhāgavatam (Skandha 10, Adhyāya 6). The infant Kṛṣṇa has just slain the demoness
+    Pūtanā, who came to Gokula to nurse Him with poisoned milk. Shaken, the gopīs guard the child as mothers
+    do: they wave a cow''s tail over Him, bathe Him and mark His limbs, and place the Lord''s names on
+    each part of His body (“May Aja protect your feet, Maṇimān your knees…”), praying that every harm
+    flee at the sound of Viṣṇu''s names. Here those protective verses are preceded by a few dhyāna-ślokas.'
 stotra/krishna/bhishma-stavaraja:
   text: The Bhīṣma Stavarāja — the 'king of hymns' sung by Bhīṣma to Śrī Kṛṣṇa from his bed of arrows.
     From the Mahābhārata.
+stotra/krishna/bhishma-stuti:
+  text: 'From the Śrīmad Bhāgavatam (Skandha 1, Adhyāya 9). The war is over. Bhīṣma lies on his bed of
+    arrows at Kurukṣetra, waiting for the sun to turn north before he gives up his body. Yudhiṣṭhira comes
+    with his brothers and Śrī Kṛṣṇa, and after Bhīṣma has taught him dharma, the moment arrives. Gazing
+    at Kṛṣṇa standing before him, Bhīṣma offers this praise: he recalls the Lord as Arjuna''s charioteer,
+    His face dusted by the battle, and the time He broke His own vow and rushed at Bhīṣma wheel in hand
+    to keep His devotee''s word. Then, his mind fixed on Kṛṣṇa, he sheds his mortal coil.'
+stotra/krishna/damodarashtakam:
+  text: The Dāmodarāṣṭakam, from the Padma Purāṇa, in the Bhujaṅgaprayāta metre, celebrates the child
+    Kṛṣṇa bound to the mortar by Yaśodā.
+stotra/krishna/dhruvakrta-bhagavat-stavam:
+  text: From the Śrīmad Bhāgavatam (Skandha 4, Adhyāya 9), in the Vasantatilakā metre. The five-year-old
+    prince Dhruva, turned away from his father's lap by his stepmother Suruci, goes to the forest of Madhuvana
+    and, on Nārada's instruction, worships Viṣṇu with severe penance. When the Lord appears before him
+    on Garuḍa, the child stands with folded hands, unable to speak. Viṣṇu touches his cheek with His conch,
+    and at once the words of this praise flow from him.
+stotra/krishna/govindashtakam:
+  text: The Govindāṣṭakam — eight verses on Śrī Kṛṣṇa as Govinda, composed by Ādi Śaṅkarācārya.
+stotra/krishna/guruvatapurisha-pancharatnam:
+  text: The Guruvātapurīśa Pañcaratnam — five verses on the Lord of Guruvāyūr, composed by Anantarāma
+    Dīkṣita.
+stotra/krishna/krishna-dwadasha-nama-stotram:
+  text: The Kṛṣṇa Dvādaśa-nāma Stotram — twelve names of Śrī Kṛṣṇa, from the Mahābhārata, in the Anuṣṭubh
+    metre.
+stotra/krishna/krishna-jananam:
+  text: 'From the Śrīmad Bhāgavatam (Skandha 10, Adhyāya 3). At midnight, in Kaṃsa''s prison at Mathurā,
+    Kṛṣṇa is born to Devakī and Vasudeva, and all nature rejoices. Vasudeva beholds the wondrous child:
+    lotus-eyed and four-armed, holding the conch, discus, mace and lotus, with the Śrīvatsa on His chest
+    and the Kaustubha at His throat, shining in yellow silk, crown and earrings.'
+stotra/krishna/krishnashtakam1:
+  text: A Kṛṣṇāṣṭakam — eight verses composed by Ādi Śaṅkarācārya in the Śikhariṇī metre.
+stotra/krishna/krishnashtakam2:
+  text: A Kṛṣṇāṣṭakam — eight verses on Śrī Kṛṣṇa, composed by Ādi Śaṅkarācārya.
+stotra/krishna/krishnashtakam3:
+  text: The popular Kṛṣṇāṣṭakam — 'vasudeva-sutaṁ devam' — eight verses ending 'kṛṣṇaṁ vande jagadgurum',
+    in the Anuṣṭubh metre.
+stotra/lakshmi/mahalakshmyashtakam:
+  text: The Mahālakṣmyaṣṭakam — eight verses on Goddess Mahālakṣmī, spoken by Indra, from the Padma Purāṇa,
+    in the Anuṣṭubh metre.

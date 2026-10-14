@@ -125,13 +125,6 @@ gita/gita/chapter-18:
     I will free you from all sins — do not grieve.'' Arjuna''s delusion is gone, and Sañjaya closes: where
     Kṛṣṇa and Arjuna are, there are fortune, victory and justice.'
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-gita/gsa:
-  text: 'The Gītārtha-saṅgraha of Śrī Yāmunācārya (Āḷavandār), the great Śrīvaiṣṇava teacher: 32 verses
-    summarising the meaning of the Bhagavad Gītā. It describes the Gītā''s aim as Nārāyaṇa, attainable
-    only through devotion arising from one''s duty, knowledge and detachment; treats the three hexads
-    of chapters (karma and jñāna yoga, bhakti yoga, and their synthesis); and gives the purport of each
-    of the eighteen chapters in turn, ending with the four kinds of devotees and the glory of the jñānī.'
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 gita/mahatmyam:
   text: 'Seven verses on the greatness of the Gītā, traditionally chanted after the text: whoever reads
     this holy scripture with care attains the abode of Viṣṇu; a single bath in the waters of the Gītā
@@ -149,98 +142,33 @@ stotra/ganesha/ganashtakam:
 stotra/ganesha/mahaganapati-navarnavedapada-stava:
   text: The Mahāgaṇapati Navārṇa-vedapāda Stava — a hymn to Mahāgaṇapati, in the Anuṣṭubh metre.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/guru/kanchi-kamakoti-guru-parampara-stava:
-  text: Śrī Kāñcī Kāmakoṭi Pīṭha, the Sarvajña Pīṭha at Kāñcīpuram, was established by Śrī Ādi Śaṅkara
-    Bhagavatpāda (Kalyabda 2621, 482 BCE), and its unbroken line of Jagadgurus continues to this day under
-    the 70th Pīṭhādhipati, Śrī Śaṅkara Vijayendra Sarasvatī Śaṅkarācārya Svāmigal, and His śiṣya, the
-    71st Jagadguru, Śrī Satya Candraśekharendra Sarasvatī Svāmigal. In this stava the 65th Jagadguru,
-    Śrī Sudarśana Mahādevendra Sarasvatī Śrīcaraṇa, bows to that Guru-paramparā in simple Anuṣṭubh verses,
-    recording some details not found in the earlier texts; the appendix verses (one of them by the 69th
-    Jagadguru, Śrī Jayendra Sarasvatī Śrīpāda) salute the Jagadgurus who followed. It is one of the four
-    traditional pramāṇa texts on the lineage, with the Puṇyaśloka-mañjarī (Śrī Sadāśiva Bodhendra Sarasvatī,
-    the 56th Jagadguru), the Jagadguru-ratnamālā (Śrī Sadāśiva Brahmendra) and its commentary Suṣamā (Śrī
-    Ātmabodhendra Sarasvatī).
-  source: Edited by you in review
-stotra/krishna/akrurakrta-dashavatara-stuti:
-  text: From the Śrīmad Bhāgavatam (Skandha 10, Adhyāya 40). Kaṃsa has sent Akrūra to Vraja to bring Kṛṣṇa
-    and Balarāma to Mathurā. On the way back, Akrūra stops at the Yamunā for his midday bath, and under
-    the water he sees the two boys; looking again, he sees Viṣṇu reclining on Ādiśeṣa, attended by sages
-    and devas. Overwhelmed, he praises the Lord, and in these six verses he salutes Him in each of His
-    avatāras, from Matsya to Kalki.
-  source: 'Revised in review: Bhāgavata source and juncture (from the colophon)'
-  notes: Skandha and adhyāya are from the stotra's own colophon; the juncture is the well-known narrative
-    of that chapter, written from memory, so please check it against the text.
-stotra/krishna/balamukundashtakam:
-  text: The Bālamukundāṣṭakam — eight verses on the child Kṛṣṇa, beginning with the beloved image of the
-    baby who places His lotus-foot in His lotus-mouth.
-  source: Edited by you in review
-stotra/krishna/balaraksha:
-  text: 'From the Śrīmad Bhāgavatam (Skandha 10, Adhyāya 6). The infant Kṛṣṇa has just slain the demoness
-    Pūtanā, who came to Gokula to nurse Him with poisoned milk. Shaken, the gopīs guard the child as mothers
-    do: they wave a cow''s tail over Him, bathe Him and mark His limbs, and place the Lord''s names on
-    each part of His body (“May Aja protect your feet, Maṇimān your knees…”), praying that every harm
-    flee at the sound of Viṣṇu''s names. Here those protective verses are preceded by a few dhyāna-ślokas.'
-  source: 'Revised in review: Bhāgavata source and juncture (from the colophon)'
-  notes: Skandha and adhyāya are from the stotra's own colophon; the juncture is the well-known narrative
-    of that chapter, written from memory, so please check it against the text.
-stotra/krishna/bhishma-stuti:
-  text: 'From the Śrīmad Bhāgavatam (Skandha 1, Adhyāya 9). The war is over. Bhīṣma lies on his bed of
-    arrows at Kurukṣetra, waiting for the sun to turn north before he gives up his body. Yudhiṣṭhira comes
-    with his brothers and Śrī Kṛṣṇa, and after Bhīṣma has taught him dharma, the moment arrives. Gazing
-    at Kṛṣṇa standing before him, Bhīṣma offers this praise: he recalls the Lord as Arjuna''s charioteer,
-    His face dusted by the battle, and the time He broke His own vow and rushed at Bhīṣma wheel in hand
-    to keep His devotee''s word. Then, his mind fixed on Kṛṣṇa, he passes away.'
-  source: 'Revised in review: Bhāgavata source and juncture (from the colophon)'
-  notes: Skandha and adhyāya are from the stotra's own colophon; the juncture is the well-known narrative
-    of that chapter, written from memory, so please check it against the text.
-stotra/krishna/damodarashtakam:
-  text: The Dāmodarāṣṭakam, from the Padma Purāṇa, in the Bhujaṅgaprayāta metre, celebrates the child
-    Kṛṣṇa bound to the mortar by Yaśodā.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/krishna/dhruvakrta-bhagavat-stavam:
-  text: From the Śrīmad Bhāgavatam (Skandha 4, Adhyāya 9), in the Vasantatilakā metre. The five-year-old
-    prince Dhruva, turned away from his father's lap by his stepmother Suruci, goes to the forest of Madhuvana
-    and, on Nārada's instruction, worships Viṣṇu with severe penance. When the Lord appears before him
-    on Garuḍa, the child stands with folded hands, unable to speak. Viṣṇu touches his cheek with His conch,
-    and at once the words of this praise flow from him.
-  source: 'Revised in review: Bhāgavata source and juncture (from the colophon)'
-  notes: Skandha and adhyāya are from the stotra's own colophon; the juncture is the well-known narrative
-    of that chapter, written from memory, so please check it against the text.
-stotra/krishna/govindashtakam:
-  text: The Govindāṣṭakam — eight verses on Śrī Kṛṣṇa as Govinda, composed by Ādi Śaṅkarācārya.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/krishna/guruvatapurisha-pancharatnam:
-  text: The Guruvātapurīśa Pañcaratnam — five verses on the Lord of Guruvāyūr, composed by Anantarāma
-    Dīkṣita.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/krishna/krishna-dwadasha-nama-stotram:
-  text: The Kṛṣṇa Dvādaśa-nāma Stotram — twelve names of Śrī Kṛṣṇa, from the Mahābhārata, in the Anuṣṭubh
-    metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/krishna/krishna-jananam:
-  text: 'From the Śrīmad Bhāgavatam (Skandha 10, Adhyāya 3). At midnight, in Kaṃsa''s prison at Mathurā,
-    Kṛṣṇa is born to Devakī and Vasudeva, and all nature rejoices. Vasudeva beholds the wondrous child:
-    lotus-eyed and four-armed, holding the conch, discus, mace and lotus, with the Śrīvatsa on His chest
-    and the Kaustubha at His throat, shining in yellow silk, crown and earrings.'
-  source: 'Revised in review: Bhāgavata source and juncture (from the colophon)'
-  notes: Skandha and adhyāya are from the stotra's own colophon; the juncture is the well-known narrative
-    of that chapter, written from memory, so please check it against the text.
 stotra/krishna/krishna-nama-mahatmyam:
-  text: From the Skanda Purāṇa, on the greatness of chanting the names of Śrī Kṛṣṇa, in the Anuṣṭubh metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/krishna/krishnashtakam1:
-  text: A Kṛṣṇāṣṭakam — eight verses composed by Ādi Śaṅkarācārya in the Śikhariṇī metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/krishna/krishnashtakam2:
-  text: A Kṛṣṇāṣṭakam — eight verses on Śrī Kṛṣṇa, composed by Ādi Śaṅkarācārya.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/krishna/krishnashtakam3:
-  text: The popular Kṛṣṇāṣṭakam — 'vasudeva-sutaṁ devam' — eight verses ending 'kṛṣṇaṁ vande jagadgurum',
-    in the Anuṣṭubh metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
+  text: 'From the Skanda Purāṇa (Vaiṣṇava-khaṇḍa), in the Mārgaśīrṣa-māhātmya, where the Lord teaches
+    Brahmā the observances of Mārgaśīrṣa, the month He calls His own in the Gītā (“māsānāṃ mārgaśīrṣo''ham”).
+    In this fifteenth chapter He tells His son a secret dearer to Him than the rest: of all His names,
+    “Kṛṣṇa, Kṛṣṇa” pleases Him most. Whoever remembers Him by it, He lifts out of hell as a lotus rises
+    through water; even said in jest, in pretence or at the hour of death, it keeps Yama far away. The
+    name is the rain-cloud that quenches the fire of sin and the fire that burns the serpent of Kali;
+    it is as holy as the Gaṅgā at Prayāga or the Sarasvatī at Kurukṣetra, and a home where it is sung
+    each day is itself Gayā, Kāśī and Puṣkara. The chapter ends with a promise to whoever reads it at
+    dawn, or at the three sandhyās.'
+  source: 'Revised in review: expanded from the text itself (Skanda Purāṇa colophon)'
+  notes: Everything here is from the stotra's own verses and colophon, apart from the Gītā quote (10.35).
 stotra/krishna/narayana-keshadipadanta-varnanam:
-  text: A description of Nārāyaṇa from head to foot, in the Sragdharā metre, from the Nārāyaṇīyam.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
+  text: 'The hundredth and last daśaka of the Nārāyaṇīyam, Melpattūr Nārāyaṇa Bhaṭṭatiri''s retelling
+    of the Bhāgavatam in a little over a thousand verses (as its last verse says), composed before Guruvāyūrappan.
+    Tradition holds that Bhaṭṭatiri took on his guru Acyuta Piṣāraṭi''s crippling rheumatism, and sought
+    relief at Guruvāyūr by offering a daśaka of about ten verses each day, the Lord nodding His assent
+    to each. On the hundredth day, with the story told, the Lord appears to him. “Agre paśyāmi tejaḥ”:
+    he sees a light before him, and within it a youthful divine form, surrounded by Nārada and the sages
+    and by the Upaniṣads as radiant maidens. He then describes the vision from the crown of the head to
+    the feet (keśādi-pāda), and ends asking forgiveness for whatever he has said without knowing the Lord''s
+    greatness. The closing words, “āyur-ārogya-saukhyam” (long life, health and happiness), are both the
+    poem''s blessing to its readers and, read as a chronogram, the day of its completion; and by tradition,
+    with the last verse his illness left him.'
+  source: 'Revised in review: the Nārāyaṇīyam''s last daśaka and its significance'
+  notes: 'Written from memory of the work and its tradition, so please check the details. In particular:
+    the guru''s name, and the ''nod'' and cure, which are tradition rather than in the text.'
 stotra/krishna/santanagopala-stotram:
   text: The Santāna Gopāla Stotram, in the Anuṣṭubh metre, is a prayer to Śrī Kṛṣṇa as Gopāla for the
     blessing of children.
@@ -257,10 +185,6 @@ stotra/lakshmi/lakshmi-stotram:
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 stotra/lakshmi/mahalakshmi-stuti:
   text: Agastya's praise of Goddess Mahālakṣmī, largely in the Vasantatilakā metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/lakshmi/mahalakshmyashtakam:
-  text: The Mahālakṣmyaṣṭakam — eight verses on Goddess Mahālakṣmī, spoken by Indra, from the Padma Purāṇa,
-    in the Anuṣṭubh metre.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 stotra/nadi/ganga-stuti:
   text: A hymn to the Gaṅgā, recited on Gaṅgā Daśaharā.
