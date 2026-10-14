@@ -14,7 +14,7 @@
 
 <div class="stotra-article"><h2 class="stotra-heading">ज्ञान-विज्ञानोपदेशः</h2>
 <p class="uvacha">श्रीराम उवाच</p>
-<div class="verse-block-wrapper" id="ramopadesha-b0003"><div class="verse-block verse-justify"><div class="line">शृणु वक्ष्यामि ते वत्स गुह्याद्गुह्यतरं परम्।</div><div class="line" style="position:relative;">यद्विज्ञाय नरो जह्यात् सद्यो वैकल्पकं भ्रमम्॥१९॥</div></div></div>
+<div class="verse-block-wrapper" id="ramopadesha-b0003"><div class="verse-block verse-justify"><div class="line">शृणु वक्ष्यामि ते वत्स गुह्याद् गुह्यतरं परम्।</div><div class="line" style="position:relative;">यद्विज्ञाय नरो जह्यात् सद्यो वैकल्पकं भ्रमम्॥१९॥</div></div></div>
 <div class="verse-block-wrapper" id="ramopadesha-b0004"><div class="verse-block verse-justify"><div class="line">आदौ मायास्वरूपं ते वक्ष्यामि तदनन्तरम्।</div><div class="line" style="position:relative;">ज्ञानस्य साधनं पश्चाज्ज्ञानविज्ञानसंयुतम्॥२०॥</div></div></div>
 <div class="verse-block-wrapper" id="ramopadesha-b0005"><div class="verse-block verse-justify"><div class="line">ज्ञेयं च परमात्मानं यज्ज्ञात्वा मुच्यते भयात्।</div><div class="line" style="position:relative;">अनात्मनि शरीरादावात्मबुद्धिस्तु या भवेत्॥२१॥</div></div></div>
 <div class="verse-block-wrapper" id="ramopadesha-b0006"><div class="verse-block verse-justify"><div class="line">सैव माया तयैवासौ संसारः परिकल्प्यते।</div><div class="line" style="position:relative;">रूपे द्वे निश्चिते पूर्वे मायायाः कुलनन्दन॥२२॥</div></div></div>

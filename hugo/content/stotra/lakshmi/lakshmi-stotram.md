@@ -1,10 +1,10 @@
 {
- "title": "लक्ष्मीस्तोत्रम् विष्णुपुराणान्तर्गतम्",
+ "title": "लक्ष्मीस्तोत्रं विष्णुपुराणान्तर्गतम्",
  "slug": "lakshmi-stotram",
  "source_file": "stotras/lakshmi/LakshmiStotram.tex",
  "verse_count": 24,
  "weight": 20,
- "iast": "Lakṣmīstotram Viṣṇupurāṇāntargatam",
+ "iast": "Lakṣmīstotraṃ Viṣṇupurāṇāntargatam",
  "form": "Stotram",
  "deity": [
   "Lakshmi"
@@ -12,7 +12,7 @@
  "date": "2018-10-15"
 }
 
-<div class="stotra-article"><h2 class="stotra-heading">लक्ष्मीस्तोत्रम् विष्णुपुराणान्तर्गतम्</h2>
+<div class="stotra-article"><h2 class="stotra-heading">लक्ष्मीस्तोत्रं विष्णुपुराणान्तर्गतम्</h2>
 <p class="uvacha">श्री-पराशर उवाच</p>
 <div class="verse-block-wrapper" id="lakshmi-stotram-b0002"><div class="verse-block verse-justify"><div class="line">सिंहासनगतः शक्रः सम्प्राप्य त्रिदिवं पुनः।</div><div class="line" style="position:relative;">देवराज्ये स्थितो देवीं तुष्टावाब्जकरां ततः॥१॥</div></div></div>
 <p class="uvacha">इन्द्र उवाच</p>

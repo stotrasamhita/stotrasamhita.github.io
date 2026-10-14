@@ -10,7 +10,7 @@
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">चिरञ्जीविस्तोत्रम्</h2>
-<div class="verse-block-wrapper" id="nitya-shloka-b0001"><div class="verse-block"><div class="line">अश्वत्थामा बलिर्व्यासो हनुमांश्च विभीषणः</div><div class="line pada-even">कृपः परशुरामश्च सप्तैते चिरजीविनः।</div><div class="line">सप्तैतान् संस्मरेन्नित्यं मार्कण्डेयमथाष्टमम्</div><div class="line pada-even" style="position:relative;">जीवेद् वर्षशतं प्राज्ञ अपमृत्युविवर्जितः॥</div></div></div>
+<div class="verse-block-wrapper" id="nitya-shloka-b0001"><div class="verse-block"><div class="line">अश्वत्थामा बलिर्व्यासो हनुमांश्च विभीषणः</div><div class="line pada-even">कृपः परशुरामश्च सप्तैते चिरजीविनः।</div><div class="line">सप्तैतान् संस्मरेन्नित्यं मार्कण्डेयमथाष्टमं</div><div class="line pada-even" style="position:relative;">जीवेद् वर्षशतं प्राज्ञ अपमृत्युविवर्जितः॥</div></div></div>
 <h2 class="stotra-heading">पञ्चकन्यास्मरणम्</h2>
 <div class="verse-block-wrapper" id="nitya-shloka-b0003"><div class="verse-block verse-justify"><div class="line">अहल्या द्रौपदी सीता तारा मन्दोदरी तथा।</div><div class="line" style="position:relative;">पञ्चकं ना स्मरेन्नित्यं महापातकनाशनम्॥</div></div></div>
 <h2 class="stotra-heading">साम्बशिव-स्मरणम्</h2>

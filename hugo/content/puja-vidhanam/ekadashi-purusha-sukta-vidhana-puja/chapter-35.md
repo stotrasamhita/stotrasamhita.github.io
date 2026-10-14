@@ -22,7 +22,7 @@
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b2680"><div class="verse-block verse-justify"><div class="line">नारायणं नमस्कृत्य नरं चैव नरोत्तमम्।</div><div class="line" style="position:relative;">देवीं सरस्वतीं व्यासं ततो जयमुदीरयेत्॥</div></div></div>
 <h3 class="subheading">अथ पञ्चषष्टितमोऽध्यायः॥६५</h3>
 <p class="uvacha">युधिष्ठिर उवाच</p>
-<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b2683"><div class="verse-block verse-justify"><div class="line">श्रुतानि बहुधर्माणि व्रतानि च जगत् प्रभो।</div><div class="line" style="position:relative;">एकादशीसमं किञ्जिच्छ्रुतं नैव जनार्दन॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b2683"><div class="verse-block verse-justify"><div class="line">श्रुतानि बहुधर्माणि व्रतानि च जगत् प्रभो।</div><div class="line" style="position:relative;">एकादशीसमं किञ्चिच्छ्रुतं नैव जनार्दन॥१॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b2684"><div class="verse-block verse-justify"><div class="line">पुनस्त्वेकादशीं ब्रूहि पापघ्नीं पुण्यदायिनीम्।</div><div class="line" style="position:relative;">यां कृत्वा मनुजो लोके प्राप्नुयात् परमं पदम्॥२॥</div></div></div>
 <p class="uvacha">श्रीकृष्ण उवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b2686"><div class="verse-block verse-justify"><div class="line">शुक्ले वा यदि वा कृष्णे यदा चैकादशी भवेत्।</div><div class="line" style="position:relative;">न त्याज्या जगतीपाल मोक्षसौख्यविवर्धनी॥३॥</div></div></div>

@@ -6,7 +6,7 @@
 
 <div class="stotra-article"><h2 class="stotra-heading">प्रथमः सर्गः</h2>
 <p class="uvacha">श्री-महादेव उवाच</p>
-<div class="verse-block-wrapper" id="yuddha-kanda-b0003"><div class="verse-block verse-justify"><div class="line">यथावद्भाषितं वाक्यं श्रुत्वा रामो हनूमतः।</div><div class="line" style="position:relative;">उवाचानन्तरं वाक्यं हर्षेण महताऽऽवृतः॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="yuddha-kanda-b0003"><div class="verse-block verse-justify"><div class="line">यथावद् भाषितं वाक्यं श्रुत्वा रामो हनूमतः।</div><div class="line" style="position:relative;">उवाचानन्तरं वाक्यं हर्षेण महताऽऽवृतः॥१॥</div></div></div>
 <div class="verse-block-wrapper" id="yuddha-kanda-b0004"><div class="verse-block verse-justify"><div class="line">कार्यं कृतं हनुमता देवैरपि सुदुष्करम्।</div><div class="line" style="position:relative;">मनसाऽपि यदन्येन स्मर्तुं शक्यं न भूतले॥२॥</div></div></div>
 <div class="verse-block-wrapper" id="yuddha-kanda-b0005"><div class="verse-block verse-justify"><div class="line">शतयोजनविस्तीर्णं लङ्घयेत्कः पयोनिधिम्।</div><div class="line" style="position:relative;">लङ्कां च राक्षसैर्गुप्तां को वा धर्षयितुं क्षमः॥३॥</div></div></div>
 <div class="verse-block-wrapper" id="yuddha-kanda-b0006"><div class="verse-block verse-justify"><div class="line">भृत्यकार्यं हनुमता कृतं सर्वमशेषतः।</div><div class="line" style="position:relative;">सुग्रीवस्येदृशो लोके न भूतो न भविष्यति॥४॥</div></div></div>

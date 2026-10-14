@@ -26,7 +26,7 @@
 <div class="verse-block-wrapper" id="04-virāṭaparva-b3938"><div class="verse-block verse-justify"><div class="line">अभिमन्युर्महाबाहुः पुत्रो मम विशाम्पते।</div><div class="line" style="position:relative;">जामाता तव युक्तो वै भर्ता च दुहितुस्तव॥१५॥</div></div></div>
 <p class="uvacha">विराट उवाच</p>
 <div class="verse-block-wrapper" id="04-virāṭaparva-b3940"><div class="verse-block verse-justify"><div class="line">उपपन्नं कुरुश्रेष्ठे कुन्तीपुत्रे धनञ्जये।</div><div class="line" style="position:relative;">सदैव धर्मनित्यश्च ज्ञातज्ञानश्च पाण्डवः॥१६॥</div></div></div>
-<div class="verse-block-wrapper" id="04-virāṭaparva-b3941"><div class="verse-block verse-justify"><div class="line">यत्कृत्यं मन्यसे पार्थ क्रियतां तदनन्तरम्।</div><div class="line" style="position:relative;">सर्वे कामाः समृद्धा मे सम्बन्धी यस्य मेऽर्जुनः॥१७॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b3941"><div class="verse-block verse-justify"><div class="line">यत् कृत्यं मन्यसे पार्थ क्रियतां तदनन्तरम्।</div><div class="line" style="position:relative;">सर्वे कामाः समृद्धा मे सम्बन्धी यस्य मेऽर्जुनः॥१७॥</div></div></div>
 <p class="uvacha">वैशम्पायन उवाच</p>
 <div class="verse-block-wrapper" id="04-virāṭaparva-b3943"><div class="verse-block verse-justify"><div class="line">एवं ब्रुवति राजेन्द्रे कुन्तीपुत्रो युधिष्ठिरः।</div><div class="line" style="position:relative;">अन्वजानत सम्बन्धं समये कृष्णमात्स्ययोः॥१८॥</div></div></div>
 <div class="verse-block-wrapper" id="04-virāṭaparva-b3944"><div class="verse-block verse-justify"><div class="line">दूतान् सर्वेषु मित्रेषु वासुदेवे च भारत।</div><div class="line" style="position:relative;">प्रेषयामास कौन्तेयो विराटश्च महीपतिः॥१९॥</div></div></div>

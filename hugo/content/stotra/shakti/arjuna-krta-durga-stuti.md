@@ -18,7 +18,7 @@
 <p class="uvacha">श्रीभगवानुवाच</p>
 <div class="verse-block-wrapper" id="arjuna-krta-durga-stuti-b0004"><div class="verse-block verse-justify"><div class="line">शुचिर्भूत्वा महाबाहो सङ्ग्रामाभिमुखे स्थितः।</div><div class="line" style="position:relative;">पराजयाय शत्रूणां दुर्गास्तोत्रमुदीरय॥२॥</div></div></div>
 <p class="uvacha">सञ्जय उवाच</p>
-<div class="verse-block-wrapper" id="arjuna-krta-durga-stuti-b0006"><div class="verse-block verse-justify"><div class="line">एवमुक्तोऽर्जुनः सङ्ख्ये वासुदेवेन धीमता।</div><div class="line" style="position:relative;">अवतीर्य रथात्पार्थः स्तोत्रमाह कृताञ्जलिः॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="arjuna-krta-durga-stuti-b0006"><div class="verse-block verse-justify"><div class="line">एवमुक्तोऽर्जुनः सङ्ख्ये वासुदेवेन धीमता।</div><div class="line" style="position:relative;">अवतीर्य रथात् पार्थः स्तोत्रमाह कृताञ्जलिः॥३॥</div></div></div>
 <p class="uvacha">अर्जुन उवाच</p>
 <div class="verse-block-wrapper" id="arjuna-krta-durga-stuti-b0008"><div class="verse-block verse-justify"><div class="line">नमस्ते सिद्धसेनानि आर्ये मन्दरवासिनि।</div><div class="line" style="position:relative;">कुमारि कालि कापालि कपिले कृष्णपिङ्गले॥४॥</div></div></div>
 <div class="verse-block-wrapper" id="arjuna-krta-durga-stuti-b0009"><div class="verse-block verse-justify"><div class="line">भद्रकालि नमस्तुभ्यं महाकालि नमोऽस्तु ते।</div><div class="line" style="position:relative;">चण्डि चण्डे नमस्तुभ्यं तारिणि वरवर्णिनि॥५॥</div></div></div>

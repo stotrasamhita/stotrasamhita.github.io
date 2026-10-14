@@ -28,7 +28,7 @@
 <div class="verse-block-wrapper" id="saraswati-stotram(-brihaspati)-b0006"><div class="verse-block verse-justify"><div class="line">आदित्यमण्डले लीनां प्रणमामि जनप्रियाम्।</div><div class="line" style="position:relative;">ज्ञानाकारां जगद्द्वीपां भक्तविघ्नविनाशिनीम्॥५॥</div></div></div>
 <div class="verse-block-wrapper" id="saraswati-stotram(-brihaspati)-b0007"><div class="verse-block verse-justify"><div class="line">इति सत्यं स्तुता देवी वागीशेन महात्मना।</div><div class="line" style="position:relative;">आत्मानं दर्शयामास शरदिन्दुसमप्रभाम्॥६॥</div></div></div>
 <p class="uvacha">श्रीसरस्वत्युवाच</p>
-<div class="verse-block-wrapper" id="saraswati-stotram(-brihaspati)-b0009"><div class="verse-block verse-justify"><div class="line" style="position:relative;">वरं वृणीष्व भद्रं त्वं यत्ते मनसि वर्तते।</div></div></div>
+<div class="verse-block-wrapper" id="saraswati-stotram(-brihaspati)-b0009"><div class="verse-block verse-justify"><div class="line" style="position:relative;">वरं वृणीष्व भद्रं त्वं यत् ते मनसि वर्तते।</div></div></div>
 <p class="uvacha">बृहस्पतिरुवाच</p>
 <div class="verse-block-wrapper" id="saraswati-stotram(-brihaspati)-b0011"><div class="verse-block verse-justify"><div class="line" style="position:relative;">प्रसन्ना यदि मे देवि परं ज्ञानं प्रयच्छ मे॥७॥</div></div></div>
 <p class="uvacha">श्रीसरस्वत्युवाच</p>

@@ -30,7 +30,7 @@
 <p class="uvacha">श्रीराम उवाच</p>
 <div class="verse-block-wrapper" id="devaih-krta-rama-stotram-b0016"><div class="verse-block verse-justify"><div class="line">सुरा वृणुत मे यूयं वरं किञ्चित्सुदुर्लभम्।</div><div class="line" style="position:relative;">यं कोऽपि देवो दनुजो न यक्षः प्राप सादरः॥१३॥</div></div></div>
 <p class="uvacha">सुरा ऊचुः</p>
-<div class="verse-block-wrapper" id="devaih-krta-rama-stotram-b0018"><div class="verse-block verse-justify"><div class="line">स्वामिन्भगवतः सर्वं प्राप्तमस्माभिरुत्तमम्।</div><div class="line" style="position:relative;">यदयं निहतः शत्रुरस्माकं तु दशाननः॥१४॥</div></div></div>
+<div class="verse-block-wrapper" id="devaih-krta-rama-stotram-b0018"><div class="verse-block verse-justify"><div class="line">स्वामिन् भगवतः सर्वं प्राप्तमस्माभिरुत्तमम्।</div><div class="line" style="position:relative;">यदयं निहतः शत्रुरस्माकं तु दशाननः॥१४॥</div></div></div>
 <div class="verse-block-wrapper" id="devaih-krta-rama-stotram-b0019"><div class="verse-block verse-justify"><div class="line">यदा यदाऽसुरोऽस्माकं बाधां परिदधाति भोः।</div><div class="line" style="position:relative;">तदा तदेति कर्तव्यमेतावद्वैरिनाशनम्॥१५॥</div></div></div>
 <div class="verse-block-wrapper" id="devaih-krta-rama-stotram-b0020"><div class="verse-block verse-justify"><div class="line" style="position:relative;">तथेत्युक्त्वा पुनर्वीरः प्रोवाच रघुनन्दनः।</div></div></div>
 <p class="uvacha">श्रीराम उवाच</p>

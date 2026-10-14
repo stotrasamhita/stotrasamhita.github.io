@@ -15,7 +15,7 @@
 <div class="stotra-article"><h2 class="stotra-heading">शुकसम्भाषणम्</h2>
 <p class="uvacha">शुक उवाच</p>
 <div class="verse-block-wrapper" id="shuka-sambhashanam-b0003"><div class="verse-block verse-justify"><div class="line">रामो न मानुषः साक्षादादिनारायणः परः।</div><div class="line" style="position:relative;">सीता साक्षाज्जगद्धेतुश्चिच्छक्तिर्जगदात्मिका॥४०॥</div></div></div>
-<div class="verse-block-wrapper" id="shuka-sambhashanam-b0004"><div class="verse-block verse-justify"><div class="line">ताभ्यामेव समुत्पन्नं जगत्स्थावरजङ्गमम्।</div><div class="line" style="position:relative;">तस्माद् रामश्च सीता च जगतस्तस्थुषश्च तौ॥४१॥</div></div></div>
+<div class="verse-block-wrapper" id="shuka-sambhashanam-b0004"><div class="verse-block verse-justify"><div class="line">ताभ्यामेव समुत्पन्नं जगत् स्थावरजङ्गमम्।</div><div class="line" style="position:relative;">तस्माद् रामश्च सीता च जगतस्तस्थुषश्च तौ॥४१॥</div></div></div>
 <div class="verse-block-wrapper" id="shuka-sambhashanam-b0005"><div class="verse-block verse-justify"><div class="line">पितरौ पृथिवीपाल तयोर्वैरी कथं भवेत्।</div><div class="line" style="position:relative;">अजानता त्वयाऽऽनीता जगन्मातैव जानकी॥४२॥</div></div></div>
 <div class="verse-block-wrapper" id="shuka-sambhashanam-b0006"><div class="verse-block verse-justify"><div class="line">क्षणनाशिनि संसारे शरीरे क्षणभङ्गुरे।</div><div class="line" style="position:relative;">पञ्चभूतात्मके राजंश्चतुर्विंशतितत्त्वके॥४३॥</div></div></div>
 <div class="verse-block-wrapper" id="shuka-sambhashanam-b0007"><div class="verse-block verse-justify"><div class="line">मलमांसास्थिदुर्गन्धभूयिष्ठेऽहङ्कृतालये।</div><div class="line" style="position:relative;">कैवास्था व्यतिरिक्तस्य काये तव जडात्मके॥४४॥</div></div></div>

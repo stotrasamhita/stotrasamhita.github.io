@@ -23,7 +23,7 @@
 <h3 class="subheading">अथ चतुश्चत्वारिंशोऽध्यायः॥४४</h3>
 <p class="uvacha">युधिष्ठिर उवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1044"><div class="verse-block verse-justify"><div class="line">साधु कृष्ण जगन्नाथ आदिदेव जगत्पते।</div><div class="line" style="position:relative;">कथयस्व प्रसादेन कृपां कुरु ममोपरि॥१॥</div></div></div>
-<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1045"><div class="verse-block verse-justify"><div class="line">माघस्य कृष्णपक्षे तु का वा चैकादशी भवेत्।</div><div class="line" style="position:relative;">किं नाम को विधिस्तस्या एतद्विस्तरतो वद॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1045"><div class="verse-block verse-justify"><div class="line">माघस्य कृष्णपक्षे तु का वा चैकादशी भवेत्।</div><div class="line" style="position:relative;">किं नाम को विधिस्तस्या एतद् विस्तरतो वद॥२॥</div></div></div>
 <p class="uvacha">श्रीभगवानुवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1047"><div class="verse-block verse-justify"><div class="line">शृणु त्वं नृपशार्दूल कृष्णमाघस्य या भवेत्।</div><div class="line" style="position:relative;">षट्तिला नाम विख्याता सर्वपापप्रणाशिनी॥३॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1048"><div class="verse-block verse-justify"><div class="line">षट्तिलायाः शृणुष्व त्वं कथां पापहरां शुभाम्।</div><div class="line" style="position:relative;">यां पुलस्त्यो मुनिश्रेष्ठो दाल्भ्यं प्रति समुक्तवान्॥४॥</div></div></div>
