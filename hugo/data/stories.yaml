@@ -288,6 +288,20 @@ stotra/nadi/yamunashtakam:
 stotra/navagraha/aditya-hrdayam:
   text: The Āditya Hṛdayam — the hymn to the Sun that the sage Agastya taught Śrī Rāma on the battlefield
     before His final battle with Rāvaṇa. From the Śrīmad Rāmāyaṇa, in the Anuṣṭubh metre.
+stotra/navagraha/dwadasharya-surya-stuti:
+  text: 'Twelve verses in the Āryā metre on Surya. It opens with a prayer that echoes the Ṛgveda: “May
+    Sūrya, rising today and ascending the northern sky, swiftly dispel the disease of my heart and my
+    pallor.” The second verse salutes the Lord of the lotuses, who crosses two thousand two hundred and
+    two yojanas in half a twinkling of the eye; the third sees him as the twelve-fold one who moves through
+    the world as the ten organs of action and knowledge, the mind and the jīva. He is the Yajus, the Ṛk
+    and the Sāman, the Āgama and the sacred vaṣaṭ, the haṃsa and the paramahaṃsa; and from his several
+    forms the devotee asks for knowledge, liberation, prosperity and health.'
+stotra/navagraha/navagraha-pidahara-stotram:
+  text: A hymn to the nine planets to relieve their afflictions, attributed to Veda Vyāsa, from the Brahmāṇḍa
+    Purāṇa, in the Anuṣṭubh metre.
+stotra/navagraha/navagraha-stotram:
+  text: The popular Navagraha Stotram of Veda Vyāsa — one verse for each of the nine planets, beginning
+    with Sūrya ('japā-kusuma-saṅkāśam'), in the Anuṣṭubh metre.
 stotra/navagraha/surya-sahasranama-stotram:
   text: 'A thousand names of the Sun, from the Bhaviṣya Purāṇa, given in answer to King Śatānīka, who
     asks to hear the names by which the Sun god himself once appeared before the teller; the teller has
@@ -295,6 +309,9 @@ stotra/navagraha/surya-sahasranama-stotram:
     “he who paints the twilight sky red, and who is worshipped in the Sandhyāvandana.” The Sun to whom
     we offer arghya at dawn and dusk is the deity of the rite itself. The phala-śruti promises freedom
     from fear and disease, a hundred years of life, and victory to one who recites it daily.'
+stotra/other/kartaviryarjuna-stotram:
+  text: A hymn to King Kārtavīryārjuna of the thousand arms, recited to recover what is lost, in the Anuṣṭubh
+    metre.
 stotra/other/svadha-stotram:
   text: From the Devī Bhāgavatam (Skandha 9, Adhyāya 44), in the Anuṣṭubh metre, where Nārāyaṇa tells
     Nārada the story of Svadhā, the goddess through whom offerings reach the Pitṛs. When the ancestors
@@ -303,6 +320,22 @@ stotra/other/svadha-stotram:
     merit of bathing in every tīrtha.
 stotra/other/yamashtakam:
   text: The Yamāṣṭakam — Sāvitrī's hymn to Yama, from the Brahmavaivarta Purāṇa, in the Anuṣṭubh metre.
+stotra/rama/ahalyakrta-rama-stotram:
+  text: 'From the Adhyātma Rāmāyaṇa (Bāla Kāṇḍa). Viśvāmitra is leading Rāma and Lakṣmaṇa to Mithilā when
+    they come upon the silent, deserted āśrama of the sage Gautama. Viśvāmitra tells its story: Indra,
+    in Gautama''s form, had come to Ahalyā, and the sage cursed his wife to remain there unseen, enduring
+    sun and rain, until Rāma should come. At the touch of Rāma''s feet Ahalyā rises, freed, and sees before
+    her the Lord whose feet Brahmā and Śaṅkara long to touch: “I am blessed, O refuge of the worlds, for
+    I touch what they seek.” She marvels that He who has no feet ever moves, and asks for one boon only:
+    that wherever she may be, her devotion stay fixed at His lotus feet. Then, having circled Him and
+    bowed, she goes with His leave to her husband.
+
+
+    The phala-śruti promises that whoever reads this hymn of Ahalyā with devotion is freed of all sins
+    and reaches the supreme Brahman; that one who chants it for a child, holding Rāma in the heart, is
+    blessed within a year with a good son, even if childless; that all desires are fulfilled by Rāmacandra''s
+    grace; and that even one stained by the gravest sins is purified by chanting it daily, remembering
+    Raghupati with devotion.'
 stotra/rama/gayatri-ramayanam:
   text: The Gāyatrī Rāmāyaṇam — twenty-four verses of Vālmīki's Rāmāyaṇa, one for each syllable of the
     Gāyatrī mantra, in the Anuṣṭubh metre.
@@ -331,17 +364,100 @@ stotra/rama/sita-rama-stotram:
 stotra/saraswati/saraswati-sahasranama-stotram:
   text: The Sarasvatī Sahasranāma — a thousand names of Goddess Sarasvatī, taught by Sanatkumāra. From
     the Skanda Purāṇa, in the Anuṣṭubh metre.
+stotra/shakti/annapurna-stotram:
+  text: The Annapūrṇā Stotram — composed by Ādi Śaṅkarācārya in the Śārdūlavikrīḍita metre, with the refrain
+    'bhikṣāṁ dehi kṛpāvalambana-karī mātā'nnapūrṇeśvarī'.
+stotra/shakti/gauri-dashakam:
+  text: The Gaurī Daśakam — ten verses in praise of Goddess Gaurī.
+stotra/shakti/kalyana-vrishti-stotram:
+  text: The Kalyāṇavṛṣṭi Stotram — verses to Goddess Lalitā that 'shower auspiciousness', composed by
+    Ādi Śaṅkarācārya.
+stotra/shakti/kamakshi-stotram:
+  text: A hymn to Goddess Kāmākṣī of Kāñcī, in the Śārdūlavikrīḍita metre.
+stotra/shakti/lalita-pancharatnam:
+  text: The Lalitā Pañcaratnam — five morning verses on Goddess Lalitā, composed by Ādi Śaṅkarācārya in
+    the Vasantatilakā metre.
+stotra/shakti/minakshi-pancharatnam:
+  text: The Mīnākṣī Pañcaratnam — five verses on Goddess Mīnākṣī of Madurai, composed by Ādi Śaṅkarācārya
+    in the Śārdūlavikrīḍita metre.
+stotra/shakti/shitalashtakam:
+  text: The Śītalāṣṭakam — a hymn to Goddess Śītalā, from the Skanda Purāṇa, in the Anuṣṭubh metre.
+stotra/shakti/tripurasundaryashtakam:
+  text: The Tripurasundarī Aṣṭakam — eight verses on Goddess Tripurasundarī, in the Pṛthvī metre, beginning
+    'kadamba-vana-cāriṇīm'.
+stotra/shatanama/aditya-ashtottara-shatanama-stotram:
+  text: 108 names of Āditya (the Sun), from the Bhaviṣya Purāṇa, in the Anuṣṭubh metre.
+stotra/shatanama/anjaneya-ashtottara-shatanama-stotram:
+  text: 108 names of Āñjaneya (Hanumān), in the Anuṣṭubh metre.
+stotra/shatanama/annapurna-ashtottara-shatanama-stotram:
+  text: 108 names of Goddess Annapūrṇā, from the Śiva Rahasya, in the Anuṣṭubh metre.
+stotra/shatanama/ardhanarishvara-ashtottara-shatanama-stotram:
+  text: 108 names of Ardhanārīśvara — Śiva and Pārvatī as one — in the Anuṣṭubh metre.
+stotra/shatanama/dhanvantari-ashtottara-shatanama-stotram:
+  text: 108 names of Dhanvantari, the divine physician, in the Anuṣṭubh metre.
+stotra/shatanama/durga-ashtottara-shatanama-stotram:
+  text: 108 names of Goddess Durgā, in the Anuṣṭubh metre.
+stotra/shatanama/ganapati-ashtottara-shatanama-stotram:
+  text: 108 names of Gaṇapati, from the Gaṇeśa Purāṇa, in the Anuṣṭubh metre.
+stotra/shatanama/ganapati-gakara-ashtottara-shatanama-stotram:
+  text: 108 names of Gaṇapati, each beginning with the syllable 'ga', in the Anuṣṭubh metre.
+stotra/shatanama/ganesha-ashtottara-shatanama-stotram:
+  text: 108 names of Gaṇeśa, in the Anuṣṭubh metre.
+stotra/shatanama/ganga-ashtottara-shatanama-stotram:
+  text: 108 names of Goddess Gaṅgā, in the Anuṣṭubh metre.
+stotra/shatanama/gauri-ashtottara-shatanama-stotram:
+  text: 108 names of Goddess Gaurī, in the Anuṣṭubh metre.
+stotra/shatanama/goda-ashtottara-shatanama-stotram:
+  text: 108 names of Goda (Āṇḍāḷ), in the Anuṣṭubh metre.
+stotra/shatanama/harihara-ashtottara-shatanama-stotram:
+  text: 108 names of Harihara — Viṣṇu and Śiva as one — from the Skanda Purāṇa.
+stotra/shatanama/hariharaputra-ashtottara-shatanama-stotram:
+  text: 108 names of Hariharaputra (Śāstā), in the Anuṣṭubh metre.
+stotra/shatanama/hayagriva-ashtottara-shatanama-stotram:
+  text: 108 names of Hayagrīva, the Lord of learning, in the Anuṣṭubh metre.
+stotra/shatanama/karttikeya-ashtottara-shatanama-stotram:
+  text: 108 names of Kārttikeya, in the Anuṣṭubh metre.
+stotra/shatanama/krishna-ashtottara-shatanama-stotram:
+  text: 108 names of Śrī Kṛṣṇa, from the Brahmāṇḍa Purāṇa, in the Anuṣṭubh metre.
+stotra/shatanama/nrisimha-ashtottara-shatanama-stotram:
+  text: 108 names of Nṛsiṁha, in the Anuṣṭubh metre.
+stotra/shatanama/rama-ashtottara-shatanama-stotram:
+  text: 108 names of Śrī Rāma, from the Padma Purāṇa, in the Anuṣṭubh metre, with a dhyāna verse in the
+    Vasantatilakā metre.
+stotra/shatanama/saraswati-ashtottara-shatanama-stotram:
+  text: 108 names of Goddess Sarasvatī, in the Anuṣṭubh metre.
+stotra/shatanama/shakti-ashtottara-shatadivyasthaniya-nama-stotram:
+  text: 108 sacred places of the Goddess and her names there, from the Matsya Purāṇa, in the Anuṣṭubh
+    metre.
+stotra/shatanama/shankaracharya-ashtottara-shatanama-stotram:
+  text: 108 names of Ādi Śaṅkarācārya, in the Anuṣṭubh metre.
+stotra/shatanama/shiva-ashtottara-shatadivyasthaniya-nama-stotram:
+  text: 108 sacred places of Śiva and his names there, from the Lalitāgama, in the Anuṣṭubh metre.
+stotra/shatanama/shiva-ashtottara-shatanama-stotram:
+  text: 108 names of Śiva, in the Anuṣṭubh metre.
+stotra/shatanama/sita-ashtottara-shatanama-stotram:
+  text: 108 names of Goddess Sītā, from the Ānanda Rāmāyaṇa, in the Anuṣṭubh metre.
+stotra/shatanama/subrahmanya-ashtottara-shatanama-stotram:
+  text: 108 names of Subrahmaṇya, in the Anuṣṭubh metre.
 stotra/shatanama/surya-ashtottara-shatanama-stotram:
   text: From the Vana Parva of the Mahābhārata. The Pāṇḍavas are in exile in the forest, and the many
     brāhmaṇas who have followed them must be fed, but Yudhiṣṭhira has nothing to give. The family priest,
     the sage Dhaumya, teaches him these 108 names of Sūrya. Yudhiṣṭhira worships the Sun with them, the
     Sun appears before him, and gives him the Akṣaya-pātra, the vessel that never runs out until Draupadī
     has eaten for the day.
+stotra/shatanama/tulasi-ashtottara-shatanama-stotram:
+  text: 108 names of Tulasī, in the Anuṣṭubh metre.
 stotra/shatanama/venkatesha-ashtottara-shatanama-stotram:
   text: 'The 108 names of Lord Veṅkaṭeśa, especially dear on the Saturdays of Purattāsi, hold a secret:
     take the first syllable of each name, in order, and together they spell a mantra, “oṃ namo veṅkaṭeśāya
     … śrīṃ klīṃ sauṃ … namo nārāyaṇa te svāhā”. The bīja syllables śrīṃ, klīṃ and sauṃ stand as names
     in the stotra itself.'
+stotra/shatanama/vishnu-ashtottara-shatadivyasthaniya-nama-stotram:
+  text: 108 sacred places of Viṣṇu and his names there, in the Anuṣṭubh metre.
+stotra/shatanama/vyasa-ashtottara-shatanama-stotram:
+  text: 108 names of Veda Vyāsa, in the Anuṣṭubh metre.
+stotra/shiva/bilvashtakam:
+  text: The Bilvāṣṭakam — eight verses on offering the three-leaved bilva to Śiva, in the Anuṣṭubh metre.
 stotra/shiva/charanashringarahita-nataraja-stotram:
   text: 'The Caraṇa-śṛṅga-rahita Naṭarāja Stotram: ten verses to the dancing Śiva of Chidambaram, attributed
     to the sage Patañjali, traditionally the divine serpent Ādiśeṣa. The closing verse calls it the work
@@ -359,6 +475,11 @@ stotra/shiva/charanashringarahita-nataraja-stotram:
     found this story in an early text. The scholar-monk Swami Kāśikānanda Giri, in his Sanskrit commentary,
     reads the name another way: "without beginning or end", like Śiva himself, whose pillar of fire Brahmā
     and Viṣṇu could never measure.'
+stotra/shiva/dakshinamurti-stotram:
+  text: The Dakṣiṇāmūrti Stotram of Ādi Śaṅkarācārya.
+stotra/shiva/dakshinamurtyashtakam:
+  text: The Dakṣiṇāmūrti Aṣṭakam of Ādi Śaṅkarācārya, in the Śārdūlavikrīḍita metre — Advaita in eight
+    verses, beginning 'viśvaṁ darpaṇa-dṛśyamāna-nagarī-tulyam'.
 stotra/shiva/rudra-stotram:
   text: 'From the Mahābhārata (Droṇa Parva, Pratijñā Parva, chapter 80). After Abhimanyu''s death Arjuna
     vows to slay Jayadratha before the next sunset or enter the fire. That night, in a vision, Śrī Kṛṣṇa
@@ -381,3 +502,5 @@ stotra/shiva/shiva-sahasranama-stotram--vishnu-krtam:
     Śiva with a thousand names, offering a lotus at each name. When one lotus is found missing, he offers
     his own lotus-like eye in its place; pleased, Śiva gives him the Sudarśana cakra. It is a favourite
     on Pradoṣa evenings.
+stotra/venkatesha/venkatesha-dwadasha-nama-stotram:
+  text: Twelve names of Lord Veṅkaṭeśa.
