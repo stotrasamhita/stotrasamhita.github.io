@@ -64,373 +64,105 @@ stotra/saraswati/saraswati-stotram(-brahma):
 stotra/saraswati/saraswati-stotram(-brihaspati):
   text: Bṛhaspati's hymn to Goddess Sarasvatī, in the Anuṣṭubh metre.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/saraswati/sharada-bhujangaprayata-ashtakam:
-  text: The Śāradā Bhujaṅgaprayātāṣṭakam — eight verses on Goddess Śāradā, composed by Ādi Śaṅkarācārya
-    in the Bhujaṅgaprayāta metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/saraswati/sharada-prarthana:
-  text: A prayer to Goddess Śāradā, who dwells in Kāśmīra, attributed to Ādi Śaṅkarācārya, in the Anuṣṭubh
-    metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/saraswati/vani-stavanam:
-  text: A hymn in praise of Vāṇī (Sarasvatī), in the Anuṣṭubh metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/shakti/arjuna-krta-durga-stuti:
-  text: 'From the Mahābhārata, Bhīṣma Parva (Gītā Parva, Adhyāya 23), just before the Gītā itself. Sañjaya
-    tells Dhṛtarāṣṭra how, with the armies drawn up at Kurukṣetra, Śrī Kṛṣṇa said to Arjuna: “Purify yourself
-    and recite the Durgā stotra for the defeat of your enemies.” Arjuna steps down from his chariot and
-    prays with folded hands to Durgā: leader of the Siddhas'' host, dweller on Mandara, Kumārī, Kālī,
-    Bhadrakālī, Kātyāyanī, Vijayā and Jayā.
-
-
-    The Devī, moved by his devotion, speaks from the sky in front of Govinda: “You will soon conquer your
-    enemies, Pāṇḍava. You are Nara, with Nārāyaṇa as your ally, unconquerable even by Indra.” Arjuna takes
-    it as his victory and mounts the chariot, and Kṛṣṇa and Arjuna blow their divine conches.
-
-
-    Whoever recites the hymn on rising at dawn has no fear of yakṣas, rākṣasas, piśācas, enemies, serpents
-    or the king''s court. They win disputes, are freed from bonds, cross every difficulty, escape thieves,
-    are always victorious in battle and gain Lakṣmī. They live a hundred years in health and strength.
-    The chapter closes with the famous words *yato dharmas tataḥ kṛṣṇo yataḥ kṛṣṇas tato jayaḥ*: “where
-    there is dharma there is Kṛṣṇa, and where Kṛṣṇa is, there is victory.”'
-  source: Our text (vv. 1–28) and the WA Navarātri post (vagdhenu session)
-  notes: Improved from the WA Navarātri post and the text.
-stotra/shakti/durga-chandra-kala-stuti:
-  text: The Durgā Candrakalā Stuti — a hymn to Goddess Durgā, in the Vasantatilakā metre, by Appayya Dīkṣita.
-  source: Edited by you in review
-stotra/shakti/durga-pancharatnam:
-  text: 'Five verses to Durgā composed by the Paramācārya of Kāñcī, Śrī Candraśekharendra Sarasvatī. Every
-    verse ends with the same prayer, *māṃ pāhi sarveśvari mokṣadātri*: “protect me, Queen of all, Giver
-    of liberation.” The hymn is woven from the Upaniṣads, above all the Śvetāśvatara:
-
-
-    - **Verse 1** opens with Śvetāśvatara 1.3, where the seers, absorbed in meditation, *saw the Devī,
-    the power of the Lord, hidden by Her own guṇas*.
-
-    - **Verse 3** takes up Śvetāśvatara 6.8: *Her supreme power is heard of as manifold, and Her knowledge,
-    strength and action are natural to Her*.
-
-    - **Verse 4** reads *devātma* (“the self of the Lord”) as Śiva''s own self, following the Kūrma and
-    Vāyu Purāṇas, and hails Her as the One who cuts the bonds of the soul.
-
-    - **Verse 5** draws on the Taittirīya Upaniṣad, where Brahman is the “tail” and support of the bird-like
-    self, and calls Her *upadiṣṭa-gītā*, the One who taught the Gītā.
-
-
-    The hymn came forth one afternoon at Tēnambākkam, near Kāñcī, where the Ācārya was staying. Seated
-    by a pond, he called a young scholar for paper and pen and began uttering Sanskrit words one by one,
-    sometimes giving the meaning and asking the scholar to find the word, until the lines formed this
-    stuti. The scribe is remembered as Mullaivāsal Kṛṣṇamūrti Śāstrigaḷ, who would recount the day whenever
-    he spoke of the Ācārya.
-
-
-    At *upadiṣṭa-gītā* the scholar hesitated: could one say that the Devī taught the Gītā? The Ācārya
-    had the Gītā-bhāṣya brought and showed him Kṛṣṇa''s words *brahmaṇo hi pratiṣṭhāham*, “I am the abode
-    of Brahman” (Gītā 14.27). Śaṅkara explains the “I” there as the Lord''s power, and since power and
-    its possessor are not different (*śakti-śaktimatoḥ abhedaḥ*), the Gītā taught by Kṛṣṇa is equally
-    Her teaching. The hymn later became widely known through M. S. Subbulakshmi''s rendering.'
-  source: Composition story from hindupedia.com (Paramacharya's Durga Pancha Rathnam) and mahaperiyavaa.blog;
-    verse sources from the text
-  notes: 'Requested: the Deivathin Kural / upadiṣṭa-gītā story. The story above is from those two web
-    retellings, which differ slightly (one says ''a student'', the other names Mullaivāsal Kṛṣṇamūrti
-    Śāstrigaḷ). I did not find the Deivathin Kural passage itself; please check against it if you have
-    it.'
-stotra/shakti/durga-stotram:
-  text: 'From the Brahmavaivarta Purāṇa (Prakṛti Khaṇḍa, Adhyāya 66), as Nārāyaṇa tells it to Nārada.
-    Śrī Kṛṣṇa Himself praises Durgā as the Mūla-prakṛti, the Mother of all. For the sake of creation She
-    is saguṇa, yet in truth She is nirguṇa, Parabrahma-svarūpā Herself. She is Svāhā at the offerings
-    to the gods and Svadhā at the offerings to the ancestors. She is learning in the learned, insight
-    in the wise, majesty in kings and trade in merchants. She protects the good like a mother, and She
-    is the great Māyā by which even the wise fail to see the path to liberation.
-
-
-    The phala-śruti says that one who reads it at the time of pūjā gains what they wish. A childless woman
-    who hears it for a year is blessed with a good son. A prisoner is freed within a month, and the gravely
-    ill are cured within a year. Those separated from son, family or wife are reunited, and hearing it
-    gives protection at the king''s gate, in the cremation ground, the forest, the battlefield, near wild
-    beasts and in fire. A poor and unlettered person who reads it for a year becomes learned and wealthy.'
-  source: Our text (vv. 1–27) and the WA Navarātri post (vagdhenu session)
-  notes: Improved from the WA Navarātri post and the text.
-stotra/shakti/gayatri-stotram:
-  text: A hymn to Goddess Gāyatrī, beginning with her meditative form of five faces, in the Anuṣṭubh metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 stotra/shakti/kamakshi-mahatmyam:
-  text: The glory of Kāmākṣī of Kāñcī, from the Kāmākṣī Vilāsa, in the Anuṣṭubh metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/shakti/kamakshi-suprabhatam:
-  text: The Kāmākṣī Suprabhātam — morning verses awakening Goddess Kāmākṣī, composed by Lakṣmīkānta Śarmā.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/shakti/lalita-trishati:
-  text: The Lalitā Triśatī — three hundred names of Śrī Lalitā, in the Anuṣṭubh metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/shakti/muka-sarah:
-  text: 'The Mūkasāra, “the essence of Mūka”, is a garland of verses from the Mūka Pañcaśatī, the five
-    hundred verses on Kāmākṣī of Kāñcī by the poet Mūka. The selection was made by the Paramācārya of
-    Kāñcī, Śrī Candraśekharendra Sarasvatī, and a few more popular verses are added here (shown in brackets:
-    Āryā Śataka 1 and 100, and Stuti Śataka 6).
+  text: 'Twelve verses on the glory of Kāmākṣī and Her shrine, from the twenty-third chapter of the Kāmākṣī
+    Vilāsa.
 
 
-    Its forty verses are ordered by the five śatakas they come from, and each verse is marked with its
-    śataka and number:
+    They begin by marking out Tuṇḍīra-maṇḍala, the land around Kāñcī, bounded by the Svāmi-puṣkariṇī tīrtha,
+    the eastern sea, the Pinākinī river and Śilāhrada. At its centre, between the Kampā and Vegavatī rivers,
+    lies the Kāma-koṣṭha, where Kāmākṣī dwells. Her image there is the Devī''s root form (*mūla-vigraha*):
+    in Kāñcī there is no other image of the Devī. Her seat is the navel of the earth, shaped as the *kāma-kalā*
+    of the world, and it is called Kāmakoṭi because whatever good is done there bears fruit a crore-fold.
 
 
-    - **Āryā Śataka** (8 verses), in the short āryā metre: Her form as Compassion itself, playing in Kāñcī''s
-    Kāma-pīṭha, and the closing *jaya jaya jagadamba śive*.
-
-    - **Pādāravinda Śataka** (8): Her lotus feet, a boat on the ocean of saṃsāra and the giver of fame,
-    wealth and poetry.
-
-    - **Stuti Śataka** (10): praise of the Devī and of Kāñcī.
-
-    - **Kaṭākṣa Śataka** (8): the grace of Her sidelong glance.
-
-    - **Mandasmita Śataka** (6): Her gentle smile. The last verse joins the five themes: one who meditates
-    on the āryā, beholds Her feet, begins Her praise and receives Her glance rises on the waves of Her
-    smile to the mansion of liberation.'
-  source: Your review comment; śataka order and verse numbers from our text
-  notes: 'Revised per your comment: composed (compiled) by the Paramācārya, popular verses added, ordered
-    by śataka.'
-stotra/shakti/parashurama-krta-durga-stotram:
-  text: 'From the Brahmavaivarta Purāṇa (Gaṇapati Khaṇḍa, Adhyāya 45), as Nārāyaṇa tells it to Nārada.
-    Paraśurāma, a disciple of Śiva, praises Durgā as the wife of his guru. It is the episode in which,
-    at the gates of Kailāsa, he struck Gaṇeśa with his axe and broke a tusk, making Him Ekadanta, and
-    so angered Pārvatī.
+    The verses then tell what the shrine gives:
 
 
-    His praise begins in Goloka, at the dawn of creation, where the supreme Devī emerges from the body
-    of the all-complete Śrī Kṛṣṇa. As Rādhā, the Mūla-prakṛti, She becomes the source of the cosmic Virāṭ,
-    and then takes five forms: Rādhā, Sāvitrī, Lakṣmī, Sarasvatī and Durgā. Every goddess and every wife
-    of a god or sage is a portion of Her portion, and so is the light in the sun, the heat in fire, the
-    coolness of water and the fragrance of earth. Brahmā, Viṣṇu and Śiva themselves praised Her in their
-    need, against Madhu and Kaiṭabha and in the war with Tripura. He ends like a child before his mother:
-    *what mother is angered by the faults of her children?*
+    - Japa of one''s mantra in the Kāma-koṣṭha brings the fruit of a crore of repetitions, and leads to
+    the world of liberation.
+
+    - Staying there for even half a moment frees one from all sins.
+
+    - Circling the Kāma-koṣṭha and the *bilābhra* of Śambhu below the Gāyatrī-maṇḍapa brings, step by
+    step, the merit of gifting a cow about to calve.
+
+    - Worshipping Kāmākṣī on Her birth-day through the great inner path gives the fruit of a crore of
+    pūjās, and even one act of service to Her leads to kaivalya.
 
 
-    Paraśurāma bows and weeps, and Durgā, pleased, blesses him: be immortal, victorious everywhere, devoted
-    to Kṛṣṇa and to Śiva your guru. No one can harm one whose devotion to his chosen deity and guru is
-    constant.
-
-
-    The phala-śruti calls it a *stotra-rāja* of the Kāṇva śākhā. Read at the time of pūjā, at the start
-    of a journey or in the morning, it grants one''s wish: a son, a daughter, learning or children; a
-    lost kingdom or lost wealth regained; the anger of guru, god, king or kin turned to favour; release
-    from robbers, serpents, enemies, illness, prison and the deep waters. Above all it is for women longing
-    for children: listening to it for a year, after worshipping Durgā, brings a long-lived, wise son,
-    and listening for six months brings good fortune.'
-  source: Our text (vv. 1–59) and the colophon; the WA Navarātri post (vagdhenu session)
-  notes: The tusk episode (the setting) is from my knowledge of the Gaṇapati Khaṇḍa, not from our text;
-    the text itself only says he praises his guru's wife. Please check.
-stotra/shakti/shashthi-devi-stotram:
-  text: 'From the Brahmavaivarta Purāṇa (Prakṛti Khaṇḍa), in the story of Ṣaṣṭhī as Nārāyaṇa tells it
-    to Nārada. Ṣaṣṭhī Devī is the presiding goddess of children (*bālādhiṣṭhātṛ-devī*), the sixth portion
-    of the Śakti, and Devasenā, the beloved of Skanda. King Priyavrata, son of Svāyambhuva Manu, praises
-    Her: Giver of boons, sons and wealth, ever present to Her devotees, free of violence and anger. He
-    asks: “Give wealth, give a beloved wife, give a son; give dharma, fame, land, children, learning,
-    welfare and victory.” Having praised Her, he receives a glorious son, a king among kings, by Her grace.
-
-
-    The phala-śruti:
-
-
-    - One without a son who listens to the hymn for a year gains a fine, long-lived son.
-
-    - A woman who listens with devotion and restraint for a year is freed of all sins and gives birth,
-    even if long barren, to a son who is brave, virtuous, learned, famous and long-lived.
-
-    - A woman who bore only one child (*kāka-vandhyā*) or whose children did not survive is blessed with
-    a son after a year of listening.
-
-    - When a child is ill and the father and mother listen to it, the child recovers within a month.'
-  source: Our text (vv. 1–15) and the colophon
-  notes: Added the phala-śruti per your comment. That Priyavrata is the son of Svāyambhuva Manu is from
-    my knowledge, not our text.
-stotra/shakti/yudhishthira-krta-durga-stotram:
-  text: 'From the Mahābhārata, Virāṭa Parva (Pāṇḍava-praveśa Parva, Adhyāya 8). The Pāṇḍavas'' twelve
-    years in the forest are over, and the thirteenth, to be lived unrecognised, is about to begin. As
-    they set out for Virāṭa''s city, Yudhiṣṭhira prays in his mind to Durgā, Queen of the three worlds.
-
-
-    He hails Her as the One born of Yaśodā in Nanda''s house, dear to Nārāyaṇa. Kaṃsa dashed Her against
-    a rock, and She rose into the sky. She is the Sister of Vāsudeva, bearing sword and shield, dark like
-    Kṛṣṇa, with a face like Saṅkarṣaṇa''s. She has dwelt forever on the Vindhya, slayer of Mahiṣa: *because
-    You carry people across difficulty (durga), You are called Durgā*. Those lost in forests, sinking
-    in the ocean or held by robbers have Her as their refuge. Fallen from his kingdom, the king takes
-    refuge in Her: “Be my refuge, O Durgā, kind to Your devotees.”
-
-
-    The Devī appears before him. She promises victory in battle, the kingdom won back with his brothers,
-    and health and joy. The Kauravas and the people of the city will not recognise the Pāṇḍavas while
-    they live in Virāṭa''s city. Whoever remembers Her as he did, in exile, in battle, in forest, sea
-    or mountain, will find nothing out of reach, and whoever hears or reads this hymn with devotion will
-    see all their work succeed. Then, having placed the Pāṇḍavas under Her protection, She vanishes.'
-  source: Our text (vv. 1–36) and the WA Navarātri post (vagdhenu session)
-  notes: Revised from the WA Navarātri post and the text.
-stotra/shatanama/lakshmi-ashtottara-shatanama-stotram:
-  text: 'The 108 names of Lakṣmī, opening with *prakṛtiṃ vikṛtiṃ vidyām*: She is both Nature and all its
-    forms. She is Padmā, the lotus-dweller, born of the Ocean of Milk and sister of the moon, who dwells
-    on Viṣṇu''s chest and destroys poverty.
-
-
-    The phala-śruti calls it the *dāridrya-mocana*, the hymn that frees one from poverty:
-
-
-    - One who chants it three times a day for six months with the senses controlled destroys poverty and
-    gains everything without effort.
-
-    - Among the Devī''s thousands of names these 108 are especially holy: by them even one poor for a
-    crore of births gains prosperity.
-
-    - Read a hundred times on Fridays for a year, it brings the eight kinds of wealth, like Kubera''s
-    on earth.
-
-    - Having enjoyed abundant blessings, one finally attains union with Her. Read every morning, meditating
-    on Her adorned with every ornament, it quiets all sorrow.'
-  source: Our text, phala-śruti vv. 17–21
-  notes: Added the phala-śruti per your comment; dropped 'taught by Śiva', which our text does not state.
-stotra/shatanama/lakshmi-narayana-ashtottara-shatanama-stotram:
-  text: 'The 108 names of Lakṣmī and Nārāyaṇa, alternating beautifully between the two. Each name of Śrī
-    is followed by one of Viṣṇu, so the Divine Couple are praised together, name by name: *śrīr viṣṇuḥ
-    kamalā śārṅgī lakṣmīr vaikuṇṭha-nāyakaḥ*, “Śrī, Viṣṇu; Kamalā, the bearer of the Śārṅga bow; Lakṣmī,
-    the Lord of Vaikuṇṭha.” Often a pair answers each other: Padmālayā and the four-armed One, Daughter
-    of the Milk Ocean and Acyuta, Rukmiṇī and the slayer of Keśi, Jayapradā and Jayakara. The single closing
-    verse promises that one who reads these 108 names on rising in the morning will always be victorious.'
-  source: Our text
-  notes: Added the alternation per your comment.
+    The closing verse promises that one who reads these twelve verses on rising, at the time of the morning
+    bath, gains every fruit they describe.'
+  source: Our text (vv. 1–12 and the closing verse) and the colophon
+  notes: Expanded per your comment, from the opening verses and the phala.
 stotra/shiva/dakshinamurti-stotram(-samara-pungava-dikshita-krtam):
   text: A Dakṣiṇāmūrti Stotram composed by Samara-puṅgava Dīkṣita.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 stotra/shiva/dakshinamurti-stotram(-vrishabha-deva-krtam):
   text: A Dakṣiṇāmūrti Stotram composed by Vṛṣabhadeva.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/shiva/gurvashtakam:
-  text: The Gurvaṣṭakam of Ādi Śaṅkarācārya, in the Bhujaṅgaprayāta metre — whatever else one has, of
-    what use is it, if the mind is not fixed on the Guru's feet?
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 stotra/shiva/kalabhairavashtakam:
   text: The Kālabhairavāṣṭakam — eight verses on Kālabhairava, the Lord of Kāśī.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/shiva/lingashtakam:
-  text: The Liṅgāṣṭakam — eight verses on the Śiva-liṅga, beginning 'brahma-murāri-surārcita-liṅgam'.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/shiva/margabandhu-stotram:
-  text: The Mārgabandhu Stotram of Appayya Dīkṣita — a prayer to Śiva, the companion of travellers.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 stotra/shiva/matribhuta-shatakam:
-  text: The Mātṛbhūta Śatakam — a hundred verses on Śiva as Mātṛbhūteśvara, the Lord who came as a mother,
-    largely in the Vasantatilakā metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/shiva/sadashivashtakam:
-  text: The Sadāśivāṣṭakam, attributed to Patañjali, from the Hālāsya Māhātmya — on Śiva at Madurai.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/shiva/shambhu-stuti:
-  text: Śrī Rāma's praise of Śiva, from the Padma Purāṇa, in the Upajāti metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
+  text: 'A hundred-odd verses to Śiva as Mātṛbhūteśvara, “the Lord who became a mother”, composed by Śrīdhara
+    Veṅkaṭeśa Ayyāvāḷ, the saint of Tiruviśainallūr whose Gaṅgākarṣaṇāṣṭakam is also on this site. Mātṛbhūteśvara,
+    Tāyumānavar in Tamil, is the Śiva of the Rock Fort temple at Tiruchirāppaḷḷi. The temple''s story
+    tells of a devout woman, Ratnāvatī, whose time to give birth came while her mother was cut off by
+    the Kāverī in flood. Śiva came in her mother''s form and tended her through the birth, and when the
+    real mother arrived, the Lord revealed Himself.
+
+
+    Ayyāvāḷ stayed at Tiruchirāppaḷḷi and worshipped Mātṛbhūteśvara daily. The temple is also the setting
+    of a well-known episode: to test his devotion, the king had the Lord''s festival image dressed as
+    Kṛṣṇa and taken past his house, and Ayyāvāḷ burst into the twelve verses of the Kṛṣṇa-dvādaśa-mañjarī.
+
+
+    Every verse of the śataka ends with the same cry, *śrī-mātṛbhūta śiva pālaya māṃ namaste*: “O Śiva
+    who became a mother, protect me.” Ayyāvāḷ comes to Him as a helpless child to a mother. He pleads
+    that he is “the son of Your servant” (v. 3), and that wife, sons and kin love only for a reason, while
+    Śiva alone is mother and father, a treasure of grace without condition (v. 20). He asks that his feet
+    go round His shrine, his hands worship Him, his words praise Him and his mind rest in Him (v. 17),
+    that his throat choke and his eyes fill at the sound of His name (v. 21), and that he ask for nothing
+    except to keep calling on Him like this (v. 100). The phala-śruti (v. 102) asks the Lord to grant
+    those who read or hear it health, long life, pure devotion to Śiva, wealth, learning, children, fame
+    and, in the end, liberation.'
+  source: 'Our text (colophon: śrīdhara-veṅkaṭeśārya-viracitam; vv. 3, 17, 20, 21, 100, 102); Ayyāvāḷ
+    at Tiruchirāppaḷḷi from godivinity.org and vedadhara.com'
+  notes: Per your comment. The colophon names Śrīdhara Veṅkaṭeśa (Ayyāvāḷ) as the author. The Tāyumānavar
+    legend is the temple's well-known story. I found no specific account of how the śataka itself came
+    to be composed, so I didn't invent one; please add one if you know it.
 stotra/shiva/shiva-mahimna-stotram:
-  text: The Śiva Mahimnaḥ Stotram of Puṣpadanta — one of the most celebrated hymns to Śiva, in the Śikhariṇī
-    metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/shiva/shiva-panchakshara-stotram:
-  text: The Śiva Pañcākṣara Stotram of Ādi Śaṅkarācārya — five verses, one for each syllable of 'na-maḥ-śi-vā-ya'.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/shiva/shiva-pratah-smarana-stotram:
-  text: A morning remembrance (prātaḥ-smaraṇa) of Śiva, in the Vasantatilakā metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/shiva/shiva-sahasranama-stotram:
-  text: The Śiva Sahasranāma from the Mahābhārata — a thousand names of Śiva, taught by the sage Upamanyu,
-    in the Anuṣṭubh metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/shiva/shivaparadha-kshamapana-stotram:
-  text: The Śivāparādha-kṣamāpaṇa Stotram of Ādi Śaṅkarācārya — a prayer to Śiva for forgiveness of faults
-    across a lifetime, in the Sragdharā metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/shiva/shivaraksha-stotram:
-  text: The Śivarakṣā Stotram, attributed to Yājñavalkya — a protective hymn to Śiva, in the Anuṣṭubh
-    metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/shiva/shivashivaa-stuti:
-  text: The Śiva-Śivā Stuti — a hymn to Śiva and Pārvatī.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/shiva/totakashtakam:
-  text: The Toṭakāṣṭakam — Toṭakācārya's praise of his Guru, Ādi Śaṅkarācārya, in the Toṭaka metre that
-    bears his name.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/shiva/umamaheshwara-stotram:
-  text: The Umāmaheśvara Stotram of Ādi Śaṅkarācārya — salutations to Śiva and Pārvatī together, 'namaḥ
-    śivābhyām'.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/subrahmanya/guha-pancharatnam:
-  text: The Guha Pañcaratnam — five verses on Lord Subrahmaṇya (Guha), in the Anuṣṭubh metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/subrahmanya/prajnavivardhana-karttikeya-stotram:
-  text: A hymn to Kārttikeya for the growth of wisdom (prajñā), in the Anuṣṭubh metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/subrahmanya/subrahmanya-ashtakam:
-  text: The Subrahmaṇyāṣṭakam — 'he svāminātha karuṇākara dīnabandho' — eight verses on Lord Subrahmaṇya.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/subrahmanya/subrahmanya-bhujangam:
-  text: The Subrahmaṇya Bhujaṅgam of Ādi Śaṅkarācārya, in the Bhujaṅgaprayāta metre, composed at Tiruchendur.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/subrahmanya/subrahmanya-bhujangam--paramashivendra-krtam:
-  text: A Subrahmaṇya Bhujaṅgam composed by Śrī Paramaśivendra Sarasvatī, in the Bhujaṅgaprayāta metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/subrahmanya/subrahmanya-pancharatnam:
-  text: The Subrahmaṇya Pañcaratnam — five verses on Lord Subrahmaṇya.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/subrahmanya/subrahmanya-shodasha-nama-stotram:
-  text: Sixteen names of Lord Subrahmaṇya, from the Śaṅkara Saṁhitā, in the Anuṣṭubh metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/venkatesha/venkatesha-ashtakam:
-  text: The Veṅkaṭeśa Aṣṭakam, spoken by Brahmā, from the Brahmāṇḍa Purāṇa, in the Anuṣṭubh metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/venkatesha/venkatesha-karavalamba-stotram:
-  text: The Veṅkaṭeśa Karāvalamba Stotram of Śrī Nṛsiṁha Bhāratī — seeking the Lord's supporting hand,
-    in the Vasantatilakā metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/venkatesha/venkatesha-mangalashasanam:
-  text: The Veṅkaṭeśa Maṅgalāśāsanam — auspicious verses concluding the morning worship of Lord Veṅkaṭeśa.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/venkatesha/venkatesha-prapatti:
-  text: The Veṅkaṭeśa Prapatti — verses of surrender at the feet of Lord Veṅkaṭeśa, in the Vasantatilakā
-    metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/venkatesha/venkatesha-stotram:
-  text: A hymn to Lord Veṅkaṭeśa in the Toṭaka metre, beginning 'kamalā-kuca-cūcuka-kuṅkumataḥ'.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/venkatesha/venkatesha-suprabhatam:
-  text: The Veṅkaṭeśa Suprabhātam — the morning hymn that awakens Lord Veṅkaṭeśa, beginning 'kausalyā
-    suprajā rāma', in the Vasantatilakā metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/vishnu/brahmapaara-stotram:
-  text: The Brahmapāra Stotram, from the Viṣṇu Purāṇa.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/vishnu/dhanvatari-stotram:
-  text: A hymn to Dhanvantari, the divine physician who arose from the churning of the milk-ocean, from
-    the Matsya Purāṇa, in the Anuṣṭubh metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/vishnu/kaishika-puranam:
-  text: The Kaiśika Purāṇam, told by Lord Varāha to Bhūdevī, narrates how a devotee's singing in praise
-    of the Lord redeemed a brahmarākṣasa.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/vishnu/lakshmi-nrisimha-karunarasa-stotram:
-  text: The Lakṣmī-Nṛsiṁha Karuṇārasa Stotram of Ādi Śaṅkarācārya, in the Vasantatilakā metre, with the
-    refrain 'lakṣmī-nṛsiṁha mama dehi karāvalambam'.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/vishnu/lakshmi-nrisimha-pancharatnam:
-  text: The Lakṣmī-Nṛsiṁha Pañcaratnam of Ādi Śaṅkarācārya — five verses on turning the mind towards Lakṣmī-Nṛsiṁha.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/vishnu/pandurangashtakam:
-  text: The Pāṇḍuraṅgāṣṭakam of Ādi Śaṅkarācārya, in the Bhujaṅgaprayāta metre, on Viṭhṭhala of Paṇḍharpur
-    standing on the brick by the Bhīmā river.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/vishnu/ranganathashtakam:
-  text: The Raṅganāthāṣṭakam, attributed to Ādi Śaṅkarācārya, on Lord Raṅganātha of Śrīraṅgam.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/vishnu/sankashta-nashana-stotram:
-  text: The Saṅkaṣṭanāśana Stotram — a prayer to Viṣṇu to remove difficulties.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/vishnu/vishnu-bhujangaprayata-stotram:
-  text: The Viṣṇu Bhujaṅgaprayāta Stotram of Ādi Śaṅkarācārya, in the Bhujaṅgaprayāta metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/vishnu/vishnu-vijaya-stotram:
-  text: The Viṣṇu Vijaya Stotram — a hymn in praise of Viṣṇu.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
+  text: 'The Śiva Mahimnaḥ Stotram, “the hymn on Śiva''s greatness”, is one of the most celebrated of
+    all hymns to Śiva, in the flowing śikhariṇī metre. Its own closing verses tell who composed it, and
+    why.
+
+
+    Its author is Puṣpadanta (“flower-toothed”, also called Kusumadaśana in v. 37), king of the Gandharvas
+    and a devoted servant of Śiva. The tradition tells that he was enchanted by the flowers in the garden
+    of King Citraratha, a great devotee of Śiva, and took to stealing them, coming unseen through the
+    air. To catch the thief, the king strewed the path with *nirmālya*, flowers already offered to Śiva.
+    Unknowing, Puṣpadanta stepped on them. At this offence to Śiva he lost his divine powers and could
+    no longer fly or stay invisible. Realising his fault, he composed this hymn, and Śiva, pleased, restored
+    him. The hymn itself says that the Gandharva, fallen from his glory through the Lord''s anger, composed
+    this most divine praise (v. 37).
+
+
+    The hymn begins in humility. If even Brahmā''s words fall short of Śiva''s greatness, then anyone
+    may praise Him as far as their understanding goes (v. 1), and the Veda itself can speak of Him only
+    by saying what He is not (v. 2). Just as rivers by straight and winding paths all reach the ocean,
+    people of different tastes on different paths all reach Him alone (v. 7). It recalls His great deeds:
+    drinking the poison, burning Tripura with the earth as His chariot, and Viṣṇu offering his own eye
+    to complete a thousand lotuses. Śiva is the meaning of Om and of the eight names Bhava, Śarva, Rudra,
+    Paśupati, Ugra, Mahādeva, Bhīma and Īśāna. Even if Sarasvatī wrote forever, with a mountain of ink
+    in the ocean as its pot, a branch of the wish-tree as pen and the earth as paper, she could not reach
+    the end of His glories (v. 32).
+
+
+    The phala-śruti promises that one who reads it daily with devotion becomes like Rudra in Śiva''s world,
+    with wealth, long life, sons and fame here (v. 34). *There is no god above Maheśa, no hymn above the
+    Mahimnaḥ* (v. 35), and initiation, gifts, austerity, pilgrimage and sacrifice are not worth a sixteenth
+    of its recitation (v. 36).'
+  source: Our text (vv. 1, 2, 7, 32–37) and the Citraratha story from tradition
+  notes: Per your comment. The Citraratha garden story is the traditional account, from my own knowledge;
+    our text (v. 37) only says he lost his glory through Śiva's anger. Please check.
