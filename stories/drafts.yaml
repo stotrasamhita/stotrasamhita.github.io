@@ -1,190 +1,39 @@
-gita/gita/chapter-01:
-  text: Chapter 1 of the Bhagavad Gītā, Arjuna-viṣāda-yoga. On the field of Kurukṣetra, Sañjaya describes
-    to the blind king Dhṛtarāṣṭra the two armies arrayed for battle and the blowing of the conches. Arjuna
-    asks Kṛṣṇa to draw his chariot between the armies, sees his teachers, kinsmen and friends on both
-    sides, and overcome by grief and confusion, lays down his bow, refusing to fight.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-gita/gita/chapter-02:
-  text: 'Chapter 2 of the Bhagavad Gītā, Sāṅkhya-yoga. Arjuna surrenders to Kṛṣṇa as a disciple, and the
-    teaching begins: the Self is never born and never dies, and is not slain when the body is slain; one''s
-    own duty (svadharma) is to be done; action is to be performed without attachment to its fruits (karmaṇy
-    evādhikāras te). The chapter closes with the portrait of the sthita-prajña, the person of steady wisdom.'
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-gita/gita/chapter-03:
-  text: Chapter 3 of the Bhagavad Gītā, Karma-yoga. No one can remain without acting even for a moment;
-    so act, but as an offering (yajña), without selfish attachment. Kṛṣṇa explains the cycle of sacrifice
-    that sustains the world, the example the wise must set for others (loka-saṅgraha), that one's own
-    duty imperfectly done is better than another's done well, and that desire born of rajas is the enemy
-    to be conquered.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-gita/gita/chapter-04:
-  text: Chapter 4 of the Bhagavad Gītā, Jñāna-karma-sannyāsa-yoga. Kṛṣṇa reveals that this yoga was taught
-    of old to Vivasvān, and that He takes birth age after age to protect the good and establish dharma
-    (yadā yadā hi dharmasya). He teaches seeing inaction in action, describes the many forms of sacrifice,
-    and declares knowledge the supreme purifier, to be gained by reverence, inquiry and service to the
-    wise.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-gita/gita/chapter-05:
-  text: 'Chapter 5 of the Bhagavad Gītā, Karma-sannyāsa-yoga. Arjuna asks which is better, renouncing
-    action or performing it. Kṛṣṇa answers that both lead to the highest, but action without attachment
-    is superior: the yogī works like a lotus leaf untouched by water, sees the same Self in a learned
-    brāhmaṇa, a cow, an elephant, a dog and an outcaste, and finds the peace of Brahman within.'
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-gita/gita/chapter-06:
-  text: 'Chapter 6 of the Bhagavad Gītā, Ātma-saṁyama-yoga. Lift yourself by yourself — the mind is both
-    friend and enemy. Kṛṣṇa describes the practice of meditation: the seat, the posture, moderation in
-    food and sleep, the mind steady as a lamp in a windless place. To Arjuna''s doubt that the restless
-    mind cannot be held, He answers: by practice and dispassion; and no one who does good ever comes to
-    grief, even if the effort is left unfinished.'
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-gita/gita/chapter-07:
-  text: 'Chapter 7 of the Bhagavad Gītā, Jñāna-vijñāna-yoga. Kṛṣṇa describes His lower nature (the eight
-    elements of matter) and His higher nature (the life that sustains the world): all this is strung on
-    Him like pearls on a thread. Four kinds of people worship Him — the distressed, the seeker of knowledge,
-    the seeker of wealth, and the wise; the wise one, who after many births knows that Vāsudeva is all,
-    is very rare.'
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-gita/gita/chapter-08:
-  text: Chapter 8 of the Bhagavad Gītā, Akṣara-brahma-yoga. Arjuna asks what Brahman, adhyātma, karma,
-    adhibhūta and adhidaiva are. Kṛṣṇa explains them and teaches that whatever one remembers at the moment
-    of death, to that one goes — so remember Him at all times and fight. He describes the cycles of the
-    days and nights of Brahmā, and the two paths by which souls depart.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-gita/gita/chapter-09:
-  text: 'Chapter 9 of the Bhagavad Gītā, Rāja-vidyā-rāja-guhya-yoga. The whole universe is pervaded by
-    Kṛṣṇa''s unmanifest form, yet He stands apart. Whatever is offered with love — a leaf, a flower, a
-    fruit, water (patraṁ puṣpaṁ phalaṁ toyam) — He accepts; whoever worships Him with undivided devotion,
-    He carries their burden. Even the gravest sinner who turns to Him is soon righteous: ''My devotee
-    never perishes.'''
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-gita/gita/chapter-10:
-  text: Chapter 10 of the Bhagavad Gītā, Vibhūti-yoga. Kṛṣṇa declares Himself the source of all, and Arjuna
-    praises Him as the Supreme Brahman and asks to hear His glories. Kṛṣṇa lists His chief manifestations
-    — among the Ādityas Viṣṇu, among lights the sun, among rivers the Gaṅgā, among the Pāṇḍavas Arjuna
-    — and concludes that whatever is glorious, beautiful or mighty springs from a spark of His splendour.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-gita/gita/chapter-11:
-  text: 'Chapter 11 of the Bhagavad Gītā, Viśvarūpa-darśana-yoga. Granted divine sight, Arjuna beholds
-    Kṛṣṇa''s universal form — countless faces, eyes and arms, the radiance of a thousand suns — and sees
-    the warriors of both armies rushing into His mouths. ''I am Time, the destroyer of worlds'': Arjuna
-    is to be merely the instrument. Terrified and awed, Arjuna praises Him and begs to see again the gentle
-    four-armed and human form. Much of this chapter is in the Triṣṭubh metre.'
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-gita/gita/chapter-12:
-  text: Chapter 12 of the Bhagavad Gītā, Bhakti-yoga. Arjuna asks who is better — those who worship the
-    personal Lord or the unmanifest Imperishable. Kṛṣṇa answers that both reach Him, but the path of the
-    unmanifest is harder for the embodied; He gives a ladder of practice for those who cannot fix their
-    mind on Him at once, and closes with the beloved qualities of His devotee — without hatred, friendly
-    and compassionate, the same in honour and dishonour.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-gita/gita/chapter-13:
-  text: 'Chapter 13 of the Bhagavad Gītā, Kṣetra-kṣetrajña-vibhāga-yoga. The body is the field, and He
-    who knows it is the knower of the field — and Kṛṣṇa is the knower in all fields. He lists the virtues
-    that constitute knowledge, describes the Brahman that is to be known, and explains prakṛti and puruṣa:
-    whoever sees the Lord dwelling equally in all beings, imperishable among the perishing, truly sees.'
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-gita/gita/chapter-14:
-  text: 'Chapter 14 of the Bhagavad Gītā, Guṇa-traya-vibhāga-yoga. Kṛṣṇa explains how the three qualities
-    of nature — sattva, rajas and tamas — bind the embodied soul: sattva by attachment to happiness and
-    knowledge, rajas by attachment to action, tamas by delusion and sloth. Asked about the one who has
-    transcended them, He describes the guṇātīta — equal in pleasure and pain, praise and blame — who serves
-    Him with unwavering devotion.'
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-gita/gita/chapter-15:
-  text: Chapter 15 of the Bhagavad Gītā, Puruṣottama-yoga. The world is an eternal aśvattha tree with
-    roots above and branches below, to be cut down with the axe of detachment. Kṛṣṇa is the light of the
-    sun and moon, the digestive fire in all beings, seated in every heart; beyond the perishable and the
-    imperishable, He is the Supreme Person, the Puruṣottama. This short chapter is traditionally recited
-    before meals.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-gita/gita/chapter-16:
-  text: Chapter 16 of the Bhagavad Gītā, Daivāsura-sampad-vibhāga-yoga. Kṛṣṇa lists the divine qualities
-    that lead to liberation — fearlessness, purity, charity, self-control, non-violence, truthfulness,
-    compassion — and the demoniac ones that lead to bondage — hypocrisy, arrogance, anger and harshness.
-    Lust, anger and greed are the three gates of hell; so let the scripture be your authority in deciding
-    what to do.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-gita/gita/chapter-17:
-  text: 'Chapter 17 of the Bhagavad Gītā, Śraddhā-traya-vibhāga-yoga. Faith takes the form of one''s nature:
-    sāttvika, rājasa or tāmasa. Kṛṣṇa describes the three kinds of food, sacrifice, austerity (of body,
-    speech and mind) and charity, and ends with the meaning of ''Om Tat Sat'', the threefold designation
-    of Brahman.'
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-gita/gita/chapter-18:
-  text: 'Chapter 18 of the Bhagavad Gītā, Mokṣa-sannyāsa-yoga. Kṛṣṇa distinguishes renunciation (sannyāsa)
-    from relinquishment (tyāga), analyses knowledge, action, doer, intellect, resolve and happiness by
-    the three guṇas, and teaches that one attains perfection by worshipping Him through one''s own duty.
-    Then the final word: ''Abandon all dharmas and take refuge in Me alone; I will free you from all sins
-    — do not grieve.'' Arjuna''s delusion is gone, and Sañjaya closes: where Kṛṣṇa and Arjuna are, there
-    are fortune, victory and justice.'
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-gita/mahatmyam:
-  text: 'Seven verses on the greatness of the Gītā, traditionally chanted after the text: whoever reads
-    this holy scripture with care attains the abode of Viṣṇu; a single bath in the waters of the Gītā
-    washes away the dirt of saṁsāra; all the Upaniṣads are cows, the son of Nanda the milker, Arjuna the
-    calf, and the Gītā the nectar-milk; one scripture, the song of Devakī''s son; one God, Devakī''s son;
-    one mantra, His names; one duty, His service.'
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/ganesha/ganapati-stava:
-  text: The Gaṇapati Stava, attributed to the sage Garga, in the Bhujaṅgaprayāta metre, praises Gaṇapati
-    as the formless, changeless Supreme.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/ganesha/ganashtakam:
-  text: The Gaṇāṣṭakam — eight verses on Gaṇeśa, in the Anuṣṭubh metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/ganesha/mahaganapati-navarnavedapada-stava:
-  text: The Mahāgaṇapati Navārṇa-vedapāda Stava — a hymn to Mahāgaṇapati, in the Anuṣṭubh metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/krishna/krishna-nama-mahatmyam:
-  text: 'From the Skanda Purāṇa (Vaiṣṇava-khaṇḍa), in the Mārgaśīrṣa-māhātmya, where the Lord teaches
-    Brahmā the observances of Mārgaśīrṣa, the month He calls His own in the Gītā (“māsānāṃ mārgaśīrṣo''ham”).
-    In this fifteenth chapter He tells His son a secret dearer to Him than the rest: of all His names,
-    “Kṛṣṇa, Kṛṣṇa” pleases Him most. Whoever remembers Him by it, He lifts out of hell as a lotus rises
-    through water; even said in jest, in pretence or at the hour of death, it keeps Yama far away. The
-    name is the rain-cloud that quenches the fire of sin and the fire that burns the serpent of Kali;
-    it is as holy as the Gaṅgā at Prayāga or the Sarasvatī at Kurukṣetra, and a home where it is sung
-    each day is itself Gayā, Kāśī and Puṣkara. The chapter ends with a promise to whoever reads it at
-    dawn, or at the three sandhyās.'
-  source: 'Revised in review: expanded from the text itself (Skanda Purāṇa colophon)'
-  notes: Everything here is from the stotra's own verses and colophon, apart from the Gītā quote (10.35).
-stotra/krishna/narayana-keshadipadanta-varnanam:
-  text: 'The hundredth and last daśaka of the Nārāyaṇīyam, Melpattūr Nārāyaṇa Bhaṭṭatiri''s retelling
-    of the Bhāgavatam in a little over a thousand verses (as its last verse says), composed before Guruvāyūrappan.
-    Tradition holds that Bhaṭṭatiri took on his guru Acyuta Piṣāraṭi''s crippling rheumatism, and sought
-    relief at Guruvāyūr by offering a daśaka of about ten verses each day, the Lord nodding His assent
-    to each. On the hundredth day, with the story told, the Lord appears to him. “Agre paśyāmi tejaḥ”:
-    he sees a light before him, and within it a youthful divine form, surrounded by Nārada and the sages
-    and by the Upaniṣads as radiant maidens. He then describes the vision from the crown of the head to
-    the feet (keśādi-pāda), and ends asking forgiveness for whatever he has said without knowing the Lord''s
-    greatness. The closing words, “āyur-ārogya-saukhyam” (long life, health and happiness), are both the
-    poem''s blessing to its readers and, read as a chronogram, the day of its completion; and by tradition,
-    with the last verse his illness left him.'
-  source: 'Revised in review: the Nārāyaṇīyam''s last daśaka and its significance'
-  notes: 'Written from memory of the work and its tradition, so please check the details. In particular:
-    the guru''s name, and the ''nod'' and cure, which are tradition rather than in the text.'
-stotra/krishna/santanagopala-stotram:
-  text: The Santāna Gopāla Stotram, in the Anuṣṭubh metre, is a prayer to Śrī Kṛṣṇa as Gopāla for the
-    blessing of children.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 stotra/krishna/vatapuranatha-ashtakam:
   text: The Vātapuranāthāṣṭakam — eight verses on Śrī Kṛṣṇa, the Lord of Guruvāyūr.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/lakshmi/kanakadhara-stavam:
-  text: The Kanakadhārā Stavam — composed by Ādi Śaṅkarācārya in the Vasantatilakā metre, at whose recitation
-    Goddess Lakṣmī is said to have showered golden fruits on a poor household.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/lakshmi/lakshmi-stotram:
-  text: Indra's praise of Goddess Lakṣmī, from the Viṣṇu Purāṇa, in the Anuṣṭubh metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/lakshmi/mahalakshmi-stuti:
-  text: Agastya's praise of Goddess Mahālakṣmī, largely in the Vasantatilakā metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 stotra/nadi/ganga-stuti:
-  text: A hymn to the Gaṅgā, recited on Gaṅgā Daśaharā.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
+  text: 'From the Skanda Purāṇa (Kāśī-khaṇḍa), a stuti spoken by Brahmā, recited on Gaṅgā Daśaharā, the
+    tenth day of the bright fortnight of Jyeṣṭha, when the Gaṅgā came down to earth. “Daśaharā” is “she
+    who takes away ten”: bathing in the Gaṅgā and chanting this hymn before her on that day frees one
+    from the ten kinds of sin, gathered over ten births, and lifts ten generations before and ten after
+    from hell. The Varṣakṛtya-dīpikā lists the ten:
+
+
+    - **Of the body (three):** taking what is not given; harming others in ways the scriptures do not
+    sanction; going to another''s wife.
+
+    - **Of speech (four):** harsh words; untruth; tale-bearing and slander; idle, senseless talk.
+
+    - **Of the mind (three):** coveting what belongs to others; wishing others ill; clinging to what is
+    false.'
+  source: 'Revised in review: Daśaharā and the ten sins, from the verses you gave (Varṣakṛtya-dīpikā)'
+  notes: The ten are translated from the Sanskrit verses, not the Tamil; the last (vitathābhiniveśa) is
+    'clinging to falsehood / a false conviction', where the Tamil has 'false desire'. Should those verses
+    also go into the stotra's TeX?
 stotra/nadi/gangakarshanashtakam:
-  text: The Gaṅgākarṣaṇāṣṭakam — eight verses in the Indravajrā metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
+  text: 'The Gaṅgākarṣaṇāṣṭakam, “the eight verses that drew the Gaṅgā”, by Śrīdhara Veṅkaṭeśa Ayyāvāḷ
+    of Tiruviśanallūr, the seventeenth-century saint of the nāma-siddhānta. On the day of his father''s
+    śrāddha, Ayyāvāḷ saw a starving outcaste and gave him the food made ready for the rite. The brāhmaṇas
+    called it a sin and would perform the śrāddha only if he first bathed in the Gaṅgā. Ayyāvāḷ, who could
+    not go to Kāśī, turned instead to Śiva, the bearer of the Gaṅgā, with these verses: “I am no ascetic,
+    no descendant of Sagara… Śambhu, open your matted locks.” The Gaṅgā welled up in the well of his house
+    and flowed through the street, and the last verses record the wonder: “How does the flood surge here
+    in this well? Surely the Lord is pleased with me… May this stream of compassion, risen from the well,
+    purify the people here for ever.” Every year on the Kārttika amāvāsyā, devotees bathe in that well
+    at Tiruviśanallūr.'
+  source: 'Revised in review: the Śrīdhara Ayyāvāḷ story'
+  notes: The quoted lines are from verses 7–9 of our text; the rest is the well-known tradition, written
+    from memory, so please check the details (the outcaste, the Kārttika amāvāsyā festival).
 stotra/nadi/gangashtakam:
   text: The Gaṅgāṣṭakam — eight verses in praise of the holy river Gaṅgā.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
@@ -527,44 +376,6 @@ stotra/shatanama/vyasa-ashtottara-shatanama-stotram:
 stotra/shiva/bilvashtakam:
   text: The Bilvāṣṭakam — eight verses on offering the three-leaved bilva to Śiva, in the Anuṣṭubh metre.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/shiva/charanashringarahita-nataraja-stotram:
-  text: 'The Caraṇa-śṛṅga-rahita Naṭarāja Stotram: ten verses to the dancing Śiva of Chidambaram, attributed
-    to the sage Patañjali, traditionally the divine serpent Ādiśeṣa. The closing verse calls it the work
-    of "the best of serpents" (*bhujaga-puṅgava*) and describes it as "without foot or horn" (*caraṇa-śṛṅga-rahitam*).
-
-
-    True to its name, the hymn has no long vowel at all: no ā, ī, ū, e, ai, o or au, the signs that in
-    Devanāgarī carry a "foot" or a "horn". Heavy syllables are made with anusvāra and conjuncts instead,
-    which gives the verses their jingling, rolling gait: *sadañcita-mudañcita-nikuñcita-padaṃ…*
-
-
-    Why "without feet and horns"? The traditional account is that Nandi, Śiva''s bull, who has both feet
-    and horns, would not let Patañjali, who has neither, in to see the Lord. Patañjali answered by singing
-    a hymn with neither. Some tellings give the role to Vyāghrapāda, the tiger-footed sage. We have not
-    found this story in an early text. The scholar-monk Swami Kāśikānanda Giri, in his Sanskrit commentary,
-    reads the name another way: "without beginning or end", like Śiva himself, whose pillar of fire Brahmā
-    and Viṣṇu could never measure.'
-  source: Research in the vagdhenu session, 4 October 2026 (drafted for the YouTube description; the video
-    is still unlisted)
-  notes: 'Checked: none of the 40 verse lines contains a long vowel. The closing-verse claim is quoted
-    from our own text (verse 10).
-
-    The three attributions are hedged on purpose. Your version (Vyāghrapāda mocks the caraṇa, Nandi the
-    śṛṅga) was not found in any written source; it may be an oral tradition, so a Chidambaram dīkṣita
-    or a Tamil source might know it.
-
-    Ruled out: Rāmabhadra Dīkṣita''s Patañjalicarita (Nandi only guards the door), the Chidambara Māhātmya
-    as summarised online, Wikipedia''s Vyāghrapāda article, Deivathin Kural.
-
-    Unread lead: Chandrakalā''s commentary (Bharati Saṃskṛta Vidyā Niketanam, 1992), to whose translator
-    the Nandi story is credited.'
-  links:
-  - https://archive.org/details/naTarAjastotramWithCommentaryBySwamiKashikanandaGiri
-  - https://sasthaprakash.wordpress.com/2010/02/03/sage-patanjali-hymn/
-  - http://loveofyogis.blogspot.com/2017/11/nataraja-stotram-patanjali.html
-  - https://groups.google.com/g/telugu-unicode/c/qQYd9BWmjU0
-  - https://www.kamakoti.org/tamil/Kural72.htm
-  - https://archive.org/details/Patanjali.Charita.by.Ramabhadra.Dikshita
 stotra/shiva/dakshinamurti-stotram:
   text: The Dakṣiṇāmūrti Stotram of Ādi Śaṅkarācārya.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
