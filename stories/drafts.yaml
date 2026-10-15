@@ -1,58 +1,11 @@
 stotra/krishna/vatapuranatha-ashtakam:
   text: The Vātapuranāthāṣṭakam — eight verses on Śrī Kṛṣṇa, the Lord of Guruvāyūr.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/nadi/ganga-stuti:
-  text: 'From the Skanda Purāṇa (Kāśī-khaṇḍa), a stuti spoken by Brahmā, recited on Gaṅgā Daśaharā, the
-    tenth day of the bright fortnight of Jyeṣṭha, when the Gaṅgā came down to earth. “Daśaharā” is “she
-    who takes away ten”: bathing in the Gaṅgā and chanting this hymn before her on that day frees one
-    from the ten kinds of sin, gathered over ten births, and lifts ten generations before and ten after
-    from hell. The Varṣakṛtya-dīpikā lists the ten:
-
-
-    - **Of the body (three):** taking what is not given; harming others in ways the scriptures do not
-    sanction; going to another''s wife.
-
-    - **Of speech (four):** harsh words; untruth; tale-bearing and slander; idle, senseless talk.
-
-    - **Of the mind (three):** coveting what belongs to others; wishing others ill; clinging to what is
-    false.'
-  source: 'Revised in review: Daśaharā and the ten sins, from the verses you gave (Varṣakṛtya-dīpikā)'
-  notes: The ten are translated from the Sanskrit verses, not the Tamil; the last (vitathābhiniveśa) is
-    'clinging to falsehood / a false conviction', where the Tamil has 'false desire'. Should those verses
-    also go into the stotra's TeX?
-stotra/nadi/gangakarshanashtakam:
-  text: 'The Gaṅgākarṣaṇāṣṭakam, “the eight verses that drew the Gaṅgā”, by Śrīdhara Veṅkaṭeśa Ayyāvāḷ
-    of Tiruviśanallūr, the seventeenth-century saint of the nāma-siddhānta. On the day of his father''s
-    śrāddha, Ayyāvāḷ saw a starving outcaste and gave him the food made ready for the rite. The brāhmaṇas
-    called it a sin and would perform the śrāddha only if he first bathed in the Gaṅgā. Ayyāvāḷ, who could
-    not go to Kāśī, turned instead to Śiva, the bearer of the Gaṅgā, with these verses: “I am no ascetic,
-    no descendant of Sagara… Śambhu, open your matted locks.” The Gaṅgā welled up in the well of his house
-    and flowed through the street, and the last verses record the wonder: “How does the flood surge here
-    in this well? Surely the Lord is pleased with me… May this stream of compassion, risen from the well,
-    purify the people here for ever.” Every year on the Kārttika amāvāsyā, devotees bathe in that well
-    at Tiruviśanallūr.'
-  source: 'Revised in review: the Śrīdhara Ayyāvāḷ story'
-  notes: The quoted lines are from verses 7–9 of our text; the rest is the well-known tradition, written
-    from memory, so please check the details (the outcaste, the Kārttika amāvāsyā festival).
 stotra/nadi/gangashtakam:
   text: The Gaṅgāṣṭakam — eight verses in praise of the holy river Gaṅgā.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 stotra/nadi/kaveri-prarthana:
   text: A short prayer to the river Kāverī, in the Anuṣṭubh metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/nadi/narmadashtakam:
-  text: The Narmadāṣṭakam — composed by Ādi Śaṅkarācārya in the Pañcacāmara metre, with its flowing refrain
-    'tvadīya pāda-paṅkajaṁ namāmi devi narmade'.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/nadi/triveni-stotram:
-  text: A hymn to the Triveṇī, the confluence of the Gaṅgā, Yamunā and Sarasvatī.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/nadi/yamunashtakam:
-  text: The Yamunāṣṭakam — eight verses in praise of the river Yamunā.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/navagraha/aditya-hrdayam:
-  text: The Āditya Hṛdayam — the hymn to the Sun that the sage Agastya taught Śrī Rāma on the battlefield
-    before his final battle with Rāvaṇa. From the Śrīmad Rāmāyaṇa, in the Anuṣṭubh metre.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 stotra/navagraha/angaraka-stotram:
   text: A hymn to Aṅgāraka (Mars), from the Skanda Purāṇa, in the Anuṣṭubh metre.
@@ -64,8 +17,17 @@ stotra/navagraha/budha-panchavimshati-nama-stotram:
   text: Twenty-five names of Budha (Mercury), from the Padma Purāṇa, in the Anuṣṭubh metre.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 stotra/navagraha/dwadasharya-surya-stuti:
-  text: A hymn to Sūrya in twelve forms, one for each Āditya.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
+  text: 'Twelve verses in the Āryā metre on the Sun in his twelve forms, one for each Āditya. It opens
+    with a prayer that echoes the Ṛgveda: “May Sūrya, rising today and ascending the northern sky, swiftly
+    dispel the disease of my heart and my pallor.” The second verse salutes the Lord of the lotuses, who
+    crosses two thousand two hundred and two yojanas in half a twinkling of the eye; the third sees him
+    as the twelve-fold one who moves through the world as the ten organs of action and knowledge, the
+    mind and the jīva. He is the Yajus, the Ṛk and the Sāman, the Āgama and the sacred vaṣaṭ, the haṃsa
+    and the paramahaṃsa; and from his several forms the devotee asks for knowledge, liberation, prosperity
+    and health.'
+  source: Revised from the WhatsApp channel post (vagdhenu session)
+  notes: Verses 1–5 checked against our text (verse 1 is RV 1.50.11). No composer is named in the TeX,
+    so none is given.
 stotra/navagraha/ketu-panchavimshati-nama-stotram:
   text: Twenty-five names of Ketu, from the Skanda Purāṇa, in the Anuṣṭubh metre.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
@@ -104,9 +66,15 @@ stotra/navagraha/surya-pratah-smarana-stotram:
   text: A morning remembrance (prātaḥ-smaraṇa) of the Sun, in the Vasantatilakā metre.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 stotra/navagraha/surya-sahasranama-stotram:
-  text: The Sūrya Sahasranāma — a thousand names of the Sun god, from the Bhaviṣya Purāṇa, in the Anuṣṭubh
-    metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
+  text: 'A thousand names of the Sun, from the Bhaviṣya Purāṇa, given in answer to King Śatānīka, who
+    asks to hear the names by which the Sun god himself once appeared before the teller; the teller has
+    them from Vyāsa. Among the closing names is a beautiful line: *sandhyā-rāga-karaḥ siddhaḥ sandhyā-vandana-vanditaḥ*,
+    “he who paints the twilight sky red, and who is worshipped in the Sandhyāvandana.” The Sun to whom
+    we offer arghya at dawn and dusk is the deity of the rite itself. The phala-śruti promises freedom
+    from fear and disease, a hundred years of life, and victory to one who recites it daily.'
+  source: Revised from the WhatsApp channel post (vagdhenu session)
+  notes: The sandhyāvandana line is verse 116 of our text; the frame (Śatānīka, 'pārāśaryo yadāha me')
+    and phala are from our text too.
 stotra/navagraha/surya-stavaraja:
   text: Sāmba's hymn to the Sun — the 'king of hymns' to Sūrya, in the Anuṣṭubh metre.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
@@ -120,37 +88,14 @@ stotra/other/kartaviryarjuna-stotram:
   text: A hymn to King Kārtavīryārjuna of the thousand arms, recited to recover what is lost, in the Anuṣṭubh
     metre.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/other/svadha-stotram:
-  text: From the Devī Bhāgavatam (Skandha 9, Adhyāya 44), in the Anuṣṭubh metre, where Nārāyaṇa tells
-    Nārada the story of Svadhā, the goddess through whom offerings reach the Pitṛs. When the ancestors
-    went hungry because their offerings did not reach them, Brahmā meditated on the Devī and Svadhā appeared;
-    this is the praise with which Brahmā honoured her. Whoever listens to it, the text says, gains the
-    merit of bathing in every tīrtha.
-  source: 'Revised in review: Bhāgavata source and juncture (from the colophon)'
-  notes: 'Skandha and adhyāya are from the stotra''s own colophon; the juncture is the well-known narrative
-    of that chapter, written from memory, so please check it against the text.
-
-    The details of the Svadhā story (the Pitṛs going hungry, Brahmā meditating on the Devī) especially
-    need checking against Devī Bhāgavatam 9.44.'
 stotra/other/yamabhayanivarana-stotram:
   text: A verse to dispel the fear of Yama.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/other/yamashtakam:
-  text: The Yamāṣṭakam — Sāvitrī's hymn to Yama, from the Brahmavaivarta Purāṇa, in the Anuṣṭubh metre.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 stotra/rama/ahalyakrta-rama-stotram:
   text: Ahalyā's praise of Śrī Rāma, after she was freed by the touch of his feet.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/rama/gayatri-ramayanam:
-  text: The Gāyatrī Rāmāyaṇam — twenty-four verses of Vālmīki's Rāmāyaṇa, one for each syllable of the
-    Gāyatrī mantra, in the Anuṣṭubh metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 stotra/rama/munikrta-rama-stotram:
   text: The praise of Śrī Rāma by the sages, from the Skanda Purāṇa, in the Anuṣṭubh metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/rama/rama-bhujangaprayata-stotram:
-  text: A hymn to Śrī Rāma composed by Ādi Śaṅkarācārya in the Bhujaṅgaprayāta metre, beginning with Rāma
-    as the pure, supreme Sat-cit-ānanda.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 stotra/rama/rama-dwadasha-nama-stotram:
   text: Twelve names of Śrī Rāma, taught by Śiva, from the Skanda Purāṇa, in the Anuṣṭubh metre.
@@ -161,16 +106,8 @@ stotra/rama/rama-stava:
 stotra/rama/rama-stavaraja-stotram:
   text: The Rāma Stavarāja — the 'king of hymns' to Śrī Rāma, taught by Nārada, in the Anuṣṭubh metre.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/rama/ramaraksha-stotram:
-  text: The Rāmarakṣā Stotram of Budha Kauśika — a protective hymn to Śrī Rāma, beloved for its many-coloured
-    names of Rāma.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 stotra/rama/ramashtakam:
   text: The Rāmāṣṭakam, attributed to Veda Vyāsa, in the Pramāṇikā metre, beginning 'bhaje viśeṣa-sundaram'.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/rama/sankshepa-ramayanam:
-  text: The Saṅkṣepa Rāmāyaṇam — the whole story of Śrī Rāma in brief, as Nārada told it to Vālmīki at
-    the beginning of the Rāmāyaṇa.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 stotra/rama/sita-rama-stotram:
   text: The Sītā-Rāma Stotram, attributed to Hanumān, in the Anuṣṭubh metre — every verse praises Rāma
@@ -178,10 +115,6 @@ stotra/rama/sita-rama-stotram:
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 stotra/rama/vivaha-mangalashtakam:
   text: The Vivāha Maṅgalāṣṭakam — eight auspicious verses recited at weddings.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
-stotra/saraswati/saraswati-sahasranama-stotram:
-  text: The Sarasvatī Sahasranāma — a thousand names of Goddess Sarasvatī, taught by Sanatkumāra. From
-    the Skanda Purāṇa, in the Anuṣṭubh metre.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 stotra/saraswati/saraswati-stotram(-agastya):
   text: Agastya's hymn to Goddess Sarasvatī, beginning with the well-known 'yā kundendu-tuṣāra-hāra-dhavalā',
@@ -359,14 +292,24 @@ stotra/shatanama/subrahmanya-ashtottara-shatanama-stotram:
   text: 108 names of Subrahmaṇya, in the Anuṣṭubh metre.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 stotra/shatanama/surya-ashtottara-shatanama-stotram:
-  text: 108 names of the Sun, taught by Dhaumya to Yudhiṣṭhira in the Mahābhārata, in the Anuṣṭubh metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
+  text: From the Vana Parva of the Mahābhārata. The Pāṇḍavas are in exile in the forest, and the many
+    brāhmaṇas who have followed them must be fed, but Yudhiṣṭhira has nothing to give. The family priest,
+    the sage Dhaumya, teaches him these 108 names of Sūrya. Yudhiṣṭhira worships the Sun with them, the
+    Sun appears before him, and gives him the Akṣaya-pātra, the vessel that never runs out until Draupadī
+    has eaten for the day.
+  source: Revised from the WhatsApp channel post (vagdhenu session)
+  notes: The Vana Parva and the Dhaumya–Yudhiṣṭhira dialogue are from our colophon; the exile and the
+    Akṣaya-pātra details are the well-known story, written from memory.
 stotra/shatanama/tulasi-ashtottara-shatanama-stotram:
   text: 108 names of Tulasī, in the Anuṣṭubh metre.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 stotra/shatanama/venkatesha-ashtottara-shatanama-stotram:
-  text: 108 names of Lord Veṅkaṭeśa, in the Anuṣṭubh metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
+  text: 'The 108 names of Lord Veṅkaṭeśa, especially dear on the Saturdays of Purattāsi, hold a secret:
+    take the first syllable of each name, in order, and together they spell a mantra, “oṃ namo veṅkaṭeśāya
+    … śrīṃ klīṃ sauṃ … namo nārāyaṇa te svāhā”. The bīja syllables śrīṃ, klīṃ and sauṃ stand as names
+    in the stotra itself.'
+  source: Revised from the WhatsApp channel post (vagdhenu session)
+  notes: The mantra is from the note in our own text; the initials have not been checked one by one.
 stotra/shatanama/vishnu-ashtottara-shatadivyasthaniya-nama-stotram:
   text: 108 sacred places of Viṣṇu and his names there, in the Anuṣṭubh metre.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
@@ -407,8 +350,15 @@ stotra/shiva/matribhuta-shatakam:
     largely in the Vasantatilakā metre.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 stotra/shiva/rudra-stotram:
-  text: The Rudra Stotram from the Mahābhārata, in the Anuṣṭubh metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
+  text: 'From the Mahābhārata (Droṇa Parva, Pratijñā Parva, chapter 80). After Abhimanyu''s death Arjuna
+    vows to slay Jayadratha before the next sunset or enter the fire. That night, in a vision, Śrī Kṛṣṇa
+    takes him to Kailāsa to seek Śiva''s weapon, and together they praise Mahādeva with this hymn, calling
+    him the blue-throated, the bearer of Pināka and the trident, the matted-haired lord with the bull
+    on his banner, the golden-hued husband of Ambikā, the thousand-eyed. Sañjaya closes: “Having praised
+    Mahādeva thus, Vāsudeva with Arjuna propitiated Bhava to obtain the weapon.”'
+  source: Revised from the WhatsApp channel post (vagdhenu session)
+  notes: Parva and chapter and the closing verse are from our text; the vow and the vision are the well-known
+    story, written from memory.
 stotra/shiva/sadashivashtakam:
   text: The Sadāśivāṣṭakam, attributed to Patañjali, from the Hālāsya Māhātmya — on Śiva at Madurai.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
@@ -420,9 +370,18 @@ stotra/shiva/shiva-mahimna-stotram:
     metre.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 stotra/shiva/shiva-manasapuja:
-  text: The Śiva Mānasa-pūjā of Ādi Śaṅkarācārya — worship of Śiva performed entirely in the mind, in
-    the Śārdūlavikrīḍita metre.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
+  text: 'Ādi Śaṅkarācārya''s worship of Śiva performed entirely in the mind. Verse by verse it offers
+    each of the upacāras in imagination: a jewelled seat, a bath in cool Himalayan water, divine garments,
+    sandal paste, jasmine, campaka and bilva flowers, incense and lamp; then food in a golden vessel,
+    tāmbūla, the parasol and the cāmara, the mirror, the music of the vīṇā, bherī and mṛdaṅga, song and
+    dance, full prostration and praise. The fourth verse turns the whole of life into the pūjā: “You are
+    my Self, Girijā my intellect, my prāṇas your attendants, my body your temple. Every enjoyment is your
+    worship and sleep is samādhi; every step I walk is a pradakṣiṇa and every word I speak a hymn. Whatever
+    I do, Śambhu, all of it is Your worship.” The last verse asks forgiveness for every fault of hand
+    and foot, speech and body, done or left undone.'
+  source: Revised from the WhatsApp channel post (vagdhenu session)
+  notes: 'Checked against our text: ''ātmā tvaṃ girijā'' is verse 4 and the kṣamā verse is 5 (the WA post
+    called verse 4 the last).'
 stotra/shiva/shiva-panchakshara-stotram:
   text: The Śiva Pañcākṣara Stotram of Ādi Śaṅkarācārya — five verses, one for each syllable of 'na-maḥ-śi-vā-ya'.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
@@ -434,9 +393,13 @@ stotra/shiva/shiva-sahasranama-stotram:
     in the Anuṣṭubh metre.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 stotra/shiva/shiva-sahasranama-stotram--vishnu-krtam:
-  text: The Śiva Sahasranāma from the Liṅga Purāṇa, with which Viṣṇu worshipped Śiva — offering a lotus
-    for each name — and received the Sudarśana cakra.
-  source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
+  text: From the Liṅga Purāṇa (Pūrva-bhāga, chapter 98). To gain a weapon against the asuras, Viṣṇu worships
+    Śiva with a thousand names, offering a lotus at each name. When one lotus is found missing, he offers
+    his own lotus-like eye in its place; pleased, Śiva gives him the Sudarśana cakra. It is a favourite
+    on Pradoṣa evenings.
+  source: Revised from the WhatsApp channel post (vagdhenu session)
+  notes: 'Chapter and the ''cakra-lābha'' are from our colophon. The missing lotus and the eye are the
+    well-known telling, written from memory: please check it against the chapter.'
 stotra/shiva/shivaparadha-kshamapana-stotram:
   text: The Śivāparādha-kṣamāpaṇa Stotram of Ādi Śaṅkarācārya — a prayer to Śiva for forgiveness of faults
     across a lifetime, in the Sragdharā metre.
