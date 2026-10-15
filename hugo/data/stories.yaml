@@ -238,6 +238,8 @@ stotra/krishna/narayana-keshadipadanta-varnanam:
 stotra/krishna/santanagopala-stotram:
   text: The Santāna Gopāla Stotram, in the Anuṣṭubh metre, is a prayer to Śrī Kṛṣṇa as Gopāla for the
     blessing of children.
+stotra/krishna/vatapuranatha-ashtakam:
+  text: The Vātapuranāthāṣṭakam — eight verses on Śrī Kṛṣṇa, the Lord of Guruvāyūr.
 stotra/lakshmi/kanakadhara-stavam:
   text: The Kanakadhārā Stavam — composed by Ādi Śaṅkarācārya in the Vasantatilakā metre, at whose recitation
     Goddess Lakṣmī is said to have showered golden fruits on a poor household.
@@ -288,6 +290,12 @@ stotra/nadi/yamunashtakam:
 stotra/navagraha/aditya-hrdayam:
   text: The Āditya Hṛdayam — the hymn to the Sun that the sage Agastya taught Śrī Rāma on the battlefield
     before His final battle with Rāvaṇa. From the Śrīmad Rāmāyaṇa, in the Anuṣṭubh metre.
+stotra/navagraha/angaraka-stotram:
+  text: A hymn to Aṅgāraka (Mars), from the Skanda Purāṇa, in the Anuṣṭubh metre.
+stotra/navagraha/brihaspati-stotram:
+  text: A hymn to Bṛhaspati (Jupiter), from the Skanda Purāṇa, in the Anuṣṭubh metre.
+stotra/navagraha/budha-panchavimshati-nama-stotram:
+  text: Twenty-five names of Budha (Mercury), from the Padma Purāṇa, in the Anuṣṭubh metre.
 stotra/navagraha/dwadasharya-surya-stuti:
   text: 'Twelve verses in the Āryā metre on Surya. It opens with a prayer that echoes the Ṛgveda: “May
     Sūrya, rising today and ascending the northern sky, swiftly dispel the disease of my heart and my
@@ -296,12 +304,32 @@ stotra/navagraha/dwadasharya-surya-stuti:
     the world as the ten organs of action and knowledge, the mind and the jīva. He is the Yajus, the Ṛk
     and the Sāman, the Āgama and the sacred vaṣaṭ, the haṃsa and the paramahaṃsa; and from his several
     forms the devotee asks for knowledge, liberation, prosperity and health.'
+stotra/navagraha/ketu-panchavimshati-nama-stotram:
+  text: Twenty-five names of Ketu, from the Skanda Purāṇa, in the Anuṣṭubh metre.
+stotra/navagraha/navagraha-mangalashtakam:
+  text: The Navagraha Maṅgalāṣṭakam — eight auspicious verses on the nine planets, in the Śārdūlavikrīḍita
+    metre.
 stotra/navagraha/navagraha-pidahara-stotram:
   text: A hymn to the nine planets to relieve their afflictions, attributed to Veda Vyāsa, from the Brahmāṇḍa
     Purāṇa, in the Anuṣṭubh metre.
 stotra/navagraha/navagraha-stotram:
   text: The popular Navagraha Stotram of Veda Vyāsa — one verse for each of the nine planets, beginning
     with Sūrya ('japā-kusuma-saṅkāśam'), in the Anuṣṭubh metre.
+stotra/navagraha/rahu-panchavimshati-nama-stotram:
+  text: Twenty-five names of Rāhu, from the Skanda Purāṇa, in the Anuṣṭubh metre.
+stotra/navagraha/shanaishchara-ashtakam(-dasharatha):
+  text: The Śanaiścara Aṣṭakam of King Daśaratha — his prayer to Śani.
+stotra/navagraha/shukra-chaturvimshati-nama-stotram:
+  text: Twenty-four names of Śukra (Venus), from the Skanda Purāṇa, in the Anuṣṭubh metre.
+stotra/navagraha/surya-grahana-pidaparihara-shlokam:
+  text: A verse recited to ward off the afflictions of a solar eclipse.
+stotra/navagraha/surya-kavacham:
+  text: The Sūrya Kavacam — a protective armour of verses addressed to the Sun, attributed to Yājñavalkya,
+    in the Anuṣṭubh metre.
+stotra/navagraha/surya-mandala-stotram:
+  text: The Sūrya Maṇḍala Stotram, from the Bhaviṣya Purāṇa, in praise of the orb of the Sun.
+stotra/navagraha/surya-pratah-smarana-stotram:
+  text: A morning remembrance (prātaḥ-smaraṇa) of the Sun, in the Vasantatilakā metre.
 stotra/navagraha/surya-sahasranama-stotram:
   text: 'A thousand names of the Sun, from the Bhaviṣya Purāṇa, given in answer to King Śatānīka, who
     asks to hear the names by which the Sun god himself once appeared before the teller; the teller has
@@ -309,6 +337,12 @@ stotra/navagraha/surya-sahasranama-stotram:
     “he who paints the twilight sky red, and who is worshipped in the Sandhyāvandana.” The Sun to whom
     we offer arghya at dawn and dusk is the deity of the rite itself. The phala-śruti promises freedom
     from fear and disease, a hundred years of life, and victory to one who recites it daily.'
+stotra/navagraha/surya-stavaraja:
+  text: Sāmba's hymn to the Sun — the 'king of hymns' to Sūrya, in the Anuṣṭubh metre.
+stotra/navagraha/surya-stuti:
+  text: A hymn to the Sun, in the Anuṣṭubh metre.
+stotra/navagraha/suryarya-stotram:
+  text: A hymn to Surya.
 stotra/other/kartaviryarjuna-stotram:
   text: A hymn to King Kārtavīryārjuna of the thousand arms, recited to recover what is lost, in the Anuṣṭubh
     metre.
@@ -318,6 +352,8 @@ stotra/other/svadha-stotram:
     went hungry because their offerings did not reach them, Brahmā meditated on the Devī and Svadhā appeared;
     this is the praise with which Brahmā honoured her. Whoever listens to it, the text says, gains the
     merit of bathing in every tīrtha.
+stotra/other/yamabhayanivarana-stotram:
+  text: A verse to dispel the fear of Yama.
 stotra/other/yamashtakam:
   text: The Yamāṣṭakam — Sāvitrī's hymn to Yama, from the Brahmavaivarta Purāṇa, in the Anuṣṭubh metre.
 stotra/rama/ahalyakrta-rama-stotram:
@@ -361,9 +397,18 @@ stotra/rama/sankshepa-ramayanam:
 stotra/rama/sita-rama-stotram:
   text: The Sītā-Rāma Stotram, attributed to Hanumān, in the Anuṣṭubh metre — every verse praises Rāma
     and Sītā together.
+stotra/rama/vivaha-mangalashtakam:
+  text: The Vivāha Maṅgalāṣṭakam — eight auspicious verses recited at weddings.
 stotra/saraswati/saraswati-sahasranama-stotram:
   text: The Sarasvatī Sahasranāma — a thousand names of Goddess Sarasvatī, taught by Sanatkumāra. From
     the Skanda Purāṇa, in the Anuṣṭubh metre.
+stotra/saraswati/saraswati-stotram(-agastya):
+  text: Agastya's hymn to Goddess Sarasvatī, beginning with the well-known 'yā kundendu-tuṣāra-hāra-dhavalā',
+    in the Anuṣṭubh metre.
+stotra/saraswati/saraswati-stotram(-brahma):
+  text: Brahmā's hymn to Goddess Sarasvatī, in the Sragdharā metre.
+stotra/saraswati/saraswati-stotram(-brihaspati):
+  text: Bṛhaspati's hymn to Goddess Sarasvatī, in the Anuṣṭubh metre.
 stotra/saraswati/sharada-bhujangaprayata-ashtakam:
   text: The Śāradā Bhujaṅgaprayātāṣṭakam — eight verses on Goddess Śāradā, composed by Ādi Śaṅkarācārya
     in the Bhujaṅgaprayāta metre.
@@ -447,6 +492,35 @@ stotra/shakti/gayatri-stotram:
 stotra/shakti/kalyana-vrishti-stotram:
   text: The Kalyāṇavṛṣṭi Stotram — verses to Goddess Lalitā that 'shower auspiciousness', composed by
     Ādi Śaṅkarācārya.
+stotra/shakti/kamakshi-mahatmyam:
+  text: 'Twelve verses on the glory of Kāmākṣī and Her shrine, from the twenty-third chapter of the Kāmākṣī
+    Vilāsa.
+
+
+    They begin by marking out Tuṇḍīra-maṇḍala, the land around Kāñcī, bounded by the Svāmi-puṣkariṇī tīrtha,
+    the eastern sea, the Pinākinī river and Śilāhrada. At its centre, between the Kampā and Vegavatī rivers,
+    lies the Kāma-koṣṭha, where Kāmākṣī dwells. Her image there is the Devī''s root form (*mūla-vigraha*):
+    in Kāñcī there is no other image of the Devī. Her seat is the navel of the earth, shaped as the *kāma-kalā*
+    of the world, and it is called Kāmakoṭi because whatever good is done there bears fruit a crore-fold.
+
+
+    The verses then tell what the shrine gives:
+
+
+    - Japa of one''s mantra in the Kāma-koṣṭha brings the fruit of a crore of repetitions, and leads to
+    the world of liberation.
+
+    - Staying there for even half a moment frees one from all sins.
+
+    - Circling the Kāma-koṣṭha and the *bilābhra* of Śambhu below the Gāyatrī-maṇḍapa brings, step by
+    step, the merit of gifting a cow about to calve.
+
+    - Worshipping Kāmākṣī on Her birth-day through the great inner path gives the fruit of a crore of
+    pūjās, and even one act of service to Her leads to kaivalya.
+
+
+    The closing verse promises that one who reads these twelve verses on rising, at the time of the morning
+    bath, gains every fruit they describe.'
 stotra/shakti/kamakshi-stotram:
   text: A hymn to Goddess Kāmākṣī of Kāñcī, in the Śārdūlavikrīḍita metre.
 stotra/shakti/kamakshi-suprabhatam:
@@ -674,16 +748,45 @@ stotra/shiva/charanashringarahita-nataraja-stotram:
     and Viṣṇu could never measure.'
 stotra/shiva/dakshinamurti-stotram:
   text: The Dakṣiṇāmūrti Stotram of Ādi Śaṅkarācārya.
+stotra/shiva/dakshinamurti-stotram(-samara-pungava-dikshita-krtam):
+  text: A Dakṣiṇāmūrti Stotram composed by Samara-puṅgava Dīkṣita.
+stotra/shiva/dakshinamurti-stotram(-vrishabha-deva-krtam):
+  text: A Dakṣiṇāmūrti Stotram composed by Vṛṣabhadeva.
 stotra/shiva/dakshinamurtyashtakam:
   text: The Dakṣiṇāmūrti Aṣṭakam of Ādi Śaṅkarācārya, in the Śārdūlavikrīḍita metre — Advaita in eight
     verses, beginning 'viśvaṁ darpaṇa-dṛśyamāna-nagarī-tulyam'.
 stotra/shiva/gurvashtakam:
   text: The Gurvaṣṭakam of Ādi Śaṅkarācārya, in the Bhujaṅgaprayāta metre — whatever else one has, of
     what use is it, if the mind is not fixed on the Guru's feet?
+stotra/shiva/kalabhairavashtakam:
+  text: The Kālabhairavāṣṭakam — eight verses on Kālabhairava, the Lord of Kāśī.
 stotra/shiva/lingashtakam:
   text: The Liṅgāṣṭakam — eight verses on the Śiva-liṅga, beginning 'brahma-murāri-surārcita-liṅgam'.
 stotra/shiva/margabandhu-stotram:
   text: The Mārgabandhu Stotram of Appayya Dīkṣita — a prayer to Śiva, the companion of travellers.
+stotra/shiva/matribhuta-shatakam:
+  text: 'A hundred-odd verses to Śiva as Mātṛbhūteśvara, “the Lord who became a mother”, composed by Śrīdhara
+    Veṅkaṭeśa Ayyāvāḷ, the saint of Tiruviśainallūr whose Gaṅgākarṣaṇāṣṭakam is also on this site. Mātṛbhūteśvara,
+    Tāyumānavar in Tamil, is the Śiva of the Rock Fort temple at Tiruchirāppaḷḷi. The temple''s story
+    tells of a devout woman, Ratnāvatī, whose time to give birth came while her mother was cut off by
+    the Kāverī in flood. Śiva came in her mother''s form and tended her through the birth, and when the
+    real mother arrived, the Lord revealed Himself.
+
+
+    Ayyāvāḷ stayed at Tiruchirāppaḷḷi and worshipped Mātṛbhūteśvara daily. The temple is also the setting
+    of a well-known episode: to test his devotion, the king had the Lord''s festival image dressed as
+    Kṛṣṇa and taken past his house, and Ayyāvāḷ burst into the twelve verses of the Kṛṣṇa-dvādaśa-mañjarī.
+
+
+    Every verse of the śataka ends with the same cry, *śrī-mātṛbhūta śiva pālaya māṃ namaste*: “O Śiva
+    who became a mother, protect me.” Ayyāvāḷ comes to Him as a helpless child to a mother. He pleads
+    that he is “the son of Your servant” (v. 3), and that wife, sons and kin love only for a reason, while
+    Śiva alone is mother and father, a treasure of grace without condition (v. 20). He asks that his feet
+    go round His shrine, his hands worship Him, his words praise Him and his mind rest in Him (v. 17),
+    that his throat choke and his eyes fill at the sound of His name (v. 21), and that he ask for nothing
+    except to keep calling on Him like this (v. 100). The phala-śruti (v. 102) asks the Lord to grant
+    those who read or hear it health, long life, pure devotion to Śiva, wealth, learning, children, fame
+    and, in the end, liberation.'
 stotra/shiva/rudra-stotram:
   text: 'From the Mahābhārata (Droṇa Parva, Pratijñā Parva, chapter 80). After Abhimanyu''s death Arjuna
     vows to slay Jayadratha before the next sunset or enter the fire. That night, in a vision, Śrī Kṛṣṇa
@@ -695,6 +798,37 @@ stotra/shiva/sadashivashtakam:
   text: The Sadāśivāṣṭakam, attributed to Patañjali, from the Hālāsya Māhātmya — on Śiva at Madurai.
 stotra/shiva/shambhu-stuti:
   text: Śrī Rāma's praise of Śiva, from the Padma Purāṇa, in the Upajāti metre.
+stotra/shiva/shiva-mahimna-stotram:
+  text: 'The Śiva Mahimnaḥ Stotram, “the hymn on Śiva''s greatness”, is one of the most celebrated of
+    all hymns to Śiva, in the flowing śikhariṇī metre. Its own closing verses tell who composed it, and
+    why.
+
+
+    Its author is Puṣpadanta (“flower-toothed”, also called Kusumadaśana in v. 37), king of the Gandharvas
+    and a devoted servant of Śiva. The tradition tells that he was enchanted by the flowers in the garden
+    of King Citraratha, a great devotee of Śiva, and took to stealing them, coming unseen through the
+    air. To catch the thief, the king strewed the path with *nirmālya*, flowers already offered to Śiva.
+    Unknowing, Puṣpadanta stepped on them. At this offence to Śiva he lost his divine powers and could
+    no longer fly or stay invisible. Realising his fault, he composed this hymn, and Śiva, pleased, restored
+    him. The hymn itself says that the Gandharva, fallen from his glory through the Lord''s anger, composed
+    this most divine praise (v. 37).
+
+
+    The hymn begins in humility. If even Brahmā''s words fall short of Śiva''s greatness, then anyone
+    may praise Him as far as their understanding goes (v. 1), and the Veda itself can speak of Him only
+    by saying what He is not (v. 2). Just as rivers by straight and winding paths all reach the ocean,
+    people of different tastes on different paths all reach Him alone (v. 7). It recalls His great deeds:
+    drinking the poison, burning Tripura with the earth as His chariot, and Viṣṇu offering his own eye
+    to complete a thousand lotuses. Śiva is the meaning of Om and of the eight names Bhava, Śarva, Rudra,
+    Paśupati, Ugra, Mahādeva, Bhīma and Īśāna. Even if Sarasvatī wrote forever, with a mountain of ink
+    in the ocean as its pot, a branch of the wish-tree as pen and the earth as paper, she could not reach
+    the end of His glories (v. 32).
+
+
+    The phala-śruti promises that one who reads it daily with devotion becomes like Rudra in Śiva''s world,
+    with wealth, long life, sons and fame here (v. 34). *There is no god above Maheśa, no hymn above the
+    Mahimnaḥ* (v. 35), and initiation, gifts, austerity, pilgrimage and sacrifice are not worth a sixteenth
+    of its recitation (v. 36).'
 stotra/shiva/shiva-manasapuja:
   text: 'Ādi Śaṅkarācārya''s worship of Śiva performed entirely in the mind. Verse by verse it offers
     each of the upacāras in imagination: a jewelled seat, a bath in cool Himalayan water, divine garments,
