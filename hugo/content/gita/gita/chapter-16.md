@@ -1,10 +1,10 @@
 {
- "title": "षोडशोऽध्यायः---दैवासुरसम्पद्विभागयोगः",
+ "title": "षोडशोऽध्यायः — दैवासुरसम्पद्विभागयोगः",
  "weight": 160,
  "iast": "Ṣoḍaśo'dhyāyaḥ — Daivāsurasampadvibhāgayogaḥ"
 }
 
-<div class="stotra-article"><h2 class="stotra-heading">षोडशोऽध्यायः---दैवासुरसम्पद्विभागयोगः</h2>
+<div class="stotra-article"><h2 class="stotra-heading">षोडशोऽध्यायः—दैवासुरसम्पद्विभागयोगः</h2>
 <p class="uvacha">श्रीभगवानुवाच</p>
 <div class="verse-block-wrapper" id="gita-b0656"><div class="verse-block verse-justify"><div class="line">अभयं सत्त्वसंशुद्धिर्ज्ञानयोगव्यवस्थितिः।</div><div class="line" style="position:relative;">दानं दमश्च यज्ञश्च स्वाध्यायस्तप आर्जवम्॥१॥</div></div></div>
 <div class="verse-block-wrapper" id="gita-b0657"><div class="verse-block verse-justify"><div class="line">अहिंसा सत्यमक्रोधस्त्यागः शान्तिरपैशुनम्।</div><div class="line" style="position:relative;">दया भूतेष्वलोलुप्त्वं मार्दवं ह्रीरचापलम्॥२॥</div></div></div>

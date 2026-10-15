@@ -1,10 +1,10 @@
 {
- "title": "द्वादशोऽध्यायः---भक्तियोगः",
+ "title": "द्वादशोऽध्यायः — भक्तियोगः",
  "weight": 120,
  "iast": "Dvādaśo'dhyāyaḥ — Bhaktiyogaḥ"
 }
 
-<div class="stotra-article"><h2 class="stotra-heading">द्वादशोऽध्यायः---भक्तियोगः</h2>
+<div class="stotra-article"><h2 class="stotra-heading">द्वादशोऽध्यायः—भक्तियोगः</h2>
 <p class="uvacha">अर्जुन उवाच</p>
 <div class="verse-block-wrapper" id="gita-b0540"><div class="verse-block verse-justify"><div class="line">एवं सततयुक्ता ये भक्तास्त्वां पर्युपासते।</div><div class="line" style="position:relative;">ये चाप्यक्षरमव्यक्तं तेषां के योगवित्तमाः॥१॥</div></div></div>
 <p class="uvacha">श्रीभगवानुवाच</p>

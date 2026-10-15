@@ -1,10 +1,10 @@
 {
- "title": "चतुर्दशोऽध्यायः---गुणत्रयविभागयोगः",
+ "title": "चतुर्दशोऽध्यायः — गुणत्रयविभागयोगः",
  "weight": 140,
  "iast": "Caturdaśo'dhyāyaḥ — Guṇatrayavibhāgayogaḥ"
 }
 
-<div class="stotra-article"><h2 class="stotra-heading">चतुर्दशोऽध्यायः---गुणत्रयविभागयोगः</h2>
+<div class="stotra-article"><h2 class="stotra-heading">चतुर्दशोऽध्यायः—गुणत्रयविभागयोगः</h2>
 <p class="uvacha">श्रीभगवानुवाच</p>
 <div class="verse-block-wrapper" id="gita-b0601"><div class="verse-block verse-justify"><div class="line">परं भूयः प्रवक्ष्यामि ज्ञानानां ज्ञानमुत्तमम्।</div><div class="line" style="position:relative;">यज्ज्ञात्वा मुनयः सर्वे परां सिद्धिमितो गताः॥१॥</div></div></div>
 <div class="verse-block-wrapper" id="gita-b0602"><div class="verse-block verse-justify"><div class="line">इदं ज्ञानमुपाश्रित्य मम साधर्म्यमागताः।</div><div class="line" style="position:relative;">सर्गेऽपि नोपजायन्ते प्रलये न व्यथन्ति च॥२॥</div></div></div>

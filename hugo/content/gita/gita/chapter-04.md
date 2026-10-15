@@ -1,10 +1,10 @@
 {
- "title": "चतुर्थोऽध्यायः---ज्ञानकर्मसन्न्यासयोगः",
+ "title": "चतुर्थोऽध्यायः — ज्ञानकर्मसन्न्यासयोगः",
  "weight": 40,
  "iast": "Caturtho'dhyāyaḥ — Jñānakarmasannyāsayogaḥ"
 }
 
-<div class="stotra-article"><h2 class="stotra-heading">चतुर्थोऽध्यायः---ज्ञानकर्मसन्न्यासयोगः</h2>
+<div class="stotra-article"><h2 class="stotra-heading">चतुर्थोऽध्यायः—ज्ञानकर्मसन्न्यासयोगः</h2>
 <p class="uvacha">श्रीभगवानुवाच</p>
 <div class="verse-block-wrapper" id="gita-b0189"><div class="verse-block verse-justify"><div class="line">इमं विवस्वते योगं प्रोक्तवानहमव्ययम्।</div><div class="line" style="position:relative;">विवस्वान् मनवे प्राह मनुरिक्ष्वाकवेऽब्रवीत्॥१॥</div></div></div>
 <div class="verse-block-wrapper" id="gita-b0190"><div class="verse-block verse-justify"><div class="line">एवं परम्पराप्राप्तमिमं राजर्षयो विदुः।</div><div class="line" style="position:relative;">स कालेनेह महता योगो नष्टः परन्तप॥२॥</div></div></div>

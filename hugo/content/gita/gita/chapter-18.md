@@ -1,10 +1,10 @@
 {
- "title": "अष्टादशोऽध्यायः---मोक्षसन्न्यासयोगः",
+ "title": "अष्टादशोऽध्यायः — मोक्षसन्न्यासयोगः",
  "weight": 180,
  "iast": "Aṣṭādaśo'dhyāyaḥ — Mokṣasannyāsayogaḥ"
 }
 
-<div class="stotra-article"><h2 class="stotra-heading">अष्टादशोऽध्यायः---मोक्षसन्न्यासयोगः</h2>
+<div class="stotra-article"><h2 class="stotra-heading">अष्टादशोऽध्यायः—मोक्षसन्न्यासयोगः</h2>
 <p class="uvacha">अर्जुन उवाच</p>
 <div class="verse-block-wrapper" id="gita-b0715"><div class="verse-block verse-justify"><div class="line">सन्न्यासस्य महाबाहो तत्त्वमिच्छामि वेदितुम्।</div><div class="line" style="position:relative;">त्यागस्य च हृषीकेश पृथक् केशिनिषूदन॥१॥</div></div></div>
 <p class="uvacha">श्रीभगवानुवाच</p>

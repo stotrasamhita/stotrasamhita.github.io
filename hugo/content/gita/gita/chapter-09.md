@@ -1,10 +1,10 @@
 {
- "title": "नवमोऽध्यायः---राजविद्याराजगुह्ययोगः",
+ "title": "नवमोऽध्यायः — राजविद्याराजगुह्ययोगः",
  "weight": 90,
  "iast": "Navamo'dhyāyaḥ — Rājavidyārājaguhyayogaḥ"
 }
 
-<div class="stotra-article"><h2 class="stotra-heading">नवमोऽध्यायः---राजविद्याराजगुह्ययोगः</h2>
+<div class="stotra-article"><h2 class="stotra-heading">नवमोऽध्यायः—राजविद्याराजगुह्ययोगः</h2>
 <p class="uvacha">श्रीभगवानुवाच</p>
 <div class="verse-block-wrapper" id="gita-b0388"><div class="verse-block verse-justify"><div class="line">इदं तु ते गुह्यतमं प्रवक्ष्याम्यनसूयवे।</div><div class="line" style="position:relative;">ज्ञानं विज्ञानसहितं यज्ज्ञात्वा मोक्ष्यसेऽशुभात्॥१॥</div></div></div>
 <div class="verse-block-wrapper" id="gita-b0389"><div class="verse-block verse-justify"><div class="line">राजविद्या राजगुह्यं पवित्रमिदमुत्तमम्।</div><div class="line" style="position:relative;">प्रत्यक्षावगमं धर्म्यं सुसुखं कर्तुमव्ययम्॥२॥</div></div></div>

@@ -1,10 +1,10 @@
 {
- "title": "द्वितीयोऽध्यायः—शुक्ल--कृष्ण-चतुर्थी-वरदान-वर्णनम्",
+ "title": "द्वितीयोऽध्यायः—शुक्ल–कृष्ण-चतुर्थी-वरदान-वर्णनम्",
  "weight": 60,
  "iast": "Dvitīyo'dhyāyaḥ—śukla–kṛṣṇa-caturthī-varadāna-varṇanam"
 }
 
-<div class="stotra-article"><h2 class="stotra-heading">द्वितीयोऽध्यायः—शुक्ल--कृष्ण-चतुर्थी-वरदान-वर्णनम्</h2>
+<div class="stotra-article"><h2 class="stotra-heading">द्वितीयोऽध्यायः—शुक्ल–कृष्ण-चतुर्थी-वरदान-वर्णनम्</h2>
 <p class="prose">॥श्रीगणेशाय नमः॥</p>
 <p class="uvacha">मुद्गल उवाच</p>
 <div class="verse-block-wrapper" id="sankataharachaturthi-vinayaka-puja-b0342"><div class="verse-block verse-justify"><div class="line">ततो देवी गणाध्यक्षं स्मृत्वा स्रष्टुं मनो दधे।</div><div class="line" style="position:relative;">ततोऽकस्माद् द्विधा साऽभूद्वामदक्षिणभागतः॥१॥</div></div></div>

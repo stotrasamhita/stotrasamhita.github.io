@@ -1,10 +1,10 @@
 {
- "title": "षष्ठोऽध्यायः---आत्मसंयमयोगः",
+ "title": "षष्ठोऽध्यायः — आत्मसंयमयोगः",
  "weight": 60,
  "iast": "Ṣaṣṭho'dhyāyaḥ — Ātmasaṃyamayogaḥ"
 }
 
-<div class="stotra-article"><h2 class="stotra-heading">षष्ठोऽध्यायः---आत्मसंयमयोगः</h2>
+<div class="stotra-article"><h2 class="stotra-heading">षष्ठोऽध्यायः—आत्मसंयमयोगः</h2>
 <p class="uvacha">श्रीभगवानुवाच</p>
 <div class="verse-block-wrapper" id="gita-b0269"><div class="verse-block verse-justify"><div class="line">अनाश्रितः कर्मफलं कार्यं कर्म करोति यः।</div><div class="line" style="position:relative;">स सन्न्यासी च योगी च न निरग्निर्न चाक्रियः॥१॥</div></div></div>
 <div class="verse-block-wrapper" id="gita-b0270"><div class="verse-block verse-justify"><div class="line">यं सन्न्यासमिति प्राहुर्योगं तं विद्धि पाण्डव।</div><div class="line" style="position:relative;">न ह्यसन्न्यस्तसङ्कल्पो योगी भवति कश्चन॥२॥</div></div></div>

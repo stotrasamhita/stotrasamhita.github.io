@@ -1,10 +1,10 @@
 {
- "title": "दशमोऽध्यायः---विभूतियोगः",
+ "title": "दशमोऽध्यायः — विभूतियोगः",
  "weight": 100,
  "iast": "Daśamo'dhyāyaḥ — Vibhūtiyogaḥ"
 }
 
-<div class="stotra-article"><h2 class="stotra-heading">दशमोऽध्यायः---विभूतियोगः</h2>
+<div class="stotra-article"><h2 class="stotra-heading">दशमोऽध्यायः—विभूतियोगः</h2>
 <p class="uvacha">श्रीभगवानुवाच</p>
 <div class="verse-block-wrapper" id="gita-b0425"><div class="verse-block verse-justify"><div class="line">भूय एव महाबाहो शृणु मे परमं वचः।</div><div class="line" style="position:relative;">यत् तेऽहं प्रीयमाणाय वक्ष्यामि हितकाम्यया॥१॥</div></div></div>
 <div class="verse-block-wrapper" id="gita-b0426"><div class="verse-block verse-justify"><div class="line">न मे विदुः सुरगणाः प्रभवं न महर्षयः।</div><div class="line" style="position:relative;">अहमादिर्हि देवानां महर्षीणां च सर्वशः॥२॥</div></div></div>

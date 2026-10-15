@@ -7,6 +7,9 @@ front matter under hugo/content/, after sync_content.py has regenerated it:
   date    when the source .tex first entered stotra-sangrahah (stotras)
   deity   filled from the category folder when the TeX metadata has none
 
+and turns TeX's dash ligatures (--- and --) into real dashes in titles and
+body text, so feeds, link previews and search see what the pages show.
+
 It also moves the stotras of the historical "big" category into their
 deity's folder (REHOME), keeping the old /stotra/big/<slug>/ URL as an alias.
 
@@ -63,6 +66,15 @@ FORMS = [
 
 FRONT = re.compile(r"\A(\{\n.*?\n\})\n", re.S)
 DEVANAGARI = re.compile(r"[ऀ-ॿ]")
+
+
+def dashes(s, spaced=False):
+    return s.replace("---", " — " if spaced else "—").replace("--", "–")
+
+
+def body_dashes(body):
+    """Dashes in text only: tags (ids, hrefs) keep their slugs' -- as is."""
+    return "".join(p if p.startswith("<") else dashes(p) for p in re.split(r"(<[^>]*>)", body))
 
 
 def iast(title):
@@ -147,7 +159,10 @@ def main():
         fm, body = read(f)
         if fm is None:
             continue
-        before = dict(fm)
+        before, before_body = dict(fm), body
+        if "title" in fm:
+            fm["title"] = dashes(fm["title"], spaced=True)
+        body = body_dashes(body)
         title = fm.get("title", "")
         if DEVANAGARI.search(title) and "iast" not in fm:
             fm["iast"] = iast(title)
@@ -159,7 +174,7 @@ def main():
             src = "stotras/" + fm.get("source_file", "").removeprefix("stotras/")
             if src in dates:
                 fm["date"] = dates[src]
-        if fm != before:
+        if fm != before or body != before_body:
             write(f, fm, body)
             n += 1
     print(f"enriched {n} pages", file=sys.stderr)

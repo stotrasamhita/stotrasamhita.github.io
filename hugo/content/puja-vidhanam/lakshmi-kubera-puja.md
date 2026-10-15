@@ -1,5 +1,5 @@
 {
- "title": "श्री-लक्ष्मी--कुबेर-पूजा",
+ "title": "श्री-लक्ष्मी–कुबेर-पूजा",
  "slug": "lakshmi-kubera-puja",
  "source_file": "pujas/lakshmi-kubera-puja.tex",
  "verse_count": 66,
@@ -8,7 +8,7 @@
  "iast": "Śrī-lakṣmī–kubera-pūjā"
 }
 
-<div class="stotra-article"><h2 class="stotra-heading">श्री-लक्ष्मी--कुबेर-पूजा</h2>
+<div class="stotra-article"><h2 class="stotra-heading">श्री-लक्ष्मी–कुबेर-पूजा</h2>
 <h3 class="subheading">पूर्वाङ्ग-विघ्नेश्वर-पूजा</h3>
 <p class="prose">(आचम्य)</p>
 <div class="verse-block-wrapper" id="lakshmi-kubera-puja-b0003"><div class="verse-block verse-justify"><div class="line">शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम्।</div><div class="line" style="position:relative;">प्रसन्नवदनं ध्यायेत् सर्वविघ्नोपशान्तये॥</div></div></div>

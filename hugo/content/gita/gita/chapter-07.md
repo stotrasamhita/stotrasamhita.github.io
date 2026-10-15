@@ -1,10 +1,10 @@
 {
- "title": "सप्तमोऽध्यायः---ज्ञानविज्ञानयोगः",
+ "title": "सप्तमोऽध्यायः — ज्ञानविज्ञानयोगः",
  "weight": 70,
  "iast": "Saptamo'dhyāyaḥ — Jñānavijñānayogaḥ"
 }
 
-<div class="stotra-article"><h2 class="stotra-heading">सप्तमोऽध्यायः---ज्ञानविज्ञानयोगः</h2>
+<div class="stotra-article"><h2 class="stotra-heading">सप्तमोऽध्यायः—ज्ञानविज्ञानयोगः</h2>
 <p class="uvacha">श्रीभगवानुवाच</p>
 <div class="verse-block-wrapper" id="gita-b0323"><div class="verse-block verse-justify"><div class="line">मय्यासक्तमनाः पार्थ योगं युञ्जन्मदाश्रयः।</div><div class="line" style="position:relative;">असंशयं समग्रं मां यथा ज्ञास्यसि तच्छृणु॥१॥</div></div></div>
 <div class="verse-block-wrapper" id="gita-b0324"><div class="verse-block verse-justify"><div class="line">ज्ञानं तेऽहं सविज्ञानमिदं वक्ष्याम्यशेषतः।</div><div class="line" style="position:relative;">यज्ज्ञात्वा नेह भूयोऽन्यज्ज्ञातव्यमवशिष्यते॥२॥</div></div></div>

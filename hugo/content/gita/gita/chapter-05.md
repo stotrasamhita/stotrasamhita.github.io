@@ -1,10 +1,10 @@
 {
- "title": "पञ्चमोऽध्यायः---कर्मसन्न्यासयोगः",
+ "title": "पञ्चमोऽध्यायः — कर्मसन्न्यासयोगः",
  "weight": 50,
  "iast": "Pañcamo'dhyāyaḥ — Karmasannyāsayogaḥ"
 }
 
-<div class="stotra-article"><h2 class="stotra-heading">पञ्चमोऽध्यायः---कर्मसन्न्यासयोगः</h2>
+<div class="stotra-article"><h2 class="stotra-heading">पञ्चमोऽध्यायः—कर्मसन्न्यासयोगः</h2>
 <p class="uvacha">अर्जुन उवाच</p>
 <div class="verse-block-wrapper" id="gita-b0236"><div class="verse-block verse-justify"><div class="line">सन्न्यासं कर्मणां कृष्ण पुनर्योगं च शंससि।</div><div class="line" style="position:relative;">यच्छ्रेय एतयोरेकं तन्मे ब्रूहि सुनिश्चितम्॥१॥</div></div></div>
 <p class="uvacha">श्रीभगवानुवाच</p>

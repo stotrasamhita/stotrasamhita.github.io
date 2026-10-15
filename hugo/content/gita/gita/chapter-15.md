@@ -1,10 +1,10 @@
 {
- "title": "पञ्चदशोऽध्यायः---पुरुषोत्तमयोगः",
+ "title": "पञ्चदशोऽध्यायः — पुरुषोत्तमयोगः",
  "weight": 150,
  "iast": "Pañcadaśo'dhyāyaḥ — Puruṣottamayogaḥ"
 }
 
-<div class="stotra-article"><h2 class="stotra-heading">पञ्चदशोऽध्यायः---पुरुषोत्तमयोगः</h2>
+<div class="stotra-article"><h2 class="stotra-heading">पञ्चदशोऽध्यायः—पुरुषोत्तमयोगः</h2>
 <p class="uvacha">श्रीभगवानुवाच</p>
 <div class="verse-block-wrapper" id="gita-b0633"><div class="verse-block verse-justify"><div class="line">ऊर्ध्वमूलमधःशाखमश्वत्थं प्राहुरव्ययम्।</div><div class="line" style="position:relative;">छन्दांसि यस्य पर्णानि यस्तं वेद स वेदवित्॥१॥</div></div></div>
 <div class="verse-block-wrapper" id="gita-b0634"><div class="verse-block"><div class="line">अधश्चोर्ध्वं प्रसृतास्तस्य शाखाः</div><div class="line pada-even">गुणप्रवृद्धा विषयप्रवालाः।</div><div class="line">अधश्च मूलान्यनुसन्ततानि</div><div class="line pada-even" style="position:relative;">कर्मानुबन्धीनि मनुष्यलोके॥२॥</div></div></div>

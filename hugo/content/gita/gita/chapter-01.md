@@ -1,10 +1,10 @@
 {
- "title": "प्रथमोऽध्यायः---अर्जुनविषादयोगः",
+ "title": "प्रथमोऽध्यायः — अर्जुनविषादयोगः",
  "weight": 10,
  "iast": "Prathamo'dhyāyaḥ — Arjunaviṣādayogaḥ"
 }
 
-<div class="stotra-article"><h2 class="stotra-heading">प्रथमोऽध्यायः---अर्जुनविषादयोगः</h2>
+<div class="stotra-article"><h2 class="stotra-heading">प्रथमोऽध्यायः—अर्जुनविषादयोगः</h2>
 <p class="uvacha">धृतराष्ट्र उवाच</p>
 <div class="verse-block-wrapper" id="gita-b0002"><div class="verse-block verse-justify"><div class="line">धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः।</div><div class="line" style="position:relative;">मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय॥१॥</div></div></div>
 <p class="uvacha">सञ्जय उवाच</p>

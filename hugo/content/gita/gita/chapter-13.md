@@ -1,10 +1,10 @@
 {
- "title": "त्रयोदशोऽध्यायः---क्षेत्रक्षेत्रज्ञविभागयोगः",
+ "title": "त्रयोदशोऽध्यायः — क्षेत्रक्षेत्रज्ञविभागयोगः",
  "weight": 130,
  "iast": "Trayodaśo'dhyāyaḥ — Kṣetrakṣetrajñavibhāgayogaḥ"
 }
 
-<div class="stotra-article"><h2 class="stotra-heading">त्रयोदशोऽध्यायः---क्षेत्रक्षेत्रज्ञविभागयोगः</h2>
+<div class="stotra-article"><h2 class="stotra-heading">त्रयोदशोऽध्यायः—क्षेत्रक्षेत्रज्ञविभागयोगः</h2>
 <p class="uvacha">श्रीभगवानुवाच</p>
 <div class="verse-block-wrapper" id="gita-b0564"><div class="verse-block verse-justify"><div class="line">इदं शरीरं कौन्तेय क्षेत्रमित्यभिधीयते।</div><div class="line" style="position:relative;">एतद् यो वेत्ति तं प्राहुः क्षेत्रज्ञ इति तद्विदः॥१॥</div></div></div>
 <div class="verse-block-wrapper" id="gita-b0565"><div class="verse-block verse-justify"><div class="line">क्षेत्रज्ञं चापि मां विद्धि सर्वक्षेत्रेषु भारत।</div><div class="line" style="position:relative;">क्षेत्रक्षेत्रज्ञयोर्ज्ञानं यत् तज्ज्ञानं मतं मम॥२॥</div></div></div>

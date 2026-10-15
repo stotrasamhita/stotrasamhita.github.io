@@ -1,10 +1,10 @@
 {
- "title": "एकादशोऽध्यायः---विश्वरूपदर्शनयोगः",
+ "title": "एकादशोऽध्यायः — विश्वरूपदर्शनयोगः",
  "weight": 110,
  "iast": "Ekādaśo'dhyāyaḥ — Viśvarūpadarśanayogaḥ"
 }
 
-<div class="stotra-article"><h2 class="stotra-heading">एकादशोऽध्यायः---विश्वरूपदर्शनयोगः</h2>
+<div class="stotra-article"><h2 class="stotra-heading">एकादशोऽध्यायः—विश्वरूपदर्शनयोगः</h2>
 <p class="uvacha">अर्जुन उवाच</p>
 <div class="verse-block-wrapper" id="gita-b0472"><div class="verse-block verse-justify"><div class="line">मदनुग्रहाय परमं गुह्यमध्यात्मसंज्ञितम्।</div><div class="line" style="position:relative;">यत् त्वयोक्तं वचस्तेन मोहोऽयं विगतो मम॥१॥</div></div></div>
 <div class="verse-block-wrapper" id="gita-b0473"><div class="verse-block verse-justify"><div class="line">भवाप्ययौ हि भूतानां श्रुतौ विस्तरशो मया।</div><div class="line" style="position:relative;">त्वत्तः कमलपत्राक्ष माहात्म्यमपि चाव्ययम्॥२॥</div></div></div>

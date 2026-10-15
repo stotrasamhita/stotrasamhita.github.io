@@ -1,10 +1,10 @@
 {
- "title": "अष्टमोऽध्यायः---अक्षरब्रह्मयोगः",
+ "title": "अष्टमोऽध्यायः — अक्षरब्रह्मयोगः",
  "weight": 80,
  "iast": "Aṣṭamo'dhyāyaḥ — Akṣarabrahmayogaḥ"
 }
 
-<div class="stotra-article"><h2 class="stotra-heading">अष्टमोऽध्यायः---अक्षरब्रह्मयोगः</h2>
+<div class="stotra-article"><h2 class="stotra-heading">अष्टमोऽध्यायः—अक्षरब्रह्मयोगः</h2>
 <p class="uvacha">अर्जुन उवाच</p>
 <div class="verse-block-wrapper" id="gita-b0356"><div class="verse-block verse-justify"><div class="line">किं तद् ब्रह्म किमध्यात्मं किं कर्म पुरुषोत्तम।</div><div class="line" style="position:relative;">अधिभूतं च किं प्रोक्तमधिदैवं किमुच्यते॥१॥</div></div></div>
 <div class="verse-block-wrapper" id="gita-b0357"><div class="verse-block verse-justify"><div class="line">अधियज्ञः कथं कोऽत्र देहेऽस्मिन् मधुसूदन।</div><div class="line" style="position:relative;">प्रयाणकाले च कथं ज्ञेयोऽसि नियतात्मभिः॥२॥</div></div></div>

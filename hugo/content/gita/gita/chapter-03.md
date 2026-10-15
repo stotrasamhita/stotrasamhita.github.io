@@ -1,10 +1,10 @@
 {
- "title": "तृतीयोऽध्यायः---कर्मयोगः",
+ "title": "तृतीयोऽध्यायः — कर्मयोगः",
  "weight": 30,
  "iast": "Tṛtīyo'dhyāyaḥ — Karmayogaḥ"
 }
 
-<div class="stotra-article"><h2 class="stotra-heading">तृतीयोऽध्यायः---कर्मयोगः</h2>
+<div class="stotra-article"><h2 class="stotra-heading">तृतीयोऽध्यायः—कर्मयोगः</h2>
 <p class="uvacha">अर्जुन उवाच</p>
 <div class="verse-block-wrapper" id="gita-b0140"><div class="verse-block verse-justify"><div class="line">ज्यायसी चेत् कर्मणस्ते मता बुद्धिर्जनार्दन।</div><div class="line" style="position:relative;">तत् किं कर्मणि घोरे मां नियोजयसि केशव॥१॥</div></div></div>
 <div class="verse-block-wrapper" id="gita-b0141"><div class="verse-block verse-justify"><div class="line">व्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे।</div><div class="line" style="position:relative;">तदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम्॥२॥</div></div></div>

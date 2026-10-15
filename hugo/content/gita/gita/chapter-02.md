@@ -1,10 +1,10 @@
 {
- "title": "द्वितीयोऽध्यायः---साङ्ख्ययोगः",
+ "title": "द्वितीयोऽध्यायः — साङ्ख्ययोगः",
  "weight": 20,
  "iast": "Dvitīyo'dhyāyaḥ — Sāṅkhyayogaḥ"
 }
 
-<div class="stotra-article"><h2 class="stotra-heading">द्वितीयोऽध्यायः---साङ्ख्ययोगः</h2>
+<div class="stotra-article"><h2 class="stotra-heading">द्वितीयोऽध्यायः—साङ्ख्ययोगः</h2>
 <p class="uvacha">सञ्जय उवाच</p>
 <div class="verse-block-wrapper" id="gita-b0059"><div class="verse-block verse-justify"><div class="line">तं तथा कृपयाऽऽविष्टम् अश्रुपूर्णाकुलेक्षणम्।</div><div class="line" style="position:relative;">विषीदन्तमिदं वाक्यमुवाच मधुसूदनः॥१॥</div></div></div>
 <p class="uvacha">श्रीभगवानुवाच</p>

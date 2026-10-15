@@ -1,10 +1,10 @@
 {
- "title": "सप्तदशोऽध्यायः---श्रद्धात्रयविभागयोगः",
+ "title": "सप्तदशोऽध्यायः — श्रद्धात्रयविभागयोगः",
  "weight": 170,
  "iast": "Saptadaśo'dhyāyaḥ — Śraddhātrayavibhāgayogaḥ"
 }
 
-<div class="stotra-article"><h2 class="stotra-heading">सप्तदशोऽध्यायः---श्रद्धात्रयविभागयोगः</h2>
+<div class="stotra-article"><h2 class="stotra-heading">सप्तदशोऽध्यायः—श्रद्धात्रयविभागयोगः</h2>
 <p class="uvacha">अर्जुन उवाच</p>
 <div class="verse-block-wrapper" id="gita-b0683"><div class="verse-block verse-justify"><div class="line">ये शास्त्रविधिमुत्सृज्य यजन्ते श्रद्धयाऽन्विताः।</div><div class="line" style="position:relative;">तेषां निष्ठा तु का कृष्ण सत्त्वमाहो रजस्तमः॥१॥</div></div></div>
 <p class="uvacha">श्रीभगवानुवाच</p>

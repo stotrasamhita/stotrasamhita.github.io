@@ -1,5 +1,5 @@
 {
- "title": "बृन्दावनपूजा (श्री-तुलसी--विष्णु-पूजा)",
+ "title": "बृन्दावनपूजा (श्री-तुलसी–विष्णु-पूजा)",
  "slug": "brindavana-puja",
  "source_file": "pujas/brindavana-puja.tex",
  "verse_count": 156,
@@ -8,7 +8,7 @@
  "iast": "Bṛndāvanapūjā Śrī-tulasī–viṣṇu-pūjā"
 }
 
-<div class="stotra-article"><h2 class="stotra-heading">बृन्दावनपूजा (श्री-तुलसी--विष्णु-पूजा)</h2>
+<div class="stotra-article"><h2 class="stotra-heading">बृन्दावनपूजा (श्री-तुलसी–विष्णु-पूजा)</h2>
 <p class="prose">(मूलम्—पूजा-सङ्ग्रहः (राधाकृष्ण-शास्त्रिणः))</p>
 <h3 class="subheading">पूर्वाङ्ग-विघ्नेश्वर-पूजा</h3>
 <p class="prose">(आचम्य)</p>
