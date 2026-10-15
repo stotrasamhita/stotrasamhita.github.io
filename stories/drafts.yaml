@@ -1,129 +1,122 @@
 gita/gita/chapter-01:
-  text: Chapter 1 of the Bhagavad Gītā, Arjuna-viṣāda-yoga (the Yoga of Arjuna's Despondency). On the
-    field of Kurukṣetra, Sañjaya describes to the blind king Dhṛtarāṣṭra the two armies arrayed for battle
-    and the blowing of the conches. Arjuna asks Kṛṣṇa to draw his chariot between the armies, sees his
-    teachers, kinsmen and friends on both sides, and overcome by grief and confusion, lays down his bow,
-    refusing to fight.
+  text: Chapter 1 of the Bhagavad Gītā, Arjuna-viṣāda-yoga. On the field of Kurukṣetra, Sañjaya describes
+    to the blind king Dhṛtarāṣṭra the two armies arrayed for battle and the blowing of the conches. Arjuna
+    asks Kṛṣṇa to draw his chariot between the armies, sees his teachers, kinsmen and friends on both
+    sides, and overcome by grief and confusion, lays down his bow, refusing to fight.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 gita/gita/chapter-02:
-  text: 'Chapter 2 of the Bhagavad Gītā, Sāṅkhya-yoga (the Yoga of Knowledge). Arjuna surrenders to Kṛṣṇa
-    as a disciple, and the teaching begins: the Self is never born and never dies, and is not slain when
-    the body is slain; one''s own duty (svadharma) is to be done; action is to be performed without attachment
-    to its fruits (karmaṇy evādhikāras te). The chapter closes with the portrait of the sthita-prajña,
-    the person of steady wisdom.'
+  text: 'Chapter 2 of the Bhagavad Gītā, Sāṅkhya-yoga. Arjuna surrenders to Kṛṣṇa as a disciple, and the
+    teaching begins: the Self is never born and never dies, and is not slain when the body is slain; one''s
+    own duty (svadharma) is to be done; action is to be performed without attachment to its fruits (karmaṇy
+    evādhikāras te). The chapter closes with the portrait of the sthita-prajña, the person of steady wisdom.'
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 gita/gita/chapter-03:
-  text: Chapter 3 of the Bhagavad Gītā, Karma-yoga (the Yoga of Action). No one can remain without acting
-    even for a moment; so act, but as an offering (yajña), without selfish attachment. Kṛṣṇa explains
-    the cycle of sacrifice that sustains the world, the example the wise must set for others (loka-saṅgraha),
-    that one's own duty imperfectly done is better than another's done well, and that desire born of rajas
-    is the enemy to be conquered.
+  text: Chapter 3 of the Bhagavad Gītā, Karma-yoga. No one can remain without acting even for a moment;
+    so act, but as an offering (yajña), without selfish attachment. Kṛṣṇa explains the cycle of sacrifice
+    that sustains the world, the example the wise must set for others (loka-saṅgraha), that one's own
+    duty imperfectly done is better than another's done well, and that desire born of rajas is the enemy
+    to be conquered.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 gita/gita/chapter-04:
-  text: Chapter 4 of the Bhagavad Gītā, Jñāna-karma-sannyāsa-yoga (the Yoga of Knowledge and the Renunciation
-    of Action). Kṛṣṇa reveals that this yoga was taught of old to Vivasvān, and that He takes birth age
-    after age to protect the good and establish dharma (yadā yadā hi dharmasya). He teaches seeing inaction
-    in action, describes the many forms of sacrifice, and declares knowledge the supreme purifier, to
-    be gained by reverence, inquiry and service to the wise.
+  text: Chapter 4 of the Bhagavad Gītā, Jñāna-karma-sannyāsa-yoga. Kṛṣṇa reveals that this yoga was taught
+    of old to Vivasvān, and that He takes birth age after age to protect the good and establish dharma
+    (yadā yadā hi dharmasya). He teaches seeing inaction in action, describes the many forms of sacrifice,
+    and declares knowledge the supreme purifier, to be gained by reverence, inquiry and service to the
+    wise.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 gita/gita/chapter-05:
-  text: 'Chapter 5 of the Bhagavad Gītā, Karma-sannyāsa-yoga (the Yoga of Renunciation). Arjuna asks which
-    is better, renouncing action or performing it. Kṛṣṇa answers that both lead to the highest, but action
-    without attachment is superior: the yogī works like a lotus leaf untouched by water, sees the same
-    Self in a learned brāhmaṇa, a cow, an elephant, a dog and an outcaste, and finds the peace of Brahman
-    within.'
+  text: 'Chapter 5 of the Bhagavad Gītā, Karma-sannyāsa-yoga. Arjuna asks which is better, renouncing
+    action or performing it. Kṛṣṇa answers that both lead to the highest, but action without attachment
+    is superior: the yogī works like a lotus leaf untouched by water, sees the same Self in a learned
+    brāhmaṇa, a cow, an elephant, a dog and an outcaste, and finds the peace of Brahman within.'
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 gita/gita/chapter-06:
-  text: 'Chapter 6 of the Bhagavad Gītā, Ātma-saṁyama-yoga (the Yoga of Meditation). Lift yourself by
-    yourself — the mind is both friend and enemy. Kṛṣṇa describes the practice of meditation: the seat,
-    the posture, moderation in food and sleep, the mind steady as a lamp in a windless place. To Arjuna''s
-    doubt that the restless mind cannot be held, He answers: by practice and dispassion; and no one who
-    does good ever comes to grief, even if the effort is left unfinished.'
+  text: 'Chapter 6 of the Bhagavad Gītā, Ātma-saṁyama-yoga. Lift yourself by yourself — the mind is both
+    friend and enemy. Kṛṣṇa describes the practice of meditation: the seat, the posture, moderation in
+    food and sleep, the mind steady as a lamp in a windless place. To Arjuna''s doubt that the restless
+    mind cannot be held, He answers: by practice and dispassion; and no one who does good ever comes to
+    grief, even if the effort is left unfinished.'
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 gita/gita/chapter-07:
-  text: 'Chapter 7 of the Bhagavad Gītā, Jñāna-vijñāna-yoga (the Yoga of Knowledge and Realisation). Kṛṣṇa
-    describes His lower nature (the eight elements of matter) and His higher nature (the life that sustains
-    the world): all this is strung on Him like pearls on a thread. Four kinds of people worship Him —
-    the distressed, the seeker of knowledge, the seeker of wealth, and the wise; the wise one, who after
-    many births knows that Vāsudeva is all, is very rare.'
+  text: 'Chapter 7 of the Bhagavad Gītā, Jñāna-vijñāna-yoga. Kṛṣṇa describes His lower nature (the eight
+    elements of matter) and His higher nature (the life that sustains the world): all this is strung on
+    Him like pearls on a thread. Four kinds of people worship Him — the distressed, the seeker of knowledge,
+    the seeker of wealth, and the wise; the wise one, who after many births knows that Vāsudeva is all,
+    is very rare.'
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 gita/gita/chapter-08:
-  text: Chapter 8 of the Bhagavad Gītā, Akṣara-brahma-yoga (the Yoga of the Imperishable Brahman). Arjuna
-    asks what Brahman, adhyātma, karma, adhibhūta and adhidaiva are. Kṛṣṇa explains them and teaches that
-    whatever one remembers at the moment of death, to that one goes — so remember Him at all times and
-    fight. He describes the cycles of the days and nights of Brahmā, and the two paths by which souls
-    depart.
+  text: Chapter 8 of the Bhagavad Gītā, Akṣara-brahma-yoga. Arjuna asks what Brahman, adhyātma, karma,
+    adhibhūta and adhidaiva are. Kṛṣṇa explains them and teaches that whatever one remembers at the moment
+    of death, to that one goes — so remember Him at all times and fight. He describes the cycles of the
+    days and nights of Brahmā, and the two paths by which souls depart.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 gita/gita/chapter-09:
-  text: 'Chapter 9 of the Bhagavad Gītā, Rāja-vidyā-rāja-guhya-yoga (the Yoga of the Royal Knowledge and
-    Royal Secret). The whole universe is pervaded by Kṛṣṇa''s unmanifest form, yet He stands apart. Whatever
-    is offered with love — a leaf, a flower, a fruit, water (patraṁ puṣpaṁ phalaṁ toyam) — He accepts;
-    whoever worships Him with undivided devotion, He carries their burden. Even the gravest sinner who
-    turns to Him is soon righteous: ''My devotee never perishes.'''
+  text: 'Chapter 9 of the Bhagavad Gītā, Rāja-vidyā-rāja-guhya-yoga. The whole universe is pervaded by
+    Kṛṣṇa''s unmanifest form, yet He stands apart. Whatever is offered with love — a leaf, a flower, a
+    fruit, water (patraṁ puṣpaṁ phalaṁ toyam) — He accepts; whoever worships Him with undivided devotion,
+    He carries their burden. Even the gravest sinner who turns to Him is soon righteous: ''My devotee
+    never perishes.'''
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 gita/gita/chapter-10:
-  text: Chapter 10 of the Bhagavad Gītā, Vibhūti-yoga (the Yoga of Divine Manifestations). Kṛṣṇa declares
-    Himself the source of all, and Arjuna praises Him as the Supreme Brahman and asks to hear His glories.
-    Kṛṣṇa lists His chief manifestations — among the Ādityas Viṣṇu, among lights the sun, among rivers
-    the Gaṅgā, among the Pāṇḍavas Arjuna — and concludes that whatever is glorious, beautiful or mighty
-    springs from a spark of His splendour.
+  text: Chapter 10 of the Bhagavad Gītā, Vibhūti-yoga. Kṛṣṇa declares Himself the source of all, and Arjuna
+    praises Him as the Supreme Brahman and asks to hear His glories. Kṛṣṇa lists His chief manifestations
+    — among the Ādityas Viṣṇu, among lights the sun, among rivers the Gaṅgā, among the Pāṇḍavas Arjuna
+    — and concludes that whatever is glorious, beautiful or mighty springs from a spark of His splendour.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 gita/gita/chapter-11:
-  text: 'Chapter 11 of the Bhagavad Gītā, Viśvarūpa-darśana-yoga (the Vision of the Cosmic Form). Granted
-    divine sight, Arjuna beholds Kṛṣṇa''s universal form — countless faces, eyes and arms, the radiance
-    of a thousand suns — and sees the warriors of both armies rushing into His mouths. ''I am Time, the
-    destroyer of worlds'': Arjuna is to be merely the instrument. Terrified and awed, Arjuna praises Him
-    and begs to see again the gentle four-armed and human form. Much of this chapter is in the Triṣṭubh
-    metre.'
+  text: 'Chapter 11 of the Bhagavad Gītā, Viśvarūpa-darśana-yoga. Granted divine sight, Arjuna beholds
+    Kṛṣṇa''s universal form — countless faces, eyes and arms, the radiance of a thousand suns — and sees
+    the warriors of both armies rushing into His mouths. ''I am Time, the destroyer of worlds'': Arjuna
+    is to be merely the instrument. Terrified and awed, Arjuna praises Him and begs to see again the gentle
+    four-armed and human form. Much of this chapter is in the Triṣṭubh metre.'
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 gita/gita/chapter-12:
-  text: Chapter 12 of the Bhagavad Gītā, Bhakti-yoga (the Yoga of Devotion). Arjuna asks who is better
-    — those who worship the personal Lord or the unmanifest Imperishable. Kṛṣṇa answers that both reach
-    Him, but the path of the unmanifest is harder for the embodied; He gives a ladder of practice for
-    those who cannot fix their mind on Him at once, and closes with the beloved qualities of His devotee
-    — without hatred, friendly and compassionate, the same in honour and dishonour.
+  text: Chapter 12 of the Bhagavad Gītā, Bhakti-yoga. Arjuna asks who is better — those who worship the
+    personal Lord or the unmanifest Imperishable. Kṛṣṇa answers that both reach Him, but the path of the
+    unmanifest is harder for the embodied; He gives a ladder of practice for those who cannot fix their
+    mind on Him at once, and closes with the beloved qualities of His devotee — without hatred, friendly
+    and compassionate, the same in honour and dishonour.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 gita/gita/chapter-13:
-  text: 'Chapter 13 of the Bhagavad Gītā, Kṣetra-kṣetrajña-vibhāga-yoga (the Field and the Knower of the
-    Field). The body is the field, and He who knows it is the knower of the field — and Kṛṣṇa is the knower
-    in all fields. He lists the virtues that constitute knowledge, describes the Brahman that is to be
-    known, and explains prakṛti and puruṣa: whoever sees the Lord dwelling equally in all beings, imperishable
-    among the perishing, truly sees.'
+  text: 'Chapter 13 of the Bhagavad Gītā, Kṣetra-kṣetrajña-vibhāga-yoga. The body is the field, and He
+    who knows it is the knower of the field — and Kṛṣṇa is the knower in all fields. He lists the virtues
+    that constitute knowledge, describes the Brahman that is to be known, and explains prakṛti and puruṣa:
+    whoever sees the Lord dwelling equally in all beings, imperishable among the perishing, truly sees.'
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 gita/gita/chapter-14:
-  text: 'Chapter 14 of the Bhagavad Gītā, Guṇa-traya-vibhāga-yoga (the Three Guṇas). Kṛṣṇa explains how
-    the three qualities of nature — sattva, rajas and tamas — bind the embodied soul: sattva by attachment
-    to happiness and knowledge, rajas by attachment to action, tamas by delusion and sloth. Asked about
-    the one who has transcended them, He describes the guṇātīta — equal in pleasure and pain, praise and
-    blame — who serves Him with unwavering devotion.'
+  text: 'Chapter 14 of the Bhagavad Gītā, Guṇa-traya-vibhāga-yoga. Kṛṣṇa explains how the three qualities
+    of nature — sattva, rajas and tamas — bind the embodied soul: sattva by attachment to happiness and
+    knowledge, rajas by attachment to action, tamas by delusion and sloth. Asked about the one who has
+    transcended them, He describes the guṇātīta — equal in pleasure and pain, praise and blame — who serves
+    Him with unwavering devotion.'
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 gita/gita/chapter-15:
-  text: Chapter 15 of the Bhagavad Gītā, Puruṣottama-yoga (the Supreme Person). The world is an eternal
-    aśvattha tree with roots above and branches below, to be cut down with the axe of detachment. Kṛṣṇa
-    is the light of the sun and moon, the digestive fire in all beings, seated in every heart; beyond
-    the perishable and the imperishable, He is the Supreme Person, the Puruṣottama. This short chapter
-    is traditionally recited before meals.
+  text: Chapter 15 of the Bhagavad Gītā, Puruṣottama-yoga. The world is an eternal aśvattha tree with
+    roots above and branches below, to be cut down with the axe of detachment. Kṛṣṇa is the light of the
+    sun and moon, the digestive fire in all beings, seated in every heart; beyond the perishable and the
+    imperishable, He is the Supreme Person, the Puruṣottama. This short chapter is traditionally recited
+    before meals.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 gita/gita/chapter-16:
-  text: Chapter 16 of the Bhagavad Gītā, Daivāsura-sampad-vibhāga-yoga (the Divine and Demoniac Natures).
-    Kṛṣṇa lists the divine qualities that lead to liberation — fearlessness, purity, charity, self-control,
-    non-violence, truthfulness, compassion — and the demoniac ones that lead to bondage — hypocrisy, arrogance,
-    anger and harshness. Lust, anger and greed are the three gates of hell; so let the scripture be your
-    authority in deciding what to do.
+  text: Chapter 16 of the Bhagavad Gītā, Daivāsura-sampad-vibhāga-yoga. Kṛṣṇa lists the divine qualities
+    that lead to liberation — fearlessness, purity, charity, self-control, non-violence, truthfulness,
+    compassion — and the demoniac ones that lead to bondage — hypocrisy, arrogance, anger and harshness.
+    Lust, anger and greed are the three gates of hell; so let the scripture be your authority in deciding
+    what to do.
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 gita/gita/chapter-17:
-  text: 'Chapter 17 of the Bhagavad Gītā, Śraddhā-traya-vibhāga-yoga (the Three Kinds of Faith). Faith
-    takes the form of one''s nature: sāttvika, rājasa or tāmasa. Kṛṣṇa describes the three kinds of food,
-    sacrifice, austerity (of body, speech and mind) and charity, and ends with the meaning of ''Om Tat
-    Sat'', the threefold designation of Brahman.'
+  text: 'Chapter 17 of the Bhagavad Gītā, Śraddhā-traya-vibhāga-yoga. Faith takes the form of one''s nature:
+    sāttvika, rājasa or tāmasa. Kṛṣṇa describes the three kinds of food, sacrifice, austerity (of body,
+    speech and mind) and charity, and ends with the meaning of ''Om Tat Sat'', the threefold designation
+    of Brahman.'
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 gita/gita/chapter-18:
-  text: 'Chapter 18 of the Bhagavad Gītā, Mokṣa-sannyāsa-yoga (Liberation through Renunciation). Kṛṣṇa
-    distinguishes renunciation (sannyāsa) from relinquishment (tyāga), analyses knowledge, action, doer,
-    intellect, resolve and happiness by the three guṇas, and teaches that one attains perfection by worshipping
-    Him through one''s own duty. Then the final word: ''Abandon all dharmas and take refuge in Me alone;
-    I will free you from all sins — do not grieve.'' Arjuna''s delusion is gone, and Sañjaya closes: where
-    Kṛṣṇa and Arjuna are, there are fortune, victory and justice.'
+  text: 'Chapter 18 of the Bhagavad Gītā, Mokṣa-sannyāsa-yoga. Kṛṣṇa distinguishes renunciation (sannyāsa)
+    from relinquishment (tyāga), analyses knowledge, action, doer, intellect, resolve and happiness by
+    the three guṇas, and teaches that one attains perfection by worshipping Him through one''s own duty.
+    Then the final word: ''Abandon all dharmas and take refuge in Me alone; I will free you from all sins
+    — do not grieve.'' Arjuna''s delusion is gone, and Sañjaya closes: where Kṛṣṇa and Arjuna are, there
+    are fortune, victory and justice.'
   source: Vani YouTube description (pipeline/youtube_blurbs.tsv)
 gita/mahatmyam:
   text: 'Seven verses on the greatness of the Gītā, traditionally chanted after the text: whoever reads
