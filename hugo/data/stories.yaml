@@ -274,6 +274,10 @@ stotra/nadi/gangakarshanashtakam:
     in this well? Surely the Lord is pleased with me… May this stream of compassion, risen from the well,
     purify the people here for ever.” Every year on the Kārttika amāvāsyā, devotees bathe in that well
     at Tiruviśanallūr.'
+stotra/nadi/gangashtakam:
+  text: The Gaṅgāṣṭakam — eight verses in praise of the holy river Gaṅgā.
+stotra/nadi/kaveri-prarthana:
+  text: A short prayer to the river Kāverī, in the Anuṣṭubh metre.
 stotra/nadi/narmadashtakam:
   text: The Narmadāṣṭakam — composed by Ādi Śaṅkarācārya in the Pañcacāmara metre, with its flowing refrain
     'tvadīya pāda-paṅkajaṁ namāmi devi narmade'.
@@ -284,6 +288,13 @@ stotra/nadi/yamunashtakam:
 stotra/navagraha/aditya-hrdayam:
   text: The Āditya Hṛdayam — the hymn to the Sun that the sage Agastya taught Śrī Rāma on the battlefield
     before His final battle with Rāvaṇa. From the Śrīmad Rāmāyaṇa, in the Anuṣṭubh metre.
+stotra/navagraha/surya-sahasranama-stotram:
+  text: 'A thousand names of the Sun, from the Bhaviṣya Purāṇa, given in answer to King Śatānīka, who
+    asks to hear the names by which the Sun god himself once appeared before the teller; the teller has
+    them from Vyāsa. Among the closing names is a beautiful line: *sandhyā-rāga-karaḥ siddhaḥ sandhyā-vandana-vanditaḥ*,
+    “he who paints the twilight sky red, and who is worshipped in the Sandhyāvandana.” The Sun to whom
+    we offer arghya at dawn and dusk is the deity of the rite itself. The phala-śruti promises freedom
+    from fear and disease, a hundred years of life, and victory to one who recites it daily.'
 stotra/other/svadha-stotram:
   text: From the Devī Bhāgavatam (Skandha 9, Adhyāya 44), in the Anuṣṭubh metre, where Nārāyaṇa tells
     Nārada the story of Svadhā, the goddess through whom offerings reach the Pitṛs. When the ancestors
@@ -295,18 +306,42 @@ stotra/other/yamashtakam:
 stotra/rama/gayatri-ramayanam:
   text: The Gāyatrī Rāmāyaṇam — twenty-four verses of Vālmīki's Rāmāyaṇa, one for each syllable of the
     Gāyatrī mantra, in the Anuṣṭubh metre.
+stotra/rama/munikrta-rama-stotram:
+  text: The praise of Śrī Rāma by the sages, from the Skanda Purāṇa, in the Anuṣṭubh metre.
 stotra/rama/rama-bhujangaprayata-stotram:
   text: A hymn to Śrī Rāma composed by Ādi Śaṅkarācārya in the Bhujaṅgaprayāta metre, beginning with Rāma
     as the pure, supreme Sat-cit-ānanda.
+stotra/rama/rama-dwadasha-nama-stotram:
+  text: Twelve names of Śrī Rāma, taught by Śiva, from the Skanda Purāṇa, in the Anuṣṭubh metre.
+stotra/rama/rama-stava:
+  text: Śiva's praise of Śrī Rāma.
+stotra/rama/rama-stavaraja-stotram:
+  text: The Rāma Stavarāja — the 'king of hymns' to Śrī Rāma, taught by Nārada, in the Anuṣṭubh metre.
 stotra/rama/ramaraksha-stotram:
   text: The Rāmarakṣā Stotram of Budha Kauśika — a protective hymn to Śrī Rāma, beloved for its many-coloured
     names of Rāma.
+stotra/rama/ramashtakam:
+  text: The Rāmāṣṭakam, attributed to Veda Vyāsa, in the Pramāṇikā metre, beginning 'bhaje viśeṣa-sundaram'.
 stotra/rama/sankshepa-ramayanam:
   text: The Saṅkṣepa Rāmāyaṇam — the whole story of Śrī Rāma in brief, as Nārada told it to Vālmīki at
     the beginning of the Rāmāyaṇa.
+stotra/rama/sita-rama-stotram:
+  text: The Sītā-Rāma Stotram, attributed to Hanumān, in the Anuṣṭubh metre — every verse praises Rāma
+    and Sītā together.
 stotra/saraswati/saraswati-sahasranama-stotram:
   text: The Sarasvatī Sahasranāma — a thousand names of Goddess Sarasvatī, taught by Sanatkumāra. From
     the Skanda Purāṇa, in the Anuṣṭubh metre.
+stotra/shatanama/surya-ashtottara-shatanama-stotram:
+  text: From the Vana Parva of the Mahābhārata. The Pāṇḍavas are in exile in the forest, and the many
+    brāhmaṇas who have followed them must be fed, but Yudhiṣṭhira has nothing to give. The family priest,
+    the sage Dhaumya, teaches him these 108 names of Sūrya. Yudhiṣṭhira worships the Sun with them, the
+    Sun appears before him, and gives him the Akṣaya-pātra, the vessel that never runs out until Draupadī
+    has eaten for the day.
+stotra/shatanama/venkatesha-ashtottara-shatanama-stotram:
+  text: 'The 108 names of Lord Veṅkaṭeśa, especially dear on the Saturdays of Purattāsi, hold a secret:
+    take the first syllable of each name, in order, and together they spell a mantra, “oṃ namo veṅkaṭeśāya
+    … śrīṃ klīṃ sauṃ … namo nārāyaṇa te svāhā”. The bīja syllables śrīṃ, klīṃ and sauṃ stand as names
+    in the stotra itself.'
 stotra/shiva/charanashringarahita-nataraja-stotram:
   text: 'The Caraṇa-śṛṅga-rahita Naṭarāja Stotram: ten verses to the dancing Śiva of Chidambaram, attributed
     to the sage Patañjali, traditionally the divine serpent Ādiśeṣa. The closing verse calls it the work
@@ -324,3 +359,25 @@ stotra/shiva/charanashringarahita-nataraja-stotram:
     found this story in an early text. The scholar-monk Swami Kāśikānanda Giri, in his Sanskrit commentary,
     reads the name another way: "without beginning or end", like Śiva himself, whose pillar of fire Brahmā
     and Viṣṇu could never measure.'
+stotra/shiva/rudra-stotram:
+  text: 'From the Mahābhārata (Droṇa Parva, Pratijñā Parva, chapter 80). After Abhimanyu''s death Arjuna
+    vows to slay Jayadratha before the next sunset or enter the fire. That night, in a vision, Śrī Kṛṣṇa
+    takes him to Kailāsa to seek Śiva''s weapon, and together they praise Mahādeva with this hymn, calling
+    him the blue-throated, the bearer of Pināka and the trident, the matted-haired lord with the bull
+    on his banner, the golden-hued husband of Ambikā, the thousand-eyed. Sañjaya closes: “Having praised
+    Mahādeva thus, Vāsudeva with Arjuna propitiated Bhava to obtain the weapon.”'
+stotra/shiva/shiva-manasapuja:
+  text: 'Ādi Śaṅkarācārya''s worship of Śiva performed entirely in the mind. Verse by verse it offers
+    each of the upacāras in imagination: a jewelled seat, a bath in cool Himalayan water, divine garments,
+    sandal paste, jasmine, campaka and bilva flowers, incense and lamp; then food in a golden vessel,
+    tāmbūla, the parasol and the cāmara, the mirror, the music of the vīṇā, bherī and mṛdaṅga, song and
+    dance, full prostration and praise. The fourth verse turns the whole of life into the pūjā: “You are
+    my Self, Girijā my intellect, my prāṇas your attendants, my body your temple. Every enjoyment is your
+    worship and sleep is samādhi; every step I walk is a pradakṣiṇa and every word I speak a hymn. Whatever
+    I do, Śambhu, all of it is Your worship.” The last verse asks forgiveness for every fault of hand
+    and foot, speech and body, done or left undone.'
+stotra/shiva/shiva-sahasranama-stotram--vishnu-krtam:
+  text: From the Liṅga Purāṇa (Pūrva-bhāga, chapter 98). To gain a weapon against the asuras, Viṣṇu worships
+    Śiva with a thousand names, offering a lotus at each name. When one lotus is found missing, he offers
+    his own lotus-like eye in its place; pleased, Śiva gives him the Sudarśana cakra. It is a favourite
+    on Pradoṣa evenings.
