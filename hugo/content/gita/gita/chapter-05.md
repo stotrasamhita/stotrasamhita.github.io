@@ -8,7 +8,7 @@
 <p class="uvacha">अर्जुन उवाच</p>
 <div class="verse-block-wrapper" id="gita-b0236"><div class="verse-block verse-justify"><div class="line">सन्न्यासं कर्मणां कृष्ण पुनर्योगं च शंससि।</div><div class="line" style="position:relative;">यच्छ्रेय एतयोरेकं तन्मे ब्रूहि सुनिश्चितम्॥१॥</div></div></div>
 <p class="uvacha">श्रीभगवानुवाच</p>
-<div class="verse-block-wrapper" id="gita-b0238"><div class="verse-block verse-justify"><div class="line">सन्न्यासः कर्मयोगश्च निःश्रेयसकरावुभौ।</div><div class="line" style="position:relative;">तयोस्तु कर्मसन्न्यासात्कर्मयोगो विशिष्यते॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="gita-b0238"><div class="verse-block verse-justify"><div class="line">सन्न्यासः कर्मयोगश्च निःश्रेयसकरावुभौ।</div><div class="line" style="position:relative;">तयोस्तु कर्मसन्न्यासात् कर्मयोगो विशिष्यते॥२॥</div></div></div>
 <div class="verse-block-wrapper" id="gita-b0239"><div class="verse-block verse-justify"><div class="line">ज्ञेयः स नित्यसन्न्यासी यो न द्वेष्टि न काङ्क्षति।</div><div class="line" style="position:relative;">निर्द्वन्द्वो हि महाबाहो सुखं बन्धात् प्रमुच्यते॥३॥</div></div></div>
 <div class="verse-block-wrapper" id="gita-b0240"><div class="verse-block verse-justify"><div class="line">साङ्ख्ययोगौ पृथग् बालाः प्रवदन्ति न पण्डिताः।</div><div class="line" style="position:relative;">एकमप्यास्थितः सम्यगुभयोर्विन्दते फलम्॥४॥</div></div></div>
 <div class="verse-block-wrapper" id="gita-b0241"><div class="verse-block verse-justify"><div class="line">यत् साङ्ख्यैः प्राप्यते स्थानं तद् योगैरपि गम्यते।</div><div class="line" style="position:relative;">एकं साङ्ख्यं च योगं च यः पश्यति स पश्यति॥५॥</div></div></div>
