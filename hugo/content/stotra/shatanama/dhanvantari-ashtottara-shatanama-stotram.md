@@ -11,7 +11,7 @@
 
 <div class="stotra-article"><h2 class="stotra-heading">धन्वन्तर्यष्टोत्तरशतनामस्तोत्रम्</h2>
 <h3 class="subheading">ध्यानम्</h3>
-<div class="verse-block-wrapper" id="dhanvantari-ashtottara-shatanama-stotram-b0002"><div class="verse-block"><div class="line">शङ्खं चक्रं जलौकां दधदमृतघटं चारुदोर्भिश्चतुर्भिः</div><div class="line pada-even">सूक्ष्मस्वच्छातिहृद्यांशुक-परिविलसन्मौलिमम्भोजनेत्रम्।</div><div class="line">कालाम्भोदोज्ज्वलाङ्गं कटितटविलसच्चारूपीताम्बराढ्यं</div><div class="line pada-even" style="position:relative;">वन्दे धन्वन्तरिं तं निखिलगदवनप्रौढदावाग्निलीलम्॥</div></div></div>
+<div class="verse-block-wrapper" id="dhanvantari-ashtottara-shatanama-stotram-b0002"><div class="verse-block"><div class="line">शङ्खं चक्रं जलौकां दधदमृतघटं चारुदोर्भिश्चतुर्भिः</div><div class="line pada-even">सूक्ष्मस्वच्छातिहृद्यांशुक-परिविलसन्मौलिमम्भोजनेत्रम्।</div><div class="line">कालाम्भोदोज्ज्वलाङ्गं कटितटविलसच्चारुपीताम्बराढ्यं</div><div class="line pada-even" style="position:relative;">वन्दे धन्वन्तरिं तं निखिलगदवनप्रौढदावाग्निलीलम्॥</div></div></div>
 <h3 class="subheading">स्तोत्रम्</h3>
 <div class="verse-block-wrapper" id="dhanvantari-ashtottara-shatanama-stotram-b0004"><div class="verse-block verse-justify"><div class="line">धन्वन्तरिः सुधापूर्णकलशाढ्यकरो हरिः।</div><div class="line" style="position:relative;">जरामृतित्रस्तदेवप्रार्थनासाधकः प्रभुः॥१॥</div></div></div>
 <div class="verse-block-wrapper" id="dhanvantari-ashtottara-shatanama-stotram-b0005"><div class="verse-block verse-justify"><div class="line">निर्विकल्पो निस्समानो मन्दस्मितमुखाम्बुजः।</div><div class="line" style="position:relative;">आञ्जनेयप्रापिताद्रिः पार्श्वस्थविनतासुतः॥२॥</div></div></div>

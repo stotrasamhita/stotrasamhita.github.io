@@ -128,7 +128,7 @@
 <p class="uvacha">कन्योवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b0727"><div class="verse-block verse-justify"><div class="line" style="position:relative;">तेन देवाश्च गन्धर्वा सयक्षोरगराक्षसाः॥९०॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b0728"><div class="verse-block verse-justify"><div class="line">इन्द्राद्याः सकला जित्वा स्वर्गाच्चैव निराकृताः।</div><div class="line" style="position:relative;">हरिः सुप्तो मया दृष्टो मुरः पृष्ठे समागतः॥९१॥</div></div></div>
-<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b0729"><div class="verse-block verse-justify"><div class="line">संहरिष्यति त्रैलोक्यं सुप्ते चैव जर्नादने।</div><div class="line" style="position:relative;">तस्यास्तद् वचनं श्रुत्वा विष्णुर्वचनमब्रवीत्॥९२॥</div></div></div>
+<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b0729"><div class="verse-block verse-justify"><div class="line">संहरिष्यति त्रैलोक्यं सुप्ते चैव जनार्दने।</div><div class="line" style="position:relative;">तस्यास्तद् वचनं श्रुत्वा विष्णुर्वचनमब्रवीत्॥९२॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b0730"><div class="verse-block verse-justify"><div class="line" style="position:relative;">अहं च निर्जितो येन कथं सोऽपि त्वया जितः।</div></div></div>
 <p class="uvacha">एकादश्युवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b0732"><div class="verse-block verse-justify"><div class="line" style="position:relative;">त्वत्प्रसादाच्च भो स्वामिन् महादैत्यो मया हतः॥९३॥</div></div></div>

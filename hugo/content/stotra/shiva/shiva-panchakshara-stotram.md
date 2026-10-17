@@ -10,7 +10,7 @@
   "Adi Shankaracharya"
  ],
  "wiki_title": "Shiva Panchakshara Stotram",
- "weight": 180,
+ "weight": 190,
  "iast": "Śivapañcākṣarastotram",
  "form": "Stotram",
  "date": "2014-07-10"

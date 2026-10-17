@@ -13,7 +13,7 @@
   "Shikharini"
  ],
  "wiki_title": "Shiva Mahimna Stotram",
- "weight": 160,
+ "weight": 170,
  "iast": "Śivamahimnaḥ-stotram",
  "form": "Stotram",
  "date": "2014-07-10"
@@ -36,7 +36,7 @@
 <div class="verse-block-wrapper" id="shiva-mahimna-stotram-b0014"><div class="verse-block"><div class="line">अकाण्ड-ब्रह्माण्ड-क्षयचकित-देवासुरकृपा</div><div class="line pada-even">विधेयस्याऽऽसीद् यस्त्रिनयन विषं संहृतवतः।</div><div class="line">स कल्माषः कण्ठे तव न कुरुते न श्रियमहो</div><div class="line pada-even" style="position:relative;">विकारोऽपि श्लाघ्यो भुवन-भयभङ्ग-व्यसनिनः॥१४॥</div></div></div>
 <div class="verse-block-wrapper" id="shiva-mahimna-stotram-b0015"><div class="verse-block"><div class="line">असिद्धार्था नैव क्वचिदपि सदेवासुरनरे</div><div class="line pada-even">निवर्तन्ते नित्यं जगति जयिनो यस्य विशिखाः।</div><div class="line">स पश्यन्नीश त्वामितरसुरसाधारणमभूत्</div><div class="line pada-even" style="position:relative;">स्मरः स्मर्तव्यात्मा न हि वशिषु पथ्यः परिभवः॥१५॥</div></div></div>
 <div class="verse-block-wrapper" id="shiva-mahimna-stotram-b0016"><div class="verse-block"><div class="line">मही पादाघाताद् व्रजति सहसा संशयपदं</div><div class="line pada-even">पदं विष्णोर्भ्राम्यद्भुज-परिघ-रुग्ण-ग्रहगणम्।</div><div class="line">मुहुर्द्यौर्दौस्थ्यं यात्यनिभृत-जटा-ताडित-तटा</div><div class="line pada-even" style="position:relative;">जगद्रक्षायै त्वं नटसि ननु वामैव विभुता॥१६॥</div></div></div>
-<div class="verse-block-wrapper" id="shiva-mahimna-stotram-b0017"><div class="verse-block"><div class="line">वियद्‍व्यापी तारागण-गुणित-फेनोद्गम-रुचिः</div><div class="line pada-even">प्रवाहो वारां यः पृषतलघुदृष्टः शिरसि ते।</div><div class="line">जगद्द्वीपाकारं जलधिवलयं तेन कृतमिति</div><div class="line pada-even" style="position:relative;">अनेनैवोन्नेयं धृतमहिम दिव्यं तव वपुः॥१७॥</div></div></div>
+<div class="verse-block-wrapper" id="shiva-mahimna-stotram-b0017"><div class="verse-block"><div class="line">वियद्‍व्यापी तारागण-गुणित-फेनोद्गम-रुचिः</div><div class="line pada-even">प्रवाहो वारां यः पृषतलघुदृष्टः शिरसि ते।</div><div class="line">जगद्द्वीपाकारं जलधिवलयं तेन कृतमि-</div><div class="line pada-even" style="position:relative;">त्यनेनैवोन्नेयं धृतमहिम दिव्यं तव वपुः॥१७॥</div></div></div>
 <div class="verse-block-wrapper" id="shiva-mahimna-stotram-b0018"><div class="verse-block"><div class="line">रथः क्षोणी यन्ता शतधृतिरगेन्द्रो धनुरथो</div><div class="line pada-even">रथाङ्गे चन्द्रार्कौ रथ-चरण-पाणिः शर इति।</div><div class="line">दिधक्षोस्ते कोऽयं त्रिपुरतृणमाडम्बर-विधिः</div><div class="line pada-even" style="position:relative;">विधेयैः क्रीडन्त्यो न खलु परतन्त्राः प्रभुधियः॥१८॥</div></div></div>
 <div class="verse-block-wrapper" id="shiva-mahimna-stotram-b0019"><div class="verse-block"><div class="line">हरिस्ते साहस्रं कमलबलिमाधाय पदयोः</div><div class="line pada-even">यदेकोने तस्मिन् निजमुदहरन्नेत्रकमलम्।</div><div class="line">गतो भक्त्युद्रेकः परिणतिमसौ चक्रवपुषा</div><div class="line pada-even" style="position:relative;">त्रयाणां रक्षायै त्रिपुरहर जागर्ति जगताम्॥१९॥</div></div></div>
 <div class="verse-block-wrapper" id="shiva-mahimna-stotram-b0020"><div class="verse-block"><div class="line">क्रतौ सुप्ते जाग्रत् त्वमसि फलयोगे क्रतुमतां</div><div class="line pada-even">क्व कर्म प्रध्वस्तं फलति पुरुषाराधनमृते।</div><div class="line">अतस्त्वां सम्प्रेक्ष्य क्रतुषु फलदान-प्रतिभुवं</div><div class="line pada-even" style="position:relative;">श्रुतौ श्रद्धां बध्वा दृढपरिकरः कर्मसु जनः॥२०॥</div></div></div>

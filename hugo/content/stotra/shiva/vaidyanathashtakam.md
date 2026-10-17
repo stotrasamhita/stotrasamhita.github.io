@@ -8,7 +8,7 @@
  ],
  "stotra_type": "Ashtakam",
  "wiki_title": "Vaidyanathashtakam",
- "weight": 250,
+ "weight": 260,
  "iast": "Vaidyanāthāṣṭakam",
  "form": "Aṣṭakam",
  "date": "2014-07-10"

@@ -61,7 +61,7 @@
 <p class="uvacha">वैशम्पायन उवाच</p>
 <div class="verse-block-wrapper" id="shiva-sahasranama-stotram-b0032"><div class="verse-block verse-justify"><div class="line">एवमुक्त्वा तु भगवान् गुणांस्तस्य महात्मनः।</div><div class="line" style="position:relative;">उपस्पृश्य शुचिर्भूत्वा कथयामास धीमतः॥२३॥</div></div></div>
 <p class="uvacha">वासुदेव उवाच</p>
-<div class="verse-block-wrapper" id="shiva-sahasranama-stotram-b0034"><div class="verse-block verse-justify"><div class="line">ततः स प्रयतो भूत्वा मम तात युधिष्ठिर।</div><div class="line" style="position:relative;">प्राञ्जलिः प्राह विप्रर्षिर्नामसङ्ग्रहामादितः॥२४॥</div></div></div>
+<div class="verse-block-wrapper" id="shiva-sahasranama-stotram-b0034"><div class="verse-block verse-justify"><div class="line">ततः स प्रयतो भूत्वा मम तात युधिष्ठिर।</div><div class="line" style="position:relative;">प्राञ्जलिः प्राह विप्रर्षिर्नामसङ्ग्रहमादितः॥२४॥</div></div></div>
 <p class="uvacha">उपमन्युरुवाच</p>
 <div class="verse-block-wrapper" id="shiva-sahasranama-stotram-b0036"><div class="verse-block verse-justify"><div class="line">ब्रह्मप्रोक्तैरृषिप्रोक्तैर्वेदवेदाङ्गसम्भवैः।</div><div class="line" style="position:relative;">सर्वलोकेषु विख्यातं स्तुत्यं स्तोष्यामि नामभिः॥२५॥</div></div></div>
 <div class="verse-block-wrapper" id="shiva-sahasranama-stotram-b0037"><div class="verse-block verse-justify"><div class="line">महद्भिर्विहितैः सत्यैः सिद्धैः सर्वार्थसाधकैः।</div><div class="line" style="position:relative;">ऋषिणा तण्डिना भक्त्या कृतैर्वेदकृतात्मना॥२६॥</div></div></div>
