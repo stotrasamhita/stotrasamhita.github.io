@@ -3,7 +3,7 @@
  "slug": "kanchi-kamakoti-guru-parampara-stava",
  "source_file": "stotras/guru/KanchiKamakotiGuruParamparaStava.tex",
  "verse_count": 77,
- "weight": 10,
+ "weight": 20,
  "iast": "Śrīkāñcīkāmakoṭipīṭhajagadguruparamparāstavaḥ",
  "form": "Stuti",
  "deity": [
