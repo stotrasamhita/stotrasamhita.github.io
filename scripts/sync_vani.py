@@ -30,8 +30,13 @@ GITA = {"00dhyanam": None, "19mahatmyam": "gita/mahatmyam", "20varahamahatmyam":
 COMPILATIONS = {"gita-sampurna": "gita/gita/_index"}
 
 
+# Videos uploaded under a TeX file name that has since been corrected.
+RENAMED = {"dhanvataristotram": "dhanvantaristotram"}
+
+
 def key(s):
-    return re.sub(r"[^a-z0-9]", "", s.lower())
+    k = re.sub(r"[^a-z0-9]", "", s.lower())
+    return RENAMED.get(k, k)
 
 
 def stotra_index():

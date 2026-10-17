@@ -45,6 +45,12 @@ REHOME = {
     "surya-sahasranama-stotram": ("navagraha", "Surya"),
 }
 
+# Pages whose source file was renamed: content path -> old addresses, kept
+# working as Hugo aliases.
+RENAMED = {
+    "stotra/vishnu/dhanvantari-stotram": ["/stotra/vishnu/dhanvatari-stotram/"],
+}
+
 # Category folder -> deity, for stotras whose TeX metadata names none.
 FOLDER_DEITY = {
     "shiva": "Shiva", "shakti": "Shakti", "krishna": "Krishna", "rama": "Rama",
@@ -167,6 +173,9 @@ def main():
         if DEVANAGARI.search(title) and "iast" not in fm:
             fm["iast"] = iast(title)
         rel = f.relative_to(CONTENT).parts
+        old = RENAMED.get(str(f.relative_to(CONTENT).with_suffix("")))
+        if old:
+            fm["aliases"] = sorted(set(fm.get("aliases", [])) | set(old))
         if rel[0] == "stotra" and f.name != "_index.md":
             fm["form"] = form_of(title)
             if not fm.get("deity") and rel[1] in FOLDER_DEITY:
