@@ -1,5 +1,5 @@
 {
- "title": "महागणपति नवार्णवेदपाद स्तवः",
+ "title": "महागणपति नवार्णवेदपादस्तवः",
  "slug": "mahaganapati-navarnavedapada-stava",
  "source_file": "stotras/ganesha/MahaganapatiNavarnavedapadaStava.tex",
  "verse_count": 10,
@@ -11,12 +11,12 @@
  ],
  "wiki_title": "Mahaganapati Navarnavedapada Stava",
  "weight": 50,
- "iast": "Mahāgaṇapati Navārṇavedapāda Stavaḥ",
+ "iast": "Mahāgaṇapati Navārṇavedapādastavaḥ",
  "form": "Stuti",
  "date": "2014-07-10"
 }
 
-<div class="stotra-article"><h2 class="stotra-heading">महागणपति नवार्णवेदपाद स्तवः</h2>
+<div class="stotra-article"><h2 class="stotra-heading">महागणपति नवार्णवेदपादस्तवः</h2>
 <div class="verse-block-wrapper" id="mahaganapati-navarnavedapada-stava-b0001"><div class="verse-block verse-justify"><div class="line">श्रीकण्ठतनय श्रीश श्रीकर श्रीदलार्चित।</div><div class="line" style="position:relative;">श्रीविनायक सर्वेश श्रियं वासय मे कुले॥१॥</div></div></div>
 <div class="verse-block-wrapper" id="mahaganapati-navarnavedapada-stava-b0002"><div class="verse-block verse-justify"><div class="line">गजानन गणाधीश द्विजराज-विभूषित।</div><div class="line" style="position:relative;">भजे त्वां सच्चिदानन्द ब्रह्मणां ब्रह्मणस्पते॥२॥</div></div></div>
 <div class="verse-block-wrapper" id="mahaganapati-navarnavedapada-stava-b0003"><div class="verse-block verse-justify"><div class="line">णषष्ठवाच्यनाशाय रोगाटविकुठारिणे।</div><div class="line" style="position:relative;">घृणापालितलोकाय वनानां पतये नमः॥३॥</div></div></div>

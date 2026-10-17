@@ -6,7 +6,7 @@
 
 <div class="stotra-article"><h2 class="stotra-heading">त्रिपञ्चाशोऽध्यायः॥५३॥</h2>
 <p class="uvacha">वैशम्पायन उवाच</p>
-<div class="verse-block-wrapper" id="04-virāṭaparva-b2756"><div class="verse-block verse-justify"><div class="line">ततः सुदर्शनं नाम प्रासादं हरिवाहनः।</div><div class="line" style="position:relative;">सर्वान् देवान् समारोप्य प्रययो यत्र पाण्डवः॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b2756"><div class="verse-block verse-justify"><div class="line">ततः सुदर्शनं नाम प्रासादं हरिवाहनः।</div><div class="line" style="position:relative;">सर्वान् देवान् समारोप्य प्रययौ यत्र पाण्डवः॥१॥</div></div></div>
 <div class="verse-block-wrapper" id="04-virāṭaparva-b2757"><div class="verse-block verse-justify"><div class="line">स्थूणाराजिसहस्रं तु यत्र मध्ये प्रतिष्ठितम्।</div><div class="line" style="position:relative;">तत्र सूर्यपथेऽतिष्ठद् विमला महती सभा॥२॥</div></div></div>
 <div class="verse-block-wrapper" id="04-virāṭaparva-b2758"><div class="verse-block verse-justify"><div class="line">आदित्या वसवो रुद्रा अश्विनौ च मरुद्गणाः।</div><div class="line" style="position:relative;">तत्र श्वेतानि चक्राणि काञ्चनस्फाटिकानि च॥३॥</div></div></div>
 <div class="verse-block-wrapper" id="04-virāṭaparva-b2759"><div class="verse-block verse-justify"><div class="line">तथा चित्राणि च्छत्राणि दिव्यरूपाणि भारत।</div><div class="line">मणिरत्नविचित्राणि नानारूपाणि भागशः।</div><div class="line" style="position:relative;">आकाशे सह दृश्यन्ते भानुमन्ति शुभानि च॥४॥</div></div></div>

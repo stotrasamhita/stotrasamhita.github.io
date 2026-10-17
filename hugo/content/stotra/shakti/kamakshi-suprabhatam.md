@@ -1,5 +1,5 @@
 {
- "title": "कामाक्षी सुप्रभातम्",
+ "title": "कामाक्षीसुप्रभातम्",
  "slug": "kamakshi-suprabhatam",
  "source_file": "stotras/shakti/KamakshiSuprabhatam.tex",
  "verse_count": 40,
@@ -12,13 +12,13 @@
  "stotra_type": "Suprabhatam",
  "wiki_title": "Kamakshi Suprabhatam",
  "weight": 110,
- "iast": "Kāmākṣī Suprabhātam",
+ "iast": "Kāmākṣīsuprabhātam",
  "form": "Suprabhātam",
  "date": "2014-07-10"
 }
 
 <div class="stotra-article"><p class="stotra-meta">Suprabhatam</p>
-<h2 class="stotra-heading">कामाक्षी सुप्रभातम्</h2>
+<h2 class="stotra-heading">कामाक्षीसुप्रभातम्</h2>
 <div class="verse-block-wrapper" id="kamakshi-suprabhatam-b0001"><div class="verse-block"><div class="line">जगदवन विधौ त्वं जागरूका भवानि</div><div class="line pada-even">तव तु जननि निद्रामात्मवत्कल्पयित्वा।</div><div class="line">प्रतिदिवसमहं त्वां बोधयामि प्रभाते</div><div class="line pada-even" style="position:relative;">त्वयि कृतमपराधं सर्वमेतं क्षमस्व॥</div></div></div>
 <div class="verse-block-wrapper" id="kamakshi-suprabhatam-b0002"><div class="verse-block"><div class="line">यदि प्रभातं तव सुप्रभातं</div><div class="line pada-even">तदा प्रभातं मम सुप्रभातम्।</div><div class="line">तस्मात् प्रभाते तव सुप्रभातं</div><div class="line pada-even" style="position:relative;">वक्ष्यामि मातः कुरु सुप्रभातम्॥</div></div></div>
 <h3 class="subheading">गुरु-ध्यानम्</h3>
@@ -54,7 +54,7 @@
 <div class="verse-block-wrapper" id="kamakshi-suprabhatam-b0033"><div class="verse-block"><div class="line">एकाम्रनाथदयिते ननु कामपीठे</div><div class="line pada-even">सम्पूजिताऽसि वरदे गुरुशङ्करेण।</div><div class="line">श्रीशङ्करादिगुरुवर्य-समर्चिताङ्घ्रिं</div><div class="line pada-even" style="position:relative;">द्रष्टुं स्थिता वयमये कुरु सुप्रभातम्॥२६॥</div></div></div>
 <div class="verse-block-wrapper" id="kamakshi-suprabhatam-b0034"><div class="verse-block"><div class="line">दुरितशमनदक्षौ मृत्युसन्तासदक्षौ</div><div class="line pada-even">चरणमुपगतानां मुक्तिदौ ज्ञानदौ तौ।</div><div class="line">अभयवरदहस्तौ द्रष्टुमम्ब स्थितोऽहं</div><div class="line pada-even" style="position:relative;">त्रिपुरदलनजाये सुप्रभातं ममाऽऽर्ये॥२७॥</div></div></div>
 <div class="verse-block-wrapper" id="kamakshi-suprabhatam-b0035"><div class="verse-block"><div class="line">मातस्त्वदीयचरणं हरिपद्मजाद्यैः</div><div class="line pada-even">वन्द्यं रथाङ्ग-सरसीरुह-शङ्खचिह्नम्।</div><div class="line">द्रष्टुं च योगिजनमानसराजहंसं</div><div class="line pada-even" style="position:relative;">द्वारि स्थितोऽस्मि वरदे कुरु सुप्रभातम्॥२८॥</div></div></div>
-<div class="verse-block-wrapper" id="kamakshi-suprabhatam-b0036"><div class="verse-block"><div class="line">पश्यन्तु केचिद्वदनं त्वदीयं</div><div class="line pada-even">स्तुवन्तु कल्याणगुणांस्तवान्ये।</div><div class="line">नमन्तु पादाब्जयुगं त्वदीयाः</div><div class="line pada-even" style="position:relative;">द्वारि स्थितानां कुरु सुप्रभातम्॥२९॥</div></div></div>
+<div class="verse-block-wrapper" id="kamakshi-suprabhatam-b0036"><div class="verse-block"><div class="line">पश्यन्तु केचिद् वदनं त्वदीयं</div><div class="line pada-even">स्तुवन्तु कल्याणगुणांस्तवान्ये।</div><div class="line">नमन्तु पादाब्जयुगं त्वदीयाः</div><div class="line pada-even" style="position:relative;">द्वारि स्थितानां कुरु सुप्रभातम्॥२९॥</div></div></div>
 <div class="verse-block-wrapper" id="kamakshi-suprabhatam-b0037"><div class="verse-block"><div class="line">केचित् सुमेरोः शिखरेऽतितुङ्गे</div><div class="line pada-even">केचिन्मणिद्वीपवरे विशाले।</div><div class="line">पश्यन्तु केचित् त्वमृताब्धिमध्ये</div><div class="line pada-even" style="position:relative;">पश्याम्यहं त्वामिह सुप्रभातम्॥३०॥</div></div></div>
 <div class="verse-block-wrapper" id="kamakshi-suprabhatam-b0038"><div class="verse-block"><div class="line">शम्भोर्वामाङ्कसंस्थां शशिनिभवदनां नीलपद्मायताक्षीं</div><div class="line pada-even">श्यामाङ्गां चारुहासां निबिडतरकुचां पक्वबिम्बाधरोष्ठीम्।</div><div class="line">कामाक्षीं कामदात्रीं कुटिलकचभरां भूषणैर्भूषिताङ्गीं</div><div class="line pada-even" style="position:relative;">पश्यामः सुप्रभाते प्रणतजनिमतामद्य नः सुप्रभातम्॥३१॥</div></div></div>
 <div class="verse-block-wrapper" id="kamakshi-suprabhatam-b0039"><div class="verse-block"><div class="line">कामप्रदाकल्पतरुर्विभासि</div><div class="line pada-even">नान्या गतिर्मे ननु चातकोऽहम्।</div><div class="line">वर्षस्यमोघः कनकाम्बुधाराः</div><div class="line pada-even" style="position:relative;">काश्चित्तु धारा मयि कल्पयाऽऽशु॥३२॥</div></div></div>

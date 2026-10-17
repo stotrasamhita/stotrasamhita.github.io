@@ -14,7 +14,7 @@
 
 <div class="stotra-article"><h2 class="stotra-heading">अगस्त्यद्वारा रामस्वरूपकथनम्</h2>
 <p class="uvacha">अगस्त्य उवाच</p>
-<div class="verse-block-wrapper" id="agastya-dwara-rama-swarupa-kathanam-b0003"><div class="verse-block verse-justify"><div class="line">भवान्नारायणः साक्षाज्जगतामादिकृद्विभुः।</div><div class="line" style="position:relative;">त्वत्स्वरूपमिदं सर्वं जगत् स्थावरजङ्गमम्॥६३॥</div></div></div>
+<div class="verse-block-wrapper" id="agastya-dwara-rama-swarupa-kathanam-b0003"><div class="verse-block verse-justify"><div class="line">भवान् नारायणः साक्षाज्जगतामादिकृद्विभुः।</div><div class="line" style="position:relative;">त्वत्स्वरूपमिदं सर्वं जगत् स्थावरजङ्गमम्॥६३॥</div></div></div>
 <div class="verse-block-wrapper" id="agastya-dwara-rama-swarupa-kathanam-b0004"><div class="verse-block verse-justify"><div class="line">त्वन्नाभिकमलोत्पन्नो ब्रह्मा लोकपितामहः।</div><div class="line" style="position:relative;">अग्निस्ते मुखतो जातो वाचा सह रघूत्तम॥६४॥</div></div></div>
 <div class="verse-block-wrapper" id="agastya-dwara-rama-swarupa-kathanam-b0005"><div class="verse-block verse-justify"><div class="line">बाहुभ्यां लोकपालौघाश्चक्षुर्भ्यां चन्द्रभास्करौ।</div><div class="line" style="position:relative;">दिशश्च विदिशश्चैव कर्णाभ्यां ते समुत्थिताः॥६५॥</div></div></div>
 <div class="verse-block-wrapper" id="agastya-dwara-rama-swarupa-kathanam-b0006"><div class="verse-block verse-justify"><div class="line">घ्राणात्प्राणः समुत्पन्नश्चाश्विनौ देवसत्तमौ।</div><div class="line" style="position:relative;">जङ्घाजानूरुजघनाद्भुवर्लोकादयोऽभवन्॥६६॥</div></div></div>

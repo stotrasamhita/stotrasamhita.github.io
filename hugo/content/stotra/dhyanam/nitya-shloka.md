@@ -21,7 +21,7 @@
 <div class="verse-block-wrapper" id="nitya-shloka-b0009"><div class="verse-block verse-justify"><div class="line">शर्यातिं च सुकन्यां च च्यवनं शक्रमश्विनौ।</div><div class="line" style="position:relative;">भुक्तमात्रे स्मरेद् यस्तु चक्षुस्तस्य न हीयते॥</div></div></div>
 <h2 class="stotra-heading">भागवतस्मरणम्</h2>
 <p class="uvacha">पाण्डवा ऊचुः</p>
-<div class="verse-block-wrapper" id="nitya-shloka-b0012"><div class="verse-block"><div class="line">प्रह्लाद-नारद-पराशर-पुण्डरीक-</div><div class="line pada-even">व्यासाम्बरीष-शुक-शौनक-भीष्म-दाल्भ्यान्।</div><div class="line">रुक्माङ्गदार्जुन-वसिष्ठ-विभीषणादीन्</div><div class="line pada-even" style="position:relative;">पुण्यानिमान् परमभागवतान् समरामि॥</div></div></div>
+<div class="verse-block-wrapper" id="nitya-shloka-b0012"><div class="verse-block"><div class="line">प्रह्लाद-नारद-पराशर-पुण्डरीक-</div><div class="line pada-even">व्यासाम्बरीष-शुक-शौनक-भीष्म-दाल्भ्यान्।</div><div class="line">रुक्माङ्गदार्जुन-वसिष्ठ-विभीषणादीन्</div><div class="line pada-even" style="position:relative;">पुण्यानिमान् परमभागवतान् स्मरामि॥</div></div></div>
 <h2 class="stotra-heading">गो-वन्दनम्</h2>
 <div class="verse-block-wrapper" id="nitya-shloka-b0014"><div class="verse-block verse-justify"><div class="line">गां च दृष्ट्वा नमस्कृत्य कृत्वा चैव प्रदक्षिणम्।</div><div class="line" style="position:relative;">प्रदक्षिणीकृता तेन सप्तद्वीपा वसुन्धरा॥</div></div></div>
 <div class="verse-block-wrapper" id="nitya-shloka-b0015"><div class="verse-block verse-justify"><div class="line">सर्वकामदुघे देवि सर्वतीर्थाभिषेचिनी।</div><div class="line" style="position:relative;">पावने सुरभिश्रेष्ठे देवि तुभ्यं नमोऽस्तु ते॥</div></div></div>

@@ -22,7 +22,7 @@
 <h3 class="subheading">सीता-ध्यानम्</h3>
 <div class="verse-block-wrapper" id="dhyana-shloka-b0011"><div class="verse-block"><div class="line">वामाङ्गे रघुनायकस्य रुचिरे या संस्थिता शोभना</div><div class="line pada-even">या विप्राधिपयानरम्यनयना या विप्रपालानना।</div><div class="line">विद्युत्पुञ्जविराजमानवसना भक्तार्तिसङ्खण्डना</div><div class="line pada-even" style="position:relative;">श्रीमद्राघवपादपद्मयुगलन्यस्तेक्षणा साऽवतु॥</div></div></div>
 <h3 class="subheading">हनुमत्-ध्यानम्</h3>
-<div class="verse-block-wrapper" id="dhyana-shloka-b0013"><div class="verse-block"><div class="line">उष्ट्रारूढ-सुवर्चलासहचरन् सुग्रीवमित्राञ्जना-</div><div class="line pada-even">सूनो वायुकुमार केसरितनूजाऽक्षादिदैत्यान्तक।</div><div class="line">सीतशोकहराग्निनन्दन सुमित्रासम्भवप्राणद</div><div class="line pada-even" style="position:relative;">श्रीभीमाग्रज शम्भुपुत्र हनुमान् सूर्यास्य तुभ्यं नमः॥</div></div></div>
+<div class="verse-block-wrapper" id="dhyana-shloka-b0013"><div class="verse-block"><div class="line">उष्ट्रारूढ-सुवर्चलासहचरन् सुग्रीवमित्राञ्जना-</div><div class="line pada-even">सूनो वायुकुमार केसरितनूजाक्षादिदैत्यान्तक।</div><div class="line">सीतशोकहराग्निनन्दन सुमित्रासम्भवप्राणद</div><div class="line pada-even" style="position:relative;">श्रीभीमाग्रज शम्भुपुत्र हनुमान् सूर्यास्य तुभ्यं नमः॥</div></div></div>
 <div class="verse-block-wrapper" id="dhyana-shloka-b0014"><div class="verse-block"><div class="line">खड्गं खेटक-भिण्डिपाल-परशुं पाश-त्रिशूल-द्रुमान्</div><div class="line pada-even">चक्रं शङ्ख-गदा-फलाङ्कुश-सुधाकुम्भान् हलं पर्वतम्।</div><div class="line">टङ्कं पर्वतकार्मुकाहिडमरूनेतानि दिव्यायुधान्</div><div class="line pada-even" style="position:relative;">एवं विंशतिबाहुभिश्च दधतं ध्यायेद्धनूमत्प्रभुम्॥</div></div></div>
 <h3 class="subheading">सदाशिव-ध्यानम्</h3>
 <div class="verse-block-wrapper" id="dhyana-shloka-b0016"><div class="verse-block"><div class="line">वन्दे शम्भुमुमापतिं सुरगुरुं वन्दे जगत्कारणं</div><div class="line pada-even">वन्दे पन्नगभूषणं मृगधरं वन्दे पशूनां पतिम्।</div><div class="line">वन्दे सूर्यशशाङ्कवह्निनयनं वन्दे मुकुन्दप्रियं</div><div class="line pada-even" style="position:relative;">वन्दे भक्तजनाश्रयं च वरदं वन्दे शिवं शङ्करम्॥</div></div></div>
@@ -38,7 +38,7 @@
 <h3 class="subheading">ऋग्वेद-ध्यानम्</h3>
 <div class="verse-block-wrapper" id="dhyana-shloka-b0027"><div class="verse-block verse-justify"><div class="line">ऋग्वेदः श्वेतवर्णः स्याद् द्विभुजो रासभाननः।</div><div class="line" style="position:relative;">अक्षमालायुतः सौम्यः प्रीतश्चाध्ययनोद्यतः॥</div></div></div>
 <h3 class="subheading">यजुर्वेद-ध्यानम्</h3>
-<div class="verse-block-wrapper" id="dhyana-shloka-b0029"><div class="verse-block verse-justify"><div class="line">अजास्यः पीतवर्णः स्याद्यजुर्वेदोऽक्षसूत्रधृक्।</div><div class="line" style="position:relative;">वामे कुलिशपाणिस्तु भूतिदो मङ्गलप्रदः॥</div></div></div>
+<div class="verse-block-wrapper" id="dhyana-shloka-b0029"><div class="verse-block verse-justify"><div class="line">अजास्यः पीतवर्णः स्याद् यजुर्वेदोऽक्षसूत्रधृक्।</div><div class="line" style="position:relative;">वामे कुलिशपाणिस्तु भूतिदो मङ्गलप्रदः॥</div></div></div>
 <h3 class="subheading">सामवेद-ध्यानम्</h3>
 <div class="verse-block-wrapper" id="dhyana-shloka-b0031"><div class="verse-block verse-justify"><div class="line">नीलोत्पलदलाभासः सामवेदो हयाननः।</div><div class="line" style="position:relative;">अक्षमालान्वितो दक्षे वामे कम्बुधरः स्मृतः॥</div></div></div>
 <h3 class="subheading">अथर्ववेद-ध्यानम्</h3>

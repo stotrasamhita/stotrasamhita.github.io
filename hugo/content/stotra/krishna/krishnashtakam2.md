@@ -22,7 +22,7 @@
 
 <div class="stotra-article"><p class="stotra-meta">Ashtakam</p>
 <h2 class="stotra-heading">कृष्णाष्टकम् २</h2>
-<div class="verse-block-wrapper" id="krishnashtakam2-b0001"><div class="verse-block verse-justify"><div class="line">नित्यानन्दैकरसं सच्चिन्मात्रं स्वयं ज्योतिः।</div><div class="line" style="position:relative;">पुरुषोत्तममजमीशं वन्दे श्रीयादवाधीशम्॥</div></div></div>
+<div class="verse-block-wrapper" id="krishnashtakam2-b0001"><div class="verse-block verse-justify"><div class="line">नित्यानन्दैकरसं सच्चिन्मात्रं स्वयञ्ज्योतिः।</div><div class="line" style="position:relative;">पुरुषोत्तममजमीशं वन्दे श्रीयादवाधीशम्॥</div></div></div>
 <div class="verse-block-wrapper" id="krishnashtakam2-b0002"><div class="verse-block"><div class="line">भजे व्रजैकमण्डनं समस्तपापखण्डनं</div><div class="line pada-even">स्वभक्तचित्तरञ्जनं सदैव नन्दनन्दनम्।</div><div class="line">सुपिच्छगुच्छमस्तकं सुनादवेणुहस्तकम्</div><div class="line pada-even" style="position:relative;">अनङ्गरङ्गसागरं नमामि कृष्णनागरम्॥१॥</div></div></div>
 <div class="verse-block-wrapper" id="krishnashtakam2-b0003"><div class="verse-block"><div class="line">मनोजगर्वमोचनं विशाललोललोचनं</div><div class="line pada-even">विधूतगोपशोचनं नमामि पद्मलोचनम्।</div><div class="line">करारविन्दभूधरं स्मितावलोकसुन्दरं</div><div class="line pada-even" style="position:relative;">महेन्द्रमानदारणं नमामि कृष्णवारणम्॥२॥</div></div></div>
 <div class="verse-block-wrapper" id="krishnashtakam2-b0004"><div class="verse-block"><div class="line">कदम्बसूनकुण्डलं सुचारुगण्डमण्डलं</div><div class="line pada-even">व्रजाङ्गनैकवल्लभं नमामि कृष्णदुर्लभम्।</div><div class="line">यशोदया समोदया सगोपया सनन्दया</div><div class="line pada-even" style="position:relative;">युतं सुखैकदायकं नमामि गोपनायकम्॥३॥</div></div></div>

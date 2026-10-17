@@ -1,10 +1,10 @@
 {
- "title": "सप्तष्टितमोऽध्यायः॥६७॥",
+ "title": "सप्तषष्टितमोऽध्यायः॥६७॥",
  "weight": 670,
- "iast": "Saptaṣṭitamo'dhyāyaḥ||67||"
+ "iast": "Saptaṣaṣṭitamo'dhyāyaḥ||67||"
 }
 
-<div class="stotra-article"><h2 class="stotra-heading">सप्तष्टितमोऽध्यायः॥६७॥</h2>
+<div class="stotra-article"><h2 class="stotra-heading">सप्तषष्टितमोऽध्यायः॥६७॥</h2>
 <div class="verse-block-wrapper" id="04-virāṭaparva-b3486"><div class="verse-block"><div class="line">आहूयमानस्तु स तेन सङ्ख्ये</div><div class="line pada-even">महात्मना वै धृतराष्ट्रसूनुः।</div><div class="line">निवर्तितश्चापि गिराङ्कुशेन</div><div class="line pada-even" style="position:relative;">गजो मदोन्मत्त इवाङ्कुशेन॥१॥</div></div></div>
 <div class="verse-block-wrapper" id="04-virāṭaparva-b3487"><div class="verse-block"><div class="line">सोऽमृष्यमाणो वचसाऽभिमृष्टो</div><div class="line pada-even">महारथेनातिरथस्तरस्वी।</div><div class="line">ततः स पर्याववृते रथेन</div><div class="line pada-even" style="position:relative;">भोगी यथा पादतलाभिमृष्टः॥२॥</div></div></div>
 <div class="verse-block-wrapper" id="04-virāṭaparva-b3488"><div class="verse-block verse-justify"><div class="line">ततो दुर्योधनः क्रुद्धो विक्षिपन् धनुरुत्तमम्।</div><div class="line" style="position:relative;">धृतिं कृत्वा सुविपुलां प्रत्युवाच धनञ्जयम्॥३॥</div></div></div>
@@ -30,7 +30,7 @@
 <div class="verse-block-wrapper" id="04-virāṭaparva-b3508"><div class="verse-block"><div class="line">माणिक्यबाह्वङ्गदकङ्कणानि</div><div class="line pada-even">अन्यानि राज्ञां मणिभूषणानि।</div><div class="line">वस्त्राण्युपादाय महारथानां</div><div class="line pada-even" style="position:relative;">तूर्णं पुनः खं रथमारुरोह॥२३॥</div></div></div>
 <div class="verse-block-wrapper" id="04-virāṭaparva-b3509"><div class="verse-block"><div class="line">राज्ञश्च सर्वान् कृतसन्निकाशान्</div><div class="line pada-even">सम्मोहनास्त्रेण विसंज्ञकल्पान्।</div><div class="line">नासाग्रविन्यस्तकराङ्गुलीकः</div><div class="line pada-even" style="position:relative;">पार्थो जहास स्मयमानचेताः॥२४॥</div></div></div>
 <div class="verse-block-wrapper" id="04-virāṭaparva-b3510"><div class="verse-block"><div class="line">ततोऽन्वशात् तांश्चतुरः सदश्वान्</div><div class="line pada-even">पुत्रो विराटस्य हिरण्यकक्ष्यान्।</div><div class="line">ते तद् व्यतीयुर्द्विषतामनीकं</div><div class="line pada-even" style="position:relative;">श्वेता वहन्तोऽर्जुनमाजिमध्यात्॥२५॥</div></div></div>
-<div class="verse-block-wrapper" id="04-virāṭaparva-b3511"><div class="verse-block"><div class="line">तथा प्रयान्तं पुरुषप्रवीरं</div><div class="line pada-even">भीष्मः शरैरभ्यहनत् तरस्वी।</div><div class="line">स चापि भीष्मस्य हयान्निहत्य</div><div class="line pada-even" style="position:relative;">विव्याध भीष्मं दशभिः पृषत्कैः॥२६॥</div></div></div>
+<div class="verse-block-wrapper" id="04-virāṭaparva-b3511"><div class="verse-block"><div class="line">तथा प्रयान्तं पुरुषप्रवीरं</div><div class="line pada-even">भीष्मः शरैरभ्यहनत् तरस्वी।</div><div class="line">स चापि भीष्मस्य हयान् निहत्य</div><div class="line pada-even" style="position:relative;">विव्याध भीष्मं दशभिः पृषत्कैः॥२६॥</div></div></div>
 <div class="verse-block-wrapper" id="04-virāṭaparva-b3512"><div class="verse-block"><div class="line">ततोऽर्जुनो भीष्ममपास्य युद्धे</div><div class="line pada-even">विद्ध्वाऽस्य यन्तारमरिष्टधन्वा।</div><div class="line">तस्थौ विमुक्तो रथवृन्दमध्याद्</div><div class="line pada-even" style="position:relative;">राहुं विदार्येव सहस्ररश्मिः॥२७॥</div></div></div>
 <div class="verse-block-wrapper" id="04-virāṭaparva-b3513"><div class="verse-block"><div class="line">लब्ध्वा तु संज्ञां पुरुषप्रवीरः</div><div class="line pada-even">पार्थं निरीक्ष्याथ महेन्द्रकल्पम्।</div><div class="line">रणात् प्रमुक्तं पुरुषप्रवीरं</div><div class="line pada-even" style="position:relative;">स धार्तराष्ट्रस्त्वरितो बभाषे॥२८॥</div></div></div>
 <div class="verse-block-wrapper" id="04-virāṭaparva-b3514"><div class="verse-block"><div class="line">अयं कथञ्चिद् भवतो विमुक्तस्-</div><div class="line pada-even">तं वै प्रबध्नीत यथा न मुच्येत्।</div><div class="line">तमब्रवीच्छान्तनवः प्रहस्य</div><div class="line pada-even" style="position:relative;">क्व ते गता बुद्धिरभूत् क्व वीर्यम्॥२९॥</div></div></div>
@@ -52,4 +52,4 @@
 <div class="verse-block-wrapper" id="04-virāṭaparva-b3530"><div class="verse-block"><div class="line">धनञ्जयं सिंहमिवाऽऽत्तशस्त्रं</div><div class="line pada-even">गा वै विजित्याभिमुखं प्रयान्तम्।</div><div class="line">उदीक्षितुं पार्थिवास्ते न शेकुर्-</div><div class="line pada-even" style="position:relative;">यथैव मध्याह्नगतं हि सूर्यम्॥४४॥</div></div></div>
 <div class="verse-block-wrapper" id="04-virāṭaparva-b3531"><div class="verse-block"><div class="line">रक्तानि वासांसि च तानि गृह्य</div><div class="line pada-even">रणोत्कटो नाग इव प्रभिन्नः।</div><div class="line">जित्वा च वैराटिमुवाच पार्थः</div><div class="line pada-even" style="position:relative;">प्रहृष्टरूपो रथिनां वरिष्ठः॥४५॥</div></div></div>
 <div class="verse-block-wrapper" id="04-virāṭaparva-b3532"><div class="verse-block"><div class="line">आवर्तयाश्वान् पशवो जितास्ते</div><div class="line pada-even">याताः परे प्रैहि पुरं प्रहृष्टः।</div><div class="line">उद्‌घुष्यतां ते विजयोऽद्य शीघ्रं</div><div class="line pada-even">गात्रं तु ते सेवतु माल्यगन्धः।</div><div class="line">माता तु ते नन्दतु बान्धवाश्च</div><div class="line pada-even" style="position:relative;">त्वामद्य दृष्ट्वा समुदीर्णहर्षम्॥४६॥</div></div></div>
-<p class="pushpika">॥इति श्रीमन्महाभारते विराटपर्वणि गोग्रहणपर्वणि सप्तष्टितमोऽध्यायः॥६७॥</p></div>
+<p class="pushpika">॥इति श्रीमन्महाभारते विराटपर्वणि गोग्रहणपर्वणि सप्तषष्टितमोऽध्यायः॥६७॥</p></div>
