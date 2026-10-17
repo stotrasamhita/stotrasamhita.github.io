@@ -25,7 +25,7 @@
 
 <div class="stotra-article"><p class="stotra-meta">Nama Stotram</p>
 <h2 class="stotra-heading">कृष्णद्वादशनामस्तोत्रम्</h2>
-<div class="verse-block-wrapper" id="krishna-dwadasha-nama-stotram-b0001"><div class="verse-block verse-justify"><div class="line">शृणुध्वं मुनयः सर्वे गोपालस्य महात्मनः।</div><div class="line" style="position:relative;">अनन्तस्याप्रमेयस्य नामद्वाशकं स्तवम्॥</div></div></div>
+<div class="verse-block-wrapper" id="krishna-dwadasha-nama-stotram-b0001"><div class="verse-block verse-justify"><div class="line">शृणुध्वं मुनयः सर्वे गोपालस्य महात्मनः।</div><div class="line" style="position:relative;">अनन्तस्याप्रमेयस्य नामद्वादशकं स्तवम्॥</div></div></div>
 <div class="verse-block-wrapper" id="krishna-dwadasha-nama-stotram-b0002"><div class="verse-block verse-justify"><div class="line">अर्जुनाय पुरा गीतं गोपालेन महात्मना।</div><div class="line" style="position:relative;">द्वारकायां प्रार्थयते यशोदायाश्च सन्निधौ॥</div></div></div>
 <h3 class="subheading">ध्यानम्</h3>
 <div class="verse-block-wrapper" id="krishna-dwadasha-nama-stotram-b0004"><div class="verse-block verse-justify"><div class="line">जानुभ्यामपि धावन्तं बाहुभ्यामतिसुन्दरम्।</div><div class="line" style="position:relative;">सकुण्डलालकं बालं गोपालं चिन्तयेदुषः॥</div></div></div>
