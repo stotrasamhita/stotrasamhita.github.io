@@ -47,7 +47,7 @@
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1249"><div class="verse-block verse-justify"><div class="line">केनापि कारणेनैव प्रविष्टो मानुषीं तनुम्।</div><div class="line" style="position:relative;">उवाच स ऋषिस्तुष्टः कुतो राम तवाऽऽगमः॥१८॥</div></div></div>
 <p class="uvacha">श्रीराम उवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1251"><div class="verse-block verse-justify"><div class="line">त्वत्प्रसादादहं विप्र तीरं नदनदीपतेः।</div><div class="line" style="position:relative;">आगतोऽस्मि ससैन्योऽत्र लङ्कां जेतुं सराक्षसाम्॥१९॥</div></div></div>
-<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1252"><div class="verse-block verse-justify"><div class="line">भवतश्चानुकूलत्वात्तीर्यतेऽब्धिर्यथा मया।</div><div class="line">तमुपायं वद मुने प्रसादं कुरु साम्प्रतम्।</div><div class="line" style="position:relative;">एतस्मात् कारणादेव द्रष्टुं त्वाहमिहाऽऽगतः॥२०॥</div></div></div>
+<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1252"><div class="verse-block verse-justify"><div class="line">भवतश्चानुकूलत्वात् तीर्यतेऽब्धिर्यथा मया।</div><div class="line">तमुपायं वद मुने प्रसादं कुरु साम्प्रतम्।</div><div class="line" style="position:relative;">एतस्मात् कारणादेव द्रष्टुं त्वाहमिहाऽऽगतः॥२०॥</div></div></div>
 <p class="uvacha">ब्रह्मोवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1254"><div class="verse-block verse-justify"><div class="line">रामस्य वचनं श्रुत्वा बकदाल्भ्यो महामुनिः।</div><div class="line" style="position:relative;">उवाच सुप्रसन्नात्मा रामं राजीवलोचनम्॥२१॥</div></div></div>
 <p class="uvacha">बकदाल्भ्य उवाच</p>

@@ -13,7 +13,7 @@
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">स्वयम्प्रभा-मोक्षः</h2>
-<div class="verse-block-wrapper" id="svayamprabha-moksha-b0002"><div class="verse-block verse-justify"><div class="line">यूयं पिदध्वमक्षीणि गमिष्यथ बहिर्गुहाम्।</div><div class="line" style="position:relative;">तथैव चक्रुस्ते वेगाद्गताः पूर्वस्थितं वनम्॥५८॥</div></div></div>
+<div class="verse-block-wrapper" id="svayamprabha-moksha-b0002"><div class="verse-block verse-justify"><div class="line">यूयं पिदध्वमक्षीणि गमिष्यथ बहिर्गुहाम्।</div><div class="line" style="position:relative;">तथैव चक्रुस्ते वेगाद् गताः पूर्वस्थितं वनम्॥५८॥</div></div></div>
 <div class="verse-block-wrapper" id="svayamprabha-moksha-b0003"><div class="verse-block verse-justify"><div class="line">साऽपि त्यक्त्वा गुहां शीघ्रं ययौ राघवसन्निधिम्।</div><div class="line" style="position:relative;">तत्र रामं ससुग्रीवं लक्ष्मणं च ददर्श ह॥५९॥</div></div></div>
 <div class="verse-block-wrapper" id="svayamprabha-moksha-b0004"><div class="verse-block verse-justify"><div class="line">कृत्वा प्रदक्षिणं रामं प्रणम्य बहुशः सुधीः।</div><div class="line" style="position:relative;">आह गद्गदया वाचा रोमाञ्चिततनूरुहा॥६०॥</div></div></div>
 <p class="uvacha">स्वयम्प्रभोवाच</p>
@@ -40,7 +40,7 @@
 <div class="verse-block-wrapper" id="svayamprabha-moksha-b0026"><div class="verse-block verse-justify"><div class="line">मानसं श्यामलं रूपं सीतालक्ष्मणसंयुतम्।</div><div class="line" style="position:relative;">धनुर्बाणधरं पीतवाससं मुकुटोज्ज्वलम्॥८१॥</div></div></div>
 <div class="verse-block-wrapper" id="svayamprabha-moksha-b0027"><div class="verse-block verse-justify"><div class="line">अङ्गदैर्नूपुरैर्मुक्ताहारैः कौस्तुभकुण्डलैः।</div><div class="line" style="position:relative;">भान्तं स्मरतु मे राम वरं नान्यं वृणे प्रभो॥८२॥</div></div></div>
 <p class="uvacha">श्री-राम उवाच</p>
-<div class="verse-block-wrapper" id="svayamprabha-moksha-b0029"><div class="verse-block verse-justify"><div class="line">भवत्वेवं महाभागे गच्छ त्वं बदरीवनम्।</div><div class="line">तत्रैव मां स्मरन्ती त्वं त्यक्त्वेदं भूतपञ्चकम्।</div><div class="line" style="position:relative;">मामेव परमात्मानमचिरात्प्रतिपद्यसे॥८३॥</div></div></div>
+<div class="verse-block-wrapper" id="svayamprabha-moksha-b0029"><div class="verse-block verse-justify"><div class="line">भवत्वेवं महाभागे गच्छ त्वं बदरीवनम्।</div><div class="line">तत्रैव मां स्मरन्ती त्वं त्यक्त्वेदं भूतपञ्चकम्।</div><div class="line" style="position:relative;">मामेव परमात्मानमचिरात् प्रतिपद्यसे॥८३॥</div></div></div>
 <div class="verse-block-wrapper" id="svayamprabha-moksha-b0030"><div class="verse-block"><div class="line">श्रुत्वा रघूत्तमवचोऽमृतसारकल्पं</div><div class="line pada-even">गत्वा तदैव बदरीतरुखण्डजुष्टम्।</div><div class="line">तीर्थं तदा रघुपतिं मनसा स्मरन्ती</div><div class="line pada-even" style="position:relative;">त्यक्त्वा कलेवरमवाप परं पदं सा॥८४॥</div></div></div>
 <p class="prose">॥इति श्रीमदध्यात्मरामायणे उमामहेश्वरसंवादे किष्किन्धाकाण्डे<br>षष्ठे सर्गे स्वयम्प्रभा-मोक्षः सम्पूर्णः॥</p></div>
 <div class="pdf-links"><span class="pdf-links-label">PDF:</span><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-pdf/adhyatma-ramayana-stotras/SvayamprabhaMoksha.pdf">A5 / print</a><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-kindle-pdf/adhyatma-ramayana-stotras/SvayamprabhaMoksha.pdf">Kindle</a><a href="https://raw.githubusercontent.com/stotrasamhita/stotra-sangrahah/master/stotras-kindle-scribe-pdf/adhyatma-ramayana-stotras/SvayamprabhaMoksha.pdf">Kindle Scribe</a></div>

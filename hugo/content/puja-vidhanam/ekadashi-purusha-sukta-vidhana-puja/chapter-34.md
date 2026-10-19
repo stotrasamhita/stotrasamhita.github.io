@@ -47,7 +47,7 @@
 <p class="uvacha">लक्ष्मीरुवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b2625"><div class="verse-block verse-justify"><div class="line">प्रसन्ना साम्प्रतं जाता वैकुण्ठादहमागता।</div><div class="line" style="position:relative;">प्रेरिता देवदेवेन कमलायाः प्रभावतः॥२१॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b2626"><div class="verse-block verse-justify"><div class="line">पुरुषोत्तममासस्य या पक्षे प्रथमे भवेत्।</div><div class="line" style="position:relative;">तस्या व्रतं त्वया चीर्णं प्रयागे मुनिसन्निधौ॥२२॥</div></div></div>
-<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b2627"><div class="verse-block verse-justify"><div class="line">व्रतस्यास्य प्रभावेन वशगाहं न संशयः।</div><div class="line" style="position:relative;">तव वंशे भविष्यन्ति मानवा द्विजसत्तम॥२३॥</div></div></div>
+<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b2627"><div class="verse-block verse-justify"><div class="line">व्रतस्यास्य प्रभावेन वशगाऽहं न संशयः।</div><div class="line" style="position:relative;">तव वंशे भविष्यन्ति मानवा द्विजसत्तम॥२३॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b2628"><div class="verse-block verse-justify"><div class="line" style="position:relative;">मत्प्रसादादवाप्स्यन्ति सत्यं ते व्याहृतं मया।</div></div></div>
 <p class="uvacha">ब्राह्मण उवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b2630"><div class="verse-block verse-justify"><div class="line" style="position:relative;">प्रसन्ना यदि मे पद्मे व्रतं विस्तरतो वद॥२४॥</div></div></div>

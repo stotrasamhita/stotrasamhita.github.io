@@ -7,7 +7,7 @@
 <div class="stotra-article"><h2 class="stotra-heading">द्वितीयः सर्गः</h2>
 <p class="uvacha">पार्वत्युवाच</p>
 <div class="verse-block-wrapper" id="bala-kanda-b0067"><div class="verse-block verse-justify"><div class="line">धन्यास्म्यनुगृहीतास्मि कृतार्थाऽस्मि जगत्प्रभो।</div><div class="line" style="position:relative;">विच्छिन्नो मेऽतिसन्देहग्रन्थिर्भवदनुग्रहात्॥१॥</div></div></div>
-<div class="verse-block-wrapper" id="bala-kanda-b0068"><div class="verse-block verse-justify"><div class="line">त्वन्मुखाद्गलितं रामतत्त्वामृतरसायनम्।</div><div class="line" style="position:relative;">पिबन्त्या मे मनो देव न तृप्यति भवापहम्॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="bala-kanda-b0068"><div class="verse-block verse-justify"><div class="line">त्वन्मुखाद् गलितं रामतत्त्वामृतरसायनम्।</div><div class="line" style="position:relative;">पिबन्त्या मे मनो देव न तृप्यति भवापहम्॥२॥</div></div></div>
 <div class="verse-block-wrapper" id="bala-kanda-b0069"><div class="verse-block verse-justify"><div class="line">श्रीरामस्य कथा त्वत्तः श्रुता सङ्क्षेपतो मया।</div><div class="line" style="position:relative;">इदानीं श्रोतुमिच्छामि विस्तरेण स्फुटाक्षरम्॥३॥</div></div></div>
 <p class="uvacha">श्री-महादेव उवाच</p>
 <div class="verse-block-wrapper" id="bala-kanda-b0071"><div class="verse-block verse-justify"><div class="line">शृणु देवि प्रवक्ष्यामि गुह्याद् गुह्यतरं महत्।</div><div class="line" style="position:relative;">अध्यात्मरामचरितं रामेणोक्तं पुरा मम॥४॥</div></div></div>

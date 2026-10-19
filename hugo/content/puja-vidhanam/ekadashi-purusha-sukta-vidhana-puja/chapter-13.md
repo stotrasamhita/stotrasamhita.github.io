@@ -69,7 +69,7 @@
 <p class="uvacha">राजोवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1000"><div class="verse-block verse-justify"><div class="line">के भवन्तोऽत्र कथ्यन्तां का चाऽऽख्या भवतामपि।</div><div class="line" style="position:relative;">किमर्थं सङ्गता यूयं सत्यं वदत मेऽग्रतः॥४३॥</div></div></div>
 <p class="uvacha">मुनय ऊचुः</p>
-<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1002"><div class="verse-block verse-justify"><div class="line">विश्वेदेवा वयं राजन् स्नानार्थमिह चागताः।</div><div class="line" style="position:relative;">माघो निकटमायात एतस्मात् पञ्चमेऽहनि॥४४॥</div></div></div>
+<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1002"><div class="verse-block verse-justify"><div class="line">विश्वेदेवा वयं राजन् स्नानार्थमिह चाऽऽगताः।</div><div class="line" style="position:relative;">माघो निकटमायात एतस्मात् पञ्चमेऽहनि॥४४॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1003"><div class="verse-block verse-justify"><div class="line">अद्य चैकादशी राजन् पुत्रदा नाम नामतः।</div><div class="line" style="position:relative;">पुत्रं ददात्यसौ विष्णुः पुत्रदा कारिणां नृणाम्॥४५॥</div></div></div>
 <p class="uvacha">राजोवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b1005"><div class="verse-block verse-justify"><div class="line">एष वै संशयो मह्यं पुत्रस्योत्पादने महान्।</div><div class="line" style="position:relative;">यदि तुष्टा भवन्तो वै पुत्रं मे दीयतां तदा॥४६॥</div></div></div>
