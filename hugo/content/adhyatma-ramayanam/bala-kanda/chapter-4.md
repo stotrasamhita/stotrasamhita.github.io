@@ -6,7 +6,7 @@
 
 <div class="stotra-article"><h2 class="stotra-heading">चतुर्थः सर्गः</h2>
 <p class="uvacha">श्री-महादेव उवाच</p>
-<div class="verse-block-wrapper" id="bala-kanda-b0179"><div class="verse-block verse-justify"><div class="line">कदाचित्कौशिकोऽभ्यागादयोध्यां ज्वलनप्रभः।</div><div class="line" style="position:relative;">द्रष्टुं रामं परात्मानं जातं ज्ञात्वा स्वमायया॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="bala-kanda-b0179"><div class="verse-block verse-justify"><div class="line">कदाचित् कौशिकोऽभ्यागादयोध्यां ज्वलनप्रभः।</div><div class="line" style="position:relative;">द्रष्टुं रामं परात्मानं जातं ज्ञात्वा स्वमायया॥१॥</div></div></div>
 <div class="verse-block-wrapper" id="bala-kanda-b0180"><div class="verse-block verse-justify"><div class="line">दृष्ट्वा दशरथो राजा प्रत्युत्थायाचिरेण तु।</div><div class="line" style="position:relative;">वसिष्ठेन समागम्य पूजयित्वा यथाविधि॥२॥</div></div></div>
 <div class="verse-block-wrapper" id="bala-kanda-b0181"><div class="verse-block verse-justify"><div class="line">अभिवाद्य मुनिं राजा प्राञ्जलिर्भक्तिनम्रधीः।</div><div class="line" style="position:relative;">कृतार्थोऽस्मि मुनीन्द्राहं त्वदागमनकारणात्॥३॥</div></div></div>
 <div class="verse-block-wrapper" id="bala-kanda-b0182"><div class="verse-block verse-justify"><div class="line">त्वद्विधा यद्गृहं यान्ति तत्रैवायान्ति सम्पदः।</div><div class="line" style="position:relative;">यदर्थमागतोऽसि त्वं ब्रूहि सत्यं करोमि तत्॥४॥</div></div></div>
