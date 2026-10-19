@@ -53,7 +53,7 @@
 <p class="uvacha">रावण उवाच</p>
 <div class="verse-block-wrapper" id="aranya-kanda-b0259"><div class="verse-block verse-justify"><div class="line">को वा रामः किमर्थं वा कथं तेनासुरा हताः।</div><div class="line" style="position:relative;">सम्यक् कथय मे तेषां मूलघातं करोम्यहम्॥४५॥</div></div></div>
 <p class="uvacha">शूर्पणखोवाच</p>
-<div class="verse-block-wrapper" id="aranya-kanda-b0261"><div class="verse-block verse-justify"><div class="line">जनस्थानादहं याता कदाचित् गौतमीतटे।</div><div class="line" style="position:relative;">तत्र पञ्चवटी नाम पुरा मुनिजनाश्रया॥४६॥</div></div></div>
+<div class="verse-block-wrapper" id="aranya-kanda-b0261"><div class="verse-block verse-justify"><div class="line">जनस्थानादहं याता कदाचिद् गौतमीतटे।</div><div class="line" style="position:relative;">तत्र पञ्चवटी नाम पुरा मुनिजनाश्रया॥४६॥</div></div></div>
 <div class="verse-block-wrapper" id="aranya-kanda-b0262"><div class="verse-block verse-justify"><div class="line">तत्राऽऽश्रमे मया दृष्टो रामो राजीवलोचनः।</div><div class="line" style="position:relative;">धनुर्बाणधरः श्रीमान् जटावल्कलमण्डितः॥४७॥</div></div></div>
 <div class="verse-block-wrapper" id="aranya-kanda-b0263"><div class="verse-block verse-justify"><div class="line">कनीयाननुजस्तस्य लक्ष्मणोऽपि तथाविधः।</div><div class="line" style="position:relative;">तस्य भार्या विशालाक्षी रूपिणी श्रीरिवापरा॥४८॥</div></div></div>
 <div class="verse-block-wrapper" id="aranya-kanda-b0264"><div class="verse-block verse-justify"><div class="line">देवगन्धर्वनागानां मनुष्याणां तथाविधा।</div><div class="line" style="position:relative;">न दृष्टा न श्रुता राजन् द्योतयन्ती वनं शुभा॥४९॥</div></div></div>

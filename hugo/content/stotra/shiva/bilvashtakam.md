@@ -20,7 +20,7 @@
 <div class="stotra-article"><p class="stotra-meta">Ashtakam</p>
 <h2 class="stotra-heading">बिल्वाष्टकम्</h2>
 <div class="verse-block-wrapper" id="bilvashtakam-b0001"><div class="verse-block verse-justify"><div class="line">त्रिदलं त्रिगुणाकारं त्रिनेत्रं च त्रियायुधम्।</div><div class="line" style="position:relative;">त्रिजन्मपापसंहारं एकबिल्वं शिवार्पणम्॥१॥</div></div></div>
-<div class="verse-block-wrapper" id="bilvashtakam-b0002"><div class="verse-block verse-justify"><div class="line">त्रिशाखैः बिल्वपत्रैश्च ह्यच्छिद्रैः कोमलैः शुभैः।</div><div class="line" style="position:relative;">शिवपूजां करिष्यामि ह्येकबिल्वं शिवार्पणम्॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="bilvashtakam-b0002"><div class="verse-block verse-justify"><div class="line">त्रिशाखैर्बिल्वपत्रैश्च ह्यच्छिद्रैः कोमलैः शुभैः।</div><div class="line" style="position:relative;">शिवपूजां करिष्यामि ह्येकबिल्वं शिवार्पणम्॥२॥</div></div></div>
 <div class="verse-block-wrapper" id="bilvashtakam-b0003"><div class="verse-block verse-justify"><div class="line">अखण्डबिल्वपत्रेण पूजिते नन्दिकेश्वरे।</div><div class="line" style="position:relative;">शुद्‌ध्यन्ति सर्वपापेभ्यो ह्येकबिल्वं शिवार्पणम्॥३॥</div></div></div>
 <div class="verse-block-wrapper" id="bilvashtakam-b0004"><div class="verse-block verse-justify"><div class="line">शालिग्राम-शिलामेकां विप्राणां जातु चार्पयेत्।</div><div class="line" style="position:relative;">सोमयज्ञ-महापुण्यं एकबिल्वं शिवार्पणम्॥४॥</div></div></div>
 <div class="verse-block-wrapper" id="bilvashtakam-b0005"><div class="verse-block verse-justify"><div class="line">दन्तिकोटि-सहस्राणि वाजपेय-शतानि च।</div><div class="line" style="position:relative;">कोटिकन्या-महादानं एकबिल्वं शिवार्पणम्॥५॥</div></div></div>
