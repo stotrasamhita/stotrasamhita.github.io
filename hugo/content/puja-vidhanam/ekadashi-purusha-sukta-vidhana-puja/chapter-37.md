@@ -107,7 +107,7 @@
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b2925"><div class="verse-block verse-justify"><div class="line">हतो मया दुरात्माऽसौ देवता निर्भयाः कृताः।</div><div class="line" style="position:relative;">तवैवाहं महाशक्तिः सर्वशत्रुभयङ्करी॥८६॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b2926"><div class="verse-block verse-justify"><div class="line">त्रैलोक्यरक्षणार्थाय हतो लोकभयङ्करः।</div><div class="line" style="position:relative;">निहतं दानवं दृष्ट्वा किमाश्चर्य वद प्रभो॥८७॥</div></div></div>
 <p class="uvacha">श्रीभगवानुवाच</p>
-<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b2928"><div class="verse-block verse-justify"><div class="line">निहते दानवेन्द्रेऽस्मिन्सन्तुष्टोऽहं त्वयानघे।</div><div class="line" style="position:relative;">हृष्टाः पुष्टाश्च वै देवा आनन्दः समजायत॥८८॥</div></div></div>
+<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b2928"><div class="verse-block verse-justify"><div class="line">निहते दानवेन्द्रेऽस्मिन्सन्तुष्टोऽहं त्वयाऽनघे।</div><div class="line" style="position:relative;">हृष्टाः पुष्टाश्च वै देवा आनन्दः समजायत॥८८॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b2929"><div class="verse-block verse-justify"><div class="line">आनन्दस्त्रिषु लोकेषु देवानां यस्त्वया कृतः।</div><div class="line" style="position:relative;">प्रसन्नोस्म्यनचे तुभ्यं वरं वरय सुव्रते॥८९॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b2930"><div class="verse-block verse-justify"><div class="line" style="position:relative;">ददामि तन्न सन्देहो यत्सुरैरपि दुर्लभम्।</div></div></div>
 <p class="uvacha">कन्योवाच</p>

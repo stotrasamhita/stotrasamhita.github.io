@@ -32,7 +32,7 @@
 <div class="verse-block-wrapper" id="kartika-mahatmyam-b1193"><div class="verse-block verse-justify"><div class="line">ततस्तौ बाहुयुद्धेन युयुधाते महाबलौ।</div><div class="line" style="position:relative;">बाहुभिर्मुष्टिभिश्चैव जानुभिर्नादयन्महीम्॥१८॥</div></div></div>
 <div class="verse-block-wrapper" id="kartika-mahatmyam-b1194"><div class="verse-block verse-justify"><div class="line">एवं तौ सुचिरं युद्धं कृत्वा विष्णुः प्रतापवान्।</div><div class="line" style="position:relative;">उवाच दैत्यराजानं मेघगम्भीरनिस्वनः॥१९॥</div></div></div>
 <p class="uvacha">विष्णुरुवाच</p>
-<div class="verse-block-wrapper" id="kartika-mahatmyam-b1196"><div class="verse-block verse-justify"><div class="line">वरं वरय दैत्येन्द्र प्रीतोऽस्मि तव विक्रमात्।</div><div class="line" style="position:relative;">अदेयमपि ते दद्मि यत्ते मनसि वर्तते॥२०॥</div></div></div>
+<div class="verse-block-wrapper" id="kartika-mahatmyam-b1196"><div class="verse-block verse-justify"><div class="line">वरं वरय दैत्येन्द्र प्रीतोऽस्मि तव विक्रमात्।</div><div class="line" style="position:relative;">अदेयमपि ते दद्मि यत् ते मनसि वर्तते॥२०॥</div></div></div>
 <p class="uvacha">जलन्धर उवाच</p>
 <div class="verse-block-wrapper" id="kartika-mahatmyam-b1198"><div class="verse-block verse-justify"><div class="line">यदि भावुक तुष्टोऽसि वरमेनं ददस्व मे।</div><div class="line" style="position:relative;">मद्भगिन्या सहाऽद्य त्वं मद्गृहे सगणो वस॥२१॥</div></div></div>
 <p class="uvacha">नारद उवाच</p>
