@@ -88,6 +88,7 @@
 
   function choose(target) {
     apply(target);
+    if (window.ssCount) ssCount('script/' + target, 'Script: ' + target);
     try { localStorage.setItem(KEY, target); } catch (e) {}
   }
 

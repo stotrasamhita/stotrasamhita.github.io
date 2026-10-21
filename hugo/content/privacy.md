@@ -3,7 +3,7 @@ layout: prose
 title: Privacy Policy
 ---
 
-*Last updated: 15 October 2026*
+*Last updated: 21 October 2026*
 
 This policy covers Stotra Samhita (https://stotrasamhita.github.io/) and the Stotra Samhita YouTube channel. It also covers the small publishing tool ("the tool") that I use to manage that channel through the YouTube API Services.
 
@@ -19,9 +19,13 @@ By using this tool you agree to be bound by the [YouTube Terms of Service](https
 
 ## What data is collected
 
-- **Visitors to this website and viewers of the channel:** this site does not ask you to sign in and does not collect personal information through the YouTube API Services. GitHub Pages, which hosts this site, may keep standard server logs; see GitHub's privacy statement.
+- **Visitors to this website and viewers of the channel:** this site does not ask you to sign in and does not collect personal information through the YouTube API Services. Anonymous page-view counts are kept (see Visitor statistics below). GitHub Pages, which hosts this site, may keep standard server logs; see GitHub's privacy statement.
 - **The tool:** the only account that signs in to the tool is the channel owner's. It does not access, collect, store or share any other user's YouTube data.
 - **Authorisation token:** the OAuth token that the tool uses for my own channel is kept privately in my own working environment. It is never published or shared.
+
+## Visitor statistics
+
+This site counts page views with [GoatCounter](https://www.goatcounter.com/), a privacy-friendly service that sets no cookies and does not track you across sites. It records the page visited, the referring site, and your browser, screen size and country (worked out from your IP address, which is not stored). I also count PDF downloads and which script (Devanagari, Telugu, …) readers choose. I only look at the totals, to see which texts are read and what to add next. See [GoatCounter's privacy policy](https://www.goatcounter.com/help/privacy).
 
 ## How data is used and shared
 
@@ -33,7 +37,7 @@ The tool does not keep copies of YouTube API data beyond what it needs to finish
 
 ## Cookies
 
-This site does not set its own cookies. Embedded YouTube videos may set cookies under Google's policies.
+This site does not set its own cookies, and its visitor statistics use none. Embedded YouTube videos may set cookies under Google's policies.
 
 ## Changes
 

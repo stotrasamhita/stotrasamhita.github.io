@@ -1,5 +1,5 @@
-/* Light/dark toggle (the stored choice is applied in <head>), and the
-   homepage's day-of-the-week panel. */
+/* Light/dark toggle (the stored choice is applied in <head>), the
+   homepage's day-of-the-week panel, and GoatCounter events. */
 (function () {
   var root = document.documentElement;
   var btn = document.getElementById('theme-btn');
@@ -26,4 +26,17 @@ document.querySelectorAll('.video[data-yt] button').forEach(function (b) {
     f.allowFullscreen = true;
     box.replaceChildren(f);
   });
+});
+
+/* GoatCounter counts pageviews by itself; PDF downloads (which leave the
+   site for GitHub) and script choices are counted here as events, e.g.
+   "pdf/stotra-sangrahah/stotras-pdf/lakshmi/KanakadharaStavam.pdf". */
+window.ssCount = function (path, title) {
+  if (window.goatcounter && window.goatcounter.count) window.goatcounter.count({ path: path, title: title || path, event: true });
+};
+document.addEventListener('click', function (e) {
+  var a = e.target.closest && e.target.closest('a[href$=".pdf"]');
+  if (!a) return;
+  var p = a.href.replace(/^https?:\/\/(raw\.githubusercontent\.com|github\.com)\/stotrasamhita\//i, '').replace(/\/(raw\/)?master\//, '/');
+  ssCount('pdf/' + p, document.title);
 });

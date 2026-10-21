@@ -16,6 +16,9 @@ disableKinds = ['taxonomy', 'term']
   # Public-domain Ravi Varma paintings stand in as covers for a few stotras
   # (data/placeholder_covers.yaml) until each stotra has its own cover.
   placeholderCovers = true
+  # Pageview counts (no cookies): https://stotrasamhita.goatcounter.com/
+  # Loaded only in production builds; GoatCounter also ignores localhost.
+  goatcounter = 'https://stotrasamhita.goatcounter.com/count'
 
 
 [outputs]
