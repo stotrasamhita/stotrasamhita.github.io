@@ -10,7 +10,7 @@
   "Anushtup"
  ],
  "wiki_title": "Surya Grahana Pidaparihara Shlokam",
- "weight": 150,
+ "weight": 160,
  "form": "Stotram",
  "date": "2014-07-10"
 }

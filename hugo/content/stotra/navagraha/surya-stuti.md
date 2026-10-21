@@ -3,7 +3,7 @@
  "slug": "surya-stuti",
  "source_file": "stotras/navagraha/SuryaStuti.tex",
  "verse_count": 7,
- "weight": 200,
+ "weight": 210,
  "iast": "Sūryastutiḥ",
  "form": "Stuti",
  "deity": [

@@ -11,7 +11,7 @@
  ],
  "stotra_type": "Pratah Smaranam",
  "wiki_title": "Surya Pratah Smarana Stotram",
- "weight": 180,
+ "weight": 190,
  "iast": "Sūryaprātaḥsmaraṇastotram",
  "form": "Prātaḥsmaraṇam",
  "date": "2017-06-03"

@@ -3,7 +3,7 @@
  "slug": "surya-stavaraja",
  "source_file": "stotras/navagraha/SuryaStavaraja.tex",
  "verse_count": 14,
- "weight": 190,
+ "weight": 200,
  "iast": "Sūryastavarājaḥ",
  "form": "Stuti",
  "deity": [

@@ -11,7 +11,7 @@
  ],
  "source": "Bhavishya Puranam",
  "wiki_title": "Surya Mandala Stotram",
- "weight": 170,
+ "weight": 180,
  "iast": "Sūryamaṇḍala-stotram",
  "form": "Stotram",
  "date": "2014-07-10"

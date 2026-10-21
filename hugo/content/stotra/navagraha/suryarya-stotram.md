@@ -3,7 +3,7 @@
  "slug": "suryarya-stotram",
  "source_file": "stotras/navagraha/SuryaryaStotram.tex",
  "verse_count": 12,
- "weight": 210,
+ "weight": 220,
  "iast": "Sūryāryāstotram",
  "form": "Stotram",
  "deity": [
