@@ -1,7 +1,8 @@
 /* Faceted filtering of the server-rendered stotra cards on /stotra/.
    Filters live in the URL (?deity=Śiva&form=Aṣṭakam&q=...), so filtered
    views can be linked to. Counts on each filter show how many stotras
-   would match if it were added. */
+   would match if it were added. A query may be typed in any of the
+   site's scripts (ssScript.contains, in script-switcher.js). */
 (function () {
   var grid = document.getElementById('cards');
   if (!grid) return;
@@ -37,7 +38,7 @@
       if (g === skip || !F[g].size) continue;
       if (!s[g].some(function (v) { return F[g].has(v); })) return false;
     }
-    if (Q) { var q = norm(Q); if (s.raw.indexOf(Q) < 0 && s.q.indexOf(q) < 0) return false; }
+    if (Q) { var q = norm(Q); if (s.raw.indexOf(Q) < 0 && s.q.indexOf(q) < 0 && !ssScript.contains(s.raw, Q)) return false; }
     return true;
   }
 
@@ -99,4 +100,5 @@
     qTop.form.addEventListener('submit', function (e) { e.preventDefault(); });
   }
   render();
+  ssScript.onReady(render);   // a query in Telugu etc. matches once Sanscript has loaded
 })();

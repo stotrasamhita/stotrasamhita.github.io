@@ -35,11 +35,14 @@
 (function () {
   var q = document.getElementById('pdf-q'); if (!q) return;
   var norm = function (s) { return s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase(); };
-  q.addEventListener('input', function () {
-    var v = norm(q.value.trim());
-    document.querySelectorAll('.pdf-list li').forEach(function (li) { li.hidden = v && norm(li.getAttribute('data-q')).indexOf(v) < 0; });
+  function filter() {
+    var raw = q.value.trim(), v = norm(raw);
+    document.querySelectorAll('.pdf-list li').forEach(function (li) { var t = li.getAttribute('data-q'); li.hidden = v && norm(t).indexOf(v) < 0 && !(window.ssScript && ssScript.contains(t, raw)); });
     document.querySelectorAll('.pdf-list').forEach(function (ul) { var h = ul.previousElementSibling; var any = ul.querySelector('li:not([hidden])'); ul.hidden = !any; if (h && h.tagName === 'H3') h.hidden = !any; });
-  });
+  }
+  q.addEventListener('input', filter);
+  /* A query typed in Telugu etc. matches once Sanscript has loaded. */
+  document.addEventListener('DOMContentLoaded', function () { if (window.ssScript) ssScript.onReady(filter); });
 })();
 </script>
 {{ end }}

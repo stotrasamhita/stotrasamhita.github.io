@@ -50,6 +50,11 @@ their deity's folder, keeping the old URL as an alias.
   the heading of a chapter), and its title slide becomes the card thumbnail.
 - `data/stories.yaml`: approved background stories, shown under "About this
   stotra" (`_partials/story.html`). Drafts wait in `../stories/drafts.yaml`.
+- `assets/js/script-switcher.js`: the script picker in the masthead (and the
+  bar above each text). The whole page, search hint included, is shown in
+  the chosen script, kept across pages; the search boxes accept a query
+  typed in any of them. Sanscript and the script's fonts load only when a
+  script other than Devanagari is chosen.
 - `assets/css/site.css`: the design; `assets/css/stotras.css`: verse layout.
 
 ## Covers

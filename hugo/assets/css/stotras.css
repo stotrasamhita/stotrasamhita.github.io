@@ -43,7 +43,7 @@
 }
 
 .stotra-article {
-  font-family: "Noto Serif Devanagari", "Noto Serif", serif;
+  font-family: "Noto Serif Devanagari", var(--f-scripts), "Noto Serif", serif;
 }
 
 .stotra-meta {

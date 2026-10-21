@@ -7,8 +7,30 @@
 <meta property="og:site_name" content="{{ site.Title }}">
 <link rel="canonical" href="{{ .Permalink }}">
 <link rel="icon" href="/favicon.png">
-{{/* Applied before first paint so a stored dark choice never flashes light. */}}
-<script>try { if (localStorage.getItem('ss-theme') === 'dark') document.documentElement.setAttribute('data-theme', 'dark'); } catch (e) {}</script>
+{{/* Applied before first paint so a stored dark choice never flashes light,
+     and a stored script never flashes Devanagari: the page stays hidden
+     (at most 3s, see site.css) while Sanscript loads and script-switcher.js
+     transliterates it. The script's web fonts are loaded only when chosen. */}}
+{{ $sk := resources.Get "js/sanscript.js" }}{{ if hugo.IsProduction }}{{ $sk = $sk | minify | fingerprint }}{{ end }}
+<script>
+window.SS_SANSCRIPT = {{ $sk.RelPermalink }};
+window.ssFont = function (s) {
+  var F = { telugu: 'Tiro+Telugu&family=Noto+Serif+Telugu:wght@500;600;700', tamil: 'Tiro+Tamil&family=Noto+Serif+Tamil:wght@500;600;700',
+    kannada: 'Tiro+Kannada&family=Noto+Serif+Kannada:wght@500;600;700', malayalam: 'Noto+Serif+Malayalam:wght@400;500;600;700', grantha: 'Noto+Serif+Grantha' };
+  if (!F[s] || document.getElementById('ss-font-' + s)) return;
+  var l = document.createElement('link'); l.id = 'ss-font-' + s; l.rel = 'stylesheet';
+  l.href = 'https://fonts.googleapis.com/css2?family=' + F[s] + '&display=swap'; document.head.appendChild(l);
+};
+try {
+  var d = document.documentElement, s = localStorage.getItem('ss-theme');
+  if (s === 'dark') d.setAttribute('data-theme', 'dark');
+  s = localStorage.getItem('stotra-script');
+  if (s && s !== 'devanagari') {
+    d.setAttribute('data-script', s); d.classList.add('ss-pending'); window.ssFont(s);
+    var e = document.createElement('script'); e.id = 'ss-sanscript'; e.src = window.SS_SANSCRIPT; document.head.appendChild(e);
+  }
+} catch (e) {}
+</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+Devanagari:wght@500;600;700&family=Tiro+Devanagari+Sanskrit:ital@0;1&family=Hanken+Grotesk:wght@400;500;600;700&display=swap">

@@ -7,8 +7,11 @@
   --gold: #A9740E; --on-brand: #F7E3B5; --on-brand-2: rgba(255,255,255,.78);
   --brand: #4B1D52; --head: var(--brand); --accent: #8B2D73; --soft: #F6ECF4; --soft-line: #E8D3E3;
   --shadow: 0 1px 2px rgba(30,26,38,.06), 0 10px 26px -14px rgba(30,26,38,.30);
-  --f-deva: "Noto Serif Devanagari", "Tiro Devanagari Sanskrit", serif; --w-deva: 600;
-  --f-text: "Tiro Devanagari Sanskrit", "Noto Serif Devanagari", Georgia, serif;
+  /* The other scripts' fonts are loaded only when that script is chosen
+     (window.ssFont in head.html). */
+  --f-scripts: "Noto Serif Telugu", "Noto Serif Tamil", "Noto Serif Kannada", "Noto Serif Malayalam", "Noto Serif Grantha";
+  --f-deva: "Noto Serif Devanagari", var(--f-scripts), "Tiro Devanagari Sanskrit", serif; --w-deva: 600;
+  --f-text: "Tiro Devanagari Sanskrit", "Tiro Telugu", "Tiro Tamil", "Tiro Kannada", "Noto Serif Malayalam", "Noto Serif Grantha", "Noto Serif Devanagari", Georgia, serif;
   --f-ui: "Hanken Grotesk", system-ui, -apple-system, "Segoe UI", sans-serif;
 }
 @media (prefers-color-scheme: dark) {
@@ -34,15 +37,15 @@ button { font: inherit; color: inherit; cursor: pointer; }
 
 /* masthead */
 .mast { border-bottom: 1px solid var(--line); background: var(--brand); color: var(--on-brand-2); position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; }
-.mast .wrap { display: flex; align-items: center; gap: 24px; padding-block: 12px; flex-wrap: wrap; }
+.mast .wrap { display: flex; align-items: center; gap: 20px; padding-block: 12px; flex-wrap: wrap; }
 .brand { display: flex; align-items: baseline; gap: 10px; }
 .brand .deva { font-family: var(--f-deva); font-weight: var(--w-deva); font-size: 28px; color: var(--on-brand); line-height: 1; }
 .brand .lat { font-family: var(--f-text); font-size: 15px; color: var(--on-brand-2); letter-spacing: .02em; }
 .nav { display: flex; gap: 18px; font-weight: 500; font-size: 14px; flex-wrap: wrap; }
 .nav a { color: var(--on-brand-2); }
 .nav a:hover, .nav a.on { color: var(--on-brand); }
-.searchbox { margin-left: auto; display: flex; align-items: center; gap: 8px; background: rgba(255,255,255,.12); border: 1px solid rgba(255,255,255,.22); border-radius: 999px; padding: 6px 14px; min-width: 0; flex: 0 1 260px; }
-.searchbox input { border: 0; background: transparent; font: inherit; color: #fff; width: 100%; min-width: 0; outline: none; }
+.searchbox { margin-left: auto; display: flex; align-items: center; gap: 8px; background: rgba(255,255,255,.12); border: 1px solid rgba(255,255,255,.22); border-radius: 999px; padding: 6px 14px; min-width: 0; flex: 1 1 150px; max-width: 260px; }
+.searchbox input { border: 0; background: transparent; font: inherit; font-family: var(--f-ui), var(--f-scripts); color: #fff; width: 100%; min-width: 0; outline: none; }
 .searchbox svg { flex: none; opacity: .75; color: #fff; }
 .searchbox input::placeholder { color: rgba(255,255,255,.6); }
 
@@ -238,6 +241,23 @@ footer .wrap { padding-block: 24px; display: flex; gap: 24px; flex-wrap: wrap; j
 [hidden] { display: none !important; }
 .skip { position: absolute; left: -999px; top: 8px; background: var(--card); padding: 6px 12px; border-radius: 6px; z-index: 10; }
 .skip:focus { left: 8px; }
+/* Script picker and theme toggle, side by side at the right of the masthead. */
+.mast .tools { display: flex; gap: 8px; align-items: center; flex: none; margin-left: auto; }
+@media (max-width: 1180px) { .brand .lat { display: none; } }
+.script-pick { position: relative; display: flex; align-items: center; }
+.script-pick select { appearance: none; -webkit-appearance: none; font: inherit; font-size: 13.5px; font-weight: 500; color: var(--on-brand-2); background: transparent; border: 1px solid rgba(255,255,255,.22); border-radius: 999px; height: 34px; padding: 0 28px 0 12px; cursor: pointer; }
+.script-pick::after { content: ""; position: absolute; right: 12px; top: 50%; width: 6px; height: 6px; margin-top: -5px; border: solid var(--on-brand-2); border-width: 0 1.5px 1.5px 0; transform: rotate(45deg); pointer-events: none; }
+.script-pick select:hover, .script-pick select:focus-visible { color: var(--on-brand); border-color: rgba(255,255,255,.4); }
+.script-pick option { color: var(--ink); background: var(--card); }
+/* Tamil, Malayalam and Grantha spell the brand much wider. */
+:root:is([data-script="tamil"], [data-script="malayalam"], [data-script="grantha"]) .brand .deva { font-size: 22px; }
+:root:is([data-script="tamil"], [data-script="malayalam"], [data-script="grantha"]) .brand .lat { display: none; }
+/* While a stored script is applied on load; never longer than 3s. */
+.ss-pending body { opacity: 0; animation: ss-reveal 0s 3s forwards; }
+@keyframes ss-reveal { to { opacity: 1; } }
+/* In IAST the transliterated title already reads in Roman letters, so the
+   separate IAST subtitles would only repeat it. */
+:root[data-script="iast"] :is(.card .r, .toc .r, .rel .r, .recent .r, .shead .iast, .rhead .iast, .page-head .iast, .brand .lat) { display: none; }
 .mast .theme-btn { background: transparent; border: 1px solid rgba(255,255,255,.22); color: var(--on-brand-2); border-radius: 999px; width: 34px; height: 34px; display: grid; place-items: center; flex: none; }
 .mast .theme-btn:hover { color: var(--on-brand); }
 .mast .theme-btn .sun { display: none; }
@@ -300,10 +320,13 @@ footer .wrap { padding-block: 24px; display: flex; gap: 24px; flex-wrap: wrap; j
 main > .crumbs { margin-bottom: -34px; }
 @media (max-width: 720px) {
   .mast .wrap { gap: 10px 16px; position: relative; }
-  .mast .theme-btn { position: absolute; right: 16px; top: 12px; }
+  /* Brand and the tools share the first row; the nav and search wrap below. */
+  .brand .deva { font-size: 24px; }
+  .nav { order: 1; }
+  .searchbox { order: 2; }
   .nav { flex-wrap: nowrap; overflow-x: auto; max-width: 100%; scrollbar-width: none; gap: 16px; }
   .nav::-webkit-scrollbar { display: none; }
-  .searchbox { flex-basis: 100%; margin-left: 0; }
+  .searchbox { flex-basis: 100%; max-width: none; margin-left: 0; }
   .shead { gap: 20px; }
 }
 
