@@ -6,7 +6,7 @@
 
 <div class="stotra-article"><h2 class="stotra-heading">अथ चतुर्दशोऽध्यायः</h2>
 <p class="uvacha">पृथुरुवाच</p>
-<div class="verse-block-wrapper" id="kartika-mahatmyam-b1088"><div class="verse-block verse-justify"><div class="line">यत्त्वया कथितं ब्रह्मन्व्रतमूर्जस्य विस्तरात्।</div><div class="line" style="position:relative;">तत्र या तुलसीमूले विष्णोः पूजा त्वयोदिता॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="kartika-mahatmyam-b1088"><div class="verse-block verse-justify"><div class="line">यत् त्वया कथितं ब्रह्मन्व्रतमूर्जस्य विस्तरात्।</div><div class="line" style="position:relative;">तत्र या तुलसीमूले विष्णोः पूजा त्वयोदिता॥१॥</div></div></div>
 <div class="verse-block-wrapper" id="kartika-mahatmyam-b1089"><div class="verse-block verse-justify"><div class="line">तेनाहं प्रष्टुमिच्छामि माहात्म्यं तुलसीभवम्।</div><div class="line" style="position:relative;">कथं साऽतिप्रिया तस्य देवदेवस्य शार्ङ्गिणः॥२॥</div></div></div>
 <div class="verse-block-wrapper" id="kartika-mahatmyam-b1090"><div class="verse-block verse-justify"><div class="line">कथमेषा समुत्पन्ना कस्मिन्स्थाने च नारद।</div><div class="line" style="position:relative;">एवं ब्रूहि समासेन सर्वज्ञोऽसि मतो मम॥३॥</div></div></div>
 <p class="uvacha">नारद उवाच</p>

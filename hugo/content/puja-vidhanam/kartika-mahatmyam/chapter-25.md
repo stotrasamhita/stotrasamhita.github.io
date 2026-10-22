@@ -10,7 +10,7 @@
 <div class="verse-block-wrapper" id="kartika-mahatmyam-b1539"><div class="verse-block verse-justify"><div class="line">त्वद्ग्लानिदर्शनादस्मात्खिन्नं च मम मानसम्।</div><div class="line" style="position:relative;">न वै निर्वृतिमायाति त्वामनुद्धृत्य दुःखिताम्॥२॥</div></div></div>
 <div class="verse-block-wrapper" id="kartika-mahatmyam-b1540"><div class="verse-block verse-justify"><div class="line">तस्मादाजन्मचरितं यन्मया कार्तिकव्रतम्।</div><div class="line" style="position:relative;">तत्पुण्यस्यार्धभागेन सद्गतिं त्वमवाप्नुहि॥३॥</div></div></div>
 <p class="uvacha">नारद उवाच</p>
-<div class="verse-block-wrapper" id="kartika-mahatmyam-b1542"><div class="verse-block verse-justify"><div class="line">इत्युक्त्वा धर्मदत्तोऽसौ यावत्तामभ्यषेचयत्।</div><div class="line" style="position:relative;">तुलसीमिश्रतोयेन श्रावयन्द्वादशाक्षरम्॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="kartika-mahatmyam-b1542"><div class="verse-block verse-justify"><div class="line">इत्युक्त्वा धर्मदत्तोऽसौ यावत् तामभ्यषेचयत्।</div><div class="line" style="position:relative;">तुलसीमिश्रतोयेन श्रावयन्द्वादशाक्षरम्॥४॥</div></div></div>
 <div class="verse-block-wrapper" id="kartika-mahatmyam-b1543"><div class="verse-block verse-justify"><div class="line">तावत्प्रेतत्वनिर्मुक्ता ज्वलदग्निशिखोपमा।</div><div class="line" style="position:relative;">दिव्यरूपधरा जाता लावण्येन यथेन्दिरा॥५॥</div></div></div>
 <div class="verse-block-wrapper" id="kartika-mahatmyam-b1544"><div class="verse-block verse-justify"><div class="line">ततः सा दण्डवद्भूमौ प्रणनामाथ तं द्विजम्।</div><div class="line" style="position:relative;">उवाच सा तदा वाक्यैर्हर्षगद्गदभाषिणी॥६॥</div></div></div>
 <p class="uvacha">कलहोवाच</p>

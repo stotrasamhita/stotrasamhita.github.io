@@ -76,7 +76,7 @@
 <div class="verse-block-wrapper" id="varamahalakshmi-puja-b0069"><div class="verse-block verse-justify"><div class="line">पयोदधिघृतैर्युक्तं शर्करामधुसंयुतम्।</div><div class="line" style="position:relative;">पञ्चामृतं गृहाणेदं वरलक्ष्मि नमोऽस्तु ते॥</div></div></div>
 <p class="prose">श्री-वरलक्ष्म्यै नमः, पञ्चामृतं समर्पयामि।</p>
 <div class="verse-block-wrapper" id="varamahalakshmi-puja-b0071"><div class="verse-block verse-justify"><div class="line">हेमकुम्भस्थितं स्वच्छं गङ्गादिसरिदाहृतम्।</div><div class="line" style="position:relative;">स्नानार्थं सलिलं देवि गृह्यतां सागरात्मजे॥</div></div></div>
-<p class="prose">श्री-वरलक्ष्म्यै नमः, स्नानं समर्पयामि। स्नानान्तरम् आचमनीयं समर्पयामि।</p>
+<p class="prose">श्री-वरलक्ष्म्यै नमः, स्नानं समर्पयामि।<br>स्नानानन्तरम् आचमनीयं समर्पयामि।</p>
 <div class="verse-block-wrapper" id="varamahalakshmi-puja-b0073"><div class="verse-block verse-justify"><div class="line">दिव्याम्बरयुगं सूक्ष्मं कञ्चुकं च मनोहरम्।</div><div class="line" style="position:relative;">वरलक्ष्मि महादेवि गृहाणेदं मयाऽर्पितम्॥</div></div></div>
 <p class="prose">श्री-वरलक्ष्म्यै नमः, वस्त्रं समर्पयामि।</p>
 <div class="verse-block-wrapper" id="varamahalakshmi-puja-b0075"><div class="verse-block verse-justify"><div class="line">माङ्गल्यमणिसंयुक्तं मुक्ता-विद्रुमसंयुतम्।</div><div class="line" style="position:relative;">दत्तं मङ्गलसूत्रं च गृहाण हरिवल्लभे॥</div></div></div>
@@ -275,5 +275,5 @@
 <div class="verse-block-wrapper" id="varamahalakshmi-puja-b0272"><div class="verse-block verse-justify"><div class="line">इदं सत्यमिदं सत्यं नरो भद्राणि पश्यति।</div><div class="line" style="position:relative;">वयं चारुमतीमुख्या उपलब्धमनोरथाः॥२८॥</div></div></div>
 <div class="verse-block-wrapper" id="varamahalakshmi-puja-b0273"><div class="verse-block verse-justify"><div class="line">पुण्या चारुमती धन्या भूयो भाग्यवती चिरम्।</div><div class="line" style="position:relative;">स्वयं यस्यान्महालक्ष्म्या बोधितं हि व्रतोत्तमम्॥२९॥</div></div></div>
 <div class="verse-block-wrapper" id="varamahalakshmi-puja-b0274"><div class="verse-block verse-justify"><div class="line">इति चारुमतीं साध्वीं तुष्टुवुस्तत्र योषितः।</div><div class="line" style="position:relative;">वरलक्ष्मीव्रतं नाम तदादि भुवि विश्रुतम्॥३०॥</div></div></div>
-<div class="verse-block-wrapper" id="varamahalakshmi-puja-b0275"><div class="verse-block verse-justify"><div class="line">एतत्ते सर्वमाख्यातं व्रतानामुत्तमं व्रतम्।</div><div class="line">य इदं शृणुयाद्वापि श्रावयेद्वा समाहितः।</div><div class="line" style="position:relative;">सिद्ध्यन्ति सर्वकार्याणि वरलक्ष्मीप्रसादतः॥३१॥</div></div></div>
+<div class="verse-block-wrapper" id="varamahalakshmi-puja-b0275"><div class="verse-block verse-justify"><div class="line">एतत् ते सर्वमाख्यातं व्रतानामुत्तमं व्रतम्।</div><div class="line">य इदं शृणुयाद्वापि श्रावयेद्वा समाहितः।</div><div class="line" style="position:relative;">सिद्ध्यन्ति सर्वकार्याणि वरलक्ष्मीप्रसादतः॥३१॥</div></div></div>
 <div class="decoration">❀ ❀ ❀</div></div>

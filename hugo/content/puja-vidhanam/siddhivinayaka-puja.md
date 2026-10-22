@@ -86,7 +86,7 @@
 <p class="prose">श्री-सिद्धिविनायकाय नमः, पञ्चामृतस्नानम् समर्पयामि।</p>
 <div class="verse-block-wrapper" id="siddhivinayaka-puja-b0080"><div class="verse-block verse-justify"><div class="line">गङ्गादिसर्वतीर्थेभ्य आनीतं तोयमुत्तमम्।</div><div class="line" style="position:relative;">भक्त्या समर्पितं तुभ्यं स्नानायाभीष्टदायक॥</div></div></div>
 <div class="verse-block-wrapper" id="siddhivinayaka-puja-b0081"><div class="verse-block verse-justify"><div class="line">स॒प्तास्या॑ऽऽसन् परि॒धयः॑। त्रिः स॒प्त स॒मिधः॑ कृ॒ताः।</div><div class="line" style="position:relative;">दे॒वा यद्य॒ज्ञं त॑न्वा॒नाः। अब॑ध्न॒न् पु॑रुषं प॒शुम्॥</div></div></div>
-<p class="prose">श्री-सिद्धिविनायकाय नमः, शुद्धोदकस्नानं समर्पयामि। स्नानानन्तरम् आचमनीयं समर्पयामि।</p>
+<p class="prose">श्री-सिद्धिविनायकाय नमः, शुद्धोदकस्नानं समर्पयामि।<br>स्नानानन्तरम् आचमनीयं समर्पयामि।</p>
 <div class="verse-block-wrapper" id="siddhivinayaka-puja-b0083"><div class="verse-block verse-justify"><div class="line">रक्तवस्त्रयुगं देव दिव्यं काञ्चनसम्भवम्।</div><div class="line" style="position:relative;">सर्वप्रद गृहाणेदं लम्बोदर हरात्मज॥</div></div></div>
 <div class="verse-block-wrapper" id="siddhivinayaka-puja-b0084"><div class="verse-block verse-justify"><div class="line">तं य॒ज्ञं ब॒र्{}हिषि॒ प्रौक्षन्॑। पुरु॑षं जा॒तम॑ग्र॒तः।</div><div class="line" style="position:relative;">तेन॑ दे॒वा अय॑जन्त। सा॒ध्या ऋष॑यश्च॒ ये॥</div></div></div>
 <p class="prose">श्री-सिद्धिविनायकाय नमः, वस्त्रं समर्पयामि।</p>

@@ -19,4 +19,5 @@
 <div class="verse-block-wrapper" id="shivaratri-puja-b0283"><div class="verse-block verse-justify"><div class="line">सनातनं परं ब्रह्म परमात्मानमव्ययम्।</div><div class="line" style="position:relative;">आवाहयामि जगतामीश्वरं परमेश्वरम्॥१२॥</div></div></div>
 <div class="verse-block-wrapper" id="shivaratri-puja-b0284"><div class="verse-block verse-justify"><div class="line">मङ्गलायतनं देवं युवानमति सुन्दरम्।</div><div class="line" style="position:relative;">ध्यायेत्कल्पतरोर्मूले सुखासीनं सहोमया॥१३॥</div></div></div>
 <div class="verse-block-wrapper" id="shivaratri-puja-b0285"><div class="verse-block verse-justify"><div class="line">आगच्छाऽऽगच्छ भगवन् देवेश परमेश्वर।</div><div class="line" style="position:relative;">सच्चिदानन्द भूतेश पार्वतीश नमोऽस्तु ते॥१४॥</div></div></div>
-<div class="decoration">❀ ❀ ❀</div></div>
+<div class="decoration">❀ ❀ ❀</div>
+<p class="prose">स्नानानन्तरम् आचमनीयं समर्पयामि॥७॥</p></div>

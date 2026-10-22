@@ -78,7 +78,7 @@
 <div class="verse-block-wrapper" id="sarasvati-puja-b0071"><div class="verse-block verse-justify"><div class="line">नमस्ते हंसवाहिन्यै नमस्ते धातृपत्निके।</div><div class="line" style="position:relative;">गन्धोदकेन सम्पूर्णं स्नानं च प्रतिगृह्यताम्॥</div></div></div>
 <p class="prose">श्री-दुर्गा-लक्ष्मी-युक्तायै सरस्वत्यै नमः, गन्धोदकस्नानं समर्पयामि।</p>
 <div class="verse-block-wrapper" id="sarasvati-puja-b0073"><div class="verse-block verse-justify"><div class="line">साध्वीनामग्रतो गण्ये साधुसङ्घसमादृते।</div><div class="line" style="position:relative;">सरस्वति नमस्तुभ्यं स्नानं स्वीकुरु सम्प्रति॥</div></div></div>
-<p class="prose">श्री-दुर्गा-लक्ष्मी-युक्तायै सरस्वत्यै नमः, शुद्धोदकस्नानं समर्पयामि। स्नानानन्तरम् आचमनीयं समर्पयामि।</p>
+<p class="prose">श्री-दुर्गा-लक्ष्मी-युक्तायै सरस्वत्यै नमः, शुद्धोदकस्नानं समर्पयामि।<br>स्नानानन्तरम् आचमनीयं समर्पयामि।</p>
 <div class="verse-block-wrapper" id="sarasvati-puja-b0075"><div class="verse-block verse-justify"><div class="line">दुकूलद्वितयं देवि दुरितापहवैभवे।</div><div class="line" style="position:relative;">विधिप्रिये गृहाणेदं सुधानिधिसमं शिवे॥</div></div></div>
 <p class="prose">श्री-दुर्गा-लक्ष्मी-युक्तायै सरस्वत्यै नमः, वस्त्रं समर्पयामि।</p>
 <div class="verse-block-wrapper" id="sarasvati-puja-b0077"><div class="verse-block verse-justify"><div class="line">उपवीतं गृहाणेदमुपमाशून्यवैभवे।</div><div class="line" style="position:relative;">हिरण्यगर्भमहिषि हिरण्मयगुणैः कृतम्॥</div></div></div>

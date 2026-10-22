@@ -20,7 +20,7 @@
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b0065"><div class="verse-block verse-justify"><div class="line">यत्पुरु॑षेण ह॒विषा᳚। दे॒वा य॒ज्ञमत॑न्वत।</div><div class="line" style="position:relative;">व॒स॒न्तो अ॑स्याऽऽसी॒दाज्यम्᳚। ग्री॒ष्म इ॒ध्मः श॒रद्ध॒विः॥</div></div></div>
 <p class="prose">श्री-भूमि-नीला-समेत-महा-विष्णवे नमः, मधुपर्कं समर्पयामि।</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b0067"><div class="verse-block verse-justify"><div class="line">स॒प्तास्या॑ऽऽसन् परि॒धयः॑। त्रिः स॒प्त स॒मिधः॑ कृ॒ताः।</div><div class="line" style="position:relative;">दे॒वा यद्य॒ज्ञं त॑न्वा॒नाः। अब॑ध्न॒न् पु॑रुषं प॒शुम्॥</div></div></div>
-<p class="prose">श्री-भूमि-नीला-समेत-महा-विष्णवे नमः, शुद्धोदकस्नानं समर्पयामि। स्नानानन्तरम् आचमनीयं समर्पयामि।</p>
+<p class="prose">श्री-भूमि-नीला-समेत-महा-विष्णवे नमः, शुद्धोदकस्नानं समर्पयामि।<br>स्नानानन्तरम् आचमनीयं समर्पयामि।</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b0069"><div class="verse-block verse-justify"><div class="line">तं य॒ज्ञं ब॒र्{}हिषि॒ प्रौक्षन्॑। पुरु॑षं जा॒तम॑ग्र॒तः।</div><div class="line" style="position:relative;">तेन॑ दे॒वा अय॑जन्त। सा॒ध्या ऋष॑यश्च॒ ये॥</div></div></div>
 <p class="prose">श्री-भूमि-नीला-समेत-महा-विष्णवे नमः, वस्त्रं समर्पयामि।</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b0071"><div class="verse-block verse-justify"><div class="line">तस्मा᳚द्य॒ज्ञाथ्स॑र्व॒हुतः॑। सम्भृ॑तं पृषदा॒ज्यम्।</div><div class="line" style="position:relative;">प॒शूꣴस्ताꣴश्च॑क्रे वाय॒व्यान्॑। आ॒र॒ण्यान्ग्रा॒म्याश्च॒ ये॥</div></div></div>
