@@ -39,7 +39,7 @@
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4242"><div class="verse-block verse-justify"><div class="line">आसनादुत्थितः शीघ्रं नम चक्रे द्विजोत्तमम्।</div><div class="line">चकार कुशलप श्रेश्वशुरस्य नपश्य च।</div><div class="line" style="position:relative;">कान्तायाश्चन्द्रभागायास्तथैव नगरस्य च॥२८॥</div></div></div>
 <p class="uvacha">सोमशर्मोवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4244"><div class="verse-block verse-justify"><div class="line">कुशलं वर्तते राजञ्छशुरस्य गृहे तव।</div><div class="line" style="position:relative;">चन्द्रभागा कुशलिनी सर्वतः कुशलं पुरे॥२९॥</div></div></div>
-<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4245"><div class="verse-block verse-justify"><div class="line">स्ववृतं कथ्यतां राजन् नाश्चर्यं परमं मम।</div><div class="line" style="position:relative;">पुरं विचित्रं रुचिरं न दृष्ट केनचित्क्वचित्॥३०॥</div></div></div>
+<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4245"><div class="verse-block verse-justify"><div class="line">स्ववृतं कथ्यतां राजन् नाऽऽश्चर्यं परमं मम।</div><div class="line" style="position:relative;">पुरं विचित्रं रुचिरं न दृष्ट केनचित्क्वचित्॥३०॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4246"><div class="verse-block verse-justify"><div class="line" style="position:relative;">एतदाचक्ष्व नृपते कुतः प्राप्तमिदं त्वया।</div></div></div>
 <p class="uvacha">शोभन उवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4248"><div class="verse-block verse-justify"><div class="line" style="position:relative;">कार्तिकस्यासिते पक्षे नाना चैकादशी रमा॥३१॥</div></div></div>

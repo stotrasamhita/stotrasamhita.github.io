@@ -505,7 +505,7 @@
 <h3 class="subheading">सारभूतः श्लोकः</h3>
 <p class="prose">“सिंहः प्रसेनम् अवधीत् सिंहो जाम्बवता हतः।<br>सुकुमारक मा रोदीः तव ह्येष स्यमन्तकः॥”</p>
 <h3 class="subheading">स्यमन्तकोपाख्यानपठने प्रमाणवचनानि</h3>
-<p class="prose">कन्यादित्ये चतुर्थ्यां च शुक्ले चन्द्रस्य दर्शनम्।<br>मिथ्याभिदूषणं कुर्यात् तस्मात् पश्येन्न तं तदा॥<br>तद्दोषशान्तये जाप्यं विष्णुनोक्तं स्यमन्तकम्॥<br>(व्रतचूडामण्यादौ व्रतग्रन्थेषु)<br>ये शृण्वन्ति तवाख्यानं स्यमन्तकमणीयकम्॥<br>चन्द्रस्य चरितं सर्वं तेषां दोषो न जायते॥१३२॥<br>(अत्रैव अग्रे उपाख्याने)</p>
+<p class="prose">कन्यादित्ये चतुर्थ्यां च शुक्ले चन्द्रस्य दर्शनम्।<br>मिथ्याभिदूषणं कुर्यात् तस्मात् पश्येन्न तं तदा॥<br>तद्दोषशान्तये जाप्यं विष्णुनोक्तं स्यमन्तकम्॥<br>(व्रतचूडामण्यादौ व्रतग्रन्थेषु)<br>ये शृण्वन्ति तवाऽऽख्यानं स्यमन्तकमणीयकम्॥<br>चन्द्रस्य चरितं सर्वं तेषां दोषो न जायते॥१३२॥<br>(अत्रैव अग्रे उपाख्याने)</p>
 <p class="uvacha">नन्दिकेश्वर उवाच</p>
 <div class="verse-block-wrapper" id="siddhivinayaka-puja-b0507"><div class="verse-block verse-justify"><div class="line">शृणुष्वैकाग्रचित्तः सन् व्रतं गाणेश्वरं महत्।</div><div class="line" style="position:relative;">चतुर्थ्यां शुक्लपक्षे तु सदा कार्यं प्रयत्नतः॥१॥</div></div></div>
 <div class="verse-block-wrapper" id="siddhivinayaka-puja-b0508"><div class="verse-block verse-justify"><div class="line">सनत्कुमार योगीन्द्र यदीच्छेच्छुभमात्मनः।</div><div class="line" style="position:relative;">नारी वा पुरुषो वाऽपि यः कुर्याद् विधिवद् व्रतम्॥२॥</div></div></div>
@@ -513,7 +513,7 @@
 <div class="verse-block-wrapper" id="siddhivinayaka-puja-b0510"><div class="verse-block verse-justify"><div class="line">कान्तारे विषमे वाऽपि रणे राजकुलेऽथवा।</div><div class="line" style="position:relative;">सर्वसिद्धिकरं विद्धि व्रतानामुत्तमं व्रतम्॥४॥</div></div></div>
 <div class="verse-block-wrapper" id="siddhivinayaka-puja-b0511"><div class="verse-block verse-justify"><div class="line">गजाननप्रियं चाथ त्रिषु लोकेषु विश्रुतम्।</div><div class="line" style="position:relative;">अतो न विद्यते ब्रह्मन् सर्वसङ्कष्टनाशनम्॥५॥</div></div></div>
 <p class="uvacha">सनत्कुमार उवाच</p>
-<div class="verse-block-wrapper" id="siddhivinayaka-puja-b0513"><div class="verse-block verse-justify"><div class="line">केन चादौ पुरा चीर्णं मर्त्यलोकं कथं गतम्।</div><div class="line" style="position:relative;">एतत्समस्तं विस्तार्य ब्रूहि गाणेश्वरं व्रतम्॥६॥</div></div></div>
+<div class="verse-block-wrapper" id="siddhivinayaka-puja-b0513"><div class="verse-block verse-justify"><div class="line">केन चाऽऽदौ पुरा चीर्णं मर्त्यलोकं कथं गतम्।</div><div class="line" style="position:relative;">एतत्समस्तं विस्तार्य ब्रूहि गाणेश्वरं व्रतम्॥६॥</div></div></div>
 <p class="uvacha">नन्दिकेश्वर उवाच</p>
 <div class="verse-block-wrapper" id="siddhivinayaka-puja-b0515"><div class="verse-block verse-justify"><div class="line">चक्रे व्रतं जगन्नाथो वासुदेवः प्रतापवान्।</div><div class="line" style="position:relative;">आदिष्टं नारदेनैव वृथालाञ्छनमुक्तये॥७॥</div></div></div>
 <p class="uvacha">सनत्कुमार उवाच</p>

@@ -7,7 +7,7 @@
 <div class="stotra-article"><h2 class="stotra-heading">चतुर्थोऽध्यायः</h2>
 <p class="uvacha">ईश्वर उवाच</p>
 <div class="verse-block-wrapper" id="shravana-mahatmyam-b0161"><div class="verse-block verse-justify"><div class="line">सनत्कुमार वक्ष्यामि धारणापारणाव्रतम्।</div><div class="line" style="position:relative;">पुण्याहं वाचयेत्पूर्वमारभ्य प्रतिपद्दिनम्॥१॥</div></div></div>
-<div class="verse-block-wrapper" id="shravana-mahatmyam-b0162"><div class="verse-block verse-justify"><div class="line">सङ्कल्पयेन्मम प्रीत्यै धारणापारणाव्रतम्।</div><div class="line" style="position:relative;">एकस्मिन्धारणं कुर्यात्पारणं च तथापरे॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="shravana-mahatmyam-b0162"><div class="verse-block verse-justify"><div class="line">सङ्कल्पयेन्मम प्रीत्यै धारणापारणाव्रतम्।</div><div class="line" style="position:relative;">एकस्मिन्धारणं कुर्यात्पारणं च तथाऽपरे॥२॥</div></div></div>
 <div class="verse-block-wrapper" id="shravana-mahatmyam-b0163"><div class="verse-block verse-justify"><div class="line">उपवासो धारणे स्यात्पारणे भोजनं भवेत्।</div><div class="line" style="position:relative;">समाप्ते मासि चैवात्र कुर्यादुद्यापनं व्रती॥३॥</div></div></div>
 <div class="verse-block-wrapper" id="shravana-mahatmyam-b0164"><div class="verse-block verse-justify"><div class="line">समाप्ते श्रावणे मासि पुण्याहं कारयेत्पुरा।</div><div class="line" style="position:relative;">आचार्यं वरयेत्पश्चाद् ब्राह्मणांश्चैव मानद॥४॥</div></div></div>
 <div class="verse-block-wrapper" id="shravana-mahatmyam-b0165"><div class="verse-block verse-justify"><div class="line">पार्वतीशङ्करस्यापि प्रतिमां स्वर्णनिर्मिताम्।</div><div class="line" style="position:relative;">पूर्णकुम्भे तु संस्थाप्य पूजयेन्निशि भक्तितः॥५॥</div></div></div>
