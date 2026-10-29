@@ -16,7 +16,7 @@
  "vakta": "Narayana",
  "shrota": "Narada",
  "wiki_title": "Svadha Stotram",
- "weight": 50,
+ "weight": 60,
  "iast": "Svadhāstotram",
  "form": "Stotram",
  "date": "2026-09-28"

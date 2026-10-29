@@ -14,7 +14,7 @@
  ],
  "source": "Brahmavaivarta Puranam",
  "wiki_title": "Yamashtakam",
- "weight": 70,
+ "weight": 80,
  "iast": "Yamāṣṭakam",
  "form": "Aṣṭakam",
  "date": "2017-06-04"

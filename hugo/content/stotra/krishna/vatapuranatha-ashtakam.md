@@ -3,7 +3,7 @@
  "slug": "vatapuranatha-ashtakam",
  "source_file": "stotras/krishna/VatapuranathaAshtakam.tex",
  "verse_count": 9,
- "weight": 220,
+ "weight": 230,
  "iast": "Vātapuranāthāṣṭakam",
  "form": "Aṣṭakam",
  "deity": [

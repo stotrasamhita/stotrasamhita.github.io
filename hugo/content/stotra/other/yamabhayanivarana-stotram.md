@@ -3,7 +3,7 @@
  "slug": "yamabhayanivarana-stotram",
  "source_file": "stotras/other/YamabhayanivaranaStotram.tex",
  "verse_count": 1,
- "weight": 60,
+ "weight": 70,
  "iast": "Yamabhayanivāraṇastotram",
  "form": "Stotram",
  "date": "2014-07-10"
