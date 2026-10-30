@@ -8,7 +8,7 @@
       <select id="sort" aria-label="Sort"><option value="title">A–Z (Devanagari order)</option><option value="recent">Recently added</option><option value="short">Shortest first</option><option value="long">Longest first</option></select></div>
     <div class="active" id="active"></div>
     <div class="grid" id="cards">{{ range $all }}{{ partial "card.html" . }}{{ end }}</div>
-    <div class="empty" id="empty" hidden>No stotras match these filters. Remove a filter to see more.</div>
+    <div class="empty" id="empty" hidden>No stotras match these filters. Remove a filter to see more, or <a id="empty-all" href="/search/">search all texts</a>.</div>
     <section style="margin-top:48px">
       <div class="sec-h"><h2>By category</h2></div>
       <div class="pills">{{ range .Sections.ByWeight }}<a class="pill" href="{{ .RelPermalink }}">{{ .Title }}<span class="c">{{ .Params.iast }} · {{ len .RegularPages }}</span></a>{{ end }}</div>

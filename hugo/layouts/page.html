@@ -12,17 +12,18 @@
 {{ if $book }}
 <article class="reading">
   <header class="rhead">
-    <div class="kicker"><a href="{{ .Parent.RelPermalink }}">{{ partial "title.html" .Parent.Title }}</a></div>
+    <div class="kicker" data-pagefind-meta="in"><a href="{{ .Parent.RelPermalink }}">{{ partial "title.html" .Parent.Title }}</a></div>
     <h1>{{ partial "title.html" .Title }}</h1>
     {{ with .Params.iast }}<div class="iast">{{ . }}</div>{{ end }}
   </header>
-  {{ with partial "vani.html" . }}<div class="rvideo">{{ partial "video.html" .id }}</div>{{ end }}
+  {{ with partial "vani.html" . }}<div class="rvideo" data-pagefind-ignore>{{ partial "video.html" .id }}</div>{{ end }}
   {{ with partial "story.html" . }}<section class="about">{{ . | markdownify }}</section>{{ end }}
   <div style="margin-top:22px">{{ partial "scripts-bar.html" . }}</div>
   {{ $body | safeHTML }}
-  <nav class="pager" aria-label="Chapters">
-    {{ with .PrevInSection }}<a class="prev" href="{{ .RelPermalink }}"><small>← Previous</small><span>{{ partial "title.html" .Title }}</span></a>{{ end }}
-    {{ with .NextInSection }}<a class="next" href="{{ .RelPermalink }}"><small>Next →</small><span>{{ partial "title.html" .Title }}</span></a>{{ end }}
+  <nav class="pager" data-pagefind-ignore aria-label="Chapters">
+    {{/* Hugo's PrevInSection is the page after this one in weight order, so the two are swapped here. */}}
+    {{ with .NextInSection }}<a class="prev" href="{{ .RelPermalink }}"><small>← Previous</small><span>{{ partial "title.html" .Title }}</span></a>{{ end }}
+    {{ with .PrevInSection }}<a class="next" href="{{ .RelPermalink }}"><small>Next →</small><span>{{ partial "title.html" .Title }}</span></a>{{ end }}
   </nav>
 </article>
 {{ else }}
@@ -30,7 +31,7 @@
 {{ $comps := partial "composers.html" . }}
 {{ $meters := partial "meters.html" . }}
 <header class="shead plain">
-  <div class="kicker">{{ index $kinds .Section | default "Text" }}{{ range $groups }} · {{ . }}{{ end }}</div>
+  <div class="kicker" data-pagefind-meta="in">{{ index $kinds .Section | default "Text" }}{{ range $groups }} · {{ . }}{{ end }}</div>
   <h1>{{ partial "title.html" .Title }}</h1>
   {{ with .Params.iast }}<div class="iast">{{ . }}</div>{{ end }}
 </header>
@@ -40,7 +41,7 @@
     {{ partial "scripts-bar.html" . }}
     {{ $body | safeHTML }}
   </div>
-  <aside class="aside">
+  <aside class="aside" data-pagefind-ignore>
     {{ partial "infobox.html" (dict "p" . "groups" $groups "comps" $comps "meters" $meters) }}
     {{ with $pdfs }}<div class="box"><h4>Download</h4>{{ range . }}<a class="dl" href="{{ .href }}">{{ partial "icon.html" "download" }}<span>{{ .label }}</span>{{ partial "icon.html" "pdf" }}</a>{{ end }}</div>{{ end }}
     {{ with $groups }}

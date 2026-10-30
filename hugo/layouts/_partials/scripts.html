@@ -1,6 +1,7 @@
 {{ $js := slice (resources.Get "js/site.js") }}
 {{ $js = $js | append (resources.Get "js/script-switcher.js") }}
 {{ if eq .Layout "browse" }}{{ $js = $js | append (resources.Get "js/browse.js") }}{{ end }}
-{{ $b := $js | resources.Concat (printf "js/%s.js" (cond (eq .Layout "browse") "browse-all" "site")) }}
+{{ if eq .Layout "search" }}{{ $js = $js | append (resources.Get "js/search.js") }}{{ end }}
+{{ $b := $js | resources.Concat (printf "js/%s.js" (cond (eq .Layout "browse") "browse-all" (cond (eq .Layout "search") "search-all" "site"))) }}
 {{ if hugo.IsProduction }}{{ $b = $b | minify | fingerprint }}{{ end }}
 <script src="{{ $b.RelPermalink }}" defer></script>

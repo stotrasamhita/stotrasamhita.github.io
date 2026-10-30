@@ -31,6 +31,11 @@ jobs:
         working-directory: hugo
         run: hugo --minify --destination ../_site
 
+      # Full-text search (/search/): Pagefind indexes the built pages marked
+      # data-pagefind-body (texts and tables of contents) into _site/pagefind/.
+      - name: Build search index
+        run: npx -y pagefind@1.5.2 --site _site
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:

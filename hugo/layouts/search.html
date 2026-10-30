@@ -1,0 +1,13 @@
+{{ define "main" }}
+<header class="page-head">
+  <h1>{{ .Title }}</h1>
+  <div class="desc"><p>Every stotra, nāmāvalī, pūjā and chapter of the books. Type in Devanagari, IAST, ITRANS or any of the site's scripts.</p></div>
+</header>
+<form class="sbig" role="search" action="/search/">
+  <input id="sq" name="q" type="search" placeholder="विराटनगरे, kanakadhArA, prathamo'dhyāyaḥ…" aria-label="Search all texts" autocomplete="off">
+</form>
+<p class="scount" id="scount" aria-live="polite"></p>
+<ol class="sres" id="sres"></ol>
+<button type="button" class="pill smore" id="smore" hidden>Show more</button>
+<noscript><p class="empty">Search needs JavaScript.</p></noscript>
+{{ end }}

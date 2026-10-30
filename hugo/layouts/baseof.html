@@ -6,7 +6,9 @@
 <body>
 <a class="skip" href="#main">Skip to content</a>
 {{ partial "mast.html" . }}
-<main class="wrap" id="main">
+{{/* Texts and their tables of contents go into the Pagefind search index
+     (built after Hugo in pages.yml); listing and prose pages stay out. */}}
+<main class="wrap" id="main"{{ if and (eq .Layout "") (or .IsPage .Params.source_file) }} data-pagefind-body{{ end }}>
 {{ block "main" . }}{{ end }}
 </main>
 {{ partial "footer.html" . }}

@@ -55,6 +55,8 @@
     items.slice().sort(ORDER[SORT] || ORDER.title).forEach(function (s) { grid.appendChild(s.el); });
     count.textContent = shown === items.length ? items.length + ' stotras' : shown + ' of ' + items.length;
     empty.hidden = shown > 0;
+    var all = document.getElementById('empty-all');
+    if (all) all.href = '/search/' + (Q ? '?q=' + encodeURIComponent(Q) : '');
 
     rail.innerHTML = GROUPS.map(function (g) {
       var k = g[0], counts = new Map();

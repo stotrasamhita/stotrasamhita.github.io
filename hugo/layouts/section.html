@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{ partial "crumbs.html" . }}
 <header class="page-head">
-  {{ with .Parent }}{{ if not .IsHome }}<div class="kicker">{{ .Params.iast | default .Title }}</div>{{ end }}{{ end }}
+  {{ with .Parent }}{{ if not .IsHome }}<div class="kicker" data-pagefind-meta="in">{{ .Params.iast | default .Title }}</div>{{ end }}{{ end }}
   <h1>{{ partial "title.html" .Title }}</h1>
   {{ with .Params.iast }}<div class="iast">{{ . }}</div>{{ end }}
   {{ with .Content | plainify | strings.TrimSpace }}<div class="desc">{{ $.Content }}</div>{{ else }}{{ with .Description }}<div class="desc"><p>{{ . }}</p></div>{{ end }}{{ end }}
@@ -10,10 +10,10 @@
 
 {{ if .Params.source_file }}
   {{/* One text split into chapters: a table of contents. */}}
-  {{ with partial "vani.html" . }}<div class="rvideo wide">{{ partial "video.html" .id }}</div>{{ end }}
+  {{ with partial "vani.html" . }}<div class="rvideo wide" data-pagefind-ignore>{{ partial "video.html" .id }}</div>{{ end }}
   {{ with partial "pdfs.html" . }}<div class="dls">{{ range . }}<a class="dl" href="{{ .href }}">{{ partial "icon.html" "download" }}<span>{{ .label }}</span>{{ partial "icon.html" "pdf" }}</a>{{ end }}</div>{{ end }}
   <section>
-    <ol class="toc">{{ range $i, $p := .Pages.ByWeight }}
+    <ol class="toc" data-pagefind-ignore>{{ range $i, $p := .Pages.ByWeight }}
       <li><a href="{{ .RelPermalink }}"><span class="no">{{ add $i 1 }}</span><span class="t">{{ partial "title.html" .Title }}</span>{{ with .Params.iast }}<span class="r">{{ . }}</span>{{ end }}</a></li>
     {{ end }}</ol>
   </section>
