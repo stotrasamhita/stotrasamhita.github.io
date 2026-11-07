@@ -10,7 +10,7 @@
   "Appayya Dikshita"
  ],
  "wiki_title": "Margabandhu Stotram",
- "weight": 120,
+ "weight": 150,
  "iast": "Mārgabandhustotram",
  "form": "Stotram",
  "date": "2015-03-28"

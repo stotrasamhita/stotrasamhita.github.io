@@ -10,7 +10,7 @@
   "Adi Shankaracharya"
  ],
  "wiki_title": "Dakshinamurti Stotram",
- "weight": 40,
+ "weight": 50,
  "iast": "Dakṣiṇāmūrtistotram",
  "form": "Stotram",
  "date": "2014-07-10"

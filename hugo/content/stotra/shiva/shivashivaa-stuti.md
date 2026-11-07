@@ -11,7 +11,7 @@
   "Composer:Subrahmanya"
  ],
  "wiki_title": "Shivashivaa Stuti",
- "weight": 230,
+ "weight": 260,
  "iast": "Śivaśivāstutiḥ",
  "form": "Stuti",
  "date": "2014-07-10"

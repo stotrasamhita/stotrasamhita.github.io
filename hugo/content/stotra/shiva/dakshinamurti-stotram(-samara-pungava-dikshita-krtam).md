@@ -3,7 +3,7 @@
  "slug": "dakshinamurti-stotram(-samara-pungava-dikshita-krtam)",
  "source_file": "stotras/shiva/DakshinamurtiStotram(SamaraPungavaDikshitaKrtam).tex",
  "verse_count": 9,
- "weight": 50,
+ "weight": 60,
  "iast": "Dakṣiṇāmūrtistotraṃ Samarapuṅgavadīkṣitakṛtam",
  "form": "Stotram",
  "deity": [

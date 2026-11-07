@@ -3,7 +3,7 @@
  "slug": "yamunashtakam",
  "source_file": "stotras/nadi/Yamunashtakam.tex",
  "verse_count": 8,
- "weight": 70,
+ "weight": 80,
  "iast": "Yamunāṣṭakam",
  "form": "Aṣṭakam",
  "deity": [

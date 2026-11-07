@@ -10,7 +10,7 @@
   "Adi Shankaracharya"
  ],
  "wiki_title": "Mrityunjaya Manasa Puja Stotram",
- "weight": 130,
+ "weight": 160,
  "iast": "Mṛtyuñjayamānasapūjāstotram",
  "form": "Stotram",
  "date": "2026-10-17"

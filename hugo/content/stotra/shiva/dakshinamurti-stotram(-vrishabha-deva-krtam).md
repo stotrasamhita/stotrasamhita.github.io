@@ -3,7 +3,7 @@
  "slug": "dakshinamurti-stotram(-vrishabha-deva-krtam)",
  "source_file": "stotras/shiva/DakshinamurtiStotram(VrishabhaDevaKrtam).tex",
  "verse_count": 9,
- "weight": 60,
+ "weight": 70,
  "iast": "Dakṣiṇāmūrtistotraṃ Vṛṣabhadevakṛtam",
  "form": "Stotram",
  "deity": [

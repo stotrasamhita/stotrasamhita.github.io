@@ -3,7 +3,7 @@
  "slug": "ganga-stuti",
  "source_file": "stotras/nadi/GangaStuti.tex",
  "verse_count": 31,
- "weight": 10,
+ "weight": 20,
  "iast": "Gaṅgādaśaharāstotram",
  "form": "Stotram",
  "deity": [

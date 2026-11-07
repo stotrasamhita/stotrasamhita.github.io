@@ -14,7 +14,7 @@
   "Totakam"
  ],
  "wiki_title": "Totakashtakam",
- "weight": 240,
+ "weight": 270,
  "iast": "Toṭakāṣṭakam",
  "form": "Aṣṭakam",
  "date": "2014-08-03"

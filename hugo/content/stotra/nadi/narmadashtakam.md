@@ -13,7 +13,7 @@
   "Panchachamara"
  ],
  "wiki_title": "Narmadashtakam",
- "weight": 50,
+ "weight": 60,
  "iast": "Narmadāṣṭakam",
  "form": "Aṣṭakam",
  "date": "2020-06-20"

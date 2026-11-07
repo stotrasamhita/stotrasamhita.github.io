@@ -11,7 +11,7 @@
   "Adi Shankaracharya"
  ],
  "wiki_title": "Umamaheshwara Stotram",
- "weight": 250,
+ "weight": 280,
  "iast": "Umāmaheśvarastotram",
  "form": "Stotram",
  "date": "2014-07-10"

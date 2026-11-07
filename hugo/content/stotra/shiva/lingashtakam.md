@@ -11,7 +11,7 @@
  ],
  "stotra_type": "Ashtakam",
  "wiki_title": "Lingashtakam",
- "weight": 110,
+ "weight": 140,
  "iast": "Liṅgāṣṭakam",
  "form": "Aṣṭakam",
  "date": "2014-07-10"

@@ -3,7 +3,7 @@
  "slug": "kaveri-prarthana",
  "source_file": "stotras/nadi/KaveriPrarthana.tex",
  "verse_count": 5,
- "weight": 40,
+ "weight": 50,
  "iast": "Kāverī Prārthanā",
  "form": "Prārthanā",
  "deity": [

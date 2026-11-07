@@ -6,7 +6,7 @@
 
 <div class="stotra-article"><h2 class="stotra-heading">पौष-कृष्ण-सफला-एकादशी-माहात्म्यम्</h2>
 <p class="uvacha">युधिष्ठिर उवाच</p>
-<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3019"><div class="verse-block verse-justify"><div class="line">पौषस्य कृष्णपक्षे तु द्वादशी या भवेत् प्रभो।</div><div class="line" style="position:relative;">किन्नाम को विधिस्तस्याः को देवस्तत्र पूज्यते॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3019"><div class="verse-block verse-justify"><div class="line">पौषस्य कृष्णपक्षे तु द्वादशी या भवेत् प्रभो।</div><div class="line" style="position:relative;">किं नाम को विधिस्तस्याः को देवस्तत्र पूज्यते॥१॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3020"><div class="verse-block verse-justify"><div class="line" style="position:relative;">एतदाचक्ष्व मे स्वामिन्विस्तरेण जनार्दन।</div></div></div>
 <p class="uvacha">श्रीकृष्ण उवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3022"><div class="verse-block verse-justify"><div class="line" style="position:relative;">कथयिष्यामि राजेन्द्र भवतः स्नेहकारणात्॥२॥</div></div></div>
@@ -35,7 +35,7 @@
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3045"><div class="verse-block verse-justify"><div class="line">लुम्पकोऽपि तदा त्यक्तश्चिन्तयामास चैकलः।</div><div class="line" style="position:relative;">मयाऽत्र किं प्रकर्तव्यं त्यक्तेन पितृबान्धवैः॥२५॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3046"><div class="verse-block verse-justify"><div class="line">इति चिन्तापरो भृत्वा मतिं पापे तदाकरोत्।</div><div class="line" style="position:relative;">मया तु गमनं कार्य बने त्यक्त्वा पुरं पितुः॥२६॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3047"><div class="verse-block verse-justify"><div class="line">तस्मानापितुः सर्वं व्यापयिष्ये पुरं निशि।</div><div class="line" style="position:relative;">दिवा वने चरिष्यामि रात्रावपि पितुः पुरे॥२७॥</div></div></div>
-<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3048"><div class="verse-block verse-justify"><div class="line">इत्येवं स मति कृत्वा लुम्पको दैवपातितः।</div><div class="line" style="position:relative;">निर्जगाम पुरात् तस्माद्गतोऽसौ गहनं वनम्॥२८॥</div></div></div>
+<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3048"><div class="verse-block verse-justify"><div class="line">इत्येवं स मतिं कृत्वा लुम्पको दैवपातितः।</div><div class="line" style="position:relative;">निर्जगाम पुरात् तस्माद्गतोऽसौ गहनं वनम्॥२८॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3049"><div class="verse-block verse-justify"><div class="line">जीवघातकरो नित्यं नित्यं स्तेयपरायणः।</div><div class="line" style="position:relative;">सर्वं च नगरं तेन मुषितं पापकर्मणा॥२९॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3050"><div class="verse-block verse-justify"><div class="line">गृहीतश्च परिल्यको लोके राज्ञो भयात्तदा।</div><div class="line" style="position:relative;">जन्मान्तरीयपापेन राज्यभ्रष्टः स पापकृत्॥३०॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3051"><div class="verse-block verse-justify"><div class="line">आमिषाभिरतो नित्यं नित्यं वै फलभक्षकः।</div><div class="line" style="position:relative;">आश्रमस्तस्य दुष्टस्य वासुदेवस्य सम्मतः॥३१॥</div></div></div>

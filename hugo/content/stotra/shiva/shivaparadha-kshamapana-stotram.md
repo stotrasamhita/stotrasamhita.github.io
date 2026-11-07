@@ -14,7 +14,7 @@
  ],
  "stotra_type": "Stotram",
  "wiki_title": "Shivaparadha Kshamapana Stotram",
- "weight": 210,
+ "weight": 240,
  "iast": "Śivāparādhakṣamāpana-stotram",
  "form": "Stotram",
  "date": "2014-12-22"

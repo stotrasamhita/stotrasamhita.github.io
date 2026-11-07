@@ -14,7 +14,7 @@
  ],
  "source": "Padma Puranam",
  "wiki_title": "Shambhu Stuti",
- "weight": 160,
+ "weight": 190,
  "iast": "Śambhustutiḥ",
  "form": "Stuti",
  "date": "2024-10-06"

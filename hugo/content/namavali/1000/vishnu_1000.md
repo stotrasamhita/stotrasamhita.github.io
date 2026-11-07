@@ -3,7 +3,7 @@
  "slug": "vishnu_1000",
  "source_file": "1000/Vishnu_1000.tex",
  "verse_count": 0,
- "weight": 70,
+ "weight": 80,
  "iast": "Viṣṇusahasranāmāvaliḥ"
 }
 

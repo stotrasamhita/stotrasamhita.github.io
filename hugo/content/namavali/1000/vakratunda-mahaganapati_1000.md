@@ -4,7 +4,7 @@
  "source_file": "1000/VakratundaMahaganapati_1000.tex",
  "verse_count": 0,
  "columns_hint": 2,
- "weight": 60,
+ "weight": 70,
  "iast": "Vakratuṇḍa Mahāgaṇapati Sahasranāmāvaliḥ"
 }
 

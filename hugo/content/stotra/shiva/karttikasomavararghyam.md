@@ -3,7 +3,7 @@
  "slug": "karttikasomavararghyam",
  "source_file": "stotras/shiva/Karttikasomavararghyam.tex",
  "verse_count": 8,
- "weight": 100,
+ "weight": 120,
  "iast": "Kārttikasomavārārghyam",
  "form": "Stotram",
  "deity": [

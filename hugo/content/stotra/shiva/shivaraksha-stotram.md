@@ -14,7 +14,7 @@
  ],
  "stotra_type": "Kavacham",
  "wiki_title": "Shivaraksha Stotram",
- "weight": 220,
+ "weight": 250,
  "iast": "Śivarakṣāstotram",
  "form": "Stotram",
  "date": "2014-07-10"

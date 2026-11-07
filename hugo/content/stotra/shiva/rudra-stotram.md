@@ -14,7 +14,7 @@
  ],
  "source": "Mahabharatam",
  "wiki_title": "Rudra Stotram",
- "weight": 140,
+ "weight": 170,
  "iast": "Śrīkṛṣṇārjunakṛta-rudrastotram",
  "form": "Stotram",
  "date": "2024-04-22"

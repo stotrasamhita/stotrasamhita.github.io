@@ -3,7 +3,7 @@
  "slug": "shanmukha_1000",
  "source_file": "1000/Shanmukha_1000.tex",
  "verse_count": 7,
- "weight": 40,
+ "weight": 50,
  "iast": "Ṣaṇmukhasahasranāmāvaliḥ"
 }
 

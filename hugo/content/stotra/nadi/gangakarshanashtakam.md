@@ -3,7 +3,7 @@
  "slug": "gangakarshanashtakam",
  "source_file": "stotras/nadi/Gangakarshanashtakam.tex",
  "verse_count": 9,
- "weight": 20,
+ "weight": 30,
  "iast": "Gaṅgākarṣaṇāṣṭakam",
  "form": "Aṣṭakam",
  "deity": [

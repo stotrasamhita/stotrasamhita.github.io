@@ -3,7 +3,7 @@
  "slug": "triveni-stotram",
  "source_file": "stotras/nadi/TriveniStotram.tex",
  "verse_count": 11,
- "weight": 60,
+ "weight": 70,
  "iast": "Triveṇīstotram",
  "form": "Stotram",
  "deity": [

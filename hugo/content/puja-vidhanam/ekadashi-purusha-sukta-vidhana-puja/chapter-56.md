@@ -6,7 +6,7 @@
 
 <div class="stotra-article"><h2 class="stotra-heading">भाद्रपद-कृष्णाजा-एकादशी-माहात्म्यम्</h2>
 <p class="uvacha">युधिष्ठिर उवाच</p>
-<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4055"><div class="verse-block verse-justify"><div class="line">भाद्रस्य कृष्णपक्षे तु किं नामैकादशी भवेत्।</div><div class="line" style="position:relative;">एनदिच्छाम्यहं श्रोतुं कथयस्व जनार्दन॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4055"><div class="verse-block verse-justify"><div class="line">भाद्रस्य कृष्णपक्षे तु किं नामैकादशी भवेत्।</div><div class="line" style="position:relative;">एतदिच्छाम्यहं श्रोतुं कथयस्व जनार्दन॥१॥</div></div></div>
 <p class="uvacha">श्रीकृष्ण उवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4057"><div class="verse-block verse-justify"><div class="line">शृणुष्वैकमना राजन् कथयिष्यामि विस्तरात्।</div><div class="line" style="position:relative;">अजेति नाम्ना विख्याता सर्वपापप्रणाशिनी॥२॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4058"><div class="verse-block verse-justify"><div class="line">पूजयित्वा हृषीकेशं व्रतं तस्याः करोति यः।</div><div class="line" style="position:relative;">पापानि तस्य नश्यन्ति व्रतस्य श्रवणादपि॥३॥</div></div></div>

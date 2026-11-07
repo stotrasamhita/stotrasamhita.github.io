@@ -13,7 +13,7 @@
   "Shardulavikriditam"
  ],
  "wiki_title": "Shiva Manasapuja",
- "weight": 180,
+ "weight": 210,
  "iast": "Śivamānasapūjā",
  "form": "Stotram",
  "date": "2014-07-10"

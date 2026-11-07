@@ -14,7 +14,7 @@
  ],
  "stotra_type": "Stotram",
  "wiki_title": "Charanashringarahita Nataraja Stotram",
- "weight": 30,
+ "weight": 40,
  "iast": "Caraṇaśṛṅgarahita-naṭarāja-stotram",
  "form": "Stotram",
  "date": "2016-01-12"
