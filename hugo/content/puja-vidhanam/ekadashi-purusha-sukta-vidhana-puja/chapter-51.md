@@ -6,12 +6,12 @@
 
 <div class="stotra-article"><h2 class="stotra-heading">आषाढ-कृष्ण-योगिनी-एकादशी-माहात्म्यम्</h2>
 <p class="uvacha">युधिष्ठिर उवाच</p>
-<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3673"><div class="verse-block verse-justify"><div class="line">ज्येष्ठशुक्ने निर्जलाया माहात्म्यं व श्रुतं मया।</div><div class="line" style="position:relative;">आषाढकृष्णपक्षे तु किनामैकादशी भवेत्॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3673"><div class="verse-block verse-justify"><div class="line">ज्येष्ठशुक्ने निर्जलाया माहात्म्यं व श्रुतं मया।</div><div class="line" style="position:relative;">आषाढकृष्णपक्षे तु किं नामैकादशी भवेत्॥१॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3674"><div class="verse-block verse-justify"><div class="line" style="position:relative;">कथयस्व प्रसादेन ममाने मधुसूदन।</div></div></div>
 <p class="uvacha">श्रीकृष्ण उवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3676"><div class="verse-block verse-justify"><div class="line" style="position:relative;">व्रतानामुत्तमं राजन् कथयामि तवाग्रतः॥२॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3677"><div class="verse-block verse-justify"><div class="line">सर्वपापक्षयकरं भुक्तिमुक्तिप्रदायकम्।</div><div class="line" style="position:relative;">आषाढस्यासिते पक्षे योगिनीनाम नामतः॥३॥</div></div></div>
-<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3678"><div class="verse-block verse-justify"><div class="line">एकादशी नृपश्रेष्ठ महापातकनाशिनी।</div><div class="line" style="position:relative;">संसारार्णवमन्नानां पोतरूपा सनातनी॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3678"><div class="verse-block verse-justify"><div class="line">एकादशी नृपश्रेष्ठ महापातकनाशिनी।</div><div class="line" style="position:relative;">संसारार्णवमग्नानां पोतरूपा सनातनी॥४॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3679"><div class="verse-block verse-justify"><div class="line">जगत्त्रये सारभूता योगिनीति नराधिप।</div><div class="line" style="position:relative;">कथयामि, कथा, तस्याः पौराणी पापहारिणीम्॥५॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3680"><div class="verse-block verse-justify"><div class="line">अलकाधिपतिर्नाम्ना कुबेरः शिवपूजकः।</div><div class="line" style="position:relative;">तस्यासीत्पुष्पबदुको हेममालीति नामतः॥६॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3681"><div class="verse-block verse-justify"><div class="line">तस्य पत्नी सुरूपासीद्विशालाक्षीति नामतः।</div><div class="line" style="position:relative;">स तस्यां स्नेहसंयुक्तः कामपाशवशं गतः॥७॥</div></div></div>

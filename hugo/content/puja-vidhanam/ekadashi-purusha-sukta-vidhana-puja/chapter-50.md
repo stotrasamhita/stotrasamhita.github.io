@@ -17,7 +17,7 @@
 <p class="uvacha">भीमसेन उवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3616"><div class="verse-block verse-justify"><div class="line" style="position:relative;">पितामह महाबुद्धे कथयामि तवाग्रतः॥६॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3617"><div class="verse-block verse-justify"><div class="line">एकभक्तं न शक्तोऽहमुपवासः कुतो मुने।</div><div class="line" style="position:relative;">वृको नामास्ति यो वन्द्विः स सदा जठरे मम॥७॥</div></div></div>
-<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3618"><div class="verse-block verse-justify"><div class="line">अतीवानं यदानामि तदा समुपशाम्यति।</div><div class="line" style="position:relative;">एकं शक्तोस्म्यहं कर्तु चोपवासं महामुने॥८॥</div></div></div>
+<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3618"><div class="verse-block verse-justify"><div class="line">अतीवानं यदानामि तदा समुपशाम्यति।</div><div class="line" style="position:relative;">एकं शक्तोस्म्यहं कर्तुं चोपवासं महामुने॥८॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3619"><div class="verse-block verse-justify"><div class="line" style="position:relative;">तदेकं वद निश्चित्य येन श्रेयोइमाप्नुयाम्।</div></div></div>
 <p class="uvacha">व्यास उवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3621"><div class="verse-block verse-justify"><div class="line" style="position:relative;">श्रुतास्ते मानवा धर्मा वैदिकाश्च श्रुतास्त्वया॥९॥</div></div></div>
@@ -66,7 +66,7 @@
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3664"><div class="verse-block verse-justify"><div class="line">कुर्वद्भिर्जागरं रात्रौ यैरेषा समुपोषिता।</div><div class="line" style="position:relative;">अन्नं पानं तथा गावो वस्त्रं शय्यासनं शुभम्॥४८॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3665"><div class="verse-block verse-justify"><div class="line">कमण्डलुं तथा छत्रं दातव्यं निर्जलादिन।</div><div class="line" style="position:relative;">उपानहीं च यो दद्यात्पात्रभूते द्विजोत्तमे॥४९॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3666"><div class="verse-block verse-justify"><div class="line">स सौवर्णेन यानेन स्वर्गलोकं व्रजेयुवम्।</div><div class="line" style="position:relative;">यश्चेमां शृणुयाद्भक्त्या यश्चापि परिकीर्तयेत्॥५०॥</div></div></div>
-<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3667"><div class="verse-block verse-justify"><div class="line">उभौ तौ स्वर्गतौ स्याता नात्र कार्या विचारणा।</div><div class="line" style="position:relative;">यत्फलं सन्निहत्यायां राहुप्रस्ते दिवाकरे॥५१॥</div></div></div>
+<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3667"><div class="verse-block verse-justify"><div class="line">उभौ तौ स्वर्गतौ स्याता नात्र कार्या विचारणा।</div><div class="line" style="position:relative;">यत्फलं सन्निहत्यायां राहुग्रस्ते दिवाकरे॥५१॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3668"><div class="verse-block verse-justify"><div class="line">कृत्वा श्राद्धं लभेन्मयम्तदस्याः श्रवणादपि।</div><div class="line">एवं यः कुरुते पुण्यां द्वादशी पापनाशिनीम्।</div><div class="line" style="position:relative;">सर्वपापविनिर्मुक्तः पदं गच्छत्यनामयम्॥५२॥</div></div></div>
 <p class="pushpika">॥इति श्रीभारतपद्मयोरुक्तं ज्येष्ठशुक्लनिर्जलैकादशीमाहात्म्यं सम्पूर्णम्॥</p>
 <div class="decoration">❀</div></div>

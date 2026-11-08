@@ -6,7 +6,7 @@
 
 <div class="stotra-article"><h2 class="stotra-heading">ज्येष्ठ-कृष्णापरा-एकादशी-माहात्म्यम्</h2>
 <p class="uvacha">युधिष्ठिर उवाच</p>
-<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3582"><div class="verse-block verse-justify"><div class="line">ज्येष्ठस्य कृष्णपक्षे तु किं नामैकादशी भवेत्।</div><div class="line" style="position:relative;">श्रोतुमिच्छामि माहात्म्य तद्वदस्व जनार्दन॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3582"><div class="verse-block verse-justify"><div class="line">ज्येष्ठस्य कृष्णपक्षे तु किं नामैकादशी भवेत्।</div><div class="line" style="position:relative;">श्रोतुमिच्छामि माहात्म्यं तद्वदस्व जनार्दन॥१॥</div></div></div>
 <p class="uvacha">श्रीकृष्ण उवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3584"><div class="verse-block verse-justify"><div class="line">साधु पृष्टं त्वया राजैल्लोकानां हितकाम्यया।</div><div class="line" style="position:relative;">बहुपुण्यप्रदा ह्येषा महापातकनाशिनी॥२॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3585"><div class="verse-block verse-justify"><div class="line">अपरा नाम राजेन्द्र अपारफलदायिनी।</div><div class="line" style="position:relative;">लोक प्रसिद्धतां याति अपरां यस्तु सेवते॥३॥</div></div></div>

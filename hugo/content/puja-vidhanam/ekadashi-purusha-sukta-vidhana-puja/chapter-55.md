@@ -6,7 +6,7 @@
 
 <div class="stotra-article"><h2 class="stotra-heading">श्रावण-शुक्ल-पुत्रदा-एकादशी-माहात्म्यम्</h2>
 <p class="uvacha">युधिष्ठिर उवाच</p>
-<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4002"><div class="verse-block verse-justify"><div class="line">श्रावणस्य सिते पक्षे किनामैकादशी भवेत्।</div><div class="line" style="position:relative;">कथयस्व प्रसादेन ममाने मधुसूदन॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4002"><div class="verse-block verse-justify"><div class="line">श्रावणस्य सिते पक्षे किं नामैकादशी भवेत्।</div><div class="line" style="position:relative;">कथयस्व प्रसादेन ममाने मधुसूदन॥१॥</div></div></div>
 <p class="uvacha">श्रीकृष्ण उवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4004"><div class="verse-block verse-justify"><div class="line">शृणुष्वावहितो राजन् कथा पापहरा पराम्।</div><div class="line" style="position:relative;">यस्याः श्रवणमात्रेण वाजपेयफलं लभेत्॥२॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4005"><div class="verse-block verse-justify"><div class="line">द्वापरल्य युगस्यादौ पुरा माहिष्मतीपुरे।</div><div class="line" style="position:relative;">राजा महीजिदाख्यातो राज्यं पालयति स्वकम्॥३॥</div></div></div>
@@ -49,7 +49,7 @@
 <p class="uvacha">लोमश उवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4043"><div class="verse-block verse-justify"><div class="line" style="position:relative;">श्रावणे शुक्लपक्षे तु पुत्रदानाम विश्रुता॥३३॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4044"><div class="verse-block verse-justify"><div class="line">एकादशीतिथिश्चास्ति कुरुध्वं तद्वतं जनाः।</div><div class="line" style="position:relative;">यथाविधि यथान्याय्य यथोक्तं जागरान्वितम्॥३४॥</div></div></div>
-<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4045"><div class="verse-block verse-justify"><div class="line">तस्याः पुण्यं सुविमलं देयं नृपतये जनाः।</div><div class="line" style="position:relative;">एवं कृते सुनिया राजः पुत्रो भविष्यति॥३५॥</div></div></div>
+<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4045"><div class="verse-block verse-justify"><div class="line">तस्याः पुण्यं सुविमलं देयं नृपतये जनाः।</div><div class="line" style="position:relative;">एवं कृते सुनिया राज्ञः पुत्रो भविष्यति॥३५॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4046"><div class="verse-block verse-justify"><div class="line">श्रुत्वा तु लोमशवचस्तं प्रणम्य द्विजोत्तमम्।</div><div class="line">प्रजग्मुः स्वगृहान् सर्वे हषर्कोत्फुल्लविलोचनाः।</div><div class="line" style="position:relative;">श्रावणं तु समासाद्य स्मृत्वा लोमशभाषितम्॥३६॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4047"><div class="verse-block verse-justify"><div class="line">राज्ञा सह व्रतं चक्रुः सर्वे श्रद्धासमन्विताः।</div><div class="line" style="position:relative;">द्वादशीदिवसे पुण्यं ददुपतये जनाः॥३७॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4048"><div class="verse-block verse-justify"><div class="line">दत्ते पुण्ये तु सा राज्ञी गर्भमाधत्त शोभनम्।</div><div class="line" style="position:relative;">प्राप्ते प्रसवकाले सा सुषुवे पुत्रमूर्जितम्॥३८॥</div></div></div>
