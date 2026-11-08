@@ -8,7 +8,7 @@
 <p class="uvacha">युधिष्ठिर उवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4134"><div class="verse-block verse-justify"><div class="line">कथयस्व प्रसादेन ममाग्रे मधुसूदन।</div><div class="line" style="position:relative;">आश्विने कृष्णपक्षे तु किन्नामकादशी भवेत्॥१॥</div></div></div>
 <p class="uvacha">श्रीकृष्ण उवाच</p>
-<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4136"><div class="verse-block verse-justify"><div class="line">आश्विनस्यासिते पक्षे इन्दिरानाम नामतः।</div><div class="line" style="position:relative;">तस्या व्रतप्रभावेन महापापं प्रणश्यति॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4136"><div class="verse-block verse-justify"><div class="line">आश्विनस्यासिते पक्षे इन्दिरानाम नामतः।</div><div class="line" style="position:relative;">तस्या व्रतप्रभावेण महापापं प्रणश्यति॥२॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4137"><div class="verse-block verse-justify"><div class="line">अधोयोनिगतानां च पितॄणां गतिदायिनी।</div><div class="line" style="position:relative;">शृणुष्वावहितो राजन् कथां पापहरी पराम्॥३॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4138"><div class="verse-block verse-justify"><div class="line">यस्याः श्रवणमात्रेण वाजपेयफलं लभेत्।</div><div class="line" style="position:relative;">पुरा कृतयुगे राजा बभूव रिपुसूदनः॥४॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4139"><div class="verse-block verse-justify"><div class="line">इन्द्रसेन इति ख्यातः पुरी माहिष्मती प्रति।</div><div class="line" style="position:relative;">सराज्यं पालयामास धर्मेण यशसाऽन्वितः॥५॥</div></div></div>
