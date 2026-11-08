@@ -6,7 +6,7 @@
 
 <div class="stotra-article"><h2 class="stotra-heading">पुरुषोत्तम-मासस्य कृष्ण-परमा-एकादशी-माहात्म्यम्</h2>
 <p class="uvacha">युधिष्ठिर उवाच</p>
-<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4472"><div class="verse-block verse-justify"><div class="line">मलिम्लुचस्य मासस्य कृष्णा का कथ्यते विभो।</div><div class="line" style="position:relative;">किं नाम को विधिस्तम्याः कथयस्व जगत्पते॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4472"><div class="verse-block verse-justify"><div class="line">मलिम्लुचस्य मासस्य कृष्णा का कथ्यते विभो।</div><div class="line" style="position:relative;">किं नाम को विधिस्तस्याः कथयस्व जगत्पते॥१॥</div></div></div>
 <p class="uvacha">श्रीकृष्ण उवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4474"><div class="verse-block verse-justify"><div class="line">परमेति समाख्याता पवित्रा पापहारिका।</div><div class="line" style="position:relative;">भुक्तिमुक्तिप्रदा नॄणां स्त्रीणां चापि युधिष्ठिर॥२॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4475"><div class="verse-block verse-justify"><div class="line">पूर्वोक्तविधिना कार्या कृष्णाऽपि भुवि मानवैः।</div><div class="line" style="position:relative;">सम्पूज्य परया भक्त्या नाम्ना देवं नरोत्तम॥३॥</div></div></div>
