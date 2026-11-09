@@ -7,7 +7,7 @@
 <div class="stotra-article"><h2 class="stotra-heading">ज्येष्ठ-शुक्ल-निर्जला-एकादशी-माहात्म्यम्</h2>
 <p class="uvacha">भीमसेन उवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3607"><div class="verse-block verse-justify"><div class="line">पितामह महाबुद्धे शृणु मे परमं वचः।</div><div class="line" style="position:relative;">युधिष्ठिरश्च कुन्ती च तथा द्रुपद नन्दिनी॥१॥</div></div></div>
-<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3608"><div class="verse-block verse-justify"><div class="line">अर्जुनो नकुलश्चैव सहदेवस्तथैव च।</div><div class="line" style="position:relative;">एकादश्यां न भुनन्ति कदाचिदपि सुव्रत॥२॥</div></div></div>
+<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3608"><div class="verse-block verse-justify"><div class="line">अर्जुनो नकुलश्चैव सहदेवस्तथैव च।</div><div class="line" style="position:relative;">एकादश्यां न भुञ्जन्ति कदाचिदपि सुव्रत॥२॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3609"><div class="verse-block verse-justify"><div class="line">ते मां ब्रुवन्ति वै नित्यं मा भुङ्क्ष्व त्वं वृकोदर।</div><div class="line" style="position:relative;">अहं तानब्रुवं तात बुभुक्षा दुःसहा मम॥३॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3610"><div class="verse-block verse-justify"><div class="line">दानं दास्यामि विधिवत्पूजयिष्यामि केशवम्।</div><div class="line" style="position:relative;">विनोपवासं लभ्येत कथमेकादशीव्रतम्॥४॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3611"><div class="verse-block verse-justify"><div class="line" style="position:relative;">भीमसेनवचः श्रुत्वा व्यासो वचनमब्रवीत्।</div></div></div>
