@@ -10,7 +10,7 @@
 <p class="uvacha">श्रीकृष्ण उवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3536"><div class="verse-block verse-justify"><div class="line">कथयामि कथामेतां शृणु त्वं धर्मनन्दन।</div><div class="line" style="position:relative;">वसिष्ठो यामकथयत्पुरा रामाय पृच्छते॥२॥</div></div></div>
 <p class="uvacha">राम उवाच</p>
-<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3538"><div class="verse-block verse-justify"><div class="line">भगवन् श्रोतुमिच्छामि व्रतानामुत्तमं व्रत।</div><div class="line" style="position:relative;">सर्वपापक्षयकरं सर्वदुःखनिकृन्तनम्॥३॥</div></div></div>
+<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3538"><div class="verse-block verse-justify"><div class="line">भगवञ्छ्रोतुमिच्छामि व्रतानामुत्तमं व्रतम्।</div><div class="line" style="position:relative;">सर्वपापक्षयकरं सर्वदुःखनिकृन्तनम्॥३॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3539"><div class="verse-block verse-justify"><div class="line">मया दुःखानि भुक्तानि सीताविरहजानि व।</div><div class="line" style="position:relative;">ततोऽहं भयभीतोऽस्मि पृच्छामि त्वां महामुने॥४॥</div></div></div>
 <p class="uvacha">वसिष्ठ उवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3541"><div class="verse-block verse-justify"><div class="line">साधु पृष्टं त्वया राम तवैषा नैष्ठिकी मतिः।</div><div class="line" style="position:relative;">त्वन्नामग्रहणेनैव पूतो भवति मानवः॥५॥</div></div></div>
