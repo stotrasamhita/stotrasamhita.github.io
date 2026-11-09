@@ -4,7 +4,7 @@
  "source_file": "pujas/kashi-yatra-prasthana-vidhi.tex",
  "verse_count": 3,
  "source": "श्रीगङ्गाकल्पोक्तपूजाविधिः, ed. Mittur Srinivasa Bhatta (Idkidu, 2015), pp. 41-44.",
- "weight": 350,
+ "weight": 370,
  "iast": "Kāśyādi-tīrthakṣetra-yātrā-prasthāna-vidhiḥ"
 }
 
