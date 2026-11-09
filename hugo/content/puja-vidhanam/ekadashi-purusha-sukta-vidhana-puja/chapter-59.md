@@ -5,7 +5,7 @@
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">आश्विन-शुक्ल-पाशाङ्कुशा-एकादशी-माहात्म्यम्</h2>
-<p class="uvacha">धुधिष्ठिर उवाच</p>
+<p class="uvacha">युधिष्ठिर उवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4180"><div class="verse-block verse-justify"><div class="line">कथयस्व प्रसादेन भगवन् मधुसूदन।</div><div class="line" style="position:relative;">इषस्य शुक्लपक्षे तु किं नामैकादशी भवेत्॥१॥</div></div></div>
 <p class="uvacha">श्रीकृष्ण उवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4182"><div class="verse-block verse-justify"><div class="line">शृणु राजेन्द्र वक्ष्यामि माहात्म्यं पापनाशनम्।</div><div class="line" style="position:relative;">शुक्लपक्षे चाश्वयुजि भवेदेकादशी तु या॥२॥</div></div></div>
