@@ -9,7 +9,7 @@
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">श्री-चित्रगुप्त-पूजा</h2>
-<p class="prose">मूलम्—श्रीवत्स वे. सोमदेव-शर्मा, ``पूजा-कल्पाः'' (चेन्नै, १९८७), पृ. ६–१३</p>
+<p class="prose">(मूलम्—श्रीवत्स वे. सोमदेव-शर्मा, ``पूजा-कल्पाः'' (चेन्नै, १९८७), पृ. ६–१३)</p>
 <h3 class="subheading">पूर्वाङ्ग-विघ्नेश्वर-पूजा</h3>
 <p class="prose">(आचम्य)</p>
 <div class="verse-block-wrapper" id="chitragupta-puja-b0004"><div class="verse-block verse-justify"><div class="line">शुक्लाम्बरधरं विष्णुं शशिवर्णं चतुर्भुजम्।</div><div class="line" style="position:relative;">प्रसन्नवदनं ध्यायेत् सर्वविघ्नोपशान्तये॥</div></div></div>
