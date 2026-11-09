@@ -11,7 +11,7 @@
  ],
  "stotra_type": "Shatanama Stotram",
  "wiki_title": "Saraswati Ashtottara Shatanama Stotram",
- "weight": 220,
+ "weight": 230,
  "iast": "Sarasvatyaṣṭottaraśatanāmastotram",
  "form": "Śatanāma",
  "date": "2014-07-10"

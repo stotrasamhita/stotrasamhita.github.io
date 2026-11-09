@@ -12,7 +12,7 @@
  "stotra_type": "Shatanama Stotram",
  "source": "Shakta Pramodam",
  "wiki_title": "Shiva Ashtottara Shatanama Stotram",
- "weight": 260,
+ "weight": 270,
  "iast": "Śivāṣṭottaraśatanāmastotram",
  "form": "Śatanāma",
  "date": "2014-07-10"

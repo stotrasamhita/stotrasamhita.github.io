@@ -11,7 +11,7 @@
  ],
  "stotra_type": "Shatanama Stotram",
  "wiki_title": "Shankaracharya Ashtottara Shatanama Stotram",
- "weight": 240,
+ "weight": 250,
  "iast": "Śaṅkarācāryāṣṭottaraśatanāmastotram",
  "form": "Śatanāma",
  "date": "2014-07-10"

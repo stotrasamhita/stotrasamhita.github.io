@@ -11,7 +11,7 @@
  ],
  "stotra_type": "Shatanama Stotram",
  "wiki_title": "Nrisimha Ashtottara Shatanama Stotram",
- "weight": 200,
+ "weight": 210,
  "iast": "Nṛsiṃhāṣṭottaraśatanāmastotram",
  "form": "Śatanāma",
  "date": "2014-07-10"

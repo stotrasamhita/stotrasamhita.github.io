@@ -11,7 +11,7 @@
  ],
  "stotra_type": "Shatanama Stotram",
  "wiki_title": "Venkatesha Ashtottara Shatanama Stotram",
- "weight": 310,
+ "weight": 320,
  "iast": "Veṅkaṭeśāṣṭottaraśatanāmastotram",
  "form": "Śatanāma",
  "date": "2016-06-05"

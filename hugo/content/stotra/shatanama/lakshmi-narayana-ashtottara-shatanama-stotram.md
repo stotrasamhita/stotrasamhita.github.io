@@ -12,7 +12,7 @@
  ],
  "stotra_type": "Shatanama Stotram",
  "wiki_title": "Lakshmi Narayana Ashtottara Shatanama Stotram",
- "weight": 190,
+ "weight": 200,
  "iast": "Lakṣmīnārāyaṇāṣṭottaraśatanāmastotram",
  "form": "Śatanāma",
  "date": "2014-07-10"
