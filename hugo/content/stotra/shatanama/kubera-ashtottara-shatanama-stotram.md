@@ -10,7 +10,10 @@
   "Anushtup"
  ],
  "stotra_type": "Shatanama Stotram",
- "source": "a Tamil-script Kubera pūjā booklet, pp. 16-17 (Vaidika Pandit Sri V Hariharan Collection,",
+ "source": "pp. 16-17 of (transliterated from the Tamil script, 2026-11-09)",
+ "Title": "தன ஆகர்ஷண குபேர யந்திர பூஜையும் மந்திரமும்",
+ "Author": "S. Seshadri, B.Sc. (ஸ்ரீமத் தாண்டவன் ஆஸ்ரம ஜோதிஷ வித்வான்), 24 Subramaniapuram,",
+ "Scan": "https://archive.org/details/kdlk_sri-dhana-akarshana-kubera-pooja-sri-seshadri-unknown-tamil",
  "weight": 180,
  "iast": "Kuberāṣṭottaraśatanāmastotram",
  "form": "Śatanāma",
@@ -19,7 +22,7 @@
 
 <div class="stotra-article"><p class="stotra-meta">Shatanama Stotram</p>
 <h2 class="stotra-heading">कुबेराष्टोत्तरशतनामस्तोत्रम्</h2>
-<p class="prose">(मूलम्—कुबेर-पूजा-पुस्तिका (तमिऴ्-लिपिः), पृ. १६–१७)</p>
+<p class="prose">(मूलम्—एस्. शेषाद्रि, ``धन-आकर्षण-कुबेर-यन्त्र-पूजा मन्त्रश्च'' (श्रीरङ्गम्, १९९४), पृ. १६–१७)</p>
 <div class="verse-block-wrapper" id="kubera-ashtottara-shatanama-stotram-b0002"><div class="verse-block verse-justify"><div class="line">कुबेरो धनदः श्रीमान् यक्षेशो गुह्यकेश्वरः।</div><div class="line" style="position:relative;">निधीशः शङ्करसखो महालक्ष्मीनिवासभूः॥१॥</div></div></div>
 <div class="verse-block-wrapper" id="kubera-ashtottara-shatanama-stotram-b0003"><div class="verse-block verse-justify"><div class="line">महापद्मनिधीशश्च पूर्णः पद्मनिधीश्वरः।</div><div class="line" style="position:relative;">शङ्खाख्यनिधिनाथश्च मकराख्यनिधिप्रियः॥२॥</div></div></div>
 <div class="verse-block-wrapper" id="kubera-ashtottara-shatanama-stotram-b0004"><div class="verse-block verse-justify"><div class="line">सुकच्छपनिधीशश्च मुकुन्दनिधिनायकः।</div><div class="line" style="position:relative;">कुन्दाख्यनिधिनाथश्च नीलनिध्यधिपो महान्॥३॥</div></div></div>

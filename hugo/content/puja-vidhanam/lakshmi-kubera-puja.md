@@ -136,9 +136,9 @@
 <div class="verse-block-wrapper" id="lakshmi-kubera-puja-b0133"><div class="verse-block verse-justify"><div class="line">नीराजनं नीरजाक्षि नारायणविलासिनि।</div><div class="line" style="position:relative;">गृह्यतामर्पितं भक्त्या गरुडध्वजभामिनि॥</div></div></div>
 <p class="prose">श्री-महालक्ष्म्यै नमः, समस्त-अपराध-क्षमापनार्थं कर्पूरनीराजनं दर्शयामि।<br>कर्पूरनीरजनानन्तरम् आचमनीयं समर्पयामि।<br>यो॑ऽपां पुष्पं॒ वेद॑। पुष्प॑वान् प्र॒जावा᳚न् पशु॒मान् भ॑वति।<br>च॒न्द्रमा॒ वा अ॒पां पुष्पम्᳚। पुष्प॑वान् प्र॒जावा᳚न् पशु॒मान् भ॑वति।<br>य ए॒वं वेद॑। यो॑ऽपामा॒यत॑नं॒ वेद॑। आ॒यत॑नवान् भवति।<br>ओं᳚ तद्ब्र॒ह्म। ओं᳚ तद्वा॒युः। ओं᳚ तदा॒त्मा। ओं᳚ तथ्स॒त्यम्‌।<br>ओं᳚ तथ्सर्वम्᳚‌। ओं᳚ तत्पुरो॒र्नमः॥<br>अन्तश्चरति॑ भूते॒षु॒ गुहायां वि॑श्वमू॒र्तिषु।<br>त्वं यज्ञस्त्वं वषट्कारस्त्वमिन्द्रस्त्वꣳ रुद्रस्त्वं विष्णुस्त्वं ब्रह्म त्वं॑ प्रजा॒पतिः।<br>त्वं त॑दाप॒ आपो॒ ज्योती॒ रसो॒ऽमृतं॒ ब्रह्म॒ भूर्भुव॒स्सुव॒रोम्‌॥<br>श्री-महालक्ष्म्यै नमः, वेदोक्तमन्त्रपुष्पाञ्जलिं समर्पयामि। स्वर्णपुष्पं समर्पयामि।<br>श्री-महालक्ष्म्यै नमः, अनन्तकोटिप्रदक्षिणनमस्कारान् समर्पयामि।<br>श्री-महालक्ष्म्यै नमः, छत्त्रचामरादिसमस्तोपचारान् समर्पयामि।</p>
 <h2 class="stotra-heading">ईशानादि पूजा</h2>
-<p class="prose">(मूलम्—कुबेर-पूजा-पुस्तिका (तमिऴ्-लिपिः), पृ. ९)<br>(यन्त्रस्य पुरतः भावयित्वा पूजयेत्)<br>ॐ ईशानाय नमः<br>ॐ शचिने नमः<br>ॐ मरुद्भ्यो नमः<br>ॐ सूर्याय नमः<br>ॐ विश्वकर्मणे नमः<br>ॐ गुरवे नमः<br>ॐ अथर्वाङ्गिरोभ्यां नमः<br>ॐ प्रजापतये नमः<br>ॐ विश्वेभ्यो देवेभ्यो नमः<br>ॐ अमरराजाय नमः<br>ॐ मित्रावरुणाभ्यां नमः<br>ॐ विष्णवे नमः<br>ॐ ईशानादिभ्यो नमः। ॐ लोकपालेभ्यो नमः।<br>ईशानादिभ्यो लोकपालेभ्यः सकलोपचारान् समर्पयामि। (धूपदीपनैवेद्यानि च)</p>
+<p class="prose">(मूलम्—एस्. शेषाद्रि, ``धन-आकर्षण-कुबेर-यन्त्र-पूजा मन्त्रश्च'' (श्रीरङ्गम्, १९९४), पृ. ९)<br>(यन्त्रस्य पुरतः भावयित्वा पूजयेत्)<br>ॐ ईशानाय नमः<br>ॐ शचिने नमः<br>ॐ मरुद्भ्यो नमः<br>ॐ सूर्याय नमः<br>ॐ विश्वकर्मणे नमः<br>ॐ गुरवे नमः<br>ॐ अथर्वाङ्गिरोभ्यां नमः<br>ॐ प्रजापतये नमः<br>ॐ विश्वेभ्यो देवेभ्यो नमः<br>ॐ अमरराजाय नमः<br>ॐ मित्रावरुणाभ्यां नमः<br>ॐ विष्णवे नमः<br>ॐ ईशानादिभ्यो नमः। ॐ लोकपालेभ्यो नमः।<br>ईशानादिभ्यो लोकपालेभ्यः सकलोपचारान् समर्पयामि। (धूपदीपनैवेद्यानि च)</p>
 <h2 class="stotra-heading">कुबेर-पूजा</h2>
-<p class="prose">(मूलम्—कुबेर-पूजा-पुस्तिका (तमिऴ्-लिपिः), पृ. ९–१६)</p>
+<p class="prose">(मूलम्—एस्. शेषाद्रि, ``धन-आकर्षण-कुबेर-यन्त्र-पूजा मन्त्रश्च'' (श्रीरङ्गम्, १९९४), पृ. ९–१६)</p>
 <div class="verse-block-wrapper" id="lakshmi-kubera-puja-b0139"><div class="verse-block verse-justify"><div class="line">धनदाय नमस्तुभ्यं निधिपद्माय ते नमः।</div><div class="line" style="position:relative;">भवन्तु त्वत्प्रसादान्मे धनधान्यानि सम्पदः॥</div></div></div>
 <div class="verse-block-wrapper" id="lakshmi-kubera-puja-b0140"><div class="verse-block verse-justify"><div class="line">कुबेरं पुष्पकगतं निधिभिर्नवभिर्युतम्।</div><div class="line" style="position:relative;">सुवर्णवर्णं पिङ्गाक्षं मनसा भावयाम्यहम्॥</div></div></div>
 <p class="prose">श्री-कुबेराय नमः, षोडशोपचार-पूजां करिष्ये।</p>
@@ -160,7 +160,7 @@
 <div class="verse-block-wrapper" id="lakshmi-kubera-puja-b0157"><div class="verse-block verse-justify"><div class="line">देवदेव जगन्नाथ त्राहि मां निर्धनसागरात्।</div><div class="line" style="position:relative;">मधुपर्कं गृहाणेदं रावणाग्रज ते नमः॥</div></div></div>
 <p class="prose">श्री-कुबेराय नमः, मधुपर्कं समर्पयामि।</p>
 <div class="verse-block-wrapper" id="lakshmi-kubera-puja-b0159"><div class="verse-block verse-justify"><div class="line">कामधेनोः समुद्भूतं देवर्षिपितृतृप्तिदम्।</div><div class="line" style="position:relative;">पयो ददामि राजराज स्नानाय प्रतिगृह्यताम्॥</div></div></div>
-<p class="prose">श्री-कुबेराय नमः, पयसा स्नपयामि।</p>
+<p class="prose">श्री-कुबेराय नमः, क्षीरेण स्नपयामि।</p>
 <div class="verse-block-wrapper" id="lakshmi-kubera-puja-b0161"><div class="verse-block verse-justify"><div class="line">चन्द्रमण्डलसङ्काशं सर्वदेवप्रियं दधि।</div><div class="line" style="position:relative;">स्नानार्थं ते मया दत्तं प्रीत्यर्थं प्रतिगृह्यताम्॥</div></div></div>
 <p class="prose">श्री-कुबेराय नमः, दध्ना स्नपयामि।</p>
 <div class="verse-block-wrapper" id="lakshmi-kubera-puja-b0163"><div class="verse-block verse-justify"><div class="line">आज्यं सुराणामाहारम् आज्यं यज्ञे प्रतिष्ठितम्।</div><div class="line" style="position:relative;">आज्यं पवित्रं परमं स्नानार्थं प्रतिगृह्यताम्॥</div></div></div>
@@ -172,7 +172,7 @@
 <div class="verse-block-wrapper" id="lakshmi-kubera-puja-b0169"><div class="verse-block verse-justify"><div class="line">स्नानं पञ्चामृतैर्युक्तं नालिकेरजलैर्युतम्।</div><div class="line" style="position:relative;">गृहाण त्वं महाप्राज्ञ अश्वारूढ नमोऽस्तु ते॥</div></div></div>
 <p class="prose">श्री-कुबेराय नमः, पञ्चामृतस्नानं समर्पयामि।</p>
 <div class="verse-block-wrapper" id="lakshmi-kubera-puja-b0171"><div class="verse-block verse-justify"><div class="line">स्नपयामि सुरश्रेष्ठं कुबेरं गुह्यकेश्वरम्।</div><div class="line" style="position:relative;">शुद्धोदकेन च प्रीत्या धनक्लेशविनाशनम्॥</div></div></div>
-<p class="prose">श्री-कुबेराय नमः, शुद्धोदकस्नानं समर्पयामि।<br>स्नानानन्तरम् आचमनीयं समर्पयामि।</p>
+<p class="prose">श्री-कुबेराय नमः, शुद्धोदकं समर्पयामि।<br>स्नानानन्तरम् आचमनीयं समर्पयामि।</p>
 <div class="verse-block-wrapper" id="lakshmi-kubera-puja-b0173"><div class="verse-block verse-justify"><div class="line">पीताम्बरद्वयं देव सर्वाभरणभूषितम्।</div><div class="line" style="position:relative;">दिव्यान्याभरणानीश गृहाण परमेश्वर॥</div></div></div>
 <p class="prose">श्री-कुबेराय नमः, वस्त्राभरणानि समर्पयामि।</p>
 <div class="verse-block-wrapper" id="lakshmi-kubera-puja-b0175"><div class="verse-block verse-justify"><div class="line">श्रीगन्धं कुङ्कुमोपेतं कर्पूरादिसमन्वितम्।</div><div class="line" style="position:relative;">विलेपनं सुरश्रेष्ठ गृहाण धननायक॥</div></div></div>
@@ -189,13 +189,13 @@
 <div class="verse-block-wrapper" id="lakshmi-kubera-puja-b0188"><div class="verse-block verse-justify"><div class="line">गुग्गुल्वगरुसंयुक्तं सुगन्धं सुमनोहरम्।</div><div class="line" style="position:relative;">धूपं गृहाण यक्षेश कुबेराय नमोऽस्तु ते॥</div></div></div>
 <p class="prose">श्री-कुबेराय नमः, धूपम् आघ्रापयामि।</p>
 <div class="verse-block-wrapper" id="lakshmi-kubera-puja-b0190"><div class="verse-block verse-justify"><div class="line">साज्यं त्रिवर्तिसंयुक्तं वह्निना योजितं मया।</div><div class="line" style="position:relative;">गृहाण मङ्गलं दीपं त्रैलोक्यतिमिरापहम्॥</div></div></div>
-<p class="prose">श्री-कुबेराय नमः, दीपं दर्शयामि।</p>
+<p class="prose">श्री-कुबेराय नमः, दीपं प्रदर्शयामि।</p>
 <div class="verse-block-wrapper" id="lakshmi-kubera-puja-b0192"><div class="verse-block verse-justify"><div class="line">नैवेद्यं गृह्यतां देव रसैः षड्भिः समन्वितान्।</div><div class="line" style="position:relative;">शष्कुलीभक्ष्यभोज्यांश्च ददामि राजशेखर॥</div></div></div>
 <p class="prose">श्री-कुबेराय नमः, महानैवेद्यं निवेदयामि।<br>अमृतापिधानमसि। निवेदनानन्तरम् आचमनीयं समर्पयामि।</p>
 <div class="verse-block-wrapper" id="lakshmi-kubera-puja-b0194"><div class="verse-block verse-justify"><div class="line">फलेन फलितं सर्वं त्रैलोक्यं सचराचरम्।</div><div class="line" style="position:relative;">फलस्यास्य प्रदानेन सफलाश्च मनोरथाः॥</div></div></div>
 <p class="prose">श्री-कुबेराय नमः, फलानि समर्पयामि।</p>
 <div class="verse-block-wrapper" id="lakshmi-kubera-puja-b0196"><div class="verse-block verse-justify"><div class="line">पूगीफलसमायुक्तं नागवल्लीदलैर्युतम्।</div><div class="line" style="position:relative;">कर्पूरचूर्णसंयुक्तं ताम्बूलं प्रतिगृह्यताम्॥</div></div></div>
-<p class="prose">श्री-कुबेराय नमः, कर्पूरताम्बूलं समर्पयामि।</p>
+<p class="prose">श्री-कुबेराय नमः, ताम्बूलं समर्पयामि।</p>
 <div class="verse-block-wrapper" id="lakshmi-kubera-puja-b0198"><div class="verse-block verse-justify"><div class="line">कर्पूरवर्तिसंयुक्तं दीपमालामनोहरम्।</div><div class="line" style="position:relative;">नीराजनं गृहाणेश अष्टलक्ष्म्याश्रितालय॥</div></div></div>
 <p class="prose">राजाधिराजाय प्रसह्यसाहिने। नमो वयं वैश्रवणाय कुर्महे।<br>स मे कामान्कामकामाय मह्यम्। कामेश्वरो वैश्रवणो ददातु।<br>कुबेराय वैश्रवणाय। महाराजाय नमः॥<br>श्री-कुबेराय नमः, कर्पूरनीराजनं दर्शयामि।<br>नीराजनानन्तरम् आचमनीयं समर्पयामि।</p>
 <h3 class="subheading">पुष्पाञ्जलिः</h3>
