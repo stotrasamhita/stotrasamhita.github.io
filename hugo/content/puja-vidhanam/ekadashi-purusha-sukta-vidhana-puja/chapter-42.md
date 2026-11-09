@@ -63,5 +63,5 @@
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3266"><div class="verse-block verse-justify"><div class="line">सर्वदानानि दत्तानि यज्ञास्तेन कृता नृप।</div><div class="line" style="position:relative;">सर्वतीर्थेषु सुस्नातः कृतं येन जयाव्रतम्॥५२॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3267"><div class="verse-block verse-justify"><div class="line">य करोति नरो भक्त्या श्रद्धायुक्तो जयावतम्।</div><div class="line" style="position:relative;">कल्पकोटिशतं यावद्वैकुण्ठे मोदते ध्रुवम्॥५३॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3268"><div class="verse-block verse-justify"><div class="line" style="position:relative;">पठनाच्छ्रवणाद् राजन्नग्निष्टोमफलं लभेत्॥५४॥</div></div></div>
-<p class="pushpika">॥इति श्रीभविष्योत्तरपुराणे माघशुक्क्लैकादश्या जयाया माहात्म्यं सम्पूर्णम्॥</p>
+<p class="pushpika">॥इति श्रीभविष्योत्तरपुराणे माघशुक्लैकादश्या जयाया माहात्म्यं सम्पूर्णम्॥</p>
 <div class="decoration">❀</div></div>
