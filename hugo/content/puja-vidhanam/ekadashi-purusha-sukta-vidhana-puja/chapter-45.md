@@ -11,7 +11,7 @@
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3387"><div class="verse-block verse-justify"><div class="line" style="position:relative;">यल्लोमशोऽब्रवीत्पृष्टो मान्धात्रा चक्र।</div></div></div>
 <p class="uvacha">मान्धातोवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3389"><div class="verse-block verse-justify"><div class="line" style="position:relative;">भगवञ्छोतुमिच्छामि लोकानां हितकाम्यया॥३॥</div></div></div>
-<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3390"><div class="verse-block verse-justify"><div class="line">चैत्रमास्यसिते पक्षे नामैकादशी भवेत्।</div><div class="line" style="position:relative;">को विधिः किं फलं तस्याः कथयस्व प्रसादतः॥४॥</div></div></div>
+<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3390"><div class="verse-block verse-justify"><div class="line">चैत्रमास्यसिते पक्षे किं नामैकादशी भवेत्।</div><div class="line" style="position:relative;">को विधिः किं फलं तस्याः कथयस्व प्रसादतः॥४॥</div></div></div>
 <p class="uvacha">लोमश उवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3392"><div class="verse-block verse-justify"><div class="line">चैत्रमास्यसिते पक्षे नाम्ना वै पापमोचनी।</div><div class="line" style="position:relative;">एकादशी समाख्याता पिशाचत्वविनाशिनी॥५॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b3393"><div class="verse-block verse-justify"><div class="line">शृणु तस्याः प्रवक्ष्यामि कामदां सिद्धिदां नृप।</div><div class="line" style="position:relative;">कथां विचित्रां शुभदा पापी धर्मका॥६॥</div></div></div>

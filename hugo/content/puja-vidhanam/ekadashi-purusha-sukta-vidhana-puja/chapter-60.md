@@ -6,7 +6,7 @@
 
 <div class="stotra-article"><h2 class="stotra-heading">कार्त्तिक-कृष्ण-रमा-एकादशी-माहात्म्यम्</h2>
 <p class="uvacha">युधिष्ठिर उवाच</p>
-<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4212"><div class="verse-block verse-justify"><div class="line">कथयस्व प्रसादेन मम स्नेहाज्जनार्दन।</div><div class="line" style="position:relative;">कार्तिकस्यासिते पक्षे किन्नामेकादशी भवेत्॥१॥</div></div></div>
+<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4212"><div class="verse-block verse-justify"><div class="line">कथयस्व प्रसादेन मम स्नेहाज्जनार्दन।</div><div class="line" style="position:relative;">कार्तिकस्यासिते पक्षे किन्नामैकादशी भवेत्॥१॥</div></div></div>
 <p class="uvacha">श्रीकृष्ण उवाच</p>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4214"><div class="verse-block verse-justify"><div class="line">श्रूयतां राजशार्दूल कथयामि तवाग्रतः।</div><div class="line" style="position:relative;">कार्तिके कृष्णपक्षे तु रमानाम्नी सुशोभना॥२॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4215"><div class="verse-block verse-justify"><div class="line">एकादशी समाख्याता महापापहरा परा।</div><div class="line" style="position:relative;">अस्याः प्रसअतो राजन् माहात्म्यं प्रवदामि ते॥३॥</div></div></div>

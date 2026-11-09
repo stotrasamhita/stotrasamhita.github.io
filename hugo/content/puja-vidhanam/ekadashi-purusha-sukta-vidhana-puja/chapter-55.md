@@ -26,7 +26,7 @@
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4019"><div class="verse-block verse-justify"><div class="line">विनयावनताः सर्वे ऊचुश्चैव परस्परम्।</div><div class="line" style="position:relative;">अस्मद्भाग्यवशादेव प्राप्तोऽयं मुनिसत्तमः॥१७॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4020"><div class="verse-block verse-justify"><div class="line" style="position:relative;">तांस्तथा प्रणतान्दृष्ट्वा ह्युवाच मुनिसत्तमः।</div></div></div>
 <p class="uvacha">लोमश उवाच</p>
-<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4022"><div class="verse-block verse-justify"><div class="line" style="position:relative;">किमर्थामह सम्प्राप्ताः कथयध्वं च कारणम्॥१८॥</div></div></div>
+<div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4022"><div class="verse-block verse-justify"><div class="line" style="position:relative;">किमर्थमिह सम्प्राप्ताः कथयध्वं च कारणम्॥१८॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4023"><div class="verse-block verse-justify"><div class="line">मद्दर्शनालादगिरा भवन्तः स्तुवते किमु।</div><div class="line" style="position:relative;">असंशयं करिष्यामि भवतां यद्धितं भवेत्॥१९॥</div></div></div>
 <div class="verse-block-wrapper" id="ekadashi-purusha-sukta-vidhana-puja-b4024"><div class="verse-block verse-justify"><div class="line" style="position:relative;">परोपकृतये जन्म मादृशानां न संशयः।</div></div></div>
 <p class="uvacha">जना ऊचुः</p>
