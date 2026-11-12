@@ -24,9 +24,11 @@
   {{ range .Sections }}{{ if .Params.source_file }}{{ $items = $items | append . }}{{ end }}{{ end }}
   {{ with $items }}<section><div class="grid">{{ range sort . "Weight" }}{{ partial "card.html" . }}{{ end }}</div></section>{{ end }}
   {{ range .Sections.ByWeight }}{{ if not .Params.source_file }}
+  {{ $g := .RegularPages }}
+  {{ range .Sections }}{{ if .Params.source_file }}{{ $g = $g | append . }}{{ end }}{{ end }}
   <section>
-    <div class="sec-h"><h2><a href="{{ .RelPermalink }}">{{ partial "title.html" .Title }}</a></h2>{{ with .Params.iast }}<span class="sub">{{ . }}</span>{{ end }}<a class="more" href="{{ .RelPermalink }}">All {{ len .RegularPagesRecursive }} →</a></div>
-    <div class="grid">{{ range .RegularPages.ByWeight }}{{ partial "card.html" . }}{{ end }}</div>
+    <div class="sec-h"><h2><a href="{{ .RelPermalink }}">{{ partial "title.html" .Title }}</a></h2>{{ with .Params.iast }}<span class="sub">{{ . }}</span>{{ end }}<a class="more" href="{{ .RelPermalink }}">All {{ len $g }} →</a></div>
+    <div class="grid">{{ range sort $g "Weight" }}{{ partial "card.html" . }}{{ end }}</div>
   </section>
   {{ end }}{{ end }}
 {{ end }}

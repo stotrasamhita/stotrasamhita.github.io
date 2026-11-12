@@ -171,12 +171,100 @@ def sync_namavali_manjari(repo_dir, scripts_dir, tmp_dir):
     sync_category_dir(hugo_dir, HUGO_CONTENT / "namavali")
 
 
+KATHA_INPUT = re.compile(r"\\input\{(kathas/[^}]+?)(?:\.tex)?\}")
+
+KATHAS_INDEX = {
+    "title": "कथाः",
+    "iast": "Kathāḥ",
+    "weight": 10,
+}
+KATHAS_DESC = ("The kathās and māhātmyas read with the pūjās and vratas, each on its own page. "
+               "Each is also printed at the end of its pūjā.")
+
+
+def read_front(path):
+    fm, body = path.read_text(encoding="utf-8").split("\n}\n", 1)
+    return json.loads(fm + "\n}"), body
+
+
+def write_front(path, fm, body):
+    path.write_text(json.dumps(fm, indent=1, ensure_ascii=False) + "\n" + body, encoding="utf-8")
+
+
 def sync_puja_vidhanam(repo_dir, scripts_dir, tmp_dir):
+    """Each pūjā gets a page under puja-vidhanam/, its kathās inline at the
+    end as in the Kindle Scribe books. Every kathā a pūjā \\input{}s also
+    gets a page of its own under puja-vidhanam/kathas/, in pujas.tex's
+    order. A pūjā file that is only a kathā \\input{} (kartika-mahatmyam,
+    shravana-mahatmyam) moves there whole, keeping its old URLs as aliases."""
     excluded = re.compile(r"^(shivaratri-yama-[1-4]-puja|MahaNyasah)\.tex$")
     tex_files = sorted(f for f in (repo_dir / "pujas").glob("*.tex") if not excluded.match(f.name))
+    order = re.findall(r"^\\(?:input|ifbool\{\w+\}\{\\input)\{pujas/([^}]+)\}", (repo_dir / "pujas.tex").read_text(encoding="utf-8"), re.M)
+    tex_files.sort(key=lambda f: (order.index(f.stem) if f.stem in order else len(order), f.stem))
+
+    def code(f):
+        return [l for l in f.read_text(encoding="utf-8").splitlines() if l.strip() and not l.lstrip().startswith("%")]
+
+    wrappers = {f for f in tex_files if code(f) and all(KATHA_INPUT.search(l) for l in code(f))}
+    katha_files, katha_puja, katha_title = [], {}, {}
+    for f in tex_files:
+        if f in wrappers:
+            katha_files.append(f)
+            continue
+        text = "\n".join(code(f))
+        for m in KATHA_INPUT.finditer(text):
+            k = repo_dir / (m.group(1) + ".tex")
+            if k not in katha_files:
+                katha_files.append(k)
+                katha_puja[k.stem] = f.stem
+                # The Ekādaśī and Caturthī māhātmyas are titled by a
+                # \centerline in the center block that \input{}s them.
+                block = text[text.rfind("\\begin{center}", 0, m.start()):m.start()]
+                t = re.search(r"\\centerline\{\\LARGE \\bfseries ([^}]+)\}", block)
+                if t:
+                    katha_title[k.stem] = t.group(1).strip()
+
     ir_dir, hugo_dir = tmp_dir / "ir-pujas", tmp_dir / "hugo-pujas"
-    build_ir(scripts_dir / "tex_to_ir.py", tex_files, ir_dir, cwd=repo_dir)
+    build_ir(scripts_dir / "tex_to_ir.py", [f for f in tex_files if f not in wrappers], ir_dir, cwd=repo_dir)
     build_hugo(scripts_dir / "ir_to_hugo.py", ir_dir, hugo_dir, extra_args=["--pdf-variants", ""])
+
+    # tex_to_ir.py files each kathā under its own folder's name; gather them
+    # into one "kathas" category.
+    kir_dir, khugo_dir = tmp_dir / "ir-kathas", tmp_dir / "hugo-kathas"
+    build_ir(scripts_dir / "tex_to_ir.py", katha_files, tmp_dir / "ir-kathas-raw", cwd=repo_dir)
+    (kir_dir / "kathas").mkdir(parents=True)
+    for j in (tmp_dir / "ir-kathas-raw").rglob("*.json"):
+        ir = json.loads(j.read_text(encoding="utf-8"))
+        ir["category"] = "kathas"
+        stem = Path(ir["source_file"]).stem
+        if stem in katha_title:
+            # A heading ahead of the first chapter's: ir_to_hugo.py takes it
+            # as the title and keeps the first chapter as a chapter.
+            ir["blocks"].insert(0, {"type": "heading", "macro": "chapt", "text": katha_title[stem], "resets_counter": False})
+        (kir_dir / "kathas" / j.name).write_text(json.dumps(ir, ensure_ascii=False), encoding="utf-8")
+    build_hugo(scripts_dir / "ir_to_hugo.py", kir_dir, khugo_dir, extra_args=["--pdf-variants", ""])
+
+    kdir = hugo_dir / "pujas" / "kathas"
+    shutil.copytree(khugo_dir / "kathas", kdir)
+    def page_of(d, slug):
+        return d / slug / "_index.md" if (d / slug).is_dir() else d / f"{slug}.md"
+
+    for i, f in enumerate(katha_files):
+        slug = re.sub(r"(?<!^)(?=[A-Z])", "-", f.stem).lower()   # tex_to_ir.py's slugify
+        fm, body = read_front(page_of(kdir, slug))
+        fm["weight"] = (i + 1) * 10
+        # A kathā headed just "कथा" is named after its pūjā here.
+        if f.stem in katha_puja and fm["title"].startswith("कथा"):
+            fm["title"] = read_front(page_of(hugo_dir / "pujas", katha_puja[f.stem]))[0]["title"] + " — " + re.sub(r"[{}]", "", fm["title"])
+        write_front(page_of(kdir, slug), fm, body)
+        if f in wrappers:
+            pages = (kdir / slug).glob("*.md") if (kdir / slug).is_dir() else [kdir / f"{slug}.md"]
+            for p in pages:
+                fm, body = read_front(p)
+                old = f"/puja-vidhanam/{slug}/" + (p.stem + "/" if p.parent.name == slug and p.name != "_index.md" else "")
+                fm["aliases"] = sorted(set(fm.get("aliases", [])) | {old})
+                write_front(p, fm, body)
+    (kdir / "_index.md").write_text(json.dumps(KATHAS_INDEX, indent=1, ensure_ascii=False) + "\n\n" + KATHAS_DESC + "\n", encoding="utf-8")
     sync_flat_dir(hugo_dir / "pujas", HUGO_CONTENT / "puja-vidhanam")
 
 
