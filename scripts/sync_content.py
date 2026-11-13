@@ -253,9 +253,10 @@ def sync_puja_vidhanam(repo_dir, scripts_dir, tmp_dir):
         slug = re.sub(r"(?<!^)(?=[A-Z])", "-", f.stem).lower()   # tex_to_ir.py's slugify
         fm, body = read_front(page_of(kdir, slug))
         fm["weight"] = (i + 1) * 10
+        fm["title"] = re.sub(r"[{}]", "", fm["title"])   # \sect{… {[source]}}
         # A kathā headed just "कथा" is named after its pūjā here.
         if f.stem in katha_puja and fm["title"].startswith("कथा"):
-            fm["title"] = read_front(page_of(hugo_dir / "pujas", katha_puja[f.stem]))[0]["title"] + " — " + re.sub(r"[{}]", "", fm["title"])
+            fm["title"] = read_front(page_of(hugo_dir / "pujas", katha_puja[f.stem]))[0]["title"] + " — " + fm["title"]
         write_front(page_of(kdir, slug), fm, body)
         if f in wrappers:
             pages = (kdir / slug).glob("*.md") if (kdir / slug).is_dir() else [kdir / f"{slug}.md"]
