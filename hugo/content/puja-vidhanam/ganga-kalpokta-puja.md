@@ -5,7 +5,7 @@
  "verse_count": 46,
  "source": "श्रीगङ्गाकल्पोक्तपूजाविधिः, ed. Mittur Srinivasa Bhatta (Brahmashri Mittur Purohita",
  "when a new well or borewell first gives water. Rows marked for review": "review/ganga/.",
- "weight": 360,
+ "weight": 340,
  "iast": "Śrī-gaṅgā-kalpokta-pūjā"
 }
 

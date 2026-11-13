@@ -3,7 +3,7 @@
  "slug": "ratha-saptami-snana",
  "source_file": "pujas/ratha-saptami-snana.tex",
  "verse_count": 4,
- "weight": 400,
+ "weight": 380,
  "iast": "Rathasaptamī-snāna-mantrāḥ"
 }
 

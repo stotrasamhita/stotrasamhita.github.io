@@ -4,7 +4,7 @@
  "source_file": "pujas/pradosha-puja.tex",
  "verse_count": 311,
  "columns_hint": 2,
- "weight": 390,
+ "weight": 370,
  "iast": "Śrī-mahāpradoṣa-vratam"
 }
 

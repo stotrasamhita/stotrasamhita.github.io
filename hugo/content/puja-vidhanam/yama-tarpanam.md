@@ -3,7 +3,7 @@
  "slug": "yama-tarpanam",
  "source_file": "pujas/yama-tarpanam.tex",
  "verse_count": 9,
- "weight": 320,
+ "weight": 300,
  "iast": "Kṛṣṇāṅgāraka-caturdaśī-yama-tarpaṇam"
 }
 

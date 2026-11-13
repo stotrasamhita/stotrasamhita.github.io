@@ -3,7 +3,7 @@
  "slug": "kartika-somavara-arghyam",
  "source_file": "pujas/kartika-somavara-arghyam.tex",
  "verse_count": 278,
- "weight": 270,
+ "weight": 260,
  "iast": "Kārttikasomavārārghyam"
 }
 
@@ -25,7 +25,7 @@
 <p class="prose">—नन्दिकेश्वराय नमः इदमर्घ्यम्। (त्रिः)</p>
 <div class="verse-block-wrapper" id="kartika-somavara-arghyam-b0016"><div class="verse-block verse-justify"><div class="line">[नीलकण्ठ-पदाम्भोज-परिस्फुरित-मानस।</div><div class="line" style="position:relative;">शम्भोः सेवाफलं देहि चण्डेश्वर नमोऽस्तु ते॥८॥</div></div></div>
 <p class="prose">—चण्डिकेश्वराय नमः इदमर्घ्यम्। (त्रिः)]</p>
-<h2 class="stotra-heading">कथा</h2>
+<h2 class="stotra-heading">सोमवार-व्रत-कथा</h2>
 <h3 class="subheading">अथ अष्टमोऽध्यायः—सोमवारव्रतवर्णनम्</h3>
 <p class="uvacha">सूत उवाच</p>
 <div class="verse-block-wrapper" id="kartika-somavara-arghyam-b0021"><div class="verse-block verse-justify"><div class="line">नित्यानन्दमयं शान्तं निर्विकल्पं निरामयम्।</div><div class="line" style="position:relative;">शिवतत्त्वमनाद्यन्तं ये विदुस्ते परं गताः॥१॥</div></div></div>

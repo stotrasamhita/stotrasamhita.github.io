@@ -4,7 +4,7 @@
  "source_file": "pujas/amavasya-somavara-puja.tex",
  "verse_count": 191,
  "columns_hint": 2,
- "weight": 350,
+ "weight": 330,
  "iast": "Śrī-aśvatthanārāyaṇa-pūjā Amāvāsyā-somavāra-vratam"
 }
 

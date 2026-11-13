@@ -3,7 +3,7 @@
  "slug": "bhishma-tarpanam",
  "source_file": "pujas/bhishma-tarpanam.tex",
  "verse_count": 168,
- "weight": 330,
+ "weight": 310,
  "iast": "Bhīṣma-tarpaṇam"
 }
 

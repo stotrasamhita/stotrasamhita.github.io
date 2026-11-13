@@ -4,7 +4,7 @@
  "source_file": "pujas/akhanda-deepa-puja.tex",
  "verse_count": 55,
  "columns_hint": 2,
- "weight": 340,
+ "weight": 320,
  "iast": "Śrī-akhaṇḍadīpa-pūjā-kalpaḥ"
 }
 

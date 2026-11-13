@@ -4,7 +4,7 @@
  "source_file": "pujas/shukla-shashthi-puja.tex",
  "verse_count": 47,
  "columns_hint": 2,
- "weight": 430,
+ "weight": 410,
  "iast": "Śrī-śuklaṣaṣṭhī-nāgarāja-pūjā"
 }
 

@@ -4,7 +4,7 @@
  "source_file": "pujas/ganga-puja.tex",
  "verse_count": 57,
  "columns_hint": 2,
- "weight": 290,
+ "weight": 270,
  "iast": "Śrī-gaṅgāpūjā"
 }
 

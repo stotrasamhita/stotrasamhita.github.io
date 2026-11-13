@@ -4,7 +4,7 @@
  "source_file": "pujas/kaveri-puja.tex",
  "verse_count": 69,
  "columns_hint": 2,
- "weight": 300,
+ "weight": 280,
  "iast": "Śrī-kāverī-pūjā"
 }
 

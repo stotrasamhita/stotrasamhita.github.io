@@ -4,7 +4,7 @@
  "source_file": "pujas/rishi-panchami-puja.tex",
  "verse_count": 180,
  "columns_hint": 2,
- "weight": 410,
+ "weight": 390,
  "iast": "Śrī-ṛṣipañcamī-vratam"
 }
 

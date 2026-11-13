@@ -3,7 +3,7 @@
  "slug": "magha-snana",
  "source_file": "pujas/magha-snana.tex",
  "verse_count": 7,
- "weight": 380,
+ "weight": 360,
  "iast": "Māgha-snāna-vidhiḥ"
 }
 

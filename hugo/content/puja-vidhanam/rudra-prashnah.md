@@ -3,7 +3,7 @@
  "slug": "rudra-prashnah",
  "source_file": "pujas/rudra-prashnah.tex",
  "verse_count": 0,
- "weight": 420,
+ "weight": 400,
  "iast": "Rudrapraśnaḥ"
 }
 
