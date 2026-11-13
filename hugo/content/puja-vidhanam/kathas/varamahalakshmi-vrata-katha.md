@@ -1,13 +1,13 @@
 {
- "title": "श्री-वरमहालक्ष्मी-पूजा — कथा [व्रतराजः]",
+ "title": "वरमहालक्ष्मी-व्रत-कथा [व्रतराजः]",
  "slug": "varamahalakshmi-vrata-katha",
  "source_file": "kathas/varalakshmi-vratam/varamahalakshmi-vrata-katha.tex",
  "verse_count": 50,
  "weight": 140,
- "iast": "Śrī-varamahālakṣmī-pūjā — Kathā [vratarājaḥ]"
+ "iast": "Varamahālakṣmī-vrata-kathā [vratarājaḥ]"
 }
 
-<div class="stotra-article"><h2 class="stotra-heading">कथा {[व्रतराजः]}</h2>
+<div class="stotra-article"><h2 class="stotra-heading">वरमहालक्ष्मी-व्रत-कथा {[व्रतराजः]}</h2>
 <p class="uvacha">सूत उवाच</p>
 <div class="verse-block-wrapper" id="varamahalakshmi-vrata-katha-b0002"><div class="verse-block verse-justify"><div class="line">कैलासशिखरे रम्ये सर्वदेवनिषेविते।</div><div class="line" style="position:relative;">गौर्या सह महादेवो दीव्यन्नक्षैर्विनोदतः॥१॥</div></div></div>
 <div class="verse-block-wrapper" id="varamahalakshmi-vrata-katha-b0003"><div class="verse-block verse-justify"><div class="line">जितोऽसि त्वं मया चाऽऽह पार्वती परमेश्वरम्।</div><div class="line" style="position:relative;">सोऽपि त्वं च जितेत्याह सुविवादस्तयोरभूत्॥२॥</div></div></div>

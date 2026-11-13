@@ -184,7 +184,7 @@
 <div class="verse-block-wrapper" id="varamahalakshmi-puja-b0181"><div class="verse-block"><div class="line">कायेन वाचा मनसेन्द्रियैर्वा</div><div class="line pada-even">बुद्‌ध्याऽऽत्मना वा प्रकृतेः स्वभावात्।</div><div class="line">करोमि यद्यत् सकलं परस्मै</div><div class="line pada-even" style="position:relative;">नारायणायेति समर्पयामि॥</div></div></div>
 <p class="prose">सर्वं तत्सद्ब्रह्मार्पणमस्तु।</p>
 <div class="decoration">❀</div>
-<h2 class="stotra-heading">कथा {[व्रतराजः]}</h2>
+<h2 class="stotra-heading">वरमहालक्ष्मी-व्रत-कथा {[व्रतराजः]}</h2>
 <p class="uvacha">सूत उवाच</p>
 <div class="verse-block-wrapper" id="varamahalakshmi-puja-b0186"><div class="verse-block verse-justify"><div class="line">कैलासशिखरे रम्ये सर्वदेवनिषेविते।</div><div class="line" style="position:relative;">गौर्या सह महादेवो दीव्यन्नक्षैर्विनोदतः॥१॥</div></div></div>
 <div class="verse-block-wrapper" id="varamahalakshmi-puja-b0187"><div class="verse-block verse-justify"><div class="line">जितोऽसि त्वं मया चाऽऽह पार्वती परमेश्वरम्।</div><div class="line" style="position:relative;">सोऽपि त्वं च जितेत्याह सुविवादस्तयोरभूत्॥२॥</div></div></div>
@@ -237,7 +237,7 @@
 <div class="verse-block-wrapper" id="varamahalakshmi-puja-b0234"><div class="verse-block verse-justify"><div class="line">इत्याख्यातं मया विप्रा वरलक्ष्मीव्रतं शुभम्।</div><div class="line" style="position:relative;">य इदं शृणुयान्नित्यं श्रावयेद्वा समाहितः॥४९॥</div></div></div>
 <div class="verse-block-wrapper" id="varamahalakshmi-puja-b0235"><div class="verse-block verse-justify"><div class="line" style="position:relative;">धनं धान्यमवाप्नोति वरलक्ष्मीप्रसादतः॥५०॥</div></div></div>
 <p class="pushpika">॥इति श्रीभविष्योत्तरपुराणे श्रावणशुक्रवारे वरलक्ष्मीव्रतं सम्पूर्णम्॥</p>
-<h2 class="stotra-heading">कथा {[भविष्योत्तरपुराणम्]}</h2>
+<h2 class="stotra-heading">वरलक्ष्मी-व्रत-कथा {[भविष्योत्तरपुराणम्]}</h2>
 <div class="verse-block-wrapper" id="varamahalakshmi-puja-b0238"><div class="verse-block verse-justify"><div class="line">कैलासशिखरे रम्ये नानागणनिषेविते।</div><div class="line" style="position:relative;">मन्दारविटपिप्रीते नानामणिविभूषिते॥१॥</div></div></div>
 <div class="verse-block-wrapper" id="varamahalakshmi-puja-b0239"><div class="verse-block verse-justify"><div class="line">पाटलाशोकपुन्नागखर्जूरवकुलान्विते।</div><div class="line" style="position:relative;">कुबेरवरुणेन्द्रादिदिक्पालैश्च समावृते॥२॥</div></div></div>
 <div class="verse-block-wrapper" id="varamahalakshmi-puja-b0240"><div class="verse-block verse-justify"><div class="line">नारदागस्त्यवाल्मीकिपराशरसमावृते।</div><div class="line" style="position:relative;">रत्नपीठे सुखासीनं शङ्करं लोकशङ्करम्॥३॥</div></div></div>

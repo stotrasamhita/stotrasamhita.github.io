@@ -161,7 +161,7 @@
 <div class="verse-block-wrapper" id="pradosha-puja-b0156"><div class="verse-block"><div class="line">कायेन वाचा मनसेन्द्रियैर्वा</div><div class="line pada-even">बुद्‌ध्याऽऽत्मना वा प्रकृतेः स्वभावात्।</div><div class="line">करोमि यद्यत् सकलं परस्मै</div><div class="line pada-even" style="position:relative;">नारायणायेति समर्पयामि॥</div></div></div>
 <p class="prose">ॐ तत्सद्ब्रह्मार्पणमस्तु।</p>
 <div class="decoration">❀</div>
-<h2 class="stotra-heading">कथा</h2>
+<h2 class="stotra-heading">प्रदोष-व्रत-कथा</h2>
 <h3 class="subheading">अथ षष्ठोऽध्यायः—प्रदोषमाहात्म्यवर्णनम्</h3>
 <p class="uvacha">ऋषय ऊचुः</p>
 <div class="verse-block-wrapper" id="pradosha-puja-b0162"><div class="verse-block verse-justify"><div class="line">यदुक्तं भवता सूत महदाख्यानमद्भुतम्।</div><div class="line" style="position:relative;">शम्भोर्माहात्म्यकथनमशेषाघहरं परम्॥१॥</div></div></div>

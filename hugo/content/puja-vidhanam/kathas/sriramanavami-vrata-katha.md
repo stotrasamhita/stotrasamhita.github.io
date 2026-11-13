@@ -1,13 +1,13 @@
 {
- "title": "श्री-रामनवमी-पूजा — कथा",
+ "title": "श्रीरामनवमी-व्रत-कथा",
  "slug": "sriramanavami-vrata-katha",
  "source_file": "kathas/sriramanavami/sriramanavami-vrata-katha.tex",
  "verse_count": 89,
  "weight": 70,
- "iast": "Śrī-rāmanavamī-pūjā — Kathā"
+ "iast": "Śrīrāmanavamī-vrata-kathā"
 }
 
-<div class="stotra-article"><h2 class="stotra-heading">कथा</h2>
+<div class="stotra-article"><h2 class="stotra-heading">श्रीरामनवमी-व्रत-कथा</h2>
 <p class="uvacha">अगस्त्य उवाच</p>
 <div class="verse-block-wrapper" id="sriramanavami-vrata-katha-b0002"><div class="verse-block verse-justify"><div class="line">रहस्यं कथयिष्यामि सुतीक्ष्ण मुनिसत्तम।</div><div class="line" style="position:relative;">चैत्रे नवम्यां प्राक्पक्षे दिवापुण्ये पुनर्वसौ॥१॥</div></div></div>
 <div class="verse-block-wrapper" id="sriramanavami-vrata-katha-b0003"><div class="verse-block verse-justify"><div class="line">उदये गुरुगौरांशे स्वोच्चस्थे ग्रहपञ्चके।</div><div class="line" style="position:relative;">मेषे पूषणि सम्प्राप्ते लग्ने कर्कटकाह्वये॥२॥</div></div></div>

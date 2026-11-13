@@ -1,13 +1,13 @@
 {
- "title": "श्री-वरमहालक्ष्मी-पूजा — कथा [भविष्योत्तरपुराणम्]",
+ "title": "वरलक्ष्मी-व्रत-कथा [भविष्योत्तरपुराणम्]",
  "slug": "varalakshmi-vrata-katha-bhavishya-puranam",
  "source_file": "kathas/varalakshmi-vratam/varalakshmi-vrata-katha-bhavishya-puranam.tex",
  "verse_count": 34,
  "weight": 150,
- "iast": "Śrī-varamahālakṣmī-pūjā — Kathā [bhaviṣyottarapurāṇam]"
+ "iast": "Varalakṣmī-vrata-kathā [bhaviṣyottarapurāṇam]"
 }
 
-<div class="stotra-article"><h2 class="stotra-heading">कथा {[भविष्योत्तरपुराणम्]}</h2>
+<div class="stotra-article"><h2 class="stotra-heading">वरलक्ष्मी-व्रत-कथा {[भविष्योत्तरपुराणम्]}</h2>
 <div class="verse-block-wrapper" id="varalakshmi-vrata-katha-bhavishya-puranam-b0001"><div class="verse-block verse-justify"><div class="line">कैलासशिखरे रम्ये नानागणनिषेविते।</div><div class="line" style="position:relative;">मन्दारविटपिप्रीते नानामणिविभूषिते॥१॥</div></div></div>
 <div class="verse-block-wrapper" id="varalakshmi-vrata-katha-bhavishya-puranam-b0002"><div class="verse-block verse-justify"><div class="line">पाटलाशोकपुन्नागखर्जूरवकुलान्विते।</div><div class="line" style="position:relative;">कुबेरवरुणेन्द्रादिदिक्पालैश्च समावृते॥२॥</div></div></div>
 <div class="verse-block-wrapper" id="varalakshmi-vrata-katha-bhavishya-puranam-b0003"><div class="verse-block verse-justify"><div class="line">नारदागस्त्यवाल्मीकिपराशरसमावृते।</div><div class="line" style="position:relative;">रत्नपीठे सुखासीनं शङ्करं लोकशङ्करम्॥३॥</div></div></div>

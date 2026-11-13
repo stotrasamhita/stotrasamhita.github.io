@@ -191,7 +191,7 @@
 <div class="verse-block-wrapper" id="sriramanavami-puja-b0202"><div class="verse-block"><div class="line">कायेन वाचा मनसेन्द्रियैर्वा</div><div class="line pada-even">बुद्‌ध्याऽऽत्मना वा प्रकृतेः स्वभावात्।</div><div class="line">करोमि यद्यत् सकलं परस्मै</div><div class="line pada-even" style="position:relative;">नारायणायेति समर्पयामि॥</div></div></div>
 <p class="prose">अनया पूजया श्री-सीता-लक्ष्मण-भरत-शत्रुघ्न-हनुमत्-समेत-श्री-रामचन्द्रः प्रीयताम्।<br>ॐ तत्सद्ब्रह्मार्पणमस्तु।</p>
 <div class="decoration">❀</div>
-<h2 class="stotra-heading">कथा</h2>
+<h2 class="stotra-heading">श्रीरामनवमी-व्रत-कथा</h2>
 <p class="uvacha">अगस्त्य उवाच</p>
 <div class="verse-block-wrapper" id="sriramanavami-puja-b0207"><div class="verse-block verse-justify"><div class="line">रहस्यं कथयिष्यामि सुतीक्ष्ण मुनिसत्तम।</div><div class="line" style="position:relative;">चैत्रे नवम्यां प्राक्पक्षे दिवापुण्ये पुनर्वसौ॥१॥</div></div></div>
 <div class="verse-block-wrapper" id="sriramanavami-puja-b0208"><div class="verse-block verse-justify"><div class="line">उदये गुरुगौरांशे स्वोच्चस्थे ग्रहपञ्चके।</div><div class="line" style="position:relative;">मेषे पूषणि सम्प्राप्ते लग्ने कर्कटकाह्वये॥२॥</div></div></div>

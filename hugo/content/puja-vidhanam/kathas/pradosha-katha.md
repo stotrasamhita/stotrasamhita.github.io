@@ -1,13 +1,13 @@
 {
- "title": "श्री-महाप्रदोष-व्रतम् — कथा",
+ "title": "प्रदोष-व्रत-कथा",
  "slug": "pradosha-katha",
  "source_file": "kathas/pradosha-katha.tex",
  "verse_count": 245,
  "weight": 30,
- "iast": "Śrī-mahāpradoṣa-vratam — Kathā"
+ "iast": "Pradoṣa-vrata-kathā"
 }
 
-<div class="stotra-article"><h2 class="stotra-heading">कथा</h2>
+<div class="stotra-article"><h2 class="stotra-heading">प्रदोष-व्रत-कथा</h2>
 <h3 class="subheading">अथ षष्ठोऽध्यायः—प्रदोषमाहात्म्यवर्णनम्</h3>
 <p class="uvacha">ऋषय ऊचुः</p>
 <div class="verse-block-wrapper" id="pradosha-katha-b0003"><div class="verse-block verse-justify"><div class="line">यदुक्तं भवता सूत महदाख्यानमद्भुतम्।</div><div class="line" style="position:relative;">शम्भोर्माहात्म्यकथनमशेषाघहरं परम्॥१॥</div></div></div>
