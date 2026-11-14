@@ -1,10 +1,10 @@
 {
- "title": "अथ त्रयोविंशोऽध्यायः",
+ "title": "त्रयोविंशोऽध्यायः",
  "weight": 230,
  "aliases": [
   "/puja-vidhanam/kartika-mahatmyam/chapter-23/"
  ],
- "iast": "Atha Trayoviṃśo'dhyāyaḥ"
+ "iast": "Trayoviṃśo'dhyāyaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">अथ त्रयोविंशोऽध्यायः</h2>

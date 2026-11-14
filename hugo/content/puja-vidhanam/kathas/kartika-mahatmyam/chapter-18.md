@@ -1,10 +1,10 @@
 {
- "title": "अथ अष्टादशोऽध्यायः",
+ "title": "अष्टादशोऽध्यायः",
  "weight": 180,
  "aliases": [
   "/puja-vidhanam/kartika-mahatmyam/chapter-18/"
  ],
- "iast": "Atha Aṣṭādaśo'dhyāyaḥ"
+ "iast": "Aṣṭādaśo'dhyāyaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">अथ अष्टादशोऽध्यायः</h2>

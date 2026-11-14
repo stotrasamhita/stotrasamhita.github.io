@@ -1,10 +1,10 @@
 {
- "title": "अथ पञ्चत्रिंशोऽध्यायः",
+ "title": "पञ्चत्रिंशोऽध्यायः",
  "weight": 350,
  "aliases": [
   "/puja-vidhanam/kartika-mahatmyam/chapter-35/"
  ],
- "iast": "Atha Pañcatriṃśo'dhyāyaḥ"
+ "iast": "Pañcatriṃśo'dhyāyaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">अथ पञ्चत्रिंशोऽध्यायः</h2>

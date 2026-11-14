@@ -1,10 +1,10 @@
 {
- "title": "अथ पञ्चदशोऽध्यायः",
+ "title": "पञ्चदशोऽध्यायः",
  "weight": 150,
  "aliases": [
   "/puja-vidhanam/kartika-mahatmyam/chapter-15/"
  ],
- "iast": "Atha Pañcadaśo'dhyāyaḥ"
+ "iast": "Pañcadaśo'dhyāyaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">अथ पञ्चदशोऽध्यायः</h2>

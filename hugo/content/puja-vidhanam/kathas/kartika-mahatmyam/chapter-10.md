@@ -1,10 +1,10 @@
 {
- "title": "अथ दशमोऽध्यायः",
+ "title": "दशमोऽध्यायः",
  "weight": 100,
  "aliases": [
   "/puja-vidhanam/kartika-mahatmyam/chapter-10/"
  ],
- "iast": "Atha Daśamo'dhyāyaḥ"
+ "iast": "Daśamo'dhyāyaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">अथ दशमोऽध्यायः</h2>

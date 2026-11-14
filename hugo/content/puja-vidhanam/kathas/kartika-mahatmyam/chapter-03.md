@@ -1,10 +1,10 @@
 {
- "title": "अथ तृतीयोऽध्यायः",
+ "title": "तृतीयोऽध्यायः",
  "weight": 30,
  "aliases": [
   "/puja-vidhanam/kartika-mahatmyam/chapter-03/"
  ],
- "iast": "Atha Tṛtīyo'dhyāyaḥ"
+ "iast": "Tṛtīyo'dhyāyaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">अथ तृतीयोऽध्यायः</h2>

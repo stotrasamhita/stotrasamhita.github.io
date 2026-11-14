@@ -1,10 +1,10 @@
 {
- "title": "अथ चतुर्थोऽध्यायः",
+ "title": "चतुर्थोऽध्यायः",
  "weight": 40,
  "aliases": [
   "/puja-vidhanam/kartika-mahatmyam/chapter-04/"
  ],
- "iast": "Atha Caturtho'dhyāyaḥ"
+ "iast": "Caturtho'dhyāyaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">अथ चतुर्थोऽध्यायः</h2>

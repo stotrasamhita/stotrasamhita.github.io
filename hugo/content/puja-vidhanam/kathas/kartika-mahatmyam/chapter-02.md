@@ -1,10 +1,10 @@
 {
- "title": "अथ द्वितीयोऽध्यायः",
+ "title": "द्वितीयोऽध्यायः",
  "weight": 20,
  "aliases": [
   "/puja-vidhanam/kartika-mahatmyam/chapter-02/"
  ],
- "iast": "Atha Dvitīyo'dhyāyaḥ"
+ "iast": "Dvitīyo'dhyāyaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">अथ द्वितीयोऽध्यायः</h2>

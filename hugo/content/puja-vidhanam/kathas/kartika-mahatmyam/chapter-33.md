@@ -1,10 +1,10 @@
 {
- "title": "अथ त्रयस्त्रिंशोऽध्यायः",
+ "title": "त्रयस्त्रिंशोऽध्यायः",
  "weight": 330,
  "aliases": [
   "/puja-vidhanam/kartika-mahatmyam/chapter-33/"
  ],
- "iast": "Atha Trayastriṃśo'dhyāyaḥ"
+ "iast": "Trayastriṃśo'dhyāyaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">अथ त्रयस्त्रिंशोऽध्यायः</h2>

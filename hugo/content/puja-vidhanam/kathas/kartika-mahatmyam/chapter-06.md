@@ -1,10 +1,10 @@
 {
- "title": "अथ षष्ठोऽध्यायः",
+ "title": "षष्ठोऽध्यायः",
  "weight": 60,
  "aliases": [
   "/puja-vidhanam/kartika-mahatmyam/chapter-06/"
  ],
- "iast": "Atha Ṣaṣṭho'dhyāyaḥ"
+ "iast": "Ṣaṣṭho'dhyāyaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">अथ षष्ठोऽध्यायः</h2>

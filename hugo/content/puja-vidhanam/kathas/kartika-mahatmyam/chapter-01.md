@@ -1,10 +1,10 @@
 {
- "title": "अथ प्रथमोऽध्यायः",
+ "title": "प्रथमोऽध्यायः",
  "weight": 10,
  "aliases": [
   "/puja-vidhanam/kartika-mahatmyam/chapter-01/"
  ],
- "iast": "Atha Prathamo'dhyāyaḥ"
+ "iast": "Prathamo'dhyāyaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">अथ प्रथमोऽध्यायः</h2>

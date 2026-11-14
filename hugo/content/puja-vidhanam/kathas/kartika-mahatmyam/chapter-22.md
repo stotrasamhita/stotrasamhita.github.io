@@ -1,10 +1,10 @@
 {
- "title": "अथ द्वाविंशोऽयायः",
+ "title": "द्वाविंशोऽयायः",
  "weight": 220,
  "aliases": [
   "/puja-vidhanam/kartika-mahatmyam/chapter-22/"
  ],
- "iast": "Atha Dvāviṃśo'yāyaḥ"
+ "iast": "Dvāviṃśo'yāyaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">अथ द्वाविंशोऽयायः</h2>

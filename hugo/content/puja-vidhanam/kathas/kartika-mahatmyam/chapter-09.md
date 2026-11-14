@@ -1,10 +1,10 @@
 {
- "title": "अथ नवमोऽध्यायः",
+ "title": "नवमोऽध्यायः",
  "weight": 90,
  "aliases": [
   "/puja-vidhanam/kartika-mahatmyam/chapter-09/"
  ],
- "iast": "Atha Navamo'dhyāyaḥ"
+ "iast": "Navamo'dhyāyaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">अथ नवमोऽध्यायः</h2>

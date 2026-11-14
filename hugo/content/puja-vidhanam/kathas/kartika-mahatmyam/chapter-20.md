@@ -1,10 +1,10 @@
 {
- "title": "अथ विंशोऽध्यायः",
+ "title": "विंशोऽध्यायः",
  "weight": 200,
  "aliases": [
   "/puja-vidhanam/kartika-mahatmyam/chapter-20/"
  ],
- "iast": "Atha Viṃśo'dhyāyaḥ"
+ "iast": "Viṃśo'dhyāyaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">अथ विंशोऽध्यायः</h2>

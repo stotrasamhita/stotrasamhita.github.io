@@ -1,10 +1,10 @@
 {
- "title": "अथ एकोनत्रिंशोऽध्यायः",
+ "title": "एकोनत्रिंशोऽध्यायः",
  "weight": 290,
  "aliases": [
   "/puja-vidhanam/kartika-mahatmyam/chapter-29/"
  ],
- "iast": "Atha Ekonatriṃśo'dhyāyaḥ"
+ "iast": "Ekonatriṃśo'dhyāyaḥ"
 }
 
 <div class="stotra-article"><h2 class="stotra-heading">अथ एकोनत्रिंशोऽध्यायः</h2>
