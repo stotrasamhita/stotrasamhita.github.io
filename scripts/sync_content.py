@@ -15,6 +15,7 @@ committed either way -- git diffing hugo/content/ is what actually decides
 whether there's something to push, not this exit code).
 """
 import argparse
+import hashlib
 import json
 import re
 import shutil
@@ -365,6 +366,10 @@ def main():
     # rebuilding too, even if that corpus's own repo didn't move.
     scripts_sha = git_head_sha(args.repos_dir / "stotra-sangrahah")
     scripts_changed = args.force or state.get("stotra-sangrahah") != scripts_sha
+    # So does a change to this script itself (e.g. how puja-vidhanam's
+    # kathā pages are built), which no corpus repo's SHA would show.
+    self_sha = hashlib.sha256(Path(__file__).read_bytes()).hexdigest()
+    scripts_changed = scripts_changed or state.get("sync_content.py") != self_sha
 
     changed_count = 0
     for state_key, repo_name, sync_fn in CORPORA:
@@ -385,6 +390,7 @@ def main():
              "--stotra-repo", str(args.repos_dir / "stotra-sangrahah")])
 
     write_puja_pdfs(args.repos_dir / "puja-vidhanam")
+    state["sync_content.py"] = self_sha
     save_state(state)
     print(f"changed: {changed_count}")
     return 0
