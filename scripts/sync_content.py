@@ -265,6 +265,14 @@ def sync_puja_vidhanam(repo_dir, scripts_dir, tmp_dir):
                 old = f"/puja-vidhanam/{slug}/" + (p.stem + "/" if p.parent.name == slug and p.name != "_index.md" else "")
                 fm["aliases"] = sorted(set(fm.get("aliases", [])) | {old})
                 write_front(p, fm, body)
+    # Page titles (the chapter list, cards) drop a leading "अथ": "अथ
+    # प्रथमोऽध्यायः" lists as "प्रथमोऽध्यायः"; the heading on the page keeps it.
+    for p in (hugo_dir / "pujas").rglob("*.md"):
+        fm, body = read_front(p)
+        if fm.get("title", "").startswith("अथ "):
+            fm["title"] = fm["title"].removeprefix("अथ ")
+            fm.pop("iast", None)   # enrich_content.py recomputes it from the title
+            write_front(p, fm, body)
     (kdir / "_index.md").write_text(json.dumps(KATHAS_INDEX, indent=1, ensure_ascii=False) + "\n\n" + KATHAS_DESC + "\n", encoding="utf-8")
     sync_flat_dir(hugo_dir / "pujas", HUGO_CONTENT / "puja-vidhanam")
 
